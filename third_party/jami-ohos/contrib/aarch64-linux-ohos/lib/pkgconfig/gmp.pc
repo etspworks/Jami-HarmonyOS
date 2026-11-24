@@ -1,0 +1,12 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+
+Name: GNU MP
+Description: GNU Multiple Precision Arithmetic Library
+URL: https://gmplib.org
+Version: 6.3.0
+Cflags: -I${includedir}
+Libs:  -L${libdir} -lgmp 
+Requires:  

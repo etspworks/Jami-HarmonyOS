@@ -1,0 +1,10 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: webrtc-audio-processing-2
+Description: WebRTC Audio Processing library
+Version: 2.1
+Cflags: -I${includedir}/webrtc-audio-processing-2 -pthread -DWEBRTC_LIBRARY_IMPL -DWEBRTC_POSIX
+Libs:  -L${libdir} -lwebrtc-audio-processing-2 -lrt -pthread 
+Requires:  

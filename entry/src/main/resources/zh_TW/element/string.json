@@ -1,0 +1,3020 @@
+{
+  "string": [
+    {
+      "name": "about_jami_community_management",
+      "value": "社区管理"
+    },
+    {
+      "name": "about_jami_contribute",
+      "value": "贡献"
+    },
+    {
+      "name": "about_jami_declaration1",
+      "value": "Jami 是一個 GNU 套件，是通用且分散式點對點通訊的軟體，尊重使用者的自由和隱私。請造訪 "
+    },
+    {
+      "name": "about_jami_declaration2",
+      "value": "以瞭解更多。"
+    },
+    {
+      "name": "about_jami_developers",
+      "value": "开发者"
+    },
+    {
+      "name": "about_jami_feedback",
+      "value": "回饋"
+    },
+    {
+      "name": "about_jami_header",
+      "value": "我们要感谢我们的贡献者，他们多年来的努力使这个软件成为现在的样子。"
+    },
+    {
+      "name": "about_jami_info",
+      "value": "这是一份为Jami投入了大量时间并取得了有益成果的人员名单。任何希望添加到列表中的此类贡献者都应与我们联系。"
+    },
+    {
+      "name": "about_jami_media",
+      "value": "媒体\n"
+    },
+    {
+      "name": "about_jami_no_warranty1",
+      "value": "本程式無任何保固責任"
+    },
+    {
+      "name": "about_jami_no_warranty2",
+      "value": "版本3或之後以取得詳細資訊。<br>"
+    },
+    {
+      "name": "about_jami_special_thanks",
+      "value": "特别感谢"
+    },
+    {
+      "name": "accessibility_about_jami_title",
+      "value": "关于 Jami"
+    },
+    {
+      "name": "accessibility_account_token_q_rcode",
+      "value": "二維碼令牌"
+    },
+    {
+      "name": "accessibility_account_summary_edit_profile_hint",
+      "value": "雙擊以編輯個人檔案"
+    },
+    {
+      "name": "accessibility_account_summary_edit_settings_button",
+      "value": "設定"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code",
+      "value": "二维码"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code_hint",
+      "value": "雙點以查看本賬號的二維碼"
+    },
+    {
+      "name": "accessibility_audio_player_pause",
+      "value": "暫停"
+    },
+    {
+      "name": "accessibility_audio_player_play",
+      "value": "播放"
+    },
+    {
+      "name": "accessibility_avatar_collapse_hint",
+      "value": "双击缩小图片"
+    },
+    {
+      "name": "accessibility_avatar_expand_hint",
+      "value": "双击放大图片"
+    },
+    {
+      "name": "accessibility_call_lasted",
+      "value": "持续%s"
+    },
+    {
+      "name": "accessibility_calls_alter_add_participant",
+      "value": "添加参与者"
+    },
+    {
+      "name": "accessibility_calls_alter_end_call",
+      "value": "結束電話"
+    },
+    {
+      "name": "accessibility_calls_alter_open_conversation",
+      "value": "打开会话"
+    },
+    {
+      "name": "accessibility_calls_alter_pause_call",
+      "value": "恢复通话"
+    },
+    {
+      "name": "accessibility_calls_alter_raise_hand",
+      "value": "放下手"
+    },
+    {
+      "name": "accessibility_calls_alter_show_dialpad",
+      "value": "顯示撥號鍵盤"
+    },
+    {
+      "name": "accessibility_calls_alter_switch_camera",
+      "value": "翻轉相機"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_audio",
+      "value": "麦克风静音"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_speaker",
+      "value": "關閉喇叭"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_video",
+      "value": "关闭摄像头"
+    },
+    {
+      "name": "accessibility_calls_default_add_participant",
+      "value": "添加参与者"
+    },
+    {
+      "name": "accessibility_calls_default_end_call",
+      "value": "結束電話"
+    },
+    {
+      "name": "accessibility_calls_default_open_conversation",
+      "value": "打开会话"
+    },
+    {
+      "name": "accessibility_calls_default_pause_call",
+      "value": "暫停通話"
+    },
+    {
+      "name": "accessibility_calls_default_raise_hand",
+      "value": "举手"
+    },
+    {
+      "name": "accessibility_calls_default_show_dialpad",
+      "value": "顯示撥號鍵盤"
+    },
+    {
+      "name": "accessibility_calls_default_switch_camera",
+      "value": "翻轉相機"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_audio",
+      "value": "关闭麦克风"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_speaker",
+      "value": "打开扬声器"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_video",
+      "value": "启动摄像头"
+    },
+    {
+      "name": "accessibility_close",
+      "value": "關閉"
+    },
+    {
+      "name": "accessibility_conference_camera_off",
+      "value": "关闭摄像头"
+    },
+    {
+      "name": "accessibility_conference_crop_video",
+      "value": "裁剪视频"
+    },
+    {
+      "name": "accessibility_conference_end_call",
+      "value": "結束電話"
+    },
+    {
+      "name": "accessibility_conference_hand_raised",
+      "value": "舉手"
+    },
+    {
+      "name": "accessibility_conference_hide_local_preview",
+      "value": "隐藏你的视频"
+    },
+    {
+      "name": "accessibility_conference_local_preview",
+      "value": "您的视频"
+    },
+    {
+      "name": "accessibility_conference_lower_hand",
+      "value": "放下手"
+    },
+    {
+      "name": "accessibility_conference_maximize",
+      "value": "最大化"
+    },
+    {
+      "name": "accessibility_conference_microphone_muted",
+      "value": "麦克风静音"
+    },
+    {
+      "name": "accessibility_conference_minimize",
+      "value": "最小化"
+    },
+    {
+      "name": "accessibility_conference_moderator",
+      "value": "主持人"
+    },
+    {
+      "name": "accessibility_conference_mute_audio",
+      "value": "静音"
+    },
+    {
+      "name": "accessibility_conference_recording",
+      "value": "記錄"
+    },
+    {
+      "name": "accessibility_conference_set_moderator",
+      "value": "設定主持人"
+    },
+    {
+      "name": "accessibility_conference_show_full_video",
+      "value": "全屏显示视频"
+    },
+    {
+      "name": "accessibility_conference_show_local_preview",
+      "value": "显示你的视频"
+    },
+    {
+      "name": "accessibility_conference_show_participants",
+      "value": "显示参与者"
+    },
+    {
+      "name": "accessibility_conference_speaking",
+      "value": "说话"
+    },
+    {
+      "name": "accessibility_conference_unmute_audio",
+      "value": "取消静音"
+    },
+    {
+      "name": "accessibility_conference_unset_moderator",
+      "value": "取消設定主持人"
+    },
+    {
+      "name": "accessibility_conversation_camera_hint",
+      "value": "雙擊以開啟相機"
+    },
+    {
+      "name": "accessibility_conversation_compose_message",
+      "value": "輸入訊息"
+    },
+    {
+      "name": "accessibility_conversation_row_blocked",
+      "value": "已封鎖對話"
+    },
+    {
+      "name": "accessibility_conversation_row_last_message",
+      "value": "最後訊息：%s"
+    },
+    {
+      "name": "accessibility_conversation_row_syncing",
+      "value": "同步進行中"
+    },
+    {
+      "name": "accessibility_conversation_row_unread_count",
+      "value": "%s 個未讀訊息"
+    },
+    {
+      "name": "accessibility_conversation_share_media",
+      "value": "分享媒體"
+    },
+    {
+      "name": "accessibility_conversation_start_video_call",
+      "value": "與 %s 開始視訊通話"
+    },
+    {
+      "name": "accessibility_conversation_start_voice_call",
+      "value": "與 %s 開始音訊通話"
+    },
+    {
+      "name": "accessibility_create_account_verify_username_prompt",
+      "value": "請輸入用戶名來檢查是否可用"
+    },
+    {
+      "name": "accessibility_file_transfer_received_on",
+      "value": "在 %2$s 收到檔案： %1$s"
+    },
+    {
+      "name": "accessibility_file_transfer_sent_on",
+      "value": "在 %2$s 發送檔案： %1$s"
+    },
+    {
+      "name": "accessibility_file_transfer_no_name",
+      "value": "在 %s 收到檔案，檔案名不可用"
+    },
+    {
+      "name": "accessibility_in_reply",
+      "value": "在回覆中"
+    },
+    {
+      "name": "accessibility_message_bubble_deleted",
+      "value": "已删除訊息"
+    },
+    {
+      "name": "accessibility_message_bubble_edited",
+      "value": "已编辑"
+    },
+    {
+      "name": "accessibility_message_bubble_read",
+      "value": "已閱讀"
+    },
+    {
+      "name": "accessibility_message_bubble_unread",
+      "value": "未讀<br>"
+    },
+    {
+      "name": "accessibility_pending_requests_list_accept_invitation",
+      "value": "Accept invitation"
+    },
+    {
+      "name": "accessibility_pending_requests_list_block_user",
+      "value": "阻擋邀請發送人"
+    },
+    {
+      "name": "accessibility_pending_requests_list_reject_invitation",
+      "value": "拒绝邀请"
+    },
+    {
+      "name": "accessibility_pending_requests_row_hint",
+      "value": "雙點以查看並回覆邀請"
+    },
+    {
+      "name": "accessibility_pending_requests_row_plural",
+      "value": "收到邀請：%s 個等候中邀請"
+    },
+    {
+      "name": "accessibility_pending_requests_row_singular",
+      "value": "收到邀請：%s 個等候中邀請"
+    },
+    {
+      "name": "accessibility_profile_picture_picker",
+      "value": "个人资料图片"
+    },
+    {
+      "name": "accessibility_profile_picture_picker_hint",
+      "value": "雙點以拍照，或者從相簿中選擇照片<br>"
+    },
+    {
+      "name": "accessibility_smart_list_add_account",
+      "value": "添加账户"
+    },
+    {
+      "name": "accessibility_smart_list_connected_as",
+      "value": "目前賬號是%s"
+    },
+    {
+      "name": "accessibility_smart_list_switch_accounts",
+      "value": "改變賬號<br>"
+    },
+    {
+      "name": "accessibility_swarm_picture_picker",
+      "value": "群組圖片"
+    },
+    {
+      "name": "accessibility_text_received_on",
+      "value": "在 %2$s 收到訊息： %1$s"
+    },
+    {
+      "name": "accessibility_text_sent_on",
+      "value": "在 %2$s 發出訊息： %1$s"
+    },
+    {
+      "name": "accessibility_text_not_available",
+      "value": "在 %s 收到空白文字訊息。訊息寄送或者出現了問題。"
+    },
+    {
+      "name": "accessibility_user_presence_available",
+      "value": "可获得的"
+    },
+    {
+      "name": "accessibility_user_presence_online",
+      "value": "線上"
+    },
+    {
+      "name": "accessibility_welcome_to_jami_title",
+      "value": "欢迎来到 Jami"
+    },
+    {
+      "name": "account_account_status",
+      "value": "帳戶狀態"
+    },
+    {
+      "name": "account_advanced_features",
+      "value": "進階功能"
+    },
+    {
+      "name": "account_configure",
+      "value": "設定"
+    },
+    {
+      "name": "account_create_sip_account",
+      "value": "設定 SIP 賬戶"
+    },
+    {
+      "name": "account_enable_account",
+      "value": "啟用帳戶"
+    },
+    {
+      "name": "account_me",
+      "value": "我"
+    },
+    {
+      "name": "account_need_migration",
+      "value": "帳號須遷移"
+    },
+    {
+      "name": "account_port",
+      "value": "端口"
+    },
+    {
+      "name": "account_port_label",
+      "value": "輸入連接埠號碼"
+    },
+    {
+      "name": "account_proxy_server",
+      "value": "代理服务器"
+    },
+    {
+      "name": "account_server_label",
+      "value": "輸入位址"
+    },
+    {
+      "name": "account_sip_account",
+      "value": "SIP 帳戶"
+    },
+    {
+      "name": "account_sip_server",
+      "value": "服务器"
+    },
+    {
+      "name": "account_status_connecting",
+      "value": "正在连接"
+    },
+    {
+      "name": "account_status_connectionerror",
+      "value": "連線錯誤"
+    },
+    {
+      "name": "account_status_offline",
+      "value": "離線"
+    },
+    {
+      "name": "account_status_online",
+      "value": "上線"
+    },
+    {
+      "name": "account_status_unknown",
+      "value": "未知"
+    },
+    {
+      "name": "account_page_account_header",
+      "value": "帳號"
+    },
+    {
+      "name": "account_page_account_identity",
+      "value": "賬號身份"
+    },
+    {
+      "name": "account_page_account_settings_explanation",
+      "value": "此等設定僅限本賬號使用"
+    },
+    {
+      "name": "account_page_allow_ip_auto_rewrite",
+      "value": "允许IP自动重写"
+    },
+    {
+      "name": "account_page_app_settings",
+      "value": "APP設定"
+    },
+    {
+      "name": "account_page_app_settings_explanation",
+      "value": "此等設定用於整個應用程式"
+    },
+    {
+      "name": "account_page_auto_registration",
+      "value": "到期後自動註冊"
+    },
+    {
+      "name": "account_page_blocked_contacts",
+      "value": "已屏蔽的联系人"
+    },
+    {
+      "name": "account_page_booth_mode_alert_message",
+      "value": "在啟用展示模式後，所有的對話都會被移除。"
+    },
+    {
+      "name": "account_page_booth_mode_explanation",
+      "value": "话亭模式不会保存聊天历史，并且仅允许外拨电话。启用话亭模式后，现有聊天将全部被删除。"
+    },
+    {
+      "name": "account_page_bootstrap",
+      "value": "Bootstrap"
+    },
+    {
+      "name": "account_page_calls_from_unknown_contacts",
+      "value": "允許未知聯絡人的來電"
+    },
+    {
+      "name": "account_page_change_password",
+      "value": "修改密码"
+    },
+    {
+      "name": "account_page_change_password_error",
+      "value": "密码错误"
+    },
+    {
+      "name": "account_page_chats",
+      "value": "聊天"
+    },
+    {
+      "name": "account_page_connectivity_and_configuration",
+      "value": "連接與設定"
+    },
+    {
+      "name": "account_page_connectivity_header",
+      "value": "連線"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_contant",
+      "value": "在 Jami 分散式通訊平臺 (https://jami.net) 上使用「%s」聯絡我"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_title",
+      "value": "在 Jami 上聯絡我！"
+    },
+    {
+      "name": "account_page_create_password",
+      "value": "设置密码"
+    },
+    {
+      "name": "account_page_current_password_placeholder",
+      "value": "輸入目前密碼"
+    },
+    {
+      "name": "account_page_current_proxy",
+      "value": "当前使用的代理"
+    },
+    {
+      "name": "account_page_device_revocation_error",
+      "value": "裝置撤銷錯誤"
+    },
+    {
+      "name": "account_page_device_revocation_progress",
+      "value": "移除中..."
+    },
+    {
+      "name": "account_page_device_revocation_success",
+      "value": "裝置已移除"
+    },
+    {
+      "name": "account_page_device_revocation_try_again",
+      "value": "重試"
+    },
+    {
+      "name": "account_page_device_revocation_unknown_device",
+      "value": "未知裝置"
+    },
+    {
+      "name": "account_page_device_revocation_wrong_password",
+      "value": "密碼錯誤"
+    },
+    {
+      "name": "account_page_device_revoked",
+      "value": "裝置撤銷完成"
+    },
+    {
+      "name": "account_page_devices_list_header",
+      "value": "裝置"
+    },
+    {
+      "name": "account_page_dht_configuration",
+      "value": "OpenDHT 配置"
+    },
+    {
+      "name": "account_page_disable_booth_mode",
+      "value": "停用展台模式"
+    },
+    {
+      "name": "account_page_disable_booth_mode_explanation",
+      "value": "請提供您的帳號密碼"
+    },
+    {
+      "name": "account_page_edit_profile",
+      "value": "編輯個人檔案"
+    },
+    {
+      "name": "account_page_edit_sip_expiration_time",
+      "value": "過期日"
+    },
+    {
+      "name": "account_page_enable_booth_mode",
+      "value": "啟用展台模式"
+    },
+    {
+      "name": "account_page_enable_notifications",
+      "value": "启用通知"
+    },
+    {
+      "name": "account_page_enable_srtp",
+      "value": "启用 SDES 密钥交换"
+    },
+    {
+      "name": "account_page_encrypt_account",
+      "value": "密码"
+    },
+    {
+      "name": "account_page_encrypt_negotiation",
+      "value": "加密协商 (TLS)"
+    },
+    {
+      "name": "account_page_generating_pin",
+      "value": "正在生成 PIN 碼"
+    },
+    {
+      "name": "account_page_invalid_address",
+      "value": "输入有效地址"
+    },
+    {
+      "name": "account_page_invalid_port",
+      "value": "输入一个介于 0 和 65535 之间的值"
+    },
+    {
+      "name": "account_page_invalid_sip_expiration_time",
+      "value": "输入一个介于60秒至604800秒之间的值"
+    },
+    {
+      "name": "account_page_invite_friends",
+      "value": "邀請好友"
+    },
+    {
+      "name": "account_page_link_device_title",
+      "value": "連結另一個裝置"
+    },
+    {
+      "name": "account_page_linked_devices",
+      "value": "关联设备"
+    },
+    {
+      "name": "account_page_manage_account",
+      "value": "管理账户"
+    },
+    {
+      "name": "account_page_name_server",
+      "value": "名称服务器"
+    },
+    {
+      "name": "account_page_new_password_confirm_placeholder",
+      "value": "確認新密碼"
+    },
+    {
+      "name": "account_page_new_password_placeholder",
+      "value": "輸入新密碼"
+    },
+    {
+      "name": "account_page_no_booth_mode",
+      "value": "要啟用藍牙模式，您必須先建立帳號密碼。"
+    },
+    {
+      "name": "account_page_no_proxy_explanation_label",
+      "value": "在代理伺服器停用時無法收取通知。"
+    },
+    {
+      "name": "account_page_notification_error",
+      "value": "已禁用通知。在裝置設定中啟用此功能。"
+    },
+    {
+      "name": "account_page_notification_title",
+      "value": "通知"
+    },
+    {
+      "name": "account_page_notifications_header",
+      "value": "通知"
+    },
+    {
+      "name": "account_page_other",
+      "value": "其他"
+    },
+    {
+      "name": "account_page_other_devices",
+      "value": "其他关联设备"
+    },
+    {
+      "name": "account_page_password_created",
+      "value": "密码已设置"
+    },
+    {
+      "name": "account_page_password_explanation",
+      "value": "您的 Jami 帐户仅在此设备上注册，作为包含帐户密钥的存档。可以使用密码保护对该存档的访问。"
+    },
+    {
+      "name": "account_page_password_for_pin",
+      "value": "此帳戶已被加密，請輸入密碼以生成PIN碼。"
+    },
+    {
+      "name": "account_page_password_placeholder",
+      "value": "输入账户密码"
+    },
+    {
+      "name": "account_page_password_updated",
+      "value": "已更新密碼<br>"
+    },
+    {
+      "name": "account_page_passwords_do_not_match",
+      "value": "密码不匹配。"
+    },
+    {
+      "name": "account_page_peer_discovery",
+      "value": "启用本地对等方发现"
+    },
+    {
+      "name": "account_page_peer_discovery_explanation",
+      "value": "连接至在本地网络宣告的 DHT 节点"
+    },
+    {
+      "name": "account_page_pin_error",
+      "value": "在生成PIN碼時出現問題"
+    },
+    {
+      "name": "account_page_pin_explanation_message",
+      "value": "安装并启动 Jami。选择“从其他设备导入”，并扫描二维码。或手动输入 PIN 码。"
+    },
+    {
+      "name": "account_page_pin_explanation_title",
+      "value": "在其他设备上"
+    },
+    {
+      "name": "account_page_profile_header",
+      "value": "账户资料"
+    },
+    {
+      "name": "account_page_profile_name",
+      "value": "個人檔案名稱"
+    },
+    {
+      "name": "account_page_profile_name_not_selected",
+      "value": "未選擇名稱"
+    },
+    {
+      "name": "account_page_profile_name_placeholder",
+      "value": "輸入賬號名稱"
+    },
+    {
+      "name": "account_page_proxy_address_alert",
+      "value": "請提供代理位址"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_body",
+      "value": "为了接收通知，请开启代理"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_title",
+      "value": "代理伺服器已停用"
+    },
+    {
+      "name": "account_page_proxy_explanation",
+      "value": "通知須透過代理伺服器發送。你可以使用預設的代理伺服器，或者輸入自定義的代理伺服器地址，又或者輸入代理伺服器列表的URL。"
+    },
+    {
+      "name": "account_page_proxy_header",
+      "value": "代理服務器"
+    },
+    {
+      "name": "account_page_proxy_list_url",
+      "value": "代理服务器列表 URL"
+    },
+    {
+      "name": "account_page_proxy_paceholder",
+      "value": "代理位址"
+    },
+    {
+      "name": "account_page_public_address_header",
+      "value": "公開地址"
+    },
+    {
+      "name": "account_page_published_address",
+      "value": "地址"
+    },
+    {
+      "name": "account_page_published_port",
+      "value": "端口"
+    },
+    {
+      "name": "account_page_published_same_as_local",
+      "value": "公開的與本機相同"
+    },
+    {
+      "name": "account_page_register_name_error_message",
+      "value": "用户名不可用。"
+    },
+    {
+      "name": "account_page_register_name_explanation",
+      "value": "您可以選擇一個用戶名，以幫助其他人更容易在Jami聯繫您。"
+    },
+    {
+      "name": "account_page_remove_account_message",
+      "value": "如果该帐户未备份或添加到其他设备，则该帐户和注册用户名将不可找回地丢失。"
+    },
+    {
+      "name": "account_page_remove_device_title",
+      "value": "移除设备"
+    },
+    {
+      "name": "account_page_revoke_device_button",
+      "value": "撤銷"
+    },
+    {
+      "name": "account_page_revoke_device_message",
+      "value": "你想要撤銷此裝置嗎？這個動作無法復原。"
+    },
+    {
+      "name": "account_page_revoke_device_placeholder",
+      "value": "输入账户密码"
+    },
+    {
+      "name": "account_page_security",
+      "value": "安全性"
+    },
+    {
+      "name": "account_page_select_sip_expiration_time",
+      "value": "設定註冊逾時時間（單位為秒）"
+    },
+    {
+      "name": "account_page_settings_header",
+      "value": "设置"
+    },
+    {
+      "name": "account_page_sip_expiration_time",
+      "value": "注册过期时间（秒）"
+    },
+    {
+      "name": "account_page_stun_enabled",
+      "value": "使用 STUN"
+    },
+    {
+      "name": "account_page_stun_server",
+      "value": "STUN 地址"
+    },
+    {
+      "name": "account_page_this_device",
+      "value": "本设备"
+    },
+    {
+      "name": "account_page_tls_disable_secure_dlg_check",
+      "value": "禁用安全对话框检查输入 TLS 数据"
+    },
+    {
+      "name": "account_page_tls_require_tls_certificate",
+      "value": "收到的 TLS 连接需要提供证书"
+    },
+    {
+      "name": "account_page_tls_verify_client_certificates",
+      "value": "驗證伺服器 TLS 證書"
+    },
+    {
+      "name": "account_page_tls_verify_server_certificates",
+      "value": "验证服务器 TLS 证书"
+    },
+    {
+      "name": "account_page_turn_enabled",
+      "value": "啟動TURN"
+    },
+    {
+      "name": "account_page_turn_password",
+      "value": "TURN 密码"
+    },
+    {
+      "name": "account_page_turn_realm",
+      "value": "TURN 領域"
+    },
+    {
+      "name": "account_page_turn_server",
+      "value": "TURN 位址"
+    },
+    {
+      "name": "account_page_turn_username",
+      "value": "TURN 用户名"
+    },
+    {
+      "name": "account_page_typing_indicator",
+      "value": "类型指标"
+    },
+    {
+      "name": "account_page_typing_indicator_explanation",
+      "value": "显示消息正在输入中。"
+    },
+    {
+      "name": "account_page_unblock_contact",
+      "value": "取消屏蔽"
+    },
+    {
+      "name": "account_page_unlink",
+      "value": "移除連結"
+    },
+    {
+      "name": "account_page_upnp_enabled",
+      "value": "使用 UPnP"
+    },
+    {
+      "name": "account_page_use_proxy_list",
+      "value": "使用代理列表"
+    },
+    {
+      "name": "account_page_username_placeholder",
+      "value": "輸入想要的使用者名稱"
+    },
+    {
+      "name": "account_page_username_register_action",
+      "value": "注册"
+    },
+    {
+      "name": "account_page_username_registering",
+      "value": "正在註冊"
+    },
+    {
+      "name": "account_page_username_registration_failed",
+      "value": "請檢查您的帳號密碼"
+    },
+    {
+      "name": "account_page_username_registration_failed_title",
+      "value": "註冊失敗"
+    },
+    {
+      "name": "actions_back_action",
+      "value": "上一步"
+    },
+    {
+      "name": "actions_delete_action",
+      "value": "删除"
+    },
+    {
+      "name": "actions_done_action",
+      "value": "完成"
+    },
+    {
+      "name": "actions_go_to_settings",
+      "value": "前往設定"
+    },
+    {
+      "name": "actions_stop_location_sharing",
+      "value": "停止分享"
+    },
+    {
+      "name": "alerts_account_added_title",
+      "value": "已新增賬戶"
+    },
+    {
+      "name": "alerts_account_cannot_be_found_message",
+      "value": "在 Jami 网络上找不到账户。请确保它是从现有设备上的 Jami 导出的，并且提供的凭据是正确的。"
+    },
+    {
+      "name": "alerts_account_cannot_be_found_title",
+      "value": "无法找到账户"
+    },
+    {
+      "name": "alerts_account_default_error_message",
+      "value": "创建帐户时出错"
+    },
+    {
+      "name": "alerts_account_default_error_title",
+      "value": "无法找到账户"
+    },
+    {
+      "name": "alerts_account_linked_title",
+      "value": "正在連結帳戶"
+    },
+    {
+      "name": "alerts_account_no_network_message",
+      "value": "在連接到Jami分佈式網絡時出現問題，請重試。如果問題持續，請聯絡系統管理員。"
+    },
+    {
+      "name": "alerts_account_no_network_title",
+      "value": "网络错误"
+    },
+    {
+      "name": "alerts_alreadylocation_sharing",
+      "value": "已在與此使用者分享位置"
+    },
+    {
+      "name": "alerts_confim_remove_contact",
+      "value": "要刪除此聯絡人嗎？現有對話將被刪除。"
+    },
+    {
+      "name": "alerts_confirm_block_contact",
+      "value": "要封鎖此聯絡人嗎？與此聯絡人的所有對話將被刪除。"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation",
+      "value": "您確定您想要永久刪除此對話嗎？"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_from_contact",
+      "value": "您確定您想要刪除與此聯絡人的對話嗎？"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_title",
+      "value": "删除对话"
+    },
+    {
+      "name": "alerts_confirm_leave_conversation",
+      "value": "您要退出对话吗？"
+    },
+    {
+      "name": "alerts_confirm_remove_one_to_one_conversation",
+      "value": "你要刪除此對話記錄嗎？現有記錄將被刪除。如你沒有與此聯絡人有其他對話記錄，則將會開啓新的對話。"
+    },
+    {
+      "name": "alerts_db_failed_message",
+      "value": "请关闭并重新打开应用。"
+    },
+    {
+      "name": "alerts_db_failed_title",
+      "value": "當啟動 Jami 時發生錯誤"
+    },
+    {
+      "name": "alerts_error_wrong_credentials",
+      "value": "在連接到管理伺服器時出現問題，請重試。如果問題持續，請聯絡系統管理員。"
+    },
+    {
+      "name": "alerts_location_service_is_disabled",
+      "value": "開啟「位置服務」以讓「Jami」確定您的位置。"
+    },
+    {
+      "name": "alerts_location_sharing",
+      "value": "分享我的位置"
+    },
+    {
+      "name": "alerts_location_sharing_duration10min",
+      "value": "10 分鐘"
+    },
+    {
+      "name": "alerts_location_sharing_duration1hour",
+      "value": "1 小時"
+    },
+    {
+      "name": "alerts_location_sharing_duration_title",
+      "value": "位置分享應持續多久？"
+    },
+    {
+      "name": "alerts_map_information",
+      "value": "地图信息"
+    },
+    {
+      "name": "alerts_no_library_permissions_title",
+      "value": "未授予相片庫存取權限"
+    },
+    {
+      "name": "alerts_no_location_permissions_title",
+      "value": "未授予位置存取權限"
+    },
+    {
+      "name": "alerts_no_media_permissions_title",
+      "value": "未授予媒體權限"
+    },
+    {
+      "name": "alerts_open_street_map_copyright",
+      "value": "© OpenStreetMap 貢獻者"
+    },
+    {
+      "name": "alerts_open_street_map_copyright_more_info",
+      "value": "瞭解更多"
+    },
+    {
+      "name": "alerts_profile_take_photo",
+      "value": "拍照"
+    },
+    {
+      "name": "alerts_profile_upload_photo",
+      "value": "上傳相片"
+    },
+    {
+      "name": "alerts_record_audio_message",
+      "value": "录制音频消息"
+    },
+    {
+      "name": "alerts_record_video_message",
+      "value": "錄製影片訊息"
+    },
+    {
+      "name": "alerts_send_photo",
+      "value": "寄送照片"
+    },
+    {
+      "name": "alerts_upload_file",
+      "value": "傳送檔案"
+    },
+    {
+      "name": "alerts_upload_photo",
+      "value": "打开相册"
+    },
+    {
+      "name": "backup_account_archive_name",
+      "value": "請為此封存檔命名"
+    },
+    {
+      "name": "backup_account_archive_name_placeholder",
+      "value": "封存名"
+    },
+    {
+      "name": "backup_account_backup_button",
+      "value": "備份"
+    },
+    {
+      "name": "backup_account_creating",
+      "value": "正在建立備份"
+    },
+    {
+      "name": "backup_account_document_picker_button",
+      "value": "開啓備份位置"
+    },
+    {
+      "name": "backup_account_error_access_denied",
+      "value": "不允許存取位置"
+    },
+    {
+      "name": "backup_account_error_failed",
+      "value": "匯出帳戶時出錯。"
+    },
+    {
+      "name": "backup_account_error_wrong_location",
+      "value": "此選定之檔案路徑無效，請選擇其他位置。<br>"
+    },
+    {
+      "name": "backup_account_explanation",
+      "value": "此 Jami 帳戶僅在本裝置上存在。如果裝置丟失或應用程式移除，賬戶將丟失。建議備份此帳戶。"
+    },
+    {
+      "name": "backup_account_export_success",
+      "value": "已建立備份"
+    },
+    {
+      "name": "backup_account_password_request",
+      "value": "輸入帳號密碼"
+    },
+    {
+      "name": "backup_account_title",
+      "value": "备份账户"
+    },
+    {
+      "name": "block_list_page_no_blocked_contacts",
+      "value": "没有被屏蔽的联系人"
+    },
+    {
+      "name": "calls_accept_with_audio",
+      "value": "接受音频"
+    },
+    {
+      "name": "calls_accept_with_video",
+      "value": "接受视频"
+    },
+    {
+      "name": "calls_active_call_in_conversation",
+      "value": "电话正在进行,你想加入电话吗?"
+    },
+    {
+      "name": "calls_active_call_label",
+      "value": "有個通話進行中。你是否要加入該通話？你也可以稍後加入該對話。"
+    },
+    {
+      "name": "calls_call_finished",
+      "value": "通話結束"
+    },
+    {
+      "name": "calls_calling",
+      "value": "呼叫中…"
+    },
+    {
+      "name": "calls_calling_participants",
+      "value": "正在呼叫（%s）"
+    },
+    {
+      "name": "calls_connecting",
+      "value": "正在連線…"
+    },
+    {
+      "name": "calls_current_call_with",
+      "value": "通話對象："
+    },
+    {
+      "name": "calls_grid_layout",
+      "value": "网格视图"
+    },
+    {
+      "name": "calls_in_this_call",
+      "value": "本次通话中（%s）"
+    },
+    {
+      "name": "calls_inviting",
+      "value": "邀请中…"
+    },
+    {
+      "name": "calls_lower_hand",
+      "value": "放下手"
+    },
+    {
+      "name": "calls_maximize",
+      "value": "最大化"
+    },
+    {
+      "name": "calls_minimize",
+      "value": "最小化"
+    },
+    {
+      "name": "calls_mute_audio",
+      "value": "关闭麦克风"
+    },
+    {
+      "name": "calls_participant_options",
+      "value": "%s的选项"
+    },
+    {
+      "name": "calls_participants_in_call",
+      "value": "%s正在通话"
+    },
+    {
+      "name": "calls_peer_recording",
+      "value": "記錄"
+    },
+    {
+      "name": "calls_raise_hand",
+      "value": "舉手"
+    },
+    {
+      "name": "calls_remove_moderator",
+      "value": "取消設定主持人"
+    },
+    {
+      "name": "calls_ringing",
+      "value": "正在響鈴…"
+    },
+    {
+      "name": "calls_set_moderator",
+      "value": "設定主持人"
+    },
+    {
+      "name": "calls_start_picture_in_picture",
+      "value": "开启画中画"
+    },
+    {
+      "name": "calls_stop_calling",
+      "value": "停止呼叫%s"
+    },
+    {
+      "name": "calls_unmute_audio",
+      "value": "麦克风静音"
+    },
+    {
+      "name": "collab_align_center",
+      "value": "中部"
+    },
+    {
+      "name": "collab_align_justify",
+      "value": "两端对齐"
+    },
+    {
+      "name": "collab_align_left",
+      "value": "左对齐"
+    },
+    {
+      "name": "collab_align_right",
+      "value": "右对齐"
+    },
+    {
+      "name": "collab_bold",
+      "value": "粗体"
+    },
+    {
+      "name": "collab_bullet_list",
+      "value": "项目符号列表"
+    },
+    {
+      "name": "collab_clear_format",
+      "value": "清除格式"
+    },
+    {
+      "name": "collab_create",
+      "value": "建立"
+    },
+    {
+      "name": "collab_create_error",
+      "value": "无法创建此文档。"
+    },
+    {
+      "name": "collab_created_by",
+      "value": "创建者%s"
+    },
+    {
+      "name": "collab_created_by_not_downloaded",
+      "value": "由%s创建，尚未下载"
+    },
+    {
+      "name": "collab_document_name_hint",
+      "value": "文档名称"
+    },
+    {
+      "name": "collab_document_removed",
+      "value": "文档已移除"
+    },
+    {
+      "name": "collab_document_removed_locally",
+      "value": "文档已从此设备移除"
+    },
+    {
+      "name": "collab_document_removed_locally_message",
+      "value": "\"%s\"已不在当前设备中，重新打开即可再次下载"
+    },
+    {
+      "name": "collab_document_removed_message",
+      "value": "\"%s\"已由发布者撤回"
+    },
+    {
+      "name": "collab_documents",
+      "value": "文档"
+    },
+    {
+      "name": "collab_download_and_open",
+      "value": "下载并打开"
+    },
+    {
+      "name": "collab_editable_document",
+      "value": "可编辑文档"
+    },
+    {
+      "name": "collab_editing_alone",
+      "value": "只有你在编辑"
+    },
+    {
+      "name": "collab_editing_one_other",
+      "value": "还有 1 位用户正在编辑"
+    },
+    {
+      "name": "collab_editing_others",
+      "value": "还有%d位用户正在编辑"
+    },
+    {
+      "name": "collab_export",
+      "value": "导出本地副本"
+    },
+    {
+      "name": "collab_export_anyway",
+      "value": "仍然导出"
+    },
+    {
+      "name": "collab_export_error",
+      "value": "无法导出此文档。"
+    },
+    {
+      "name": "collab_export_html",
+      "value": "导出为 HTML"
+    },
+    {
+      "name": "collab_export_markdown",
+      "value": "导出为 Markdown"
+    },
+    {
+      "name": "collab_export_missing_images",
+      "value": "该文档中还有%d(张)图片未加载完成，将不会被包含在导出文件中。"
+    },
+    {
+      "name": "collab_export_pdf",
+      "value": "导出为 PDF"
+    },
+    {
+      "name": "collab_export_text",
+      "value": "导出为纯文本"
+    },
+    {
+      "name": "collab_heading",
+      "value": "标题%d"
+    },
+    {
+      "name": "collab_history",
+      "value": "历史版本"
+    },
+    {
+      "name": "collab_image_error",
+      "value": "无法添加此图片。"
+    },
+    {
+      "name": "collab_image_too_large",
+      "value": "此图片过大，无法添加到文档中。"
+    },
+    {
+      "name": "collab_insert_image",
+      "value": "插入图片"
+    },
+    {
+      "name": "collab_italic",
+      "value": "斜体"
+    },
+    {
+      "name": "collab_link_add",
+      "value": "新增"
+    },
+    {
+      "name": "collab_link_hint",
+      "value": "地址"
+    },
+    {
+      "name": "collab_link_remove",
+      "value": "删除"
+    },
+    {
+      "name": "collab_link_title",
+      "value": "链接"
+    },
+    {
+      "name": "collab_menu",
+      "value": "文件操作"
+    },
+    {
+      "name": "collab_new_document",
+      "value": "新文件"
+    },
+    {
+      "name": "collab_no_documents",
+      "value": "此对话中尚未编写任何文档。"
+    },
+    {
+      "name": "collab_no_history",
+      "value": "此文档尚无已保存的版本。"
+    },
+    {
+      "name": "collab_not_downloaded",
+      "value": "未下载"
+    },
+    {
+      "name": "collab_open",
+      "value": "開啟"
+    },
+    {
+      "name": "collab_open_error",
+      "value": "无法打开此文档。"
+    },
+    {
+      "name": "collab_ordered_list",
+      "value": "编号列表"
+    },
+    {
+      "name": "collab_redo",
+      "value": "取消復原"
+    },
+    {
+      "name": "collab_remove",
+      "value": "删除"
+    },
+    {
+      "name": "collab_remove_error",
+      "value": "无法移除此文档。"
+    },
+    {
+      "name": "collab_remove_everywhere_action",
+      "value": "删除"
+    },
+    {
+      "name": "collab_remove_everywhere_menu",
+      "value": "为所有人移除"
+    },
+    {
+      "name": "collab_remove_locally_action",
+      "value": "卸载本地文件"
+    },
+    {
+      "name": "collab_remove_locally_error",
+      "value": "无法从此设备移除该文档。"
+    },
+    {
+      "name": "collab_remove_locally_menu",
+      "value": "从此设备移除"
+    },
+    {
+      "name": "collab_remove_locally_message",
+      "value": "\"%s\"仅会从当前设备移除，其他成员仍可保留该内容，重新打开即可再次下载。"
+    },
+    {
+      "name": "collab_remove_locally_title",
+      "value": "从此设备移除"
+    },
+    {
+      "name": "collab_remove_message",
+      "value": "\"%s\"将从本次对话的所有成员设备中移除，此操作不可撤销。"
+    },
+    {
+      "name": "collab_remove_title",
+      "value": "移除文档"
+    },
+    {
+      "name": "collab_rename",
+      "value": "重命名"
+    },
+    {
+      "name": "collab_send_error",
+      "value": "您的更改无法发送。"
+    },
+    {
+      "name": "collab_strikethrough",
+      "value": "删除线"
+    },
+    {
+      "name": "collab_underline",
+      "value": "下划线"
+    },
+    {
+      "name": "collab_undo",
+      "value": "復原"
+    },
+    {
+      "name": "collab_untitled",
+      "value": "未命名文档"
+    },
+    {
+      "name": "collab_version_by",
+      "value": "%1$s—%2$s"
+    },
+    {
+      "name": "collab_version_deltas",
+      "value": "%1$s— %2$s, %3$d(处)更改"
+    },
+    {
+      "name": "collab_version_leave",
+      "value": "返回到当前版本"
+    },
+    {
+      "name": "collab_version_restore",
+      "value": "恢复"
+    },
+    {
+      "name": "collab_version_restore_error",
+      "value": "无法恢复到此版本。"
+    },
+    {
+      "name": "collab_version_restored",
+      "value": "文档已恢复到此版本。"
+    },
+    {
+      "name": "collab_version_shown",
+      "value": "%s的版本"
+    },
+    {
+      "name": "collab_version_unchanged",
+      "value": "此版本即为您当前的文档版本。"
+    },
+    {
+      "name": "contact_page_leave_conversation",
+      "value": "离开谈话"
+    },
+    {
+      "name": "contact_page_send",
+      "value": "发送"
+    },
+    {
+      "name": "contact_page_start_audio_call",
+      "value": "发起语音通话"
+    },
+    {
+      "name": "contact_page_start_video_call",
+      "value": "開始視訊通話"
+    },
+    {
+      "name": "contact_picker_calls",
+      "value": "通话"
+    },
+    {
+      "name": "contact_picker_contacts",
+      "value": "联系人"
+    },
+    {
+      "name": "conversation_add_to_contacts_button",
+      "value": "添加到联系人"
+    },
+    {
+      "name": "conversation_add_to_contacts_label",
+      "value": "添加至通讯录吗？"
+    },
+    {
+      "name": "conversation_contact_blocked",
+      "value": "联系人被封锁"
+    },
+    {
+      "name": "conversation_deleted_message",
+      "value": "%s刪除了一條消息"
+    },
+    {
+      "name": "conversation_edited",
+      "value": "已编辑"
+    },
+    {
+      "name": "conversation_error_saving_image",
+      "value": "无法保存图像"
+    },
+    {
+      "name": "conversation_error_saving_image_message",
+      "value": "将图像保存到照片库时出错。"
+    },
+    {
+      "name": "conversation_image_saved",
+      "value": "已保存"
+    },
+    {
+      "name": "conversation_in_reply_to",
+      "value": "在回复中"
+    },
+    {
+      "name": "conversation_incoming_request",
+      "value": "向您发送了对话邀请。"
+    },
+    {
+      "name": "conversation_last_message_deleted",
+      "value": "（已删除邮件）"
+    },
+    {
+      "name": "conversation_message_placeholder",
+      "value": "写消息至"
+    },
+    {
+      "name": "conversation_not_contact_label",
+      "value": "%s 不在联系人列表中"
+    },
+    {
+      "name": "conversation_photo_access_required_message",
+      "value": "Jami需要访问您的照片库以保存图像。您可以在“设置”中启用此功能。"
+    },
+    {
+      "name": "conversation_received_request",
+      "value": "1%s 向您发送了对话邀请。"
+    },
+    {
+      "name": "conversation_replied_to",
+      "value": "%s 回复给 %s"
+    },
+    {
+      "name": "conversation_request_message",
+      "value": "您好，您想加入通话吗？"
+    },
+    {
+      "name": "conversation_send_invitation_button",
+      "value": "傳送邀請"
+    },
+    {
+      "name": "conversation_send_request",
+      "value": "给他们发送邀请，以便能够进行对话。"
+    },
+    {
+      "name": "conversation_send_request_title",
+      "value": "发送对话邀请"
+    },
+    {
+      "name": "conversation_synchronization_message",
+      "value": "正等待 1%s 连接以同步对话…"
+    },
+    {
+      "name": "conversation_synchronization_title",
+      "value": "您已接受邀请。"
+    },
+    {
+      "name": "conversation_syncing_title",
+      "value": "同步对话"
+    },
+    {
+      "name": "conversation_typing_indicator_one_user",
+      "value": "%s 正在输入"
+    },
+    {
+      "name": "conversation_typing_indicator_other_users",
+      "value": "%1$s、%2$s 与 %3$s 正在输入"
+    },
+    {
+      "name": "conversation_typing_indicator_others_users",
+      "value": "%1$s、%2$s 与其他%3$s人正在输入…"
+    },
+    {
+      "name": "conversation_typing_indicator_two_users",
+      "value": "%1$s 与 %2$s 正在输入"
+    },
+    {
+      "name": "conversation_yourself",
+      "value": "您"
+    },
+    {
+      "name": "create_account_username_not_registered_message",
+      "value": "帳戶已建立，但使用者名稱未註冊"
+    },
+    {
+      "name": "create_account_username_not_registered_title",
+      "value": "網路錯誤"
+    },
+    {
+      "name": "create_account_create_account_form_title",
+      "value": "加入 Jami"
+    },
+    {
+      "name": "create_account_creating_account",
+      "value": "正在建立帳號……"
+    },
+    {
+      "name": "create_account_customize",
+      "value": "自定义"
+    },
+    {
+      "name": "create_account_encrypt",
+      "value": "密碼保護"
+    },
+    {
+      "name": "create_account_encrypt_explanation",
+      "value": "新增的 Jami 帳戶只存儲在本地裝置上，作為包含帳戶密鑰的存檔。可以選擇用密碼保護對該檔案的訪問。"
+    },
+    {
+      "name": "create_account_encrypt_title",
+      "value": "密碼保護戶口"
+    },
+    {
+      "name": "create_account_encryption_enabled",
+      "value": "已啓用密碼保護"
+    },
+    {
+      "name": "create_account_invalid_username",
+      "value": "無效的用戶名，請輸入正確的用戶名稱。"
+    },
+    {
+      "name": "create_account_looking_for_username_availability",
+      "value": "检查用户名是否可用..."
+    },
+    {
+      "name": "create_account_name_explanation",
+      "value": "您可以选择一个用户名，以便他人在 Jami 上找到并联系您。"
+    },
+    {
+      "name": "create_account_new_account",
+      "value": "新增帳號"
+    },
+    {
+      "name": "create_account_sip_configure",
+      "value": "配置现有 SIP 帐户"
+    },
+    {
+      "name": "create_account_timeout_message",
+      "value": "用户名正在注册中。请稍候..."
+    },
+    {
+      "name": "create_account_timeout_title",
+      "value": "帳戶已建立"
+    },
+    {
+      "name": "create_account_username_already_taken",
+      "value": "已取得的使用者名稱"
+    },
+    {
+      "name": "create_account_username_valid",
+      "value": "用户名可用。"
+    },
+    {
+      "name": "create_profile_create_profile_picture",
+      "value": "新增個人照片"
+    },
+    {
+      "name": "create_profile_enter_name_label",
+      "value": "选择一个显示名称"
+    },
+    {
+      "name": "create_profile_enter_name_placeholder",
+      "value": "輸入名稱"
+    },
+    {
+      "name": "create_profile_profile_created",
+      "value": "下一步"
+    },
+    {
+      "name": "create_profile_skip_create_profile",
+      "value": "跳过"
+    },
+    {
+      "name": "create_profile_subtitle",
+      "value": "您的個人資料僅與您的聯絡人共享。您可以隨時定製您的個人資料。"
+    },
+    {
+      "name": "create_profile_title",
+      "value": "自定義您的個人資料"
+    },
+    {
+      "name": "data_transfer_info_message",
+      "value": "按下以開始錄製"
+    },
+    {
+      "name": "data_transfer_readable_status_accept",
+      "value": "接受"
+    },
+    {
+      "name": "data_transfer_readable_status_awaiting",
+      "value": "验证中…"
+    },
+    {
+      "name": "data_transfer_readable_status_canceled",
+      "value": "已取消"
+    },
+    {
+      "name": "data_transfer_readable_status_created",
+      "value": "正在初始化…"
+    },
+    {
+      "name": "data_transfer_readable_status_decline",
+      "value": "拒接"
+    },
+    {
+      "name": "data_transfer_readable_status_error",
+      "value": "错误"
+    },
+    {
+      "name": "data_transfer_readable_status_ongoing",
+      "value": "传送中"
+    },
+    {
+      "name": "data_transfer_readable_status_success",
+      "value": "完成"
+    },
+    {
+      "name": "data_transfer_record_in_background_warning",
+      "value": "在多個程式多工運算時會降低錄影質素。為確保最佳結果，在錄影時不要進行多工運算。"
+    },
+    {
+      "name": "data_transfer_send_message",
+      "value": "发送"
+    },
+    {
+      "name": "data_transfer_sending_failed",
+      "value": "發送時出現問題。"
+    },
+    {
+      "name": "general_settings_accept_transfer_limit",
+      "value": "接受傳輸限制"
+    },
+    {
+      "name": "general_settings_accept_transfer_limit_description",
+      "value": "（MB，0 = 無限制）"
+    },
+    {
+      "name": "general_settings_automatic_accept_incoming_files",
+      "value": "自動接受傳入檔案"
+    },
+    {
+      "name": "general_settings_donation_campaign",
+      "value": "捐贈活動"
+    },
+    {
+      "name": "general_settings_enable_donation_campaign",
+      "value": "启用捐赠活动"
+    },
+    {
+      "name": "general_settings_file_transfer",
+      "value": "文件传输"
+    },
+    {
+      "name": "general_settings_limit_location_sharing_duration",
+      "value": "限制位置共享的時間"
+    },
+    {
+      "name": "general_settings_location_sharing",
+      "value": "位置共享"
+    },
+    {
+      "name": "location_sharing_title",
+      "value": "位置共享"
+    },
+    {
+      "name": "general_settings_location_sharing_duration",
+      "value": "位置分享持續時間"
+    },
+    {
+      "name": "general_settings_video_acceleration",
+      "value": "啟用視訊加速"
+    },
+    {
+      "name": "general_settings_video_settings",
+      "value": "視訊設定"
+    },
+    {
+      "name": "generated_message_contact_added",
+      "value": "已接受邀请"
+    },
+    {
+      "name": "generated_message_contact_blocked",
+      "value": "%s被阻止参与对话。"
+    },
+    {
+      "name": "generated_message_contact_left_conversation",
+      "value": "%s已退出對話。"
+    },
+    {
+      "name": "generated_message_contact_unblocked",
+      "value": "%s被移出黑名單。"
+    },
+    {
+      "name": "generated_message_invitation_accepted",
+      "value": "%s 已加入对话。"
+    },
+    {
+      "name": "generated_message_invitation_received",
+      "value": "%s被邀请加入对话。"
+    },
+    {
+      "name": "generated_message_live_location_sharing",
+      "value": "即時位置分享"
+    },
+    {
+      "name": "generated_message_missed_incoming_call",
+      "value": "未接来电"
+    },
+    {
+      "name": "generated_message_missed_outgoing_call",
+      "value": "呼叫失败"
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_accepted",
+      "value": "你的邀請已被接受"
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_received",
+      "value": "你已寄出邀請。"
+    },
+    {
+      "name": "generated_message_outgoing_call",
+      "value": "去电"
+    },
+    {
+      "name": "generated_message_swarm_created",
+      "value": "已新增對話"
+    },
+    {
+      "name": "generated_message_you_joined",
+      "value": "您加入了对话。"
+    },
+    {
+      "name": "global_accept",
+      "value": "接受"
+    },
+    {
+      "name": "global_account_settings",
+      "value": "账户设置"
+    },
+    {
+      "name": "global_block",
+      "value": "屏蔽"
+    },
+    {
+      "name": "global_block_contact",
+      "value": "阻擋連絡人"
+    },
+    {
+      "name": "global_call",
+      "value": "撥打"
+    },
+    {
+      "name": "global_camera_disabled",
+      "value": "相機權限已禁用。在裝置設定中啟用此功能。"
+    },
+    {
+      "name": "global_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "global_close",
+      "value": "关闭"
+    },
+    {
+      "name": "global_confirm",
+      "value": "確認"
+    },
+    {
+      "name": "global_confirm_password",
+      "value": "确认密码"
+    },
+    {
+      "name": "global_connect",
+      "value": "连接"
+    },
+    {
+      "name": "global_copy",
+      "value": "复制"
+    },
+    {
+      "name": "global_create",
+      "value": "建立"
+    },
+    {
+      "name": "global_decline",
+      "value": "拒接"
+    },
+    {
+      "name": "global_delete_file",
+      "value": "从设备中删除文件"
+    },
+    {
+      "name": "global_delete_message",
+      "value": "删除消息"
+    },
+    {
+      "name": "global_edit",
+      "value": "編輯"
+    },
+    {
+      "name": "global_edit_message",
+      "value": "编辑消息"
+    },
+    {
+      "name": "global_edit_password",
+      "value": "更改密碼<br>"
+    },
+    {
+      "name": "global_editing",
+      "value": "編輯中"
+    },
+    {
+      "name": "global_enter_password",
+      "value": "输入密码"
+    },
+    {
+      "name": "global_enter_username",
+      "value": "输入用户名"
+    },
+    {
+      "name": "global_forward",
+      "value": "轉發"
+    },
+    {
+      "name": "global_incoming_call",
+      "value": "来电"
+    },
+    {
+      "name": "global_leave",
+      "value": "离开"
+    },
+    {
+      "name": "global_name",
+      "value": "名稱"
+    },
+    {
+      "name": "global_ok",
+      "value": "確定"
+    },
+    {
+      "name": "global_password",
+      "value": "密码"
+    },
+    {
+      "name": "global_preview",
+      "value": "预览"
+    },
+    {
+      "name": "global_recommended",
+      "value": "推荐"
+    },
+    {
+      "name": "global_register_a_username",
+      "value": "注册用户名"
+    },
+    {
+      "name": "global_remove",
+      "value": "删除"
+    },
+    {
+      "name": "global_remove_account",
+      "value": "移除帳戶"
+    },
+    {
+      "name": "global_reply",
+      "value": "回覆"
+    },
+    {
+      "name": "global_resend",
+      "value": "重新傳送"
+    },
+    {
+      "name": "global_save",
+      "value": "儲存"
+    },
+    {
+      "name": "global_search",
+      "value": "正在搜索…"
+    },
+    {
+      "name": "global_share",
+      "value": "共享"
+    },
+    {
+      "name": "global_support_jami",
+      "value": "支持Jami計劃"
+    },
+    {
+      "name": "global_time",
+      "value": "时间"
+    },
+    {
+      "name": "global_username",
+      "value": "用户名"
+    },
+    {
+      "name": "global_video",
+      "value": "影像"
+    },
+    {
+      "name": "import_from_archive_button_title",
+      "value": "倒入"
+    },
+    {
+      "name": "import_from_archive_explanation",
+      "value": "从本地档案文件导入Jami账户。"
+    },
+    {
+      "name": "import_from_archive_password_explanation",
+      "value": "如果賬戶有密碼保護，請輸入此欄。"
+    },
+    {
+      "name": "import_from_archive_select_archive_button",
+      "value": "选择归档文件"
+    },
+    {
+      "name": "import_from_archive_title",
+      "value": "從封存備份匯入"
+    },
+    {
+      "name": "invitations_accepted",
+      "value": "已接受"
+    },
+    {
+      "name": "invitations_blocked",
+      "value": "已封鎖"
+    },
+    {
+      "name": "invitations_declined",
+      "value": "已拒絕<br>"
+    },
+    {
+      "name": "invitations_list",
+      "value": "邀请已发送"
+    },
+    {
+      "name": "invitations_no_invitations",
+      "value": "无邀请"
+    },
+    {
+      "name": "link_device_authentication_info",
+      "value": "新裝置已連接到以下IP地址。是您嗎？要繼續匯出賬戶操作，請點擊確認。"
+    },
+    {
+      "name": "link_device_code",
+      "value": "驗證碼"
+    },
+    {
+      "name": "link_device_completed",
+      "value": "账户已成功导入到新设备。"
+    },
+    {
+      "name": "link_device_connecting",
+      "value": "连接到新设备..."
+    },
+    {
+      "name": "link_device_error_code",
+      "value": "生成驗證碼時出現問題，請重新再試。"
+    },
+    {
+      "name": "link_device_error_network",
+      "value": "链接账户时发生网络错误。请检查网络连接后重试。"
+    },
+    {
+      "name": "link_device_error_timeout",
+      "value": "操作超时。请稍后重试。"
+    },
+    {
+      "name": "link_device_error_wrong_data",
+      "value": "导出账户时发生错误。请稍后重试。"
+    },
+    {
+      "name": "link_device_error_wrong_password",
+      "value": "链接设备时出现身份验证错误。请检查凭据，然后重试。"
+    },
+    {
+      "name": "link_device_export_in_progress",
+      "value": "正在向新裝置匯出帳戶。請在新裝置上確認匯入。"
+    },
+    {
+      "name": "link_device_info_add_account",
+      "value": "選擇新增賬號 → 從其他裝置連接"
+    },
+    {
+      "name": "link_device_info_code",
+      "value": "一切準備就緒時，輸入驗證碼並點擊連接"
+    },
+    {
+      "name": "link_device_info_qr_code",
+      "value": "一切準備就緒時，掃描二維碼"
+    },
+    {
+      "name": "link_device_initial_info",
+      "value": "在新裝置新增新賬號"
+    },
+    {
+      "name": "link_device_network_error",
+      "value": "匯出帳戶時發生網絡問題。"
+    },
+    {
+      "name": "link_device_new_device_ip",
+      "value": "新设备 IP 地址：%1$s"
+    },
+    {
+      "name": "link_device_title",
+      "value": "关联新设备"
+    },
+    {
+      "name": "link_device_wrong_entry",
+      "value": "无法识别新设备标识符。请按照上述说明操作。"
+    },
+    {
+      "name": "link_to_account_account_locked_with_password",
+      "value": "該帳戶受密碼保護。\n如要繼續，請在新裝置上進行身份驗證。"
+    },
+    {
+      "name": "link_to_account_action_required",
+      "value": "需要如下操作。\n请确认源设备上的帐户。"
+    },
+    {
+      "name": "link_to_account_alert_message",
+      "value": "停止操作将取消导入账户操作。"
+    },
+    {
+      "name": "link_to_account_alert_tile",
+      "value": "你是否要停止連結此賬戶？"
+    },
+    {
+      "name": "link_to_account_all_set",
+      "value": "已成功导入帐户。"
+    },
+    {
+      "name": "link_to_account_enter_provided_code",
+      "value": "一切準備就緒時，輸入驗證碼"
+    },
+    {
+      "name": "link_to_account_exit",
+      "value": "離開"
+    },
+    {
+      "name": "link_to_account_export_instructions",
+      "value": "請由原裝置匯出"
+    },
+    {
+      "name": "link_to_account_export_instructions_path",
+      "value": "選擇賬戶→ 賬戶設定→ 連結新裝置"
+    },
+    {
+      "name": "link_to_account_go_to_accounts",
+      "value": "前往匯入賬戶"
+    },
+    {
+      "name": "link_to_account_import_account",
+      "value": "导入帐户"
+    },
+    {
+      "name": "link_to_account_scan_qr_code",
+      "value": "一切準備就緒時，掃描二維碼"
+    },
+    {
+      "name": "link_to_account_share_message",
+      "value": "你的驗證碼是：%s"
+    },
+    {
+      "name": "link_to_account_show_pin_code",
+      "value": "驗證碼"
+    },
+    {
+      "name": "link_to_account_show_qr_code",
+      "value": "二维码"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_label",
+      "value": "輸入管理伺服器URL"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_placeholder",
+      "value": "管理服务器 URL"
+    },
+    {
+      "name": "link_to_account_manager_enter_credentials",
+      "value": "輸入管理伺服器登入資料"
+    },
+    {
+      "name": "link_to_account_manager_jams_explanation",
+      "value": "輸入管理伺服器URL"
+    },
+    {
+      "name": "link_to_account_manager_sign_in",
+      "value": "登录"
+    },
+    {
+      "name": "link_to_account_manager_title",
+      "value": "管理伺服器賬戶"
+    },
+    {
+      "name": "log_view_description",
+      "value": "打开诊断日志设置"
+    },
+    {
+      "name": "log_view_save_error",
+      "value": "儲存文件時出現問題。"
+    },
+    {
+      "name": "log_view_share_error",
+      "value": "共享文件时出错。"
+    },
+    {
+      "name": "log_view_start_logging",
+      "value": "開始記錄"
+    },
+    {
+      "name": "log_view_stop_logging",
+      "value": "停止记录"
+    },
+    {
+      "name": "log_view_title",
+      "value": "诊断"
+    },
+    {
+      "name": "migrate_account_error",
+      "value": "遷移賬號時出現問題，請重試，或者刪除此賬號。"
+    },
+    {
+      "name": "migrate_account_explanation",
+      "value": "需要帳號遷移"
+    },
+    {
+      "name": "migrate_account_migrate_another",
+      "value": "遷移另一個帳戶"
+    },
+    {
+      "name": "migrate_account_migrate_button",
+      "value": "遷移帳戶"
+    },
+    {
+      "name": "migrate_account_migrating",
+      "value": "正在遷移……"
+    },
+    {
+      "name": "migrate_account_password_explanation",
+      "value": "請輸入密碼以繼續進行賬號遷移"
+    },
+    {
+      "name": "migrate_account_title",
+      "value": "账户迁移"
+    },
+    {
+      "name": "notifications_location_sharing_started",
+      "value": "收到的位置分享已開始"
+    },
+    {
+      "name": "notifications_location_sharing_stopped",
+      "value": "收到的位置分享已停止"
+    },
+    {
+      "name": "notifications_missed_call",
+      "value": "未接來電"
+    },
+    {
+      "name": "notifications_new_file",
+      "value": "新檔案"
+    },
+    {
+      "name": "peer_services_done",
+      "value": "完成"
+    },
+    {
+      "name": "peer_services_empty",
+      "value": "无共享服务可用"
+    },
+    {
+      "name": "peer_services_error_offline",
+      "value": "联系人处于离线状态"
+    },
+    {
+      "name": "peer_services_error_timeout",
+      "value": "请求超时"
+    },
+    {
+      "name": "peer_services_error_unknown",
+      "value": "无法检索服务"
+    },
+    {
+      "name": "peer_services_error_unreachable",
+      "value": "无法联系"
+    },
+    {
+      "name": "peer_services_not_supported",
+      "value": "不支持"
+    },
+    {
+      "name": "peer_services_open",
+      "value": "開啟"
+    },
+    {
+      "name": "peer_services_refresh",
+      "value": "刷新服务"
+    },
+    {
+      "name": "peer_services_title",
+      "value": "共享服务"
+    },
+    {
+      "name": "photo_capture_retake",
+      "value": "重拍"
+    },
+    {
+      "name": "photo_capture_use_photo",
+      "value": "使用照片"
+    },
+    {
+      "name": "profile_editor_change_picture",
+      "value": "更换头像"
+    },
+    {
+      "name": "profile_editor_change_picture_hint",
+      "value": "从相机或相册中选择新图片"
+    },
+    {
+      "name": "profile_editor_contact_name_placeholder",
+      "value": "请输入姓名"
+    },
+    {
+      "name": "profile_editor_description",
+      "value": "描述"
+    },
+    {
+      "name": "profile_editor_description_placeholder",
+      "value": "请输入描述"
+    },
+    {
+      "name": "profile_editor_discard",
+      "value": "丟棄"
+    },
+    {
+      "name": "profile_editor_discard_message",
+      "value": "您未保存的更改将会丢失。"
+    },
+    {
+      "name": "profile_editor_discard_title",
+      "value": "放弃更改吗？"
+    },
+    {
+      "name": "profile_editor_edit_contact",
+      "value": "编辑联系人"
+    },
+    {
+      "name": "profile_editor_edit_contact_hint",
+      "value": "打开联系人编辑器"
+    },
+    {
+      "name": "profile_editor_edit_group",
+      "value": "编辑群组"
+    },
+    {
+      "name": "profile_editor_edit_group_hint",
+      "value": "打开群组编辑器"
+    },
+    {
+      "name": "profile_editor_group_name_placeholder",
+      "value": "请输入群组名称"
+    },
+    {
+      "name": "profile_editor_local_changes_footer",
+      "value": "该名称和头像仅在本设备上可见"
+    },
+    {
+      "name": "profile_editor_name",
+      "value": "名稱"
+    },
+    {
+      "name": "profile_editor_no_picture",
+      "value": "无图片"
+    },
+    {
+      "name": "profile_editor_picture_selected",
+      "value": "已选中图片"
+    },
+    {
+      "name": "profile_editor_remove_picture",
+      "value": "移除图片"
+    },
+    {
+      "name": "profile_editor_reset_original",
+      "value": "使用原始名称和头像"
+    },
+    {
+      "name": "profile_editor_reset_original_hint",
+      "value": "恢复该联系人自己设置的名称和头像"
+    },
+    {
+      "name": "profile_editor_reset_picture",
+      "value": "使用原始图片"
+    },
+    {
+      "name": "profile_editor_save_error",
+      "value": "更改未能保存，请重试"
+    },
+    {
+      "name": "scan_bad_qr_code",
+      "value": "不正確的二維碼"
+    },
+    {
+      "name": "share_extension_accessibility_select_account",
+      "value": "雙點以選擇此賬號"
+    },
+    {
+      "name": "share_extension_accessibility_select_conversation",
+      "value": "雙點以選擇此對話"
+    },
+    {
+      "name": "share_extension_accessibility_selected_account",
+      "value": "已選取賬號：%s。雙點以改變賬號。"
+    },
+    {
+      "name": "share_extension_accessibility_send_button",
+      "value": "雙點以寄送到所選對話"
+    },
+    {
+      "name": "share_extension_no_account_description",
+      "value": "在主程式中新增賬號以繼續"
+    },
+    {
+      "name": "share_extension_no_account_title",
+      "value": "找不到賬號。"
+    },
+    {
+      "name": "share_extension_no_search_results",
+      "value": "無符合搜索條件的對話"
+    },
+    {
+      "name": "share_extension_search_conversations",
+      "value": "在會話中搜索"
+    },
+    {
+      "name": "share_extension_select_account_title",
+      "value": "选择帐户"
+    },
+    {
+      "name": "share_extension_send_to_conversation",
+      "value": "寄送到 %d 個對話"
+    },
+    {
+      "name": "share_extension_send_to_conversations_plural",
+      "value": "寄送到 %d 個對話"
+    },
+    {
+      "name": "share_extension_sending",
+      "value": "正在傳送..."
+    },
+    {
+      "name": "share_extension_try_different_filter",
+      "value": "嘗試其他過濾條件"
+    },
+    {
+      "name": "share_extension_unsupported_type_description",
+      "value": "所選的分享內容目前並未支援<br>"
+    },
+    {
+      "name": "share_extension_unsupported_type_title",
+      "value": "不支援的內容"
+    },
+    {
+      "name": "smartlist_about_jami",
+      "value": "关于 Jami"
+    },
+    {
+      "name": "smartlist_accounts",
+      "value": "账户"
+    },
+    {
+      "name": "smartlist_accounts_title",
+      "value": "账户"
+    },
+    {
+      "name": "smartlist_add_account_button",
+      "value": "+ 添加账户"
+    },
+    {
+      "name": "smartlist_cellular_access",
+      "value": "请确保蜂窝移动网络权限已开启。"
+    },
+    {
+      "name": "smartlist_conversations",
+      "value": "会话"
+    },
+    {
+      "name": "smartlist_conversations_search_hint",
+      "value": "你还没有任何对话。"
+    },
+    {
+      "name": "smartlist_dialpad",
+      "value": "键盘"
+    },
+    {
+      "name": "smartlist_disable_donation",
+      "value": "现在不要"
+    },
+    {
+      "name": "smartlist_donation_explanation",
+      "value": "如果您喜欢使用 Jami 并相信我们的使命，您愿意捐款吗？"
+    },
+    {
+      "name": "smartlist_in_synchronization",
+      "value": "同步中…"
+    },
+    {
+      "name": "smartlist_invitation_received",
+      "value": "邀请已发送"
+    },
+    {
+      "name": "smartlist_invitations",
+      "value": "邀请"
+    },
+    {
+      "name": "smartlist_invite_friends",
+      "value": "邀請好友"
+    },
+    {
+      "name": "smartlist_jams_directory_hint",
+      "value": "您组织中不在您的联系人列表中的人员。"
+    },
+    {
+      "name": "smartlist_jams_results",
+      "value": "组织目录"
+    },
+    {
+      "name": "smartlist_new_contact",
+      "value": "新联系人"
+    },
+    {
+      "name": "smartlist_new_group",
+      "value": "新群组"
+    },
+    {
+      "name": "smartlist_no_conversation",
+      "value": "无对话"
+    },
+    {
+      "name": "smartlist_no_conversations_found",
+      "value": "无匹配的对话。"
+    },
+    {
+      "name": "smartlist_no_network_connectivity",
+      "value": "无网络连接"
+    },
+    {
+      "name": "smartlist_no_number",
+      "value": "所選聯絡人沒有任何號碼"
+    },
+    {
+      "name": "smartlist_no_results",
+      "value": "沒有結果"
+    },
+    {
+      "name": "smartlist_public_directory_hint",
+      "value": "不在联系人列表中的jami用户。"
+    },
+    {
+      "name": "smartlist_results",
+      "value": "公共目录"
+    },
+    {
+      "name": "smartlist_search_bar",
+      "value": "搜索"
+    },
+    {
+      "name": "smartlist_search_bar_placeholder",
+      "value": "输入名字…"
+    },
+    {
+      "name": "smartlist_select_one_number",
+      "value": "選擇其中一個號碼"
+    },
+    {
+      "name": "smartlist_yesterday",
+      "value": "昨天"
+    },
+    {
+      "name": "swarm_leave",
+      "value": "離開"
+    },
+    {
+      "name": "swarm_accessibility_color_picker",
+      "value": "對話顏色選擇"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code",
+      "value": "顯示聯絡人二維碼"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code_hint",
+      "value": "開啓包括聯絡人二維碼的頁面"
+    },
+    {
+      "name": "swarm_accessibility_contact_share_hint",
+      "value": "開啓聯絡人資訊分享選項"
+    },
+    {
+      "name": "swarm_admin",
+      "value": "管理員"
+    },
+    {
+      "name": "swarm_admin_invites_only",
+      "value": "私人群组(受限制邀请)"
+    },
+    {
+      "name": "swarm_blocked",
+      "value": "已封鎖"
+    },
+    {
+      "name": "swarm_change_picture",
+      "value": "更改群图片"
+    },
+    {
+      "name": "swarm_choose_color",
+      "value": "对话框颜色"
+    },
+    {
+      "name": "swarm_confirm_leave_conversation",
+      "value": "您要退出对话吗？"
+    },
+    {
+      "name": "swarm_contact_header",
+      "value": "聯絡人"
+    },
+    {
+      "name": "swarm_conversation_ended",
+      "value": "對話已終止"
+    },
+    {
+      "name": "swarm_conversation_header",
+      "value": "對話"
+    },
+    {
+      "name": "swarm_conversation_id",
+      "value": "對話 ID"
+    },
+    {
+      "name": "swarm_customize",
+      "value": "自定义群组"
+    },
+    {
+      "name": "swarm_customize_profile",
+      "value": "自定义群概况"
+    },
+    {
+      "name": "swarm_explanation_text",
+      "value": "成员可在建群后任何时间被邀请入群"
+    },
+    {
+      "name": "swarm_identifier",
+      "value": "标识符"
+    },
+    {
+      "name": "swarm_invite",
+      "value": "邀请"
+    },
+    {
+      "name": "swarm_invite_members",
+      "value": "邀请成员"
+    },
+    {
+      "name": "swarm_invite_members_not_selected",
+      "value": "未選擇"
+    },
+    {
+      "name": "swarm_invite_members_selected",
+      "value": "已選擇"
+    },
+    {
+      "name": "swarm_invite_selected_members",
+      "value": "邀請選擇的聯絡人<br>"
+    },
+    {
+      "name": "swarm_invited",
+      "value": "已邀請"
+    },
+    {
+      "name": "swarm_invites_only",
+      "value": "私密群组"
+    },
+    {
+      "name": "swarm_leave_conversation",
+      "value": "离开谈话"
+    },
+    {
+      "name": "swarm_left",
+      "value": "左邊"
+    },
+    {
+      "name": "swarm_member",
+      "value": "成員"
+    },
+    {
+      "name": "swarm_members",
+      "value": "成员"
+    },
+    {
+      "name": "swarm_mute_conversation",
+      "value": "静音对话"
+    },
+    {
+      "name": "swarm_name_placeholder",
+      "value": "群名"
+    },
+    {
+      "name": "swarm_new_group",
+      "value": "建立新群組"
+    },
+    {
+      "name": "swarm_one_to_one",
+      "value": "私人"
+    },
+    {
+      "name": "swarm_others",
+      "value": "其他"
+    },
+    {
+      "name": "swarm_public_chat",
+      "value": "公开群组"
+    },
+    {
+      "name": "swarm_remove_contact",
+      "value": "移除聯絡人"
+    },
+    {
+      "name": "swarm_remove_conversation",
+      "value": "移除会话"
+    },
+    {
+      "name": "swarm_restart_conversation",
+      "value": "重新開始對話"
+    },
+    {
+      "name": "swarm_select_contacts",
+      "value": "选择联系人"
+    },
+    {
+      "name": "swarm_settings",
+      "value": "設定"
+    },
+    {
+      "name": "swarm_share_contact_info",
+      "value": "分享联系人"
+    },
+    {
+      "name": "swarm_share_contact_message",
+      "value": "你可以在 Jami 分散式通訊平臺 (https://jami.net) 上增加此聯絡人： %1$s"
+    },
+    {
+      "name": "swarm_show_contact_qr_code",
+      "value": "顯示聯絡人二維碼"
+    },
+    {
+      "name": "swarm_type_of_swarm",
+      "value": "对话类型"
+    },
+    {
+      "name": "swarm_unknown",
+      "value": "未知"
+    },
+    {
+      "name": "swarm_colors_amber",
+      "value": "黃色"
+    },
+    {
+      "name": "swarm_colors_bright_orange",
+      "value": "橙色"
+    },
+    {
+      "name": "swarm_colors_brown",
+      "value": "啡色"
+    },
+    {
+      "name": "swarm_colors_cyan",
+      "value": "靑色"
+    },
+    {
+      "name": "swarm_colors_green",
+      "value": "綠色"
+    },
+    {
+      "name": "swarm_colors_indigo_blue",
+      "value": "靛藍色"
+    },
+    {
+      "name": "swarm_colors_lime_green",
+      "value": "靑擰綠色"
+    },
+    {
+      "name": "swarm_colors_medium_gray",
+      "value": "中度灰色"
+    },
+    {
+      "name": "swarm_colors_purple",
+      "value": "紫色"
+    },
+    {
+      "name": "swarm_colors_sky_blue",
+      "value": "天藍色"
+    },
+    {
+      "name": "swarm_colors_steel_blue",
+      "value": "鐵藍色"
+    },
+    {
+      "name": "swarm_colors_teal",
+      "value": "藍綠色"
+    },
+    {
+      "name": "swarm_colors_vibrant_pink",
+      "value": "粉紅色"
+    },
+    {
+      "name": "swarm_colors_violet",
+      "value": "紺色"
+    },
+    {
+      "name": "swarm_colors_yellow_green",
+      "value": "黃綠色"
+    },
+    {
+      "name": "swarmcreation_add_description",
+      "value": "添加描述"
+    },
+    {
+      "name": "swarmcreation_search_bar",
+      "value": "搜尋聯絡人"
+    },
+    {
+      "name": "welcome_connect_to_jams",
+      "value": "連線到管理伺服器"
+    },
+    {
+      "name": "welcome_create_account",
+      "value": "建立 Jami 帳號"
+    },
+    {
+      "name": "welcome_have_account",
+      "value": "我已經有一個賬戶"
+    },
+    {
+      "name": "welcome_link_backup",
+      "value": "從封存備份匯入"
+    },
+    {
+      "name": "welcome_link_device",
+      "value": "从其他设备导入"
+    },
+    {
+      "name": "welcome_text",
+      "value": "Jami 是一個自由且通用的通訊平台，保護使用者的隱私與自由"
+    },
+    {
+      "name": "welcome_title",
+      "value": "使用 Jami 自由、私密地分享"
+    },
+    {
+      "name": "media_preview_date_time",
+      "value": "%1$s, %2$s"
+    },
+    {
+      "name": "media_preview_react",
+      "value": "React"
+    },
+    {
+      "name": "media_preview_more_actions",
+      "value": "更多"
+    },
+    {
+      "name": "media_preview_more_emoji",
+      "value": "More emoji"
+    },
+    {
+      "name": "accessibility_audio_player_mute",
+      "value": "靜音"
+    },
+    {
+      "name": "accessibility_audio_player_unmute",
+      "value": "取消靜音"
+    },
+    {
+      "name": "accessibility_message_reactions",
+      "value": "回应"
+    },
+    {
+      "name": "accessibility_remove_reaction",
+      "value": "移除%s"
+    },
+    {
+      "name": "media_preview_live_text",
+      "value": "Live Text"
+    }
+  ]
+}

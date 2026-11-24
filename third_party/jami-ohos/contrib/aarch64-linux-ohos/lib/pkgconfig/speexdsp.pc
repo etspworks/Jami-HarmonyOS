@@ -1,0 +1,14 @@
+# libspeexdsp pkg-config source file
+
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+
+Name: speexdsp
+Description: Speexdsp is a speech processing library that goes along with the Speex codec
+Version: 1.2.0
+Conflicts:
+Cflags: -I${includedir}
+Libs:  -L${libdir} -lspeexdsp  -lm
+Requires:  

@@ -1,0 +1,11 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos//Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+
+Name: libllhttp
+Description: Node.js llhttp Library
+Version: 9.2.1
+Cflags: -I${includedir}
+Libs:  -L${libdir} -lllhttp 
+Requires:  

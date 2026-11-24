@@ -1,0 +1,3020 @@
+{
+  "string": [
+    {
+      "name": "about_jami_community_management",
+      "value": "Zarządzanie społecznością"
+    },
+    {
+      "name": "about_jami_contribute",
+      "value": "Współpracuj"
+    },
+    {
+      "name": "about_jami_declaration1",
+      "value": "Jami, pakiet GNU, to oprogramowanie do uniwersalnej i rozproszonej komunikacji peer-to-peer, które szanuje wolność i prywatność swoich użytkowników. Odwiedź"
+    },
+    {
+      "name": "about_jami_declaration2",
+      "value": "aby dowiedzieć się więcej."
+    },
+    {
+      "name": "about_jami_developers",
+      "value": "Deweloperzy"
+    },
+    {
+      "name": "about_jami_feedback",
+      "value": "Opinia"
+    },
+    {
+      "name": "about_jami_header",
+      "value": "Chcemy podziękować wszystkim, którzy od wielu lat pomagają w tworzeniu tego oprogramowania."
+    },
+    {
+      "name": "about_jami_info",
+      "value": "To jest lista ludzi, którzy zainwestowali duże ilości czasu i wysiłku w tworzenie i ulepszanie Jami. Jeśli ktoś z was chce być dopisany do listy, prosimy o kontakt z nami."
+    },
+    {
+      "name": "about_jami_media",
+      "value": "Multimedia"
+    },
+    {
+      "name": "about_jami_no_warranty1",
+      "value": "Ten program nie jest objęty żadną gwarancją. Zobacz"
+    },
+    {
+      "name": "about_jami_no_warranty2",
+      "value": "wersję 3 lub nowszą w celu uzyskania szczegółowych informacji."
+    },
+    {
+      "name": "about_jami_special_thanks",
+      "value": "Specjalne podziękowania dla"
+    },
+    {
+      "name": "accessibility_about_jami_title",
+      "value": "O Jami"
+    },
+    {
+      "name": "accessibility_account_token_q_rcode",
+      "value": "Symboliczny kod QR"
+    },
+    {
+      "name": "accessibility_account_summary_edit_profile_hint",
+      "value": "Kliknij, żeby edytować profil"
+    },
+    {
+      "name": "accessibility_account_summary_edit_settings_button",
+      "value": "Ustawienia"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code",
+      "value": "Kod QR"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code_hint",
+      "value": "Kliknijj, żeby zobaczyć kod QR konta."
+    },
+    {
+      "name": "accessibility_audio_player_pause",
+      "value": "Pauza"
+    },
+    {
+      "name": "accessibility_audio_player_play",
+      "value": "Odtwarzaj"
+    },
+    {
+      "name": "accessibility_avatar_collapse_hint",
+      "value": "Double-tap to shrink the picture"
+    },
+    {
+      "name": "accessibility_avatar_expand_hint",
+      "value": "Double-tap to enlarge the picture"
+    },
+    {
+      "name": "accessibility_call_lasted",
+      "value": "Trwało %s"
+    },
+    {
+      "name": "accessibility_calls_alter_add_participant",
+      "value": "Dodaj uczestnika"
+    },
+    {
+      "name": "accessibility_calls_alter_end_call",
+      "value": "Skończ rozmowę"
+    },
+    {
+      "name": "accessibility_calls_alter_open_conversation",
+      "value": "Otwórz rozmowę"
+    },
+    {
+      "name": "accessibility_calls_alter_pause_call",
+      "value": "Wznów połączenie"
+    },
+    {
+      "name": "accessibility_calls_alter_raise_hand",
+      "value": "Dolna ręka"
+    },
+    {
+      "name": "accessibility_calls_alter_show_dialpad",
+      "value": "Pokaż klawiaturę numeryczną"
+    },
+    {
+      "name": "accessibility_calls_alter_switch_camera",
+      "value": "Przełącz aparat"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_audio",
+      "value": "Cofnij wyciszenie mikrofonu"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_speaker",
+      "value": "Wyłącz głośnik"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_video",
+      "value": "/Zatrzymaj kamerę"
+    },
+    {
+      "name": "accessibility_calls_default_add_participant",
+      "value": "Dodaj uczestnika"
+    },
+    {
+      "name": "accessibility_calls_default_end_call",
+      "value": "Skończ rozmowę"
+    },
+    {
+      "name": "accessibility_calls_default_open_conversation",
+      "value": "Otwórz rozmowę"
+    },
+    {
+      "name": "accessibility_calls_default_pause_call",
+      "value": "Wstrzymaj połączenie"
+    },
+    {
+      "name": "accessibility_calls_default_raise_hand",
+      "value": "Podnieś rękę"
+    },
+    {
+      "name": "accessibility_calls_default_show_dialpad",
+      "value": "Pokaż klawiaturę numeryczną"
+    },
+    {
+      "name": "accessibility_calls_default_switch_camera",
+      "value": "Przełącz aparat"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_audio",
+      "value": "Wycisz mikrofon"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_speaker",
+      "value": "Włącz głośnik"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_video",
+      "value": "Uruchom kamerę"
+    },
+    {
+      "name": "accessibility_close",
+      "value": "Zamknij"
+    },
+    {
+      "name": "accessibility_conference_camera_off",
+      "value": "Camera off"
+    },
+    {
+      "name": "accessibility_conference_crop_video",
+      "value": "Crop video"
+    },
+    {
+      "name": "accessibility_conference_end_call",
+      "value": "Skończ rozmowę"
+    },
+    {
+      "name": "accessibility_conference_hand_raised",
+      "value": "Ręka podniesiona"
+    },
+    {
+      "name": "accessibility_conference_hide_local_preview",
+      "value": "Hide your video"
+    },
+    {
+      "name": "accessibility_conference_local_preview",
+      "value": "Your video"
+    },
+    {
+      "name": "accessibility_conference_lower_hand",
+      "value": "Dolna ręka"
+    },
+    {
+      "name": "accessibility_conference_maximize",
+      "value": "Maksymalizuj"
+    },
+    {
+      "name": "accessibility_conference_microphone_muted",
+      "value": "Microphone muted"
+    },
+    {
+      "name": "accessibility_conference_minimize",
+      "value": "Zminimalizuj"
+    },
+    {
+      "name": "accessibility_conference_moderator",
+      "value": "Moderator"
+    },
+    {
+      "name": "accessibility_conference_mute_audio",
+      "value": "Wyłącz dźwięk"
+    },
+    {
+      "name": "accessibility_conference_recording",
+      "value": "Nagranie"
+    },
+    {
+      "name": "accessibility_conference_set_moderator",
+      "value": "Zaznacz moderatora"
+    },
+    {
+      "name": "accessibility_conference_show_full_video",
+      "value": "Show full video"
+    },
+    {
+      "name": "accessibility_conference_show_local_preview",
+      "value": "Show your video"
+    },
+    {
+      "name": "accessibility_conference_show_participants",
+      "value": "Show participants"
+    },
+    {
+      "name": "accessibility_conference_speaking",
+      "value": "Speaking"
+    },
+    {
+      "name": "accessibility_conference_unmute_audio",
+      "value": "Wyłącz wyciszenie dźwięku"
+    },
+    {
+      "name": "accessibility_conference_unset_moderator",
+      "value": "Odznacz moderatora"
+    },
+    {
+      "name": "accessibility_conversation_camera_hint",
+      "value": "Kliknij, żeby otworzyć aparat"
+    },
+    {
+      "name": "accessibility_conversation_compose_message",
+      "value": "Napisz wiadomość"
+    },
+    {
+      "name": "accessibility_conversation_row_blocked",
+      "value": "Rozmowa zablokowana"
+    },
+    {
+      "name": "accessibility_conversation_row_last_message",
+      "value": "Ostatnia wiadomość o %s"
+    },
+    {
+      "name": "accessibility_conversation_row_syncing",
+      "value": "Trwa synchronizacja"
+    },
+    {
+      "name": "accessibility_conversation_row_unread_count",
+      "value": "%s nieprzeczytanych wiadomości."
+    },
+    {
+      "name": "accessibility_conversation_share_media",
+      "value": "Udostępnij multimedia"
+    },
+    {
+      "name": "accessibility_conversation_start_video_call",
+      "value": "Rozpocznij rozmowę wideo z %s"
+    },
+    {
+      "name": "accessibility_conversation_start_voice_call",
+      "value": "Rozpocznij rozmowę audio z %s"
+    },
+    {
+      "name": "accessibility_create_account_verify_username_prompt",
+      "value": "Wpisz nazwę użytkownika, w celu sprawdzenia dostępności."
+    },
+    {
+      "name": "accessibility_file_transfer_received_on",
+      "value": "Plik: %1$s , otrzymany %2$s"
+    },
+    {
+      "name": "accessibility_file_transfer_sent_on",
+      "value": "Plik: %1$s, wysłany %2$s"
+    },
+    {
+      "name": "accessibility_file_transfer_no_name",
+      "value": "Plik otrzymany%s, bez nazwy"
+    },
+    {
+      "name": "accessibility_in_reply",
+      "value": "W odpowiedzi na wiadomość"
+    },
+    {
+      "name": "accessibility_message_bubble_deleted",
+      "value": "Wiadomość usunięta"
+    },
+    {
+      "name": "accessibility_message_bubble_edited",
+      "value": "Wydany w wersji"
+    },
+    {
+      "name": "accessibility_message_bubble_read",
+      "value": "Przeczytane"
+    },
+    {
+      "name": "accessibility_message_bubble_unread",
+      "value": "Nieprzeczytane"
+    },
+    {
+      "name": "accessibility_pending_requests_list_accept_invitation",
+      "value": "Zaakceptuj zaproszenie"
+    },
+    {
+      "name": "accessibility_pending_requests_list_block_user",
+      "value": "Zablokuj wysyłającego zaproszenie"
+    },
+    {
+      "name": "accessibility_pending_requests_list_reject_invitation",
+      "value": "Odrzuć zaproszenie"
+    },
+    {
+      "name": "accessibility_pending_requests_row_hint",
+      "value": "Kliknij, żeby przeglądać i odpowiadać na otrzymane zaproszenia."
+    },
+    {
+      "name": "accessibility_pending_requests_row_plural",
+      "value": "Otrzymane zaproszenia: %s oczekujące zaproszenia"
+    },
+    {
+      "name": "accessibility_pending_requests_row_singular",
+      "value": "Otrzyamane zaproszenia: %s oczekujące zaproszenia"
+    },
+    {
+      "name": "accessibility_profile_picture_picker",
+      "value": "Zdjęcie profilu"
+    },
+    {
+      "name": "accessibility_profile_picture_picker_hint",
+      "value": "Kliknij, żeby zrobić zdjęcie lub wybierz istniejące z galerii."
+    },
+    {
+      "name": "accessibility_smart_list_add_account",
+      "value": "Dodaj konto"
+    },
+    {
+      "name": "accessibility_smart_list_connected_as",
+      "value": "Obecne konto, to: %s"
+    },
+    {
+      "name": "accessibility_smart_list_switch_accounts",
+      "value": "Zmień konto"
+    },
+    {
+      "name": "accessibility_swarm_picture_picker",
+      "value": "Zdjęcie grupy"
+    },
+    {
+      "name": "accessibility_text_received_on",
+      "value": "%1$s, wiadomość otrzymana %2$s"
+    },
+    {
+      "name": "accessibility_text_sent_on",
+      "value": "%1$s, wiadomość wysłana %2$s"
+    },
+    {
+      "name": "accessibility_text_not_available",
+      "value": "Otrzymano pustą wiadomość %s. Mozliwe, że była niepoprawnie wysłana."
+    },
+    {
+      "name": "accessibility_user_presence_available",
+      "value": "Dostępne"
+    },
+    {
+      "name": "accessibility_user_presence_online",
+      "value": "Online"
+    },
+    {
+      "name": "accessibility_welcome_to_jami_title",
+      "value": "Witaj w Jami"
+    },
+    {
+      "name": "account_account_status",
+      "value": "Status Konta"
+    },
+    {
+      "name": "account_advanced_features",
+      "value": "Funkcje zaawansowane"
+    },
+    {
+      "name": "account_configure",
+      "value": "Skonfiguruj"
+    },
+    {
+      "name": "account_create_sip_account",
+      "value": "Skonfiguruj konto SIP"
+    },
+    {
+      "name": "account_enable_account",
+      "value": "Włącz Konto"
+    },
+    {
+      "name": "account_me",
+      "value": "Ja"
+    },
+    {
+      "name": "account_need_migration",
+      "value": "Konto wymaga migracji"
+    },
+    {
+      "name": "account_port",
+      "value": "Port"
+    },
+    {
+      "name": "account_port_label",
+      "value": "Wprowadź Numer Portu"
+    },
+    {
+      "name": "account_proxy_server",
+      "value": "Pełnomocnik"
+    },
+    {
+      "name": "account_server_label",
+      "value": "Wprowadź Adres"
+    },
+    {
+      "name": "account_sip_account",
+      "value": "Konto SIP"
+    },
+    {
+      "name": "account_sip_server",
+      "value": "Serwer"
+    },
+    {
+      "name": "account_status_connecting",
+      "value": "Łączenie"
+    },
+    {
+      "name": "account_status_connectionerror",
+      "value": "Błąd Połączenia"
+    },
+    {
+      "name": "account_status_offline",
+      "value": "Offline"
+    },
+    {
+      "name": "account_status_online",
+      "value": "Online"
+    },
+    {
+      "name": "account_status_unknown",
+      "value": "Nieznane"
+    },
+    {
+      "name": "account_page_account_header",
+      "value": "Konto"
+    },
+    {
+      "name": "account_page_account_identity",
+      "value": "Identyfikacja konta"
+    },
+    {
+      "name": "account_page_account_settings_explanation",
+      "value": "Te ustawienia aplikują się tylko do tego konta."
+    },
+    {
+      "name": "account_page_allow_ip_auto_rewrite",
+      "value": "Zezwól na automatyczne przepisywanie adresu IP"
+    },
+    {
+      "name": "account_page_app_settings",
+      "value": "Ustawienia aplikacji"
+    },
+    {
+      "name": "account_page_app_settings_explanation",
+      "value": "Te ustawienia aplikują się do wszystkich użytkowników."
+    },
+    {
+      "name": "account_page_auto_registration",
+      "value": "Automatyczna rejestracja po wygaśnięciu"
+    },
+    {
+      "name": "account_page_blocked_contacts",
+      "value": "Zablokowane kontakty"
+    },
+    {
+      "name": "account_page_booth_mode_alert_message",
+      "value": "Po włączeniu trybu booth wszystkie rozmowy zostaną usunięte."
+    },
+    {
+      "name": "account_page_booth_mode_explanation",
+      "value": "W trybie booth historia rozmowy nie jest zapisana i funkcjonalność jami ograniczona przez wykonywanie wychodzących połączeń."
+    },
+    {
+      "name": "account_page_bootstrap",
+      "value": "Bootstrap"
+    },
+    {
+      "name": "account_page_calls_from_unknown_contacts",
+      "value": "Pozwól na przychodzące rozmowy od nieznanych użytkowników."
+    },
+    {
+      "name": "account_page_change_password",
+      "value": "Zmień hasło"
+    },
+    {
+      "name": "account_page_change_password_error",
+      "value": "Niepoprawne hasło"
+    },
+    {
+      "name": "account_page_chats",
+      "value": "Czaty"
+    },
+    {
+      "name": "account_page_connectivity_and_configuration",
+      "value": "Łączność i konfiguracje"
+    },
+    {
+      "name": "account_page_connectivity_header",
+      "value": "Łączność"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_contant",
+      "value": "Skontaktuj się ze mną“%s” przy użyciu rozproszonej platformy komunikacyjnej Jami: https://jami.net"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_title",
+      "value": "Skontaktuj się ze mną na Jami!"
+    },
+    {
+      "name": "account_page_create_password",
+      "value": "Ustaw hasło"
+    },
+    {
+      "name": "account_page_current_password_placeholder",
+      "value": "Wprowadź obecne hasło"
+    },
+    {
+      "name": "account_page_current_proxy",
+      "value": "Bieżący serwer proxy"
+    },
+    {
+      "name": "account_page_device_revocation_error",
+      "value": "Błąd odwoływania urządzenia"
+    },
+    {
+      "name": "account_page_device_revocation_progress",
+      "value": "Usuwanie..."
+    },
+    {
+      "name": "account_page_device_revocation_success",
+      "value": "Urządzenie zostało usunięte"
+    },
+    {
+      "name": "account_page_device_revocation_try_again",
+      "value": "Spróbuj ponownie"
+    },
+    {
+      "name": "account_page_device_revocation_unknown_device",
+      "value": "Nieznane urządzenie"
+    },
+    {
+      "name": "account_page_device_revocation_wrong_password",
+      "value": "Niepoprawne hasło"
+    },
+    {
+      "name": "account_page_device_revoked",
+      "value": "Odwoływanie urządzenia ukończone"
+    },
+    {
+      "name": "account_page_devices_list_header",
+      "value": "Urządzenia"
+    },
+    {
+      "name": "account_page_dht_configuration",
+      "value": "ustawienia OpenDHT"
+    },
+    {
+      "name": "account_page_disable_booth_mode",
+      "value": "Wyłącz tryb budki"
+    },
+    {
+      "name": "account_page_disable_booth_mode_explanation",
+      "value": "Podaj hasło konta"
+    },
+    {
+      "name": "account_page_edit_profile",
+      "value": "Edytuj profil"
+    },
+    {
+      "name": "account_page_edit_sip_expiration_time",
+      "value": "Czas wygaśnięcia"
+    },
+    {
+      "name": "account_page_enable_booth_mode",
+      "value": "Włącz tryb stołu"
+    },
+    {
+      "name": "account_page_enable_notifications",
+      "value": "Aktywuj powiadomienia"
+    },
+    {
+      "name": "account_page_enable_srtp",
+      "value": "Włącz wymianę klucza SDES"
+    },
+    {
+      "name": "account_page_encrypt_account",
+      "value": "Hasło"
+    },
+    {
+      "name": "account_page_encrypt_negotiation",
+      "value": "Negocjacja szyfrowania (TLS)"
+    },
+    {
+      "name": "account_page_generating_pin",
+      "value": "Tworzenie kodu PIN…"
+    },
+    {
+      "name": "account_page_invalid_address",
+      "value": "Wprowadź prawidłowy adres"
+    },
+    {
+      "name": "account_page_invalid_port",
+      "value": "Wprowadź wartość z zakresu od 0 do 65535"
+    },
+    {
+      "name": "account_page_invalid_sip_expiration_time",
+      "value": "Wprowadź wartość z zakresu od 60 do 604800 sekund"
+    },
+    {
+      "name": "account_page_invite_friends",
+      "value": "Zaproś znajomych"
+    },
+    {
+      "name": "account_page_link_device_title",
+      "value": "Połącz nowe urządzenie"
+    },
+    {
+      "name": "account_page_linked_devices",
+      "value": "Połączone urządzenia"
+    },
+    {
+      "name": "account_page_manage_account",
+      "value": "Zarządzaj kontem"
+    },
+    {
+      "name": "account_page_name_server",
+      "value": "Serwer nazw"
+    },
+    {
+      "name": "account_page_new_password_confirm_placeholder",
+      "value": "Potwierdź nowe hasło"
+    },
+    {
+      "name": "account_page_new_password_placeholder",
+      "value": "Wprowadź nowe hasło"
+    },
+    {
+      "name": "account_page_no_booth_mode",
+      "value": "Aby włączyć tryb booth, najpierw zabezpiecz konto hasłem."
+    },
+    {
+      "name": "account_page_no_proxy_explanation_label",
+      "value": "Powiadmienia są niedostępne, jeśli proxy jest wyłączone."
+    },
+    {
+      "name": "account_page_notification_error",
+      "value": "Powiadomenia od Jami są wyłączone. Włącz je w ustawieniach urządzenia, jeśli chcesz je otrzymywać."
+    },
+    {
+      "name": "account_page_notification_title",
+      "value": "Powiadomienia"
+    },
+    {
+      "name": "account_page_notifications_header",
+      "value": "Powiadomienia"
+    },
+    {
+      "name": "account_page_other",
+      "value": "Inne"
+    },
+    {
+      "name": "account_page_other_devices",
+      "value": "Inne, połączone urządzenia"
+    },
+    {
+      "name": "account_page_password_created",
+      "value": "Hasło ustawione"
+    },
+    {
+      "name": "account_page_password_explanation",
+      "value": "Twoje konto Jami jest zarejestrowane tylko na tym urządzeniu jako archiwum zawierające klucze do Twojego konta. Dostęp do tego archiwum można zabezpieczyć hasłem."
+    },
+    {
+      "name": "account_page_password_for_pin",
+      "value": "Konto jest chronione hasłem. Wprowadź hasło, aby wygenerować kod PIN."
+    },
+    {
+      "name": "account_page_password_placeholder",
+      "value": "Podaj hasło do konta"
+    },
+    {
+      "name": "account_page_password_updated",
+      "value": "Hasło zostało zaktualizowane"
+    },
+    {
+      "name": "account_page_passwords_do_not_match",
+      "value": "Hasła nie są takie same."
+    },
+    {
+      "name": "account_page_peer_discovery",
+      "value": "Aktywuj wyszukiwanie lokalnych partnerów"
+    },
+    {
+      "name": "account_page_peer_discovery_explanation",
+      "value": "łączyć się z innymi węzłami DHT reklamującymi w naszej sieci lokalnej"
+    },
+    {
+      "name": "account_page_pin_error",
+      "value": "Błąd podczas generacji nowego kodu PIN."
+    },
+    {
+      "name": "account_page_pin_explanation_message",
+      "value": "Zainstaluj i uruchom Jami. Wybierz \"Importuj z innego urządzenia\" i skanuj kod QR. Alternatywnie należy ręcznie wprowadzić kod PIN."
+    },
+    {
+      "name": "account_page_pin_explanation_title",
+      "value": "Na innym urządzeniu"
+    },
+    {
+      "name": "account_page_profile_header",
+      "value": "Profil"
+    },
+    {
+      "name": "account_page_profile_name",
+      "value": "Nazwa profilu"
+    },
+    {
+      "name": "account_page_profile_name_not_selected",
+      "value": "Nie wybrano nazwy"
+    },
+    {
+      "name": "account_page_profile_name_placeholder",
+      "value": "Wprowadź nazwę profilu"
+    },
+    {
+      "name": "account_page_proxy_address_alert",
+      "value": "Dostarcz adres proxy"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_body",
+      "value": "Włącz proxy, by otrzymywać powiadomienia"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_title",
+      "value": "Serwer proxy wyłączony"
+    },
+    {
+      "name": "account_page_proxy_explanation",
+      "value": "Powiadomienia są kierowane przez serwer proxy. Można użyć domyślnego serwera proxy, wprowadzić niestandardowy adres serwera proxy lub podać adres URL z listą serwerów proxy."
+    },
+    {
+      "name": "account_page_proxy_header",
+      "value": "Pełnomocnik"
+    },
+    {
+      "name": "account_page_proxy_list_url",
+      "value": "Adres URL listy serwerów proxy"
+    },
+    {
+      "name": "account_page_proxy_paceholder",
+      "value": "Adres proxy"
+    },
+    {
+      "name": "account_page_public_address_header",
+      "value": "Adres publiczny"
+    },
+    {
+      "name": "account_page_published_address",
+      "value": "Adres"
+    },
+    {
+      "name": "account_page_published_port",
+      "value": "Port"
+    },
+    {
+      "name": "account_page_published_same_as_local",
+      "value": "Opublikowano tak samo jak lokalny"
+    },
+    {
+      "name": "account_page_register_name_error_message",
+      "value": "Nazwa użytkownika jest niedostępna."
+    },
+    {
+      "name": "account_page_register_name_explanation",
+      "value": "Zarejestruj nazwę użytkownika, aby ułatwić innym znalezienie i dotarcie do Ciebie na Jami."
+    },
+    {
+      "name": "account_page_remove_account_message",
+      "value": "Jeśli konto nie zostało zapisane lub dodane do innego urządzenia, konto i zarejestrowana nazwa użytkownika zostaną BEZPOWROTNIE UTRACONE."
+    },
+    {
+      "name": "account_page_remove_device_title",
+      "value": "Usuń urządzenie"
+    },
+    {
+      "name": "account_page_revoke_device_button",
+      "value": "Odwołaj"
+    },
+    {
+      "name": "account_page_revoke_device_message",
+      "value": "Czy chcesz usunąć to urządzenie? Tego nie da się cofnąć."
+    },
+    {
+      "name": "account_page_revoke_device_placeholder",
+      "value": "Podaj hasło do konta"
+    },
+    {
+      "name": "account_page_security",
+      "value": "Zabezpieczenia"
+    },
+    {
+      "name": "account_page_select_sip_expiration_time",
+      "value": "Ustaw czas (w sekundach) wygaśnięcia rejestracji"
+    },
+    {
+      "name": "account_page_settings_header",
+      "value": "Ustawienia"
+    },
+    {
+      "name": "account_page_sip_expiration_time",
+      "value": "Czas wygaśnięcia rejestracji (sekundy)"
+    },
+    {
+      "name": "account_page_stun_enabled",
+      "value": "Użyj STUN"
+    },
+    {
+      "name": "account_page_stun_server",
+      "value": "Adres STUN"
+    },
+    {
+      "name": "account_page_this_device",
+      "value": "To urządzenie"
+    },
+    {
+      "name": "account_page_tls_disable_secure_dlg_check",
+      "value": "Wyłącz bezpieczny kontrolę dialogu dla danych TLS wchodzących"
+    },
+    {
+      "name": "account_page_tls_require_tls_certificate",
+      "value": "Wymagamy certyfikat dla przychodzących połączeń TLS"
+    },
+    {
+      "name": "account_page_tls_verify_client_certificates",
+      "value": "Weryfikacja certyfikatów klienta TLS"
+    },
+    {
+      "name": "account_page_tls_verify_server_certificates",
+      "value": "Weryfikuj certyfikaty TLS serwera"
+    },
+    {
+      "name": "account_page_turn_enabled",
+      "value": "Włącz TURN"
+    },
+    {
+      "name": "account_page_turn_password",
+      "value": "Hasło TURN"
+    },
+    {
+      "name": "account_page_turn_realm",
+      "value": "Sfera TURN"
+    },
+    {
+      "name": "account_page_turn_server",
+      "value": "Adres TURN"
+    },
+    {
+      "name": "account_page_turn_username",
+      "value": "Nazwa użytkownika TURN"
+    },
+    {
+      "name": "account_page_typing_indicator",
+      "value": "Wskaźnik typu"
+    },
+    {
+      "name": "account_page_typing_indicator_explanation",
+      "value": "Wskazuj, gdy wiadomości są pisane."
+    },
+    {
+      "name": "account_page_unblock_contact",
+      "value": "Odblokuj"
+    },
+    {
+      "name": "account_page_unlink",
+      "value": "Odłącz"
+    },
+    {
+      "name": "account_page_upnp_enabled",
+      "value": "Użyj UPnP"
+    },
+    {
+      "name": "account_page_use_proxy_list",
+      "value": "Użyj listy proxy"
+    },
+    {
+      "name": "account_page_username_placeholder",
+      "value": "Wpisz żądaną nazwę użytkownika"
+    },
+    {
+      "name": "account_page_username_register_action",
+      "value": "Zarejestruj"
+    },
+    {
+      "name": "account_page_username_registering",
+      "value": "Rejestracja"
+    },
+    {
+      "name": "account_page_username_registration_failed",
+      "value": "Sprawdź hasło konta."
+    },
+    {
+      "name": "account_page_username_registration_failed_title",
+      "value": "Rejestracja nie powiodła się"
+    },
+    {
+      "name": "actions_back_action",
+      "value": "Wstecz"
+    },
+    {
+      "name": "actions_delete_action",
+      "value": "Usuń"
+    },
+    {
+      "name": "actions_done_action",
+      "value": "Gotowe"
+    },
+    {
+      "name": "actions_go_to_settings",
+      "value": "Idź do Ustawień"
+    },
+    {
+      "name": "actions_stop_location_sharing",
+      "value": "Zatrzymaj udostępnianie"
+    },
+    {
+      "name": "alerts_account_added_title",
+      "value": "Konto dodane"
+    },
+    {
+      "name": "alerts_account_cannot_be_found_message",
+      "value": "Nie można znaleźć tego konta. Upewnij się, że było eksportowane z Jami na istniejącym urządzeniu, oraz że podane nazwa i hasło są poprawne."
+    },
+    {
+      "name": "alerts_account_cannot_be_found_title",
+      "value": "Błąd konta"
+    },
+    {
+      "name": "alerts_account_default_error_message",
+      "value": "Wystąpił błąd podczas tworzenia konta."
+    },
+    {
+      "name": "alerts_account_default_error_title",
+      "value": "Błąd konta"
+    },
+    {
+      "name": "alerts_account_linked_title",
+      "value": "Łączenie konta"
+    },
+    {
+      "name": "alerts_account_no_network_message",
+      "value": "Błąd połączenia podczas dodawania konta Jami do sieci rozproszonej. Spróbuj ponownie. Jeśli problem nie ustanie, skontaktuj się ze swoim administratorem sieci."
+    },
+    {
+      "name": "alerts_account_no_network_title",
+      "value": "Błąd sieci"
+    },
+    {
+      "name": "alerts_alreadylocation_sharing",
+      "value": "Już udostępniasz lokalizację temu użytkownikowi"
+    },
+    {
+      "name": "alerts_confim_remove_contact",
+      "value": "Czy chcesz usunąć ten kontakt? Istniejąca historia zostanie usunięta."
+    },
+    {
+      "name": "alerts_confirm_block_contact",
+      "value": "Zablokować ten kontakt? Historia rozmów z tym kontaktem zostanie usunięta."
+    },
+    {
+      "name": "alerts_confirm_delete_conversation",
+      "value": "Czy chcesz trwale usunąć tę rozmowę?"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_from_contact",
+      "value": "Usunąć rozmowę z tym kontaktem?"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_title",
+      "value": "Usuń rozmowę"
+    },
+    {
+      "name": "alerts_confirm_leave_conversation",
+      "value": "Czy chcesz opuścić tę konwersację?"
+    },
+    {
+      "name": "alerts_confirm_remove_one_to_one_conversation",
+      "value": "Czy chcesz usunąć tę rozmowę? Istniejąca historia zostanie usunięta. Nowa rozmowa może zostać rozpoczęta, jeśli nie masz innych rozmów z tym kontaktem."
+    },
+    {
+      "name": "alerts_db_failed_message",
+      "value": "Spróbuj uruchomić ponownie aplikację"
+    },
+    {
+      "name": "alerts_db_failed_title",
+      "value": "Wystąpił błąd podczas uruchamiania Jami"
+    },
+    {
+      "name": "alerts_error_wrong_credentials",
+      "value": "Wystąpił błąd podczas łączenia z serwerem zarządzającym. Spróbuj ponownie. Jeśli problem będzie się powtarzał, skontaktuj się z administratorem systemu."
+    },
+    {
+      "name": "alerts_location_service_is_disabled",
+      "value": "Włącz lokalizację, aby pozwolić Jami określić lokalizację urządzenia."
+    },
+    {
+      "name": "alerts_location_sharing",
+      "value": "Udostępnij moją lokalizację"
+    },
+    {
+      "name": "alerts_location_sharing_duration10min",
+      "value": "10 min"
+    },
+    {
+      "name": "alerts_location_sharing_duration1hour",
+      "value": "1 godzina"
+    },
+    {
+      "name": "alerts_location_sharing_duration_title",
+      "value": "Jak długo powinno trwać udostępnianie lokalizacji?"
+    },
+    {
+      "name": "alerts_map_information",
+      "value": "Informacje o mapie"
+    },
+    {
+      "name": "alerts_no_library_permissions_title",
+      "value": "Nie udzielono dostępu do biblioteki zdjęć"
+    },
+    {
+      "name": "alerts_no_location_permissions_title",
+      "value": "Nie udzielono dostępu do lokalizacji"
+    },
+    {
+      "name": "alerts_no_media_permissions_title",
+      "value": "Uprawnienia multimediów nieprzyznane"
+    },
+    {
+      "name": "alerts_open_street_map_copyright",
+      "value": "© współautorzy OpenStreetMap"
+    },
+    {
+      "name": "alerts_open_street_map_copyright_more_info",
+      "value": "Dowiedz się więcej"
+    },
+    {
+      "name": "alerts_profile_take_photo",
+      "value": "Zrób zdjęcie"
+    },
+    {
+      "name": "alerts_profile_upload_photo",
+      "value": "Udostępnij zdjęcie"
+    },
+    {
+      "name": "alerts_record_audio_message",
+      "value": "Nagraj wiadomość głosową"
+    },
+    {
+      "name": "alerts_record_video_message",
+      "value": "Nagraj wiadomość wideo"
+    },
+    {
+      "name": "alerts_send_photo",
+      "value": "Wyślij zdjęcie"
+    },
+    {
+      "name": "alerts_upload_file",
+      "value": "Wyślij plik"
+    },
+    {
+      "name": "alerts_upload_photo",
+      "value": "Otwarta galeria"
+    },
+    {
+      "name": "backup_account_archive_name",
+      "value": "Wybierz nazwę archiwum."
+    },
+    {
+      "name": "backup_account_archive_name_placeholder",
+      "value": "Nazwa archiwum"
+    },
+    {
+      "name": "backup_account_backup_button",
+      "value": "Kopia zapasowa"
+    },
+    {
+      "name": "backup_account_creating",
+      "value": "Tworzenie kopii zapasowej"
+    },
+    {
+      "name": "backup_account_document_picker_button",
+      "value": "Otwórz lokację kopii zapasowej"
+    },
+    {
+      "name": "backup_account_error_access_denied",
+      "value": "Brak dostępu do lokacji."
+    },
+    {
+      "name": "backup_account_error_failed",
+      "value": "Błąd podczas eksportu konta."
+    },
+    {
+      "name": "backup_account_error_wrong_location",
+      "value": "Wybrana ścieżka jest niedostępna, wybierz inną."
+    },
+    {
+      "name": "backup_account_explanation",
+      "value": "To konto Jami istnieje tylko w tym urządzeniu. Jeśli to urządzenie zginie, to także zginie to konto. Zalecamy stworzenie kopii zapasowej konta."
+    },
+    {
+      "name": "backup_account_export_success",
+      "value": "Kopia zapasowa wykonana"
+    },
+    {
+      "name": "backup_account_password_request",
+      "value": "Wprowadź hasło konta."
+    },
+    {
+      "name": "backup_account_title",
+      "value": "Wykonaj kopię zapasową"
+    },
+    {
+      "name": "block_list_page_no_blocked_contacts",
+      "value": "Brak zablokowanych kontaktów"
+    },
+    {
+      "name": "calls_accept_with_audio",
+      "value": "Odbierz z dźwiękiem"
+    },
+    {
+      "name": "calls_accept_with_video",
+      "value": "Odbierz z obrazem"
+    },
+    {
+      "name": "calls_active_call_in_conversation",
+      "value": "Rozmowa jest w toku."
+    },
+    {
+      "name": "calls_active_call_label",
+      "value": "Trwa połączenie. Czy chcesz dołączyć do połączenia? Możesz też dołączyć później z poziomu rozmowy."
+    },
+    {
+      "name": "calls_call_finished",
+      "value": "Rozmowa zakończona"
+    },
+    {
+      "name": "calls_calling",
+      "value": "Calling…"
+    },
+    {
+      "name": "calls_calling_participants",
+      "value": "Calling (%s)"
+    },
+    {
+      "name": "calls_connecting",
+      "value": "Łączenie..."
+    },
+    {
+      "name": "calls_current_call_with",
+      "value": "Zadzwoń z"
+    },
+    {
+      "name": "calls_grid_layout",
+      "value": "Grid view"
+    },
+    {
+      "name": "calls_in_this_call",
+      "value": "In this call (%s)"
+    },
+    {
+      "name": "calls_inviting",
+      "value": "Inviting…"
+    },
+    {
+      "name": "calls_lower_hand",
+      "value": "Dolna ręka"
+    },
+    {
+      "name": "calls_maximize",
+      "value": "Maksymalizuj"
+    },
+    {
+      "name": "calls_minimize",
+      "value": "Zminimalizuj"
+    },
+    {
+      "name": "calls_mute_audio",
+      "value": "Wycisz mikrofon"
+    },
+    {
+      "name": "calls_participant_options",
+      "value": "Options for %s"
+    },
+    {
+      "name": "calls_participants_in_call",
+      "value": "%s in call"
+    },
+    {
+      "name": "calls_peer_recording",
+      "value": "Nagranie"
+    },
+    {
+      "name": "calls_raise_hand",
+      "value": "Podnieś rękę"
+    },
+    {
+      "name": "calls_remove_moderator",
+      "value": "Odznacz moderatora"
+    },
+    {
+      "name": "calls_ringing",
+      "value": "Dzwonienie..."
+    },
+    {
+      "name": "calls_set_moderator",
+      "value": "Zaznacz moderatora"
+    },
+    {
+      "name": "calls_start_picture_in_picture",
+      "value": "Start Picture in Picture"
+    },
+    {
+      "name": "calls_stop_calling",
+      "value": "Stop calling %s"
+    },
+    {
+      "name": "calls_unmute_audio",
+      "value": "Cofnij wyciszenie mikrofonu"
+    },
+    {
+      "name": "collab_align_center",
+      "value": "Centrum"
+    },
+    {
+      "name": "collab_align_justify",
+      "value": "Justify"
+    },
+    {
+      "name": "collab_align_left",
+      "value": "Align left"
+    },
+    {
+      "name": "collab_align_right",
+      "value": "Align right"
+    },
+    {
+      "name": "collab_bold",
+      "value": "Pogrubiony"
+    },
+    {
+      "name": "collab_bullet_list",
+      "value": "Bulleted list"
+    },
+    {
+      "name": "collab_clear_format",
+      "value": "Clear formatting"
+    },
+    {
+      "name": "collab_create",
+      "value": "Stwórz"
+    },
+    {
+      "name": "collab_create_error",
+      "value": "This document could not be created."
+    },
+    {
+      "name": "collab_created_by",
+      "value": "Created by %s"
+    },
+    {
+      "name": "collab_created_by_not_downloaded",
+      "value": "Created by %s, not downloaded"
+    },
+    {
+      "name": "collab_document_name_hint",
+      "value": "Document name"
+    },
+    {
+      "name": "collab_document_removed",
+      "value": "Document removed"
+    },
+    {
+      "name": "collab_document_removed_locally",
+      "value": "Document removed from this device"
+    },
+    {
+      "name": "collab_document_removed_locally_message",
+      "value": "\"%s\" is no longer on this device. Opening it again downloads it back."
+    },
+    {
+      "name": "collab_document_removed_message",
+      "value": "\"%s\" was removed by its author."
+    },
+    {
+      "name": "collab_documents",
+      "value": "Dokumenty"
+    },
+    {
+      "name": "collab_download_and_open",
+      "value": "Download and open"
+    },
+    {
+      "name": "collab_editable_document",
+      "value": "Editable document"
+    },
+    {
+      "name": "collab_editing_alone",
+      "value": "Only you are editing"
+    },
+    {
+      "name": "collab_editing_one_other",
+      "value": "1 other person is editing"
+    },
+    {
+      "name": "collab_editing_others",
+      "value": "%d other people are editing"
+    },
+    {
+      "name": "collab_export",
+      "value": "Export a local copy"
+    },
+    {
+      "name": "collab_export_anyway",
+      "value": "Export anyway"
+    },
+    {
+      "name": "collab_export_error",
+      "value": "This document could not be exported."
+    },
+    {
+      "name": "collab_export_html",
+      "value": "Export to HTML"
+    },
+    {
+      "name": "collab_export_markdown",
+      "value": "Export to Markdown"
+    },
+    {
+      "name": "collab_export_missing_images",
+      "value": "%d picture(s) in this document have not arrived yet, and will be left out of the exported file."
+    },
+    {
+      "name": "collab_export_pdf",
+      "value": "Export to PDF"
+    },
+    {
+      "name": "collab_export_text",
+      "value": "Export to plain text"
+    },
+    {
+      "name": "collab_heading",
+      "value": "Heading %d"
+    },
+    {
+      "name": "collab_history",
+      "value": "Version history"
+    },
+    {
+      "name": "collab_image_error",
+      "value": "This image could not be added."
+    },
+    {
+      "name": "collab_image_too_large",
+      "value": "This image is too large to be added to a document."
+    },
+    {
+      "name": "collab_insert_image",
+      "value": "Insert image"
+    },
+    {
+      "name": "collab_italic",
+      "value": "Kursywa"
+    },
+    {
+      "name": "collab_link_add",
+      "value": "Dodaj"
+    },
+    {
+      "name": "collab_link_hint",
+      "value": "Adres"
+    },
+    {
+      "name": "collab_link_remove",
+      "value": "Usuń"
+    },
+    {
+      "name": "collab_link_title",
+      "value": "Połącz"
+    },
+    {
+      "name": "collab_menu",
+      "value": "Document actions"
+    },
+    {
+      "name": "collab_new_document",
+      "value": "New document"
+    },
+    {
+      "name": "collab_no_documents",
+      "value": "No document has been written in this conversation yet."
+    },
+    {
+      "name": "collab_no_history",
+      "value": "This document has no saved version yet."
+    },
+    {
+      "name": "collab_not_downloaded",
+      "value": "Not downloaded"
+    },
+    {
+      "name": "collab_open",
+      "value": "Otwórz"
+    },
+    {
+      "name": "collab_open_error",
+      "value": "This document could not be opened."
+    },
+    {
+      "name": "collab_ordered_list",
+      "value": "Numbered list"
+    },
+    {
+      "name": "collab_redo",
+      "value": "Przerobić"
+    },
+    {
+      "name": "collab_remove",
+      "value": "Usuń"
+    },
+    {
+      "name": "collab_remove_error",
+      "value": "This document could not be removed."
+    },
+    {
+      "name": "collab_remove_everywhere_action",
+      "value": "Usuń"
+    },
+    {
+      "name": "collab_remove_everywhere_menu",
+      "value": "Remove for everyone"
+    },
+    {
+      "name": "collab_remove_locally_action",
+      "value": "Offload"
+    },
+    {
+      "name": "collab_remove_locally_error",
+      "value": "This document could not be removed from this device."
+    },
+    {
+      "name": "collab_remove_locally_menu",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_locally_message",
+      "value": "\"%s\" will be removed from this device only. The other members keep it, and opening it again downloads it back."
+    },
+    {
+      "name": "collab_remove_locally_title",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_message",
+      "value": "\"%s\" will be removed for every member of this conversation. This cannot be undone."
+    },
+    {
+      "name": "collab_remove_title",
+      "value": "Remove document"
+    },
+    {
+      "name": "collab_rename",
+      "value": "Rename"
+    },
+    {
+      "name": "collab_send_error",
+      "value": "Your changes could not be sent."
+    },
+    {
+      "name": "collab_strikethrough",
+      "value": "Przekreślenie"
+    },
+    {
+      "name": "collab_underline",
+      "value": "Underline"
+    },
+    {
+      "name": "collab_undo",
+      "value": "Cofnij"
+    },
+    {
+      "name": "collab_untitled",
+      "value": "Untitled document"
+    },
+    {
+      "name": "collab_version_by",
+      "value": "%1$s — %2$s"
+    },
+    {
+      "name": "collab_version_deltas",
+      "value": "%1$s — %2$s, %3$d change(s)"
+    },
+    {
+      "name": "collab_version_leave",
+      "value": "Back to the current version"
+    },
+    {
+      "name": "collab_version_restore",
+      "value": "Restore"
+    },
+    {
+      "name": "collab_version_restore_error",
+      "value": "This version could not be restored."
+    },
+    {
+      "name": "collab_version_restored",
+      "value": "The document was restored to this version."
+    },
+    {
+      "name": "collab_version_shown",
+      "value": "Version of %s"
+    },
+    {
+      "name": "collab_version_unchanged",
+      "value": "This version is the document you already have."
+    },
+    {
+      "name": "contact_page_leave_conversation",
+      "value": "/Nie mówcie o tym."
+    },
+    {
+      "name": "contact_page_send",
+      "value": "Wyślij"
+    },
+    {
+      "name": "contact_page_start_audio_call",
+      "value": "Rozpocznij połączenie głosowe"
+    },
+    {
+      "name": "contact_page_start_video_call",
+      "value": "Rozpocznij rozmowę wideo"
+    },
+    {
+      "name": "contact_picker_calls",
+      "value": "Rozmowy"
+    },
+    {
+      "name": "contact_picker_contacts",
+      "value": "Kontakty"
+    },
+    {
+      "name": "conversation_add_to_contacts_button",
+      "value": "Dodaj do kontaktów"
+    },
+    {
+      "name": "conversation_add_to_contacts_label",
+      "value": "Dodać do kontaktów?"
+    },
+    {
+      "name": "conversation_contact_blocked",
+      "value": "Kontakt zablokowany"
+    },
+    {
+      "name": "conversation_deleted_message",
+      "value": "%s usunął wiadomość"
+    },
+    {
+      "name": "conversation_edited",
+      "value": "Wydany w wersji"
+    },
+    {
+      "name": "conversation_error_saving_image",
+      "value": "Nie można zapisać obrazu"
+    },
+    {
+      "name": "conversation_error_saving_image_message",
+      "value": "Wystąpił błąd podczas zapisywania obrazu w bibliotece zdjęć."
+    },
+    {
+      "name": "conversation_image_saved",
+      "value": "Zapisano"
+    },
+    {
+      "name": "conversation_in_reply_to",
+      "value": "W odpowiedzi na"
+    },
+    {
+      "name": "conversation_incoming_request",
+      "value": "wysłał Tobie zaproszenie do konwersacji."
+    },
+    {
+      "name": "conversation_last_message_deleted",
+      "value": "(wiadomość usunięta)"
+    },
+    {
+      "name": "conversation_message_placeholder",
+      "value": "Napisz do"
+    },
+    {
+      "name": "conversation_not_contact_label",
+      "value": "%s nie jest w liście kontaktów"
+    },
+    {
+      "name": "conversation_photo_access_required_message",
+      "value": "Jami potrzebuje dostępu do biblioteki zdjęć, aby zapisywać obrazy. Możesz to włączyć w Ustawieniach."
+    },
+    {
+      "name": "conversation_received_request",
+      "value": "%s wysłał Tobie zaproszenie do konwersacji."
+    },
+    {
+      "name": "conversation_replied_to",
+      "value": "%s odpowiedział %s"
+    },
+    {
+      "name": "conversation_request_message",
+      "value": "Cześć, \nCzy chciałbyś dołączyć do rozmowy?"
+    },
+    {
+      "name": "conversation_send_invitation_button",
+      "value": "Wyślij zaproszenie"
+    },
+    {
+      "name": "conversation_send_request",
+      "value": "Wyślij im zaproszenie, aby móc rozmawiać."
+    },
+    {
+      "name": "conversation_send_request_title",
+      "value": "Wyślij zaproszenie do konwersacji"
+    },
+    {
+      "name": "conversation_synchronization_message",
+      "value": "Czekanie, aż %s podłączy się, żeby zsynchronizować rozmowę..."
+    },
+    {
+      "name": "conversation_synchronization_title",
+      "value": "Zaakceptowałeś zaproszenie do konwersacji."
+    },
+    {
+      "name": "conversation_syncing_title",
+      "value": "Synchronizowanie rozmowy"
+    },
+    {
+      "name": "conversation_typing_indicator_one_user",
+      "value": "%s pisze"
+    },
+    {
+      "name": "conversation_typing_indicator_other_users",
+      "value": "%1$s, %2$s i %3$s inny piszą"
+    },
+    {
+      "name": "conversation_typing_indicator_others_users",
+      "value": "%1$s, %2$s i %3$s innych pisze"
+    },
+    {
+      "name": "conversation_typing_indicator_two_users",
+      "value": "%1$s i %2$s piszą"
+    },
+    {
+      "name": "conversation_yourself",
+      "value": "Ty"
+    },
+    {
+      "name": "create_account_username_not_registered_message",
+      "value": "Konto zostało stworzone, ale nazwa użytkownika nie została zarejestrowana"
+    },
+    {
+      "name": "create_account_username_not_registered_title",
+      "value": "Błąd sieci"
+    },
+    {
+      "name": "create_account_create_account_form_title",
+      "value": "Dołącz do Jami"
+    },
+    {
+      "name": "create_account_creating_account",
+      "value": "Tworzenie konta"
+    },
+    {
+      "name": "create_account_customize",
+      "value": "/Przezwyczajenie"
+    },
+    {
+      "name": "create_account_encrypt",
+      "value": "Chroń hasłem"
+    },
+    {
+      "name": "create_account_encrypt_explanation",
+      "value": "Konto Jami jest utworzone i przechowywane jedynie w tym urządzeniu, w formie archiwum zawierającego klucze konta. Opcjonalnie może być zabezpieczone hasłem."
+    },
+    {
+      "name": "create_account_encrypt_title",
+      "value": "Chroń konto hasłem"
+    },
+    {
+      "name": "create_account_encryption_enabled",
+      "value": "Ochrona hasłem włączona"
+    },
+    {
+      "name": "create_account_invalid_username",
+      "value": "Nieważna nazwa użytkownika. Wpisz poprawną."
+    },
+    {
+      "name": "create_account_looking_for_username_availability",
+      "value": "Sprawdzanie dostępności nazwy użytkownika..."
+    },
+    {
+      "name": "create_account_name_explanation",
+      "value": "Możesz wybrać nazwisko użytkownika, aby pomóc innym łatwiej znaleźć i dotrzeć do ciebie na Jami."
+    },
+    {
+      "name": "create_account_new_account",
+      "value": "Nowe konto"
+    },
+    {
+      "name": "create_account_sip_configure",
+      "value": "Skonfiguruj istniejące konto SIP"
+    },
+    {
+      "name": "create_account_timeout_message",
+      "value": "Trwa rejestracja nazwy użytkownika. Proszę czekać…"
+    },
+    {
+      "name": "create_account_timeout_title",
+      "value": "Konto Stworzone"
+    },
+    {
+      "name": "create_account_username_already_taken",
+      "value": "Nazwa użytkownika zajęta"
+    },
+    {
+      "name": "create_account_username_valid",
+      "value": "Nazwa użytkownika jest dostępna."
+    },
+    {
+      "name": "create_profile_create_profile_picture",
+      "value": "Stwórz zdjęcie profilowe"
+    },
+    {
+      "name": "create_profile_enter_name_label",
+      "value": "Wprowadź nazwę, która będzie wyświetlana"
+    },
+    {
+      "name": "create_profile_enter_name_placeholder",
+      "value": "Wprowadź nazwę"
+    },
+    {
+      "name": "create_profile_profile_created",
+      "value": "Następne"
+    },
+    {
+      "name": "create_profile_skip_create_profile",
+      "value": "Pomiń"
+    },
+    {
+      "name": "create_profile_subtitle",
+      "value": "Twój profil jest udostępniany tylko Twoim kontaktom. Profil można zmienić w dowolnym momencie."
+    },
+    {
+      "name": "create_profile_title",
+      "value": "Spersonalizuj swój profil"
+    },
+    {
+      "name": "data_transfer_info_message",
+      "value": "Dotknij, aby rozpocząć nagrywanie"
+    },
+    {
+      "name": "data_transfer_readable_status_accept",
+      "value": "Akceptuj"
+    },
+    {
+      "name": "data_transfer_readable_status_awaiting",
+      "value": "W toku..."
+    },
+    {
+      "name": "data_transfer_readable_status_canceled",
+      "value": "Anulowano"
+    },
+    {
+      "name": "data_transfer_readable_status_created",
+      "value": "Inicjalizacja..."
+    },
+    {
+      "name": "data_transfer_readable_status_decline",
+      "value": "Odrzuć"
+    },
+    {
+      "name": "data_transfer_readable_status_error",
+      "value": "Błąd"
+    },
+    {
+      "name": "data_transfer_readable_status_ongoing",
+      "value": "Wysyłanie"
+    },
+    {
+      "name": "data_transfer_readable_status_success",
+      "value": "Ukończono"
+    },
+    {
+      "name": "data_transfer_record_in_background_warning",
+      "value": "Nagrywanie wideo podczas wielozadaniowości z wieloma aplikacjami może skutkować niższą jakością filmów. Aby uzyskać najlepsze wyniki, nagrywaj, gdy nie wykonujesz wielu zadań jednocześnie"
+    },
+    {
+      "name": "data_transfer_send_message",
+      "value": "Wyślij"
+    },
+    {
+      "name": "data_transfer_sending_failed",
+      "value": "Błąd podczas wysyłania."
+    },
+    {
+      "name": "general_settings_accept_transfer_limit",
+      "value": "Przyjmuj limit przeniesienia"
+    },
+    {
+      "name": "general_settings_accept_transfer_limit_description",
+      "value": "(MB, 0 = bez ograniczenia)"
+    },
+    {
+      "name": "general_settings_automatic_accept_incoming_files",
+      "value": "Automatycznie akceptuj przychodzące pliki"
+    },
+    {
+      "name": "general_settings_donation_campaign",
+      "value": "Kampania darowizn"
+    },
+    {
+      "name": "general_settings_enable_donation_campaign",
+      "value": "Włącz kampanię darowizn"
+    },
+    {
+      "name": "general_settings_file_transfer",
+      "value": "Transfer pliku"
+    },
+    {
+      "name": "general_settings_limit_location_sharing_duration",
+      "value": "Ogranicz czas trwania udostępniania lokalizacji"
+    },
+    {
+      "name": "general_settings_location_sharing",
+      "value": "Udział w lokalizacji"
+    },
+    {
+      "name": "location_sharing_title",
+      "value": "Udział w lokalizacji"
+    },
+    {
+      "name": "general_settings_location_sharing_duration",
+      "value": "Okres trwania udziałów pozycyjnych"
+    },
+    {
+      "name": "general_settings_video_acceleration",
+      "value": "Włącz przyspieszenie video"
+    },
+    {
+      "name": "general_settings_video_settings",
+      "value": "Ustawienia wideo"
+    },
+    {
+      "name": "generated_message_contact_added",
+      "value": "Otrzymano zaproszenie"
+    },
+    {
+      "name": "generated_message_contact_blocked",
+      "value": "%s został zablokowany z tej rozmowy."
+    },
+    {
+      "name": "generated_message_contact_left_conversation",
+      "value": "%s rozłączył się."
+    },
+    {
+      "name": "generated_message_contact_unblocked",
+      "value": "%s został odblokowany w tej rozmowie."
+    },
+    {
+      "name": "generated_message_invitation_accepted",
+      "value": "%s dołączył to rozmowy"
+    },
+    {
+      "name": "generated_message_invitation_received",
+      "value": "%s został zaproszony do dołączenia to rozmowy"
+    },
+    {
+      "name": "generated_message_live_location_sharing",
+      "value": "Udostępnianie lokalizacji na żywo"
+    },
+    {
+      "name": "generated_message_missed_incoming_call",
+      "value": "Nieodebrane połączenie przychodzące"
+    },
+    {
+      "name": "generated_message_missed_outgoing_call",
+      "value": "Nieodebrane połączenie wychodzące"
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_accepted",
+      "value": "Twoje zaproszenie zostało zaakceptowane."
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_received",
+      "value": "Zaproszenie wysłane."
+    },
+    {
+      "name": "generated_message_outgoing_call",
+      "value": "Połączenie wychodzące"
+    },
+    {
+      "name": "generated_message_swarm_created",
+      "value": "Rozmowa utworzona"
+    },
+    {
+      "name": "generated_message_you_joined",
+      "value": "Dołączyłeś do rozmowy."
+    },
+    {
+      "name": "global_accept",
+      "value": "Akceptuj"
+    },
+    {
+      "name": "global_account_settings",
+      "value": "Ustawienia Konta"
+    },
+    {
+      "name": "global_block",
+      "value": "Blokuj"
+    },
+    {
+      "name": "global_block_contact",
+      "value": "Blokuj kontakt"
+    },
+    {
+      "name": "global_call",
+      "value": "Dzwoń"
+    },
+    {
+      "name": "global_camera_disabled",
+      "value": "Dostęp do kamery jest wyłączony. Włącz go w ustawieniach urządzenia, aby skorzystać z tej funkcji."
+    },
+    {
+      "name": "global_cancel",
+      "value": "Anuluj"
+    },
+    {
+      "name": "global_close",
+      "value": "Zamknij"
+    },
+    {
+      "name": "global_confirm",
+      "value": "Potwierdź"
+    },
+    {
+      "name": "global_confirm_password",
+      "value": "Potwierdź hasło"
+    },
+    {
+      "name": "global_connect",
+      "value": "Połącz"
+    },
+    {
+      "name": "global_copy",
+      "value": "Skopiuj"
+    },
+    {
+      "name": "global_create",
+      "value": "Stwórz"
+    },
+    {
+      "name": "global_decline",
+      "value": "Odrzuć"
+    },
+    {
+      "name": "global_delete_file",
+      "value": "Skasuj plik z urządzenia"
+    },
+    {
+      "name": "global_delete_message",
+      "value": "Usuń wiadomość"
+    },
+    {
+      "name": "global_edit",
+      "value": "Edytuj"
+    },
+    {
+      "name": "global_edit_message",
+      "value": "Edycja wiadomości"
+    },
+    {
+      "name": "global_edit_password",
+      "value": "Edytuj hasło"
+    },
+    {
+      "name": "global_editing",
+      "value": "Edycja"
+    },
+    {
+      "name": "global_enter_password",
+      "value": "Wprowadź hasło"
+    },
+    {
+      "name": "global_enter_username",
+      "value": "Wpisz nazwę użytkownika"
+    },
+    {
+      "name": "global_forward",
+      "value": "Przekaż"
+    },
+    {
+      "name": "global_incoming_call",
+      "value": "Połączenie przychodzące"
+    },
+    {
+      "name": "global_leave",
+      "value": "Wyjdź"
+    },
+    {
+      "name": "global_name",
+      "value": "Imię"
+    },
+    {
+      "name": "global_ok",
+      "value": "OK"
+    },
+    {
+      "name": "global_password",
+      "value": "Hasło"
+    },
+    {
+      "name": "global_preview",
+      "value": "Podgląd"
+    },
+    {
+      "name": "global_recommended",
+      "value": "Zalecane"
+    },
+    {
+      "name": "global_register_a_username",
+      "value": "Zarejestruj nazwę użytkownika"
+    },
+    {
+      "name": "global_remove",
+      "value": "Usuń"
+    },
+    {
+      "name": "global_remove_account",
+      "value": "Usuń konto"
+    },
+    {
+      "name": "global_reply",
+      "value": "Odpowiedz"
+    },
+    {
+      "name": "global_resend",
+      "value": "Wyślij ponownie"
+    },
+    {
+      "name": "global_save",
+      "value": "Zapisz"
+    },
+    {
+      "name": "global_search",
+      "value": "Szukanie..."
+    },
+    {
+      "name": "global_share",
+      "value": "Podziel się"
+    },
+    {
+      "name": "global_support_jami",
+      "value": "Wesprzyj projekt Jami"
+    },
+    {
+      "name": "global_time",
+      "value": "Czas"
+    },
+    {
+      "name": "global_username",
+      "value": "Nazwa użytkownika"
+    },
+    {
+      "name": "global_video",
+      "value": "Wideo"
+    },
+    {
+      "name": "import_from_archive_button_title",
+      "value": "Importuj"
+    },
+    {
+      "name": "import_from_archive_explanation",
+      "value": "Importuj konto Jami z lokalnego archiwum."
+    },
+    {
+      "name": "import_from_archive_password_explanation",
+      "value": "Jeśli konto jest chronione hasłem, proszę wypełnić poniższe pole."
+    },
+    {
+      "name": "import_from_archive_select_archive_button",
+      "value": "Wybierz plik archiwum"
+    },
+    {
+      "name": "import_from_archive_title",
+      "value": "Importuj z archiwum"
+    },
+    {
+      "name": "invitations_accepted",
+      "value": "Zaakceptowane"
+    },
+    {
+      "name": "invitations_blocked",
+      "value": "Zablokowany"
+    },
+    {
+      "name": "invitations_declined",
+      "value": "Odmowa"
+    },
+    {
+      "name": "invitations_list",
+      "value": "Otrzymano zaproszenia"
+    },
+    {
+      "name": "invitations_no_invitations",
+      "value": "Brak zaproszeń"
+    },
+    {
+      "name": "link_device_authentication_info",
+      "value": "Znaleziono nowe urządzenie pod następującym adresem IP. Czy to Ty? Aby kontynuować eksport konta, dotknij Potwierdź."
+    },
+    {
+      "name": "link_device_code",
+      "value": "kod"
+    },
+    {
+      "name": "link_device_completed",
+      "value": "Konto zostało z powodzeniem zaimportowane na nowe urządzenie."
+    },
+    {
+      "name": "link_device_connecting",
+      "value": "Łączenie z twoim nowym urządzeniem..."
+    },
+    {
+      "name": "link_device_error_code",
+      "value": "Wystąpił błąd podczas generowania kodu. Spróbuj ponownie."
+    },
+    {
+      "name": "link_device_error_network",
+      "value": "Podczas łączenia konta wystąpił błąd sieciowy. Sprawdź połączenie i spróbuj ponownie."
+    },
+    {
+      "name": "link_device_error_timeout",
+      "value": "Operacja przekroczyła limit czasu. Spróbuj ponownie."
+    },
+    {
+      "name": "link_device_error_wrong_data",
+      "value": "Wystąpił błąd podczas eksportowania konta. Spróbuj ponownie."
+    },
+    {
+      "name": "link_device_error_wrong_password",
+      "value": "Podczas łączenia urządzenia wystąpił błąd uwierzytelniania. Proszę sprawdzić dane logowania i spróbować ponownie."
+    },
+    {
+      "name": "link_device_export_in_progress",
+      "value": "Trwa eksport konta do nowego urządzenia. Potwierdź import na nowym urządzeniu."
+    },
+    {
+      "name": "link_device_info_add_account",
+      "value": "Wybierz Dodaj konto → Połącz z innego urządzenia."
+    },
+    {
+      "name": "link_device_info_code",
+      "value": "Gdy będziesz gotowy, wprowadź kod i dotknij Połącz."
+    },
+    {
+      "name": "link_device_info_qr_code",
+      "value": "Zeskanuj kod QR"
+    },
+    {
+      "name": "link_device_initial_info",
+      "value": "Na nowym urządzeniu, uruchom nowe konto."
+    },
+    {
+      "name": "link_device_network_error",
+      "value": "Błąd sieci podczas eksportu konta."
+    },
+    {
+      "name": "link_device_new_device_ip",
+      "value": "Nowy adres IP urządzenia: %1$s"
+    },
+    {
+      "name": "link_device_title",
+      "value": "Połącz nowe urządzenie"
+    },
+    {
+      "name": "link_device_wrong_entry",
+      "value": "Nierozpoznany nowy identyfikator urządzenia. Należy postępować zgodnie z powyższymi instrukcjami."
+    },
+    {
+      "name": "link_to_account_account_locked_with_password",
+      "value": "Konto jest chronione hasłem. Aby kontynuować, wprowadź hasło konta."
+    },
+    {
+      "name": "link_to_account_action_required",
+      "value": "Wymagane wykonanie akcji\nProszę potwierdź konto na urządzeniu źródłowym."
+    },
+    {
+      "name": "link_to_account_alert_message",
+      "value": "Zatrzymanie anuluje operację importu konta."
+    },
+    {
+      "name": "link_to_account_alert_tile",
+      "value": "Czy chcesz przerwać łączenie konta?"
+    },
+    {
+      "name": "link_to_account_all_set",
+      "value": "Konto zostało zaimportowane pomyślnie."
+    },
+    {
+      "name": "link_to_account_enter_provided_code",
+      "value": "Wpisz kod uwierzytelnienia."
+    },
+    {
+      "name": "link_to_account_exit",
+      "value": "Wyjdź"
+    },
+    {
+      "name": "link_to_account_export_instructions",
+      "value": "Rozpocznij eksportowanie w urządzeniu źródłowym."
+    },
+    {
+      "name": "link_to_account_export_instructions_path",
+      "value": "Wybierz Konto → Ustawienia konta → Połącz nowe urządzenie."
+    },
+    {
+      "name": "link_to_account_go_to_accounts",
+      "value": "Przejdź do zaimportowanego konta"
+    },
+    {
+      "name": "link_to_account_import_account",
+      "value": "Importuj konto"
+    },
+    {
+      "name": "link_to_account_scan_qr_code",
+      "value": "Zeskanuj kod QR"
+    },
+    {
+      "name": "link_to_account_share_message",
+      "value": "Twój kod to: %s"
+    },
+    {
+      "name": "link_to_account_show_pin_code",
+      "value": "Kod uwierzytelnienia"
+    },
+    {
+      "name": "link_to_account_show_qr_code",
+      "value": "Kod QR"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_label",
+      "value": "Wprowadź adres URL serwera zarządzającego."
+    },
+    {
+      "name": "link_to_account_manager_account_manager_placeholder",
+      "value": "Zarządzaj URL serwera"
+    },
+    {
+      "name": "link_to_account_manager_enter_credentials",
+      "value": "Wprowadź dane logowania serwera zarządzającego"
+    },
+    {
+      "name": "link_to_account_manager_jams_explanation",
+      "value": "Wprowadź adres URL serwera zarządzającego."
+    },
+    {
+      "name": "link_to_account_manager_sign_in",
+      "value": "Zaloguj się"
+    },
+    {
+      "name": "link_to_account_manager_title",
+      "value": "Konto serwera zarządzającego"
+    },
+    {
+      "name": "log_view_description",
+      "value": "Otwórz ustawienia logów diagnostycznych"
+    },
+    {
+      "name": "log_view_save_error",
+      "value": "Błąd zapisu pliku."
+    },
+    {
+      "name": "log_view_share_error",
+      "value": "Błąd w udostępnianiu pliku."
+    },
+    {
+      "name": "log_view_start_logging",
+      "value": "Zacznij logowanie"
+    },
+    {
+      "name": "log_view_stop_logging",
+      "value": "Stop logowania"
+    },
+    {
+      "name": "log_view_title",
+      "value": "Diagnostyka"
+    },
+    {
+      "name": "migrate_account_error",
+      "value": "Błąd migracji konta. Spróbuj ponownie lub usuń konto."
+    },
+    {
+      "name": "migrate_account_explanation",
+      "value": "Konto wymaga migracji"
+    },
+    {
+      "name": "migrate_account_migrate_another",
+      "value": "Przenieś Inne Konto"
+    },
+    {
+      "name": "migrate_account_migrate_button",
+      "value": "Przenieś Konto"
+    },
+    {
+      "name": "migrate_account_migrating",
+      "value": "Migracja w toku…"
+    },
+    {
+      "name": "migrate_account_password_explanation",
+      "value": "Aby kontynuować migrację konta, wprowadź hasło konta."
+    },
+    {
+      "name": "migrate_account_title",
+      "value": "Przenoszenie konta"
+    },
+    {
+      "name": "notifications_location_sharing_started",
+      "value": "Przychodzące udostępnianie lokalizacji rozpoczęte"
+    },
+    {
+      "name": "notifications_location_sharing_stopped",
+      "value": "Przychodzące udostępnianie lokalizacji zakończone"
+    },
+    {
+      "name": "notifications_missed_call",
+      "value": "Nieodebrane połączenie"
+    },
+    {
+      "name": "notifications_new_file",
+      "value": "Nowy plik"
+    },
+    {
+      "name": "peer_services_done",
+      "value": "Gotowe"
+    },
+    {
+      "name": "peer_services_empty",
+      "value": "Brak dostępnych usług współdzielonych"
+    },
+    {
+      "name": "peer_services_error_offline",
+      "value": "Kontakt jest offline"
+    },
+    {
+      "name": "peer_services_error_timeout",
+      "value": "Przekroczono limit czasu żądania"
+    },
+    {
+      "name": "peer_services_error_unknown",
+      "value": "Nie można pobrać usług"
+    },
+    {
+      "name": "peer_services_error_unreachable",
+      "value": "Kontakt jest nieosiągalny"
+    },
+    {
+      "name": "peer_services_not_supported",
+      "value": "Nieobsługiwane"
+    },
+    {
+      "name": "peer_services_open",
+      "value": "Otwórz"
+    },
+    {
+      "name": "peer_services_refresh",
+      "value": "Odśwież usługi"
+    },
+    {
+      "name": "peer_services_title",
+      "value": "Usługi współdzielone"
+    },
+    {
+      "name": "photo_capture_retake",
+      "value": "Powtórz"
+    },
+    {
+      "name": "photo_capture_use_photo",
+      "value": "Użyj zdjęcia"
+    },
+    {
+      "name": "profile_editor_change_picture",
+      "value": "Zmień zdjęcie"
+    },
+    {
+      "name": "profile_editor_change_picture_hint",
+      "value": "Choose a new picture from the camera or photo library"
+    },
+    {
+      "name": "profile_editor_contact_name_placeholder",
+      "value": "Enter a name"
+    },
+    {
+      "name": "profile_editor_description",
+      "value": "Opis"
+    },
+    {
+      "name": "profile_editor_description_placeholder",
+      "value": "Enter a description"
+    },
+    {
+      "name": "profile_editor_discard",
+      "value": "Odrzuć"
+    },
+    {
+      "name": "profile_editor_discard_message",
+      "value": "Your unsaved changes will be lost."
+    },
+    {
+      "name": "profile_editor_discard_title",
+      "value": "Discard changes?"
+    },
+    {
+      "name": "profile_editor_edit_contact",
+      "value": "Edit contact"
+    },
+    {
+      "name": "profile_editor_edit_contact_hint",
+      "value": "Opens the contact editor"
+    },
+    {
+      "name": "profile_editor_edit_group",
+      "value": "Edit group"
+    },
+    {
+      "name": "profile_editor_edit_group_hint",
+      "value": "Opens the group editor"
+    },
+    {
+      "name": "profile_editor_group_name_placeholder",
+      "value": "Enter a group name"
+    },
+    {
+      "name": "profile_editor_local_changes_footer",
+      "value": "This name and picture are visible only on this device."
+    },
+    {
+      "name": "profile_editor_name",
+      "value": "Imię"
+    },
+    {
+      "name": "profile_editor_no_picture",
+      "value": "No picture"
+    },
+    {
+      "name": "profile_editor_picture_selected",
+      "value": "Picture selected"
+    },
+    {
+      "name": "profile_editor_remove_picture",
+      "value": "Remove picture"
+    },
+    {
+      "name": "profile_editor_reset_original",
+      "value": "Use original name and picture"
+    },
+    {
+      "name": "profile_editor_reset_original_hint",
+      "value": "Restores the name and picture this contact set for themselves"
+    },
+    {
+      "name": "profile_editor_reset_picture",
+      "value": "Use original picture"
+    },
+    {
+      "name": "profile_editor_save_error",
+      "value": "The changes could not be saved. Please try again."
+    },
+    {
+      "name": "scan_bad_qr_code",
+      "value": "Niepoprawny kod QR"
+    },
+    {
+      "name": "share_extension_accessibility_select_account",
+      "value": "Dotknij dwukrotnie, aby wybrać to konto"
+    },
+    {
+      "name": "share_extension_accessibility_select_conversation",
+      "value": "Dotknij dwukrotnie, aby wybrać tę rozmowę"
+    },
+    {
+      "name": "share_extension_accessibility_selected_account",
+      "value": "Wybrane konto: %s. Dotknij dwukrotnie, aby zmienić konto."
+    },
+    {
+      "name": "share_extension_accessibility_send_button",
+      "value": "Dotknij dwukrotnie, aby wysłać do wybranych rozmów"
+    },
+    {
+      "name": "share_extension_no_account_description",
+      "value": "Aby kontynuować, utwórz konto w aplikacji głównej."
+    },
+    {
+      "name": "share_extension_no_account_title",
+      "value": "Nie znaleziono konta"
+    },
+    {
+      "name": "share_extension_no_search_results",
+      "value": "Żadne rozmowy nie pasują do wyszukiwania"
+    },
+    {
+      "name": "share_extension_search_conversations",
+      "value": "Szukaj rozmów"
+    },
+    {
+      "name": "share_extension_select_account_title",
+      "value": "Wybierz konto"
+    },
+    {
+      "name": "share_extension_send_to_conversation",
+      "value": "Wyślij do %d rozmowy"
+    },
+    {
+      "name": "share_extension_send_to_conversations_plural",
+      "value": "Wyślij do %d rozmów"
+    },
+    {
+      "name": "share_extension_sending",
+      "value": "Wysyłanie…"
+    },
+    {
+      "name": "share_extension_try_different_filter",
+      "value": "Spróbuj innego filtra"
+    },
+    {
+      "name": "share_extension_unsupported_type_description",
+      "value": "Udostępnianie wybranej zawartości jest obecnie nieobsługiwane."
+    },
+    {
+      "name": "share_extension_unsupported_type_title",
+      "value": "Nieobsługiwana zawartość"
+    },
+    {
+      "name": "smartlist_about_jami",
+      "value": "O Jami"
+    },
+    {
+      "name": "smartlist_accounts",
+      "value": "Konta"
+    },
+    {
+      "name": "smartlist_accounts_title",
+      "value": "Konta"
+    },
+    {
+      "name": "smartlist_add_account_button",
+      "value": "+ Dodaj konto"
+    },
+    {
+      "name": "smartlist_cellular_access",
+      "value": "Upewnij się, że aplikacja ma dostęp do danych mobilnych."
+    },
+    {
+      "name": "smartlist_conversations",
+      "value": "Rozmowy"
+    },
+    {
+      "name": "smartlist_conversations_search_hint",
+      "value": "You don't have any conversations yet."
+    },
+    {
+      "name": "smartlist_dialpad",
+      "value": "Keypad"
+    },
+    {
+      "name": "smartlist_disable_donation",
+      "value": "Nie w tej chwili"
+    },
+    {
+      "name": "smartlist_donation_explanation",
+      "value": "Jeśli lubisz użytkować Jami i wierzysz w naszą misję, czy rozważysz wykonanie dotacji?"
+    },
+    {
+      "name": "smartlist_in_synchronization",
+      "value": "Synchronizacja…"
+    },
+    {
+      "name": "smartlist_invitation_received",
+      "value": "Otrzymano zaproszenia"
+    },
+    {
+      "name": "smartlist_invitations",
+      "value": "Zaproszenia"
+    },
+    {
+      "name": "smartlist_invite_friends",
+      "value": "Zaproś znajomych"
+    },
+    {
+      "name": "smartlist_jams_directory_hint",
+      "value": "People in your organization outside your contacts."
+    },
+    {
+      "name": "smartlist_jams_results",
+      "value": "Organization directory"
+    },
+    {
+      "name": "smartlist_new_contact",
+      "value": "Nowy kontakt"
+    },
+    {
+      "name": "smartlist_new_group",
+      "value": "Nowa grupa"
+    },
+    {
+      "name": "smartlist_no_conversation",
+      "value": "Brak konwersacji"
+    },
+    {
+      "name": "smartlist_no_conversations_found",
+      "value": "Nie znaleziono rozmów podobnych do wyszukiwania "
+    },
+    {
+      "name": "smartlist_no_network_connectivity",
+      "value": "Brak połączenia z siecią"
+    },
+    {
+      "name": "smartlist_no_number",
+      "value": "Zaznaczony kontakt nie ma żadnego numeru"
+    },
+    {
+      "name": "smartlist_no_results",
+      "value": "Brak rezultatów"
+    },
+    {
+      "name": "smartlist_public_directory_hint",
+      "value": "People on Jami outside your contacts."
+    },
+    {
+      "name": "smartlist_results",
+      "value": "Publiczny katalog"
+    },
+    {
+      "name": "smartlist_search_bar",
+      "value": "Szukaj"
+    },
+    {
+      "name": "smartlist_search_bar_placeholder",
+      "value": "Wprowadź nazwę..."
+    },
+    {
+      "name": "smartlist_select_one_number",
+      "value": "Wybierz jeden z numerów"
+    },
+    {
+      "name": "smartlist_yesterday",
+      "value": "Wczoraj"
+    },
+    {
+      "name": "swarm_leave",
+      "value": "Wyjdź"
+    },
+    {
+      "name": "swarm_accessibility_color_picker",
+      "value": "Wybierz kolor rozmowy"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code",
+      "value": "Pokaż kod QR"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code_hint",
+      "value": "Otwiera okno z kodem QR kontaktu"
+    },
+    {
+      "name": "swarm_accessibility_contact_share_hint",
+      "value": "Otwiera opcje udostępniania informacji o kontakcie"
+    },
+    {
+      "name": "swarm_admin",
+      "value": "Administrator"
+    },
+    {
+      "name": "swarm_admin_invites_only",
+      "value": "Grupy prywatne (z ograniczoną zaproszeniem)"
+    },
+    {
+      "name": "swarm_blocked",
+      "value": "Zablokowany"
+    },
+    {
+      "name": "swarm_change_picture",
+      "value": "Zmień zdjęcie grupy"
+    },
+    {
+      "name": "swarm_choose_color",
+      "value": "Kolor rozmowy"
+    },
+    {
+      "name": "swarm_confirm_leave_conversation",
+      "value": "Czy chcesz opuścić tę konwersację?"
+    },
+    {
+      "name": "swarm_contact_header",
+      "value": "Kontakt"
+    },
+    {
+      "name": "swarm_conversation_ended",
+      "value": "Rozmowa zakończona"
+    },
+    {
+      "name": "swarm_conversation_header",
+      "value": "Rozmowa"
+    },
+    {
+      "name": "swarm_conversation_id",
+      "value": "Identyfikator rozmowy"
+    },
+    {
+      "name": "swarm_customize",
+      "value": "Dostosuj grupę"
+    },
+    {
+      "name": "swarm_customize_profile",
+      "value": "Dostosuj profil grupy"
+    },
+    {
+      "name": "swarm_explanation_text",
+      "value": "Członkowie mogą być zaproszeni w każdej chwili po tym, jak grupa zostanie utworzona."
+    },
+    {
+      "name": "swarm_identifier",
+      "value": "Identyfikator"
+    },
+    {
+      "name": "swarm_invite",
+      "value": "Invite"
+    },
+    {
+      "name": "swarm_invite_members",
+      "value": "Zaproś członków"
+    },
+    {
+      "name": "swarm_invite_members_not_selected",
+      "value": "Niewybrane"
+    },
+    {
+      "name": "swarm_invite_members_selected",
+      "value": "Wybrane"
+    },
+    {
+      "name": "swarm_invite_selected_members",
+      "value": "Zaproś wybrane kontakty"
+    },
+    {
+      "name": "swarm_invited",
+      "value": "Zaproszone"
+    },
+    {
+      "name": "swarm_invites_only",
+      "value": "Grupy prywatne"
+    },
+    {
+      "name": "swarm_leave_conversation",
+      "value": "/Nie mówcie o tym."
+    },
+    {
+      "name": "swarm_left",
+      "value": "Opuścił(a)"
+    },
+    {
+      "name": "swarm_member",
+      "value": "Członek"
+    },
+    {
+      "name": "swarm_members",
+      "value": "Użytkownicy"
+    },
+    {
+      "name": "swarm_mute_conversation",
+      "value": "Nie mówcie nic."
+    },
+    {
+      "name": "swarm_name_placeholder",
+      "value": "Nazwa grupy"
+    },
+    {
+      "name": "swarm_new_group",
+      "value": "Utwórz nową grupę"
+    },
+    {
+      "name": "swarm_one_to_one",
+      "value": "Prywatne"
+    },
+    {
+      "name": "swarm_others",
+      "value": "Inne"
+    },
+    {
+      "name": "swarm_public_chat",
+      "value": "Grupa publiczna"
+    },
+    {
+      "name": "swarm_remove_contact",
+      "value": "Usuń kontakt"
+    },
+    {
+      "name": "swarm_remove_conversation",
+      "value": "Usuń rozmowę"
+    },
+    {
+      "name": "swarm_restart_conversation",
+      "value": "Uruchom ponownie rozmowę"
+    },
+    {
+      "name": "swarm_select_contacts",
+      "value": "Wybierz kontakty"
+    },
+    {
+      "name": "swarm_settings",
+      "value": "Ustawienia"
+    },
+    {
+      "name": "swarm_share_contact_info",
+      "value": "Udostępnij informacje kontaktowe"
+    },
+    {
+      "name": "swarm_share_contact_message",
+      "value": "Możesz dodać ten kontakt, %1$s, w platformie komunikacyjnej Jami: https://jami.net"
+    },
+    {
+      "name": "swarm_show_contact_qr_code",
+      "value": "Pokaż kod QR"
+    },
+    {
+      "name": "swarm_type_of_swarm",
+      "value": "Typ konwersacji"
+    },
+    {
+      "name": "swarm_unknown",
+      "value": "Nieznane"
+    },
+    {
+      "name": "swarm_colors_amber",
+      "value": "Bursztynowy"
+    },
+    {
+      "name": "swarm_colors_bright_orange",
+      "value": "Jasnopomarańczowy"
+    },
+    {
+      "name": "swarm_colors_brown",
+      "value": "Brązowy"
+    },
+    {
+      "name": "swarm_colors_cyan",
+      "value": "Cyjan"
+    },
+    {
+      "name": "swarm_colors_green",
+      "value": "Zielony"
+    },
+    {
+      "name": "swarm_colors_indigo_blue",
+      "value": "Indygo"
+    },
+    {
+      "name": "swarm_colors_lime_green",
+      "value": "Limonkowy"
+    },
+    {
+      "name": "swarm_colors_medium_gray",
+      "value": "Średni szary"
+    },
+    {
+      "name": "swarm_colors_purple",
+      "value": "Purpurowy"
+    },
+    {
+      "name": "swarm_colors_sky_blue",
+      "value": "Błękitny"
+    },
+    {
+      "name": "swarm_colors_steel_blue",
+      "value": "Stalowoniebieski"
+    },
+    {
+      "name": "swarm_colors_teal",
+      "value": "Morski"
+    },
+    {
+      "name": "swarm_colors_vibrant_pink",
+      "value": "Jaskrawy róż"
+    },
+    {
+      "name": "swarm_colors_violet",
+      "value": "Fioletowy"
+    },
+    {
+      "name": "swarm_colors_yellow_green",
+      "value": "Żółtozielony"
+    },
+    {
+      "name": "swarmcreation_add_description",
+      "value": "Dodaj opis"
+    },
+    {
+      "name": "swarmcreation_search_bar",
+      "value": "Szukaj kontaktu..."
+    },
+    {
+      "name": "welcome_connect_to_jams",
+      "value": "Połącz z serwerem zarządzającym"
+    },
+    {
+      "name": "welcome_create_account",
+      "value": "Utworz konto Jami"
+    },
+    {
+      "name": "welcome_have_account",
+      "value": "Mam już konto."
+    },
+    {
+      "name": "welcome_link_backup",
+      "value": "Importuj z archiwum kopii zapasowej"
+    },
+    {
+      "name": "welcome_link_device",
+      "value": "Importuje się z innego urządzenia"
+    },
+    {
+      "name": "welcome_text",
+      "value": "Ring jest wolnym oprogramowaniem do uniwersalnej komunikacji, respektującym wolności i prywatność swoich użytkowników"
+    },
+    {
+      "name": "welcome_title",
+      "value": "Udostępniaj, swobodnie i prywatnie z Jami"
+    },
+    {
+      "name": "media_preview_date_time",
+      "value": "%1$s, %2$s"
+    },
+    {
+      "name": "media_preview_react",
+      "value": "React"
+    },
+    {
+      "name": "media_preview_more_actions",
+      "value": "Więcej"
+    },
+    {
+      "name": "media_preview_more_emoji",
+      "value": "More emoji"
+    },
+    {
+      "name": "accessibility_audio_player_mute",
+      "value": "Wycisz"
+    },
+    {
+      "name": "accessibility_audio_player_unmute",
+      "value": "Wyłącz wyciszenie"
+    },
+    {
+      "name": "accessibility_message_reactions",
+      "value": "Reactions"
+    },
+    {
+      "name": "accessibility_remove_reaction",
+      "value": "Remove %s"
+    },
+    {
+      "name": "media_preview_live_text",
+      "value": "Live Text"
+    }
+  ]
+}

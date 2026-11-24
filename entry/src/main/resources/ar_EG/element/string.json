@@ -1,0 +1,3020 @@
+{
+  "string": [
+    {
+      "name": "about_jami_community_management",
+      "value": "إدارة المجتمع"
+    },
+    {
+      "name": "about_jami_contribute",
+      "value": "مساهمة"
+    },
+    {
+      "name": "about_jami_declaration1",
+      "value": "جامي، وهو حزمة من GNU، هو برنامج للتواصل الشامل والموزّع من الند للند يحترم حرية مستخدميه وخصوصيتهم. تفضّل بزيارة"
+    },
+    {
+      "name": "about_jami_declaration2",
+      "value": "لمعرفة المزيد."
+    },
+    {
+      "name": "about_jami_developers",
+      "value": "المطوّرون"
+    },
+    {
+      "name": "about_jami_feedback",
+      "value": "سبر راي"
+    },
+    {
+      "name": "about_jami_header",
+      "value": "نود أن نشكر مساهمينا، الذين جعلت جهودهم على مدى سنوات عديدة هذا البرنامج كما هو عليه."
+    },
+    {
+      "name": "about_jami_info",
+      "value": "هذه قائمة بالأشخاص الذين استثمروا قدرًا كبيرًا من الوقت، بنتائج مفيدة، في Jami. يمكن لأي من هؤلاء المساهمين الذين يرغبون في إضافتهم إلى القائمة الاتصال بنا."
+    },
+    {
+      "name": "about_jami_media",
+      "value": "وسائط"
+    },
+    {
+      "name": "about_jami_no_warranty1",
+      "value": "يأتي هذا البرنامج دون أي ضمان على الإطلاق. راجع"
+    },
+    {
+      "name": "about_jami_no_warranty2",
+      "value": "الإصدار 3 أو أحدث للتفاصيل."
+    },
+    {
+      "name": "about_jami_special_thanks",
+      "value": "شكر خاص لـ"
+    },
+    {
+      "name": "accessibility_about_jami_title",
+      "value": "حول جامي"
+    },
+    {
+      "name": "accessibility_account_token_q_rcode",
+      "value": "رمز QR للرمز المميّز"
+    },
+    {
+      "name": "accessibility_account_summary_edit_profile_hint",
+      "value": "انقر نقرًا مزدوجًا لتعديل الملف الشخصي"
+    },
+    {
+      "name": "accessibility_account_summary_edit_settings_button",
+      "value": "الإعدادات"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code",
+      "value": "رمز الإستجابة السريعة"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code_hint",
+      "value": "انقر نقرًا مزدوجًا لعرض رمز QR للحساب"
+    },
+    {
+      "name": "accessibility_audio_player_pause",
+      "value": "إيقاف مؤقت"
+    },
+    {
+      "name": "accessibility_audio_player_play",
+      "value": "تشغيل"
+    },
+    {
+      "name": "accessibility_avatar_collapse_hint",
+      "value": "Double-tap to shrink the picture"
+    },
+    {
+      "name": "accessibility_avatar_expand_hint",
+      "value": "Double-tap to enlarge the picture"
+    },
+    {
+      "name": "accessibility_call_lasted",
+      "value": "استمرت %s"
+    },
+    {
+      "name": "accessibility_calls_alter_add_participant",
+      "value": "أضف مشارك"
+    },
+    {
+      "name": "accessibility_calls_alter_end_call",
+      "value": "إنهاء المكالمة"
+    },
+    {
+      "name": "accessibility_calls_alter_open_conversation",
+      "value": "محادثة مفتوحة"
+    },
+    {
+      "name": "accessibility_calls_alter_pause_call",
+      "value": "استئناف المكالمة"
+    },
+    {
+      "name": "accessibility_calls_alter_raise_hand",
+      "value": "اليد السفلى"
+    },
+    {
+      "name": "accessibility_calls_alter_show_dialpad",
+      "value": "عرض لوحة الاتصال"
+    },
+    {
+      "name": "accessibility_calls_alter_switch_camera",
+      "value": "تبديل الكاميرا"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_audio",
+      "value": "إلغاء كتم الميكروفون"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_speaker",
+      "value": "إيقاف مكبر الصوت"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_video",
+      "value": "أوقف الكاميرا"
+    },
+    {
+      "name": "accessibility_calls_default_add_participant",
+      "value": "أضف مشارك"
+    },
+    {
+      "name": "accessibility_calls_default_end_call",
+      "value": "إنهاء المكالمة"
+    },
+    {
+      "name": "accessibility_calls_default_open_conversation",
+      "value": "محادثة مفتوحة"
+    },
+    {
+      "name": "accessibility_calls_default_pause_call",
+      "value": "وقفة المكالمة"
+    },
+    {
+      "name": "accessibility_calls_default_raise_hand",
+      "value": "رفع اليد"
+    },
+    {
+      "name": "accessibility_calls_default_show_dialpad",
+      "value": "عرض لوحة الاتصال"
+    },
+    {
+      "name": "accessibility_calls_default_switch_camera",
+      "value": "تبديل الكاميرا"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_audio",
+      "value": "كتم ميكروفون"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_speaker",
+      "value": "تشغيل مكبر الصوت"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_video",
+      "value": "بدء الكاميرا"
+    },
+    {
+      "name": "accessibility_close",
+      "value": "إغلاق"
+    },
+    {
+      "name": "accessibility_conference_camera_off",
+      "value": "Camera off"
+    },
+    {
+      "name": "accessibility_conference_crop_video",
+      "value": "Crop video"
+    },
+    {
+      "name": "accessibility_conference_end_call",
+      "value": "إنهاء المكالمة"
+    },
+    {
+      "name": "accessibility_conference_hand_raised",
+      "value": "يدي مرتفعة"
+    },
+    {
+      "name": "accessibility_conference_hide_local_preview",
+      "value": "Hide your video"
+    },
+    {
+      "name": "accessibility_conference_local_preview",
+      "value": "Your video"
+    },
+    {
+      "name": "accessibility_conference_lower_hand",
+      "value": "اليد السفلى"
+    },
+    {
+      "name": "accessibility_conference_maximize",
+      "value": "تكبير"
+    },
+    {
+      "name": "accessibility_conference_microphone_muted",
+      "value": "Microphone muted"
+    },
+    {
+      "name": "accessibility_conference_minimize",
+      "value": "خفض"
+    },
+    {
+      "name": "accessibility_conference_moderator",
+      "value": "المُتَدَلِّل"
+    },
+    {
+      "name": "accessibility_conference_mute_audio",
+      "value": "كتم الصوت"
+    },
+    {
+      "name": "accessibility_conference_recording",
+      "value": "تسجيل"
+    },
+    {
+      "name": "accessibility_conference_set_moderator",
+      "value": "حدد المدير"
+    },
+    {
+      "name": "accessibility_conference_show_full_video",
+      "value": "Show full video"
+    },
+    {
+      "name": "accessibility_conference_show_local_preview",
+      "value": "Show your video"
+    },
+    {
+      "name": "accessibility_conference_show_participants",
+      "value": "Show participants"
+    },
+    {
+      "name": "accessibility_conference_speaking",
+      "value": "Speaking"
+    },
+    {
+      "name": "accessibility_conference_unmute_audio",
+      "value": "صوت غير محكم"
+    },
+    {
+      "name": "accessibility_conference_unset_moderator",
+      "value": "إزالة المدير"
+    },
+    {
+      "name": "accessibility_conversation_camera_hint",
+      "value": "انقر نقرًا مزدوجًا لفتح الكاميرا"
+    },
+    {
+      "name": "accessibility_conversation_compose_message",
+      "value": "كتابة رسالة"
+    },
+    {
+      "name": "accessibility_conversation_row_blocked",
+      "value": "المحادثة محظورة"
+    },
+    {
+      "name": "accessibility_conversation_row_last_message",
+      "value": "آخر رسالة في %s"
+    },
+    {
+      "name": "accessibility_conversation_row_syncing",
+      "value": "المزامنة جارية"
+    },
+    {
+      "name": "accessibility_conversation_row_unread_count",
+      "value": "%s رسائل غير مقروءة."
+    },
+    {
+      "name": "accessibility_conversation_share_media",
+      "value": "مشاركة الوسائط"
+    },
+    {
+      "name": "accessibility_conversation_start_video_call",
+      "value": "بدء مكالمة فيديو مع %s"
+    },
+    {
+      "name": "accessibility_conversation_start_voice_call",
+      "value": "بدء مكالمة صوتية مع %s"
+    },
+    {
+      "name": "accessibility_create_account_verify_username_prompt",
+      "value": "أدخل اسم المستخدم للتحقق من التوفّر."
+    },
+    {
+      "name": "accessibility_file_transfer_received_on",
+      "value": "ملف: %1$s، تم استلامه في %2$s"
+    },
+    {
+      "name": "accessibility_file_transfer_sent_on",
+      "value": "ملف: %1$s، تم إرساله في %2$s"
+    },
+    {
+      "name": "accessibility_file_transfer_no_name",
+      "value": "تم استلام ملف في %s، الاسم غير متوفر"
+    },
+    {
+      "name": "accessibility_in_reply",
+      "value": "ردًا على رسالة"
+    },
+    {
+      "name": "accessibility_message_bubble_deleted",
+      "value": "تم حذف الرسالة"
+    },
+    {
+      "name": "accessibility_message_bubble_edited",
+      "value": "تحرير"
+    },
+    {
+      "name": "accessibility_message_bubble_read",
+      "value": "مقروءة"
+    },
+    {
+      "name": "accessibility_message_bubble_unread",
+      "value": "غير مقروءة"
+    },
+    {
+      "name": "accessibility_pending_requests_list_accept_invitation",
+      "value": "قبول الدعوة"
+    },
+    {
+      "name": "accessibility_pending_requests_list_block_user",
+      "value": "حظر مُرسِل الدعوة"
+    },
+    {
+      "name": "accessibility_pending_requests_list_reject_invitation",
+      "value": "رفض الدعوة"
+    },
+    {
+      "name": "accessibility_pending_requests_row_hint",
+      "value": "انقر نقرًا مزدوجًا لمراجعة الدعوات التي استلمتها والرد عليها"
+    },
+    {
+      "name": "accessibility_pending_requests_row_plural",
+      "value": "الدعوات المستلمة: %s دعوات معلّقة"
+    },
+    {
+      "name": "accessibility_pending_requests_row_singular",
+      "value": "دعوة مستلمة: %s دعوة معلّقة"
+    },
+    {
+      "name": "accessibility_profile_picture_picker",
+      "value": "صورة الملف الشخصي"
+    },
+    {
+      "name": "accessibility_profile_picture_picker_hint",
+      "value": "انقر نقرًا مزدوجًا لالتقاط صورة أو تحديد صورة من المكتبة"
+    },
+    {
+      "name": "accessibility_smart_list_add_account",
+      "value": "أضف حساب"
+    },
+    {
+      "name": "accessibility_smart_list_connected_as",
+      "value": "الحساب الحالي هو %s"
+    },
+    {
+      "name": "accessibility_smart_list_switch_accounts",
+      "value": "تبديل الحساب"
+    },
+    {
+      "name": "accessibility_swarm_picture_picker",
+      "value": "صورة المجموعة"
+    },
+    {
+      "name": "accessibility_text_received_on",
+      "value": "%1$s، تم استلام الرسالة في %2$s"
+    },
+    {
+      "name": "accessibility_text_sent_on",
+      "value": "%1$s، تم إرسال الرسالة في %2$s"
+    },
+    {
+      "name": "accessibility_text_not_available",
+      "value": "تم استلام رسالة نصية فارغة في %s. قد لا تكون قد أُرسلت بشكل صحيح."
+    },
+    {
+      "name": "accessibility_user_presence_available",
+      "value": "متاح"
+    },
+    {
+      "name": "accessibility_user_presence_online",
+      "value": "نشط"
+    },
+    {
+      "name": "accessibility_welcome_to_jami_title",
+      "value": "مرحبا بك في جامي"
+    },
+    {
+      "name": "account_account_status",
+      "value": "حالة الحساب"
+    },
+    {
+      "name": "account_advanced_features",
+      "value": "الميزات المتقدمة"
+    },
+    {
+      "name": "account_configure",
+      "value": "ترتيب"
+    },
+    {
+      "name": "account_create_sip_account",
+      "value": "إعداد حساب SIP"
+    },
+    {
+      "name": "account_enable_account",
+      "value": "تمكين الحساب"
+    },
+    {
+      "name": "account_me",
+      "value": "شخصي"
+    },
+    {
+      "name": "account_need_migration",
+      "value": "يتطلّب الحساب الترحيل."
+    },
+    {
+      "name": "account_port",
+      "value": "نقطة عبور ( port )"
+    },
+    {
+      "name": "account_port_label",
+      "value": "إدخال رقم الميناء"
+    },
+    {
+      "name": "account_proxy_server",
+      "value": "الوكيل"
+    },
+    {
+      "name": "account_server_label",
+      "value": "إدخال العنوان"
+    },
+    {
+      "name": "account_sip_account",
+      "value": "حساب SIP"
+    },
+    {
+      "name": "account_sip_server",
+      "value": "الخادم"
+    },
+    {
+      "name": "account_status_connecting",
+      "value": "يتم الإتصال"
+    },
+    {
+      "name": "account_status_connectionerror",
+      "value": "خطأ الاتصال"
+    },
+    {
+      "name": "account_status_offline",
+      "value": "خامل"
+    },
+    {
+      "name": "account_status_online",
+      "value": "نشط"
+    },
+    {
+      "name": "account_status_unknown",
+      "value": "مجهول"
+    },
+    {
+      "name": "account_page_account_header",
+      "value": "الحساب"
+    },
+    {
+      "name": "account_page_account_identity",
+      "value": "هوية الحساب"
+    },
+    {
+      "name": "account_page_account_settings_explanation",
+      "value": "ستنطبق هذه الإعدادات على هذا الحساب فقط."
+    },
+    {
+      "name": "account_page_allow_ip_auto_rewrite",
+      "value": "السماح بإعادة كتابة IP تلقائيًا"
+    },
+    {
+      "name": "account_page_app_settings",
+      "value": "إعدادات التطبيق"
+    },
+    {
+      "name": "account_page_app_settings_explanation",
+      "value": "ستنطبق هذه الإعدادات على التطبيق بأكمله."
+    },
+    {
+      "name": "account_page_auto_registration",
+      "value": "سجل السيارات بعد انتهاء الصلاحية"
+    },
+    {
+      "name": "account_page_blocked_contacts",
+      "value": "جهات إتصال محظورة"
+    },
+    {
+      "name": "account_page_booth_mode_alert_message",
+      "value": "بعد تفعيل وضع الكشك، ستتم إزالة جميع المحادثات."
+    },
+    {
+      "name": "account_page_booth_mode_explanation",
+      "value": "في وضع الكشك لا يتم حفظ تاريخ المحادثات و وظائف jami محدودة من خلال إجراء المكالمات الخارجة. عندما تمكن من وضع الكشك سيتم إزالة جميع المحادثات الخاصة بك."
+    },
+    {
+      "name": "account_page_bootstrap",
+      "value": "تشغيل ذاتي"
+    },
+    {
+      "name": "account_page_calls_from_unknown_contacts",
+      "value": "السماح بالمكالمات من جهات اتصال غير معروفة."
+    },
+    {
+      "name": "account_page_change_password",
+      "value": "تغيير كلمة المرور"
+    },
+    {
+      "name": "account_page_change_password_error",
+      "value": "كلمة مرور خاطئة"
+    },
+    {
+      "name": "account_page_chats",
+      "value": "المحادثات"
+    },
+    {
+      "name": "account_page_connectivity_and_configuration",
+      "value": "الاتصال والإعدادات"
+    },
+    {
+      "name": "account_page_connectivity_header",
+      "value": "الاتصال"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_contant",
+      "value": "تواصل معي باستخدام «%s» على منصة جامي للتواصل الموزّع: https://jami.net"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_title",
+      "value": "اتصل بي عن (جامي)!"
+    },
+    {
+      "name": "account_page_create_password",
+      "value": "تعيين كلمة المرور"
+    },
+    {
+      "name": "account_page_current_password_placeholder",
+      "value": "إدخال كلمة المرور الحالية"
+    },
+    {
+      "name": "account_page_current_proxy",
+      "value": "الوكيل الحالي"
+    },
+    {
+      "name": "account_page_device_revocation_error",
+      "value": "خطأ إلغاء الجهاز"
+    },
+    {
+      "name": "account_page_device_revocation_progress",
+      "value": "جارٍ الإزالة…"
+    },
+    {
+      "name": "account_page_device_revocation_success",
+      "value": "تمت إزالة الجهاز"
+    },
+    {
+      "name": "account_page_device_revocation_try_again",
+      "value": "حاول مرة أخرى"
+    },
+    {
+      "name": "account_page_device_revocation_unknown_device",
+      "value": "جهاز مجهول"
+    },
+    {
+      "name": "account_page_device_revocation_wrong_password",
+      "value": "كلمة مرور خاطئة"
+    },
+    {
+      "name": "account_page_device_revoked",
+      "value": "إعادة إلغاء الجهاز قد تم الانتهاء منها"
+    },
+    {
+      "name": "account_page_devices_list_header",
+      "value": "الأجهزة"
+    },
+    {
+      "name": "account_page_dht_configuration",
+      "value": "تهيئة OpenDHT"
+    },
+    {
+      "name": "account_page_disable_booth_mode",
+      "value": "إيقاف وضع المرفق"
+    },
+    {
+      "name": "account_page_disable_booth_mode_explanation",
+      "value": "يرجى إدخال كلمة مرور الحساب"
+    },
+    {
+      "name": "account_page_edit_profile",
+      "value": "تعديل الملف الشخصي"
+    },
+    {
+      "name": "account_page_edit_sip_expiration_time",
+      "value": "وقت انتهاء الصلاحية"
+    },
+    {
+      "name": "account_page_enable_booth_mode",
+      "value": "تمكين وضع المرفق"
+    },
+    {
+      "name": "account_page_enable_notifications",
+      "value": "تمكين الإخطارات"
+    },
+    {
+      "name": "account_page_enable_srtp",
+      "value": "تمكين تبادل مفتاح SDES"
+    },
+    {
+      "name": "account_page_encrypt_account",
+      "value": "كلمة السر"
+    },
+    {
+      "name": "account_page_encrypt_negotiation",
+      "value": "نظام تشفير التفاوض (TLS)"
+    },
+    {
+      "name": "account_page_generating_pin",
+      "value": "جارٍ إنشاء رمز PIN…"
+    },
+    {
+      "name": "account_page_invalid_address",
+      "value": "أدخل عنوانًا صالحًا"
+    },
+    {
+      "name": "account_page_invalid_port",
+      "value": "أدخل قيمة بين 0 و65535"
+    },
+    {
+      "name": "account_page_invalid_sip_expiration_time",
+      "value": "أدخل قيمة بين 60 و604800 ثانية"
+    },
+    {
+      "name": "account_page_invite_friends",
+      "value": "دعوة الأصدقاء"
+    },
+    {
+      "name": "account_page_link_device_title",
+      "value": "اربط جهازاً آخر"
+    },
+    {
+      "name": "account_page_linked_devices",
+      "value": "الأجهزة المتصلة"
+    },
+    {
+      "name": "account_page_manage_account",
+      "value": "إدارة الحساب"
+    },
+    {
+      "name": "account_page_name_server",
+      "value": "اسم خادم"
+    },
+    {
+      "name": "account_page_new_password_confirm_placeholder",
+      "value": "تأكيد كلمة المرور الجديدة"
+    },
+    {
+      "name": "account_page_new_password_placeholder",
+      "value": "إدخال كلمة مرور جديدة"
+    },
+    {
+      "name": "account_page_no_booth_mode",
+      "value": "لتفعيل وضع الكشك، احمِ الحساب بكلمة مرور أولًا."
+    },
+    {
+      "name": "account_page_no_proxy_explanation_label",
+      "value": "لا يمكن تلقّي الإشعارات عند تعطيل الوكيل."
+    },
+    {
+      "name": "account_page_notification_error",
+      "value": "إشعارات جامي معطّلة. فعّلها في إعدادات الجهاز لاستخدام هذه الميزة."
+    },
+    {
+      "name": "account_page_notification_title",
+      "value": "الإشعارات"
+    },
+    {
+      "name": "account_page_notifications_header",
+      "value": "الإشعارات"
+    },
+    {
+      "name": "account_page_other",
+      "value": "آخر"
+    },
+    {
+      "name": "account_page_other_devices",
+      "value": "الأجهزة الأخرى المرتبطة"
+    },
+    {
+      "name": "account_page_password_created",
+      "value": "تم تعيين كلمة المرور"
+    },
+    {
+      "name": "account_page_password_explanation",
+      "value": "حساب Jami الخاص بك مسجّل على هذا الجهاز فقط كأرشيف يحتوي على مفاتيح حسابك. يمكن حماية الوصول إلى هذا الأرشيف بكلمة مرور."
+    },
+    {
+      "name": "account_page_password_for_pin",
+      "value": "الحساب محمي بكلمة مرور. أدخل كلمة المرور لإنشاء رمز PIN."
+    },
+    {
+      "name": "account_page_password_placeholder",
+      "value": "أدخل كلمة مرور الحساب"
+    },
+    {
+      "name": "account_page_password_updated",
+      "value": "تم تحديث كلمة المرور"
+    },
+    {
+      "name": "account_page_passwords_do_not_match",
+      "value": "كلمتا المرور غير متطابقتين."
+    },
+    {
+      "name": "account_page_peer_discovery",
+      "value": "تمكين اكتشاف النظراء المحلي"
+    },
+    {
+      "name": "account_page_peer_discovery_explanation",
+      "value": "اتصل بعقد DHT أخرى التي تعلن على شبكتنا المحلية"
+    },
+    {
+      "name": "account_page_pin_error",
+      "value": "حدث خطأ أثناء إنشاء رمز PIN."
+    },
+    {
+      "name": "account_page_pin_explanation_message",
+      "value": "ثبّت جامي وشغّله. اختر «استيراد من جهاز آخر»، وامسح رمز QR. بدلًا من ذلك، أدخل رمز PIN يدويًا."
+    },
+    {
+      "name": "account_page_pin_explanation_title",
+      "value": "على جهاز آخر"
+    },
+    {
+      "name": "account_page_profile_header",
+      "value": "الملف الشخصى"
+    },
+    {
+      "name": "account_page_profile_name",
+      "value": "اسم الملف الشخصي"
+    },
+    {
+      "name": "account_page_profile_name_not_selected",
+      "value": "لم يتم تحديد الاسم"
+    },
+    {
+      "name": "account_page_profile_name_placeholder",
+      "value": "أدخل اسم الملف الشخصي"
+    },
+    {
+      "name": "account_page_proxy_address_alert",
+      "value": "إعطاء عنوان النظام الأساسي"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_body",
+      "value": "من أجل تلقي الإخطارات، يرجى تمكين النظام الأساسي"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_title",
+      "value": "محطم خادم النظام الأساسي"
+    },
+    {
+      "name": "account_page_proxy_explanation",
+      "value": "يتم توجيه الإشعارات عبر وكيل. يمكنك استخدام الوكيل الافتراضي، أو إدخال عنوان وكيل مخصّص، أو توفير رابط يحتوي على قائمة بالوكلاء."
+    },
+    {
+      "name": "account_page_proxy_header",
+      "value": "الوكيل"
+    },
+    {
+      "name": "account_page_proxy_list_url",
+      "value": "عنوان URL لقائمة الوكيل"
+    },
+    {
+      "name": "account_page_proxy_paceholder",
+      "value": "عنوان النظام الأساسي"
+    },
+    {
+      "name": "account_page_public_address_header",
+      "value": "العنوان العام"
+    },
+    {
+      "name": "account_page_published_address",
+      "value": "العنوان"
+    },
+    {
+      "name": "account_page_published_port",
+      "value": "منفذ عبور"
+    },
+    {
+      "name": "account_page_published_same_as_local",
+      "value": "منشور مثل المحلي"
+    },
+    {
+      "name": "account_page_register_name_error_message",
+      "value": "اسم المستخدم غير متاح."
+    },
+    {
+      "name": "account_page_register_name_explanation",
+      "value": "سجّل اسم مستخدم لمساعدة الآخرين على العثور عليك والوصول إليك بسهولة أكبر على جامي."
+    },
+    {
+      "name": "account_page_remove_account_message",
+      "value": "إذا لم يُنسخ الحساب احتياطيًا أو يُضف إلى جهاز آخر، فسيُفقد الحساب واسم المستخدم المسجّل بشكل لا رجعة فيه."
+    },
+    {
+      "name": "account_page_remove_device_title",
+      "value": "إزالة الجهاز"
+    },
+    {
+      "name": "account_page_revoke_device_button",
+      "value": "سحب"
+    },
+    {
+      "name": "account_page_revoke_device_message",
+      "value": "هل تريد إزالة هذا الجهاز؟ لا يمكن التراجع عن هذا الإجراء."
+    },
+    {
+      "name": "account_page_revoke_device_placeholder",
+      "value": "أدخل كلمة مرور الحساب"
+    },
+    {
+      "name": "account_page_security",
+      "value": "تأمين"
+    },
+    {
+      "name": "account_page_select_sip_expiration_time",
+      "value": "اضبط الوقت (بالثواني) لانتهاء صلاحية التسجيل"
+    },
+    {
+      "name": "account_page_settings_header",
+      "value": "إعدادات"
+    },
+    {
+      "name": "account_page_sip_expiration_time",
+      "value": "وقت انتهاء صلاحية التسجيل (ثواني)"
+    },
+    {
+      "name": "account_page_stun_enabled",
+      "value": "إستعمل خادم STUN"
+    },
+    {
+      "name": "account_page_stun_server",
+      "value": "عنوان STUN"
+    },
+    {
+      "name": "account_page_this_device",
+      "value": "هذا الجهاز"
+    },
+    {
+      "name": "account_page_tls_disable_secure_dlg_check",
+      "value": "إعاقة التحقق الآمن من الحوار للبيانات TLS الموصلة"
+    },
+    {
+      "name": "account_page_tls_require_tls_certificate",
+      "value": "ضرورة وجود شهادة لإتصالات TLS الواردة"
+    },
+    {
+      "name": "account_page_tls_verify_client_certificates",
+      "value": "التحقق من شهادات TLS للعميل"
+    },
+    {
+      "name": "account_page_tls_verify_server_certificates",
+      "value": "التحقق من شهادات TLS الخادم"
+    },
+    {
+      "name": "account_page_turn_enabled",
+      "value": "تمكين TURN"
+    },
+    {
+      "name": "account_page_turn_password",
+      "value": "كلمة المرور لبروتوكول TURN"
+    },
+    {
+      "name": "account_page_turn_realm",
+      "value": "حقل بروتوكول TURN"
+    },
+    {
+      "name": "account_page_turn_server",
+      "value": "عنوان بروتوكول TURN"
+    },
+    {
+      "name": "account_page_turn_username",
+      "value": "اسم المستخدم لبروتوكول TURN"
+    },
+    {
+      "name": "account_page_typing_indicator",
+      "value": "مؤشر التطبيق"
+    },
+    {
+      "name": "account_page_typing_indicator_explanation",
+      "value": "يُظهر عند كتابة الرسائل."
+    },
+    {
+      "name": "account_page_unblock_contact",
+      "value": "إزالة حظر"
+    },
+    {
+      "name": "account_page_unlink",
+      "value": "إلغاء الربط"
+    },
+    {
+      "name": "account_page_upnp_enabled",
+      "value": "استخدم UPnP"
+    },
+    {
+      "name": "account_page_use_proxy_list",
+      "value": "استخدام قائمة الوكلاء"
+    },
+    {
+      "name": "account_page_username_placeholder",
+      "value": "أدخل اسم المستخدم المطلوب"
+    },
+    {
+      "name": "account_page_username_register_action",
+      "value": "سجل"
+    },
+    {
+      "name": "account_page_username_registering",
+      "value": "التسجيل"
+    },
+    {
+      "name": "account_page_username_registration_failed",
+      "value": "يرجى التحقق من كلمة مرور الحساب."
+    },
+    {
+      "name": "account_page_username_registration_failed_title",
+      "value": "فشل التسجيل"
+    },
+    {
+      "name": "actions_back_action",
+      "value": "السابق"
+    },
+    {
+      "name": "actions_delete_action",
+      "value": "إحذف"
+    },
+    {
+      "name": "actions_done_action",
+      "value": "منجز"
+    },
+    {
+      "name": "actions_go_to_settings",
+      "value": "إذهب إلى الإعدادات"
+    },
+    {
+      "name": "actions_stop_location_sharing",
+      "value": "إيقاف مشاركة"
+    },
+    {
+      "name": "alerts_account_added_title",
+      "value": "تمت إضافة الحساب"
+    },
+    {
+      "name": "alerts_account_cannot_be_found_message",
+      "value": "تعذّر العثور على الحساب على شبكة جامي. تأكّد من أنه تم تصديره على جامي من جهاز موجود، وأن بيانات الاعتماد المُقدّمة صحيحة."
+    },
+    {
+      "name": "alerts_account_cannot_be_found_title",
+      "value": "خطأ في الحساب"
+    },
+    {
+      "name": "alerts_account_default_error_message",
+      "value": "حدث خطأ أثناء إنشاء الحساب."
+    },
+    {
+      "name": "alerts_account_default_error_title",
+      "value": "خطأ في الحساب"
+    },
+    {
+      "name": "alerts_account_linked_title",
+      "value": "جاري ربط الحساب"
+    },
+    {
+      "name": "alerts_account_no_network_message",
+      "value": "حدث خطأ في الاتصال أثناء إضافة حساب جامي إلى الشبكة الموزّعة. يرجى المحاولة مرة أخرى. إذا استمرت المشكلة، فاتصل بمسؤول النظام."
+    },
+    {
+      "name": "alerts_account_no_network_title",
+      "value": "خطأ في الشبكة"
+    },
+    {
+      "name": "alerts_alreadylocation_sharing",
+      "value": "مشاركة الموقع مع هذا المستخدم"
+    },
+    {
+      "name": "alerts_confim_remove_contact",
+      "value": "هل تريد إزالة جهة الاتصال هذه؟ سيتم حذف السجل الحالي."
+    },
+    {
+      "name": "alerts_confirm_block_contact",
+      "value": "هل تريد حظر جهة الاتصال هذه؟ سيتم أيضًا حذف سجل المحادثة مع جهة الاتصال هذه نهائيًا."
+    },
+    {
+      "name": "alerts_confirm_delete_conversation",
+      "value": "هل تريد إزالة هذه المحادثة نهائيًا؟"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_from_contact",
+      "value": "هل تريد حذف المحادثة مع جهة الاتصال هذه؟"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_title",
+      "value": "حذف المحادثة"
+    },
+    {
+      "name": "alerts_confirm_leave_conversation",
+      "value": "هل تريد مغادرة هذه المحادثة؟"
+    },
+    {
+      "name": "alerts_confirm_remove_one_to_one_conversation",
+      "value": "هل تريد إزالة هذه المحادثة؟ سيتم حذف السجل الحالي. قد تبدأ محادثة جديدة إذا لم تكن لديك محادثات أخرى مع جهة الاتصال هذه."
+    },
+    {
+      "name": "alerts_db_failed_message",
+      "value": "الرجاء إغلاق التطبيق ومحاولة فتحه مرة ثانية"
+    },
+    {
+      "name": "alerts_db_failed_title",
+      "value": "حدث خطأ عند تشغيل جامي"
+    },
+    {
+      "name": "alerts_error_wrong_credentials",
+      "value": "حدث خطأ أثناء الاتصال بخادم الإدارة. يرجى المحاولة مرة أخرى. إذا استمرت المشكلة، فاتصل بمسؤول النظام."
+    },
+    {
+      "name": "alerts_location_service_is_disabled",
+      "value": "فعّل «خدمات الموقع» للسماح لـ «جامي» بتحديد موقع الجهاز."
+    },
+    {
+      "name": "alerts_location_sharing",
+      "value": "شارك موقعي"
+    },
+    {
+      "name": "alerts_location_sharing_duration10min",
+      "value": "10 دقائق"
+    },
+    {
+      "name": "alerts_location_sharing_duration1hour",
+      "value": "ساعة واحدة"
+    },
+    {
+      "name": "alerts_location_sharing_duration_title",
+      "value": "كم من الوقت يجب أن يكون الموقع المشترك؟"
+    },
+    {
+      "name": "alerts_map_information",
+      "value": "معلومات خريطة"
+    },
+    {
+      "name": "alerts_no_library_permissions_title",
+      "value": "لا يُمنح الوصول إلى مكتبة الصور"
+    },
+    {
+      "name": "alerts_no_location_permissions_title",
+      "value": "الوصول إلى الموقع غير الممنوح"
+    },
+    {
+      "name": "alerts_no_media_permissions_title",
+      "value": "الإعلام غير مُمَنِح"
+    },
+    {
+      "name": "alerts_open_street_map_copyright",
+      "value": "© المساهمين في OpenStreetMap"
+    },
+    {
+      "name": "alerts_open_street_map_copyright_more_info",
+      "value": "تعلم المزيد"
+    },
+    {
+      "name": "alerts_profile_take_photo",
+      "value": "التقاط صورة"
+    },
+    {
+      "name": "alerts_profile_upload_photo",
+      "value": "تحميل صورة"
+    },
+    {
+      "name": "alerts_record_audio_message",
+      "value": "تسجيل رسالة صوتية"
+    },
+    {
+      "name": "alerts_record_video_message",
+      "value": "تسجيل رسالة فيديو"
+    },
+    {
+      "name": "alerts_send_photo",
+      "value": "إرسال صورة"
+    },
+    {
+      "name": "alerts_upload_file",
+      "value": "إرسال ملف"
+    },
+    {
+      "name": "alerts_upload_photo",
+      "value": "معرض مفتوح"
+    },
+    {
+      "name": "backup_account_archive_name",
+      "value": "اختر اسمًا للأرشيف."
+    },
+    {
+      "name": "backup_account_archive_name_placeholder",
+      "value": "اسم الأرشيف"
+    },
+    {
+      "name": "backup_account_backup_button",
+      "value": "نسخة احتياطية"
+    },
+    {
+      "name": "backup_account_creating",
+      "value": "جارٍ إنشاء نسخة احتياطية"
+    },
+    {
+      "name": "backup_account_document_picker_button",
+      "value": "فتح موقع النسخة الاحتياطية"
+    },
+    {
+      "name": "backup_account_error_access_denied",
+      "value": "تم رفض الوصول إلى الموقع المحدد."
+    },
+    {
+      "name": "backup_account_error_failed",
+      "value": "حدث خطأ أثناء تصدير الحساب."
+    },
+    {
+      "name": "backup_account_error_wrong_location",
+      "value": "مسار الملف المحدد غير صالح. يرجى اختيار موقع آخر."
+    },
+    {
+      "name": "backup_account_explanation",
+      "value": "يوجد حساب جامي هذا على هذا الجهاز فقط. سيُفقد الحساب إذا فُقد هذا الجهاز أو أُزيل التطبيق. يُنصح بعمل نسخة احتياطية من هذا الحساب."
+    },
+    {
+      "name": "backup_account_export_success",
+      "value": "تم إنشاء النسخة الاحتياطية"
+    },
+    {
+      "name": "backup_account_password_request",
+      "value": "أدخل كلمة مرور الحساب."
+    },
+    {
+      "name": "backup_account_title",
+      "value": "حساب احتياطي"
+    },
+    {
+      "name": "block_list_page_no_blocked_contacts",
+      "value": "لا توجد جهات إتصال محظورة"
+    },
+    {
+      "name": "calls_accept_with_audio",
+      "value": "القبول بالصوت"
+    },
+    {
+      "name": "calls_accept_with_video",
+      "value": "القبول بالفيديو"
+    },
+    {
+      "name": "calls_active_call_in_conversation",
+      "value": "مكالمة جارية هل تريد الانضمام إلى المكالمة؟"
+    },
+    {
+      "name": "calls_active_call_label",
+      "value": "هناك مكالمة جارية. هل تريد الانضمام إلى المكالمة؟ يمكنك أيضًا الانضمام إلى المكالمة لاحقًا من المحادثة."
+    },
+    {
+      "name": "calls_call_finished",
+      "value": "المكالمة انتهت"
+    },
+    {
+      "name": "calls_calling",
+      "value": "Calling…"
+    },
+    {
+      "name": "calls_calling_participants",
+      "value": "Calling (%s)"
+    },
+    {
+      "name": "calls_connecting",
+      "value": "اتصال جاري..."
+    },
+    {
+      "name": "calls_current_call_with",
+      "value": "اتصل بـ"
+    },
+    {
+      "name": "calls_grid_layout",
+      "value": "Grid view"
+    },
+    {
+      "name": "calls_in_this_call",
+      "value": "In this call (%s)"
+    },
+    {
+      "name": "calls_inviting",
+      "value": "Inviting…"
+    },
+    {
+      "name": "calls_lower_hand",
+      "value": "اليد السفلى"
+    },
+    {
+      "name": "calls_maximize",
+      "value": "تكبير"
+    },
+    {
+      "name": "calls_minimize",
+      "value": "خفض"
+    },
+    {
+      "name": "calls_mute_audio",
+      "value": "كتم ميكروفون"
+    },
+    {
+      "name": "calls_participant_options",
+      "value": "Options for %s"
+    },
+    {
+      "name": "calls_participants_in_call",
+      "value": "%s in call"
+    },
+    {
+      "name": "calls_peer_recording",
+      "value": "تسجيل"
+    },
+    {
+      "name": "calls_raise_hand",
+      "value": "رفع اليد"
+    },
+    {
+      "name": "calls_remove_moderator",
+      "value": "إزالة المدير"
+    },
+    {
+      "name": "calls_ringing",
+      "value": "... يرن"
+    },
+    {
+      "name": "calls_set_moderator",
+      "value": "حدد المدير"
+    },
+    {
+      "name": "calls_start_picture_in_picture",
+      "value": "Start Picture in Picture"
+    },
+    {
+      "name": "calls_stop_calling",
+      "value": "Stop calling %s"
+    },
+    {
+      "name": "calls_unmute_audio",
+      "value": "إلغاء كتم الميكروفون"
+    },
+    {
+      "name": "collab_align_center",
+      "value": "المركز"
+    },
+    {
+      "name": "collab_align_justify",
+      "value": "Justify"
+    },
+    {
+      "name": "collab_align_left",
+      "value": "Align left"
+    },
+    {
+      "name": "collab_align_right",
+      "value": "Align right"
+    },
+    {
+      "name": "collab_bold",
+      "value": "غامق"
+    },
+    {
+      "name": "collab_bullet_list",
+      "value": "Bulleted list"
+    },
+    {
+      "name": "collab_clear_format",
+      "value": "Clear formatting"
+    },
+    {
+      "name": "collab_create",
+      "value": "إنشاء"
+    },
+    {
+      "name": "collab_create_error",
+      "value": "This document could not be created."
+    },
+    {
+      "name": "collab_created_by",
+      "value": "Created by %s"
+    },
+    {
+      "name": "collab_created_by_not_downloaded",
+      "value": "Created by %s, not downloaded"
+    },
+    {
+      "name": "collab_document_name_hint",
+      "value": "Document name"
+    },
+    {
+      "name": "collab_document_removed",
+      "value": "Document removed"
+    },
+    {
+      "name": "collab_document_removed_locally",
+      "value": "Document removed from this device"
+    },
+    {
+      "name": "collab_document_removed_locally_message",
+      "value": "\"%s\" is no longer on this device. Opening it again downloads it back."
+    },
+    {
+      "name": "collab_document_removed_message",
+      "value": "\"%s\" was removed by its author."
+    },
+    {
+      "name": "collab_documents",
+      "value": "الوثائق"
+    },
+    {
+      "name": "collab_download_and_open",
+      "value": "Download and open"
+    },
+    {
+      "name": "collab_editable_document",
+      "value": "Editable document"
+    },
+    {
+      "name": "collab_editing_alone",
+      "value": "Only you are editing"
+    },
+    {
+      "name": "collab_editing_one_other",
+      "value": "1 other person is editing"
+    },
+    {
+      "name": "collab_editing_others",
+      "value": "%d other people are editing"
+    },
+    {
+      "name": "collab_export",
+      "value": "Export a local copy"
+    },
+    {
+      "name": "collab_export_anyway",
+      "value": "Export anyway"
+    },
+    {
+      "name": "collab_export_error",
+      "value": "This document could not be exported."
+    },
+    {
+      "name": "collab_export_html",
+      "value": "Export to HTML"
+    },
+    {
+      "name": "collab_export_markdown",
+      "value": "Export to Markdown"
+    },
+    {
+      "name": "collab_export_missing_images",
+      "value": "%d picture(s) in this document have not arrived yet, and will be left out of the exported file."
+    },
+    {
+      "name": "collab_export_pdf",
+      "value": "Export to PDF"
+    },
+    {
+      "name": "collab_export_text",
+      "value": "Export to plain text"
+    },
+    {
+      "name": "collab_heading",
+      "value": "Heading %d"
+    },
+    {
+      "name": "collab_history",
+      "value": "Version history"
+    },
+    {
+      "name": "collab_image_error",
+      "value": "This image could not be added."
+    },
+    {
+      "name": "collab_image_too_large",
+      "value": "This image is too large to be added to a document."
+    },
+    {
+      "name": "collab_insert_image",
+      "value": "Insert image"
+    },
+    {
+      "name": "collab_italic",
+      "value": "مائل"
+    },
+    {
+      "name": "collab_link_add",
+      "value": "إضافة"
+    },
+    {
+      "name": "collab_link_hint",
+      "value": "العنوان"
+    },
+    {
+      "name": "collab_link_remove",
+      "value": "احذف"
+    },
+    {
+      "name": "collab_link_title",
+      "value": "ربط"
+    },
+    {
+      "name": "collab_menu",
+      "value": "Document actions"
+    },
+    {
+      "name": "collab_new_document",
+      "value": "New document"
+    },
+    {
+      "name": "collab_no_documents",
+      "value": "No document has been written in this conversation yet."
+    },
+    {
+      "name": "collab_no_history",
+      "value": "This document has no saved version yet."
+    },
+    {
+      "name": "collab_not_downloaded",
+      "value": "Not downloaded"
+    },
+    {
+      "name": "collab_open",
+      "value": "إفتح"
+    },
+    {
+      "name": "collab_open_error",
+      "value": "This document could not be opened."
+    },
+    {
+      "name": "collab_ordered_list",
+      "value": "Numbered list"
+    },
+    {
+      "name": "collab_redo",
+      "value": "إعادة مرة اخرى"
+    },
+    {
+      "name": "collab_remove",
+      "value": "احذف"
+    },
+    {
+      "name": "collab_remove_error",
+      "value": "This document could not be removed."
+    },
+    {
+      "name": "collab_remove_everywhere_action",
+      "value": "احذف"
+    },
+    {
+      "name": "collab_remove_everywhere_menu",
+      "value": "Remove for everyone"
+    },
+    {
+      "name": "collab_remove_locally_action",
+      "value": "Offload"
+    },
+    {
+      "name": "collab_remove_locally_error",
+      "value": "This document could not be removed from this device."
+    },
+    {
+      "name": "collab_remove_locally_menu",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_locally_message",
+      "value": "\"%s\" will be removed from this device only. The other members keep it, and opening it again downloads it back."
+    },
+    {
+      "name": "collab_remove_locally_title",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_message",
+      "value": "\"%s\" will be removed for every member of this conversation. This cannot be undone."
+    },
+    {
+      "name": "collab_remove_title",
+      "value": "Remove document"
+    },
+    {
+      "name": "collab_rename",
+      "value": "Rename"
+    },
+    {
+      "name": "collab_send_error",
+      "value": "Your changes could not be sent."
+    },
+    {
+      "name": "collab_strikethrough",
+      "value": "يتوسطه خط"
+    },
+    {
+      "name": "collab_underline",
+      "value": "Underline"
+    },
+    {
+      "name": "collab_undo",
+      "value": "تراجع"
+    },
+    {
+      "name": "collab_untitled",
+      "value": "Untitled document"
+    },
+    {
+      "name": "collab_version_by",
+      "value": "%1$s — %2$s"
+    },
+    {
+      "name": "collab_version_deltas",
+      "value": "%1$s — %2$s, %3$d change(s)"
+    },
+    {
+      "name": "collab_version_leave",
+      "value": "Back to the current version"
+    },
+    {
+      "name": "collab_version_restore",
+      "value": "Restore"
+    },
+    {
+      "name": "collab_version_restore_error",
+      "value": "This version could not be restored."
+    },
+    {
+      "name": "collab_version_restored",
+      "value": "The document was restored to this version."
+    },
+    {
+      "name": "collab_version_shown",
+      "value": "Version of %s"
+    },
+    {
+      "name": "collab_version_unchanged",
+      "value": "This version is the document you already have."
+    },
+    {
+      "name": "contact_page_leave_conversation",
+      "value": "أترك المحادثة"
+    },
+    {
+      "name": "contact_page_send",
+      "value": "إرسال"
+    },
+    {
+      "name": "contact_page_start_audio_call",
+      "value": "بدأ مكالمة صوتية"
+    },
+    {
+      "name": "contact_page_start_video_call",
+      "value": "بدء مكالمة فيديو"
+    },
+    {
+      "name": "contact_picker_calls",
+      "value": "مكالمات"
+    },
+    {
+      "name": "contact_picker_contacts",
+      "value": "جهات الاتصال"
+    },
+    {
+      "name": "conversation_add_to_contacts_button",
+      "value": "إضافة إلى جهات الاتصال"
+    },
+    {
+      "name": "conversation_add_to_contacts_label",
+      "value": "إضافة إلى جهات الإتصال؟"
+    },
+    {
+      "name": "conversation_contact_blocked",
+      "value": "تم حظر جهة الاتصال"
+    },
+    {
+      "name": "conversation_deleted_message",
+      "value": "حذف %s رسالة"
+    },
+    {
+      "name": "conversation_edited",
+      "value": "تحرير"
+    },
+    {
+      "name": "conversation_error_saving_image",
+      "value": "تعذّر حفظ الصورة"
+    },
+    {
+      "name": "conversation_error_saving_image_message",
+      "value": "حدث خطأ أثناء حفظ الصورة في مكتبة الصور."
+    },
+    {
+      "name": "conversation_image_saved",
+      "value": "تم الحفظ"
+    },
+    {
+      "name": "conversation_in_reply_to",
+      "value": "في جواب"
+    },
+    {
+      "name": "conversation_incoming_request",
+      "value": "أرسل لك دعوة محادثة."
+    },
+    {
+      "name": "conversation_last_message_deleted",
+      "value": "(رسالة محذوفة)"
+    },
+    {
+      "name": "conversation_message_placeholder",
+      "value": "اكتب إلى"
+    },
+    {
+      "name": "conversation_not_contact_label",
+      "value": "%s ليس في قائمة جهات الاتصال"
+    },
+    {
+      "name": "conversation_photo_access_required_message",
+      "value": "يحتاج جامي إلى الوصول إلى مكتبة الصور لحفظ الصور. يمكنك تفعيل ذلك في الإعدادات."
+    },
+    {
+      "name": "conversation_received_request",
+      "value": "أرسل لك %s دعوة محادثة."
+    },
+    {
+      "name": "conversation_replied_to",
+      "value": "ردّ %s على %s"
+    },
+    {
+      "name": "conversation_request_message",
+      "value": "مرحبًا،\nهل تريد الانضمام إلى المحادثة؟"
+    },
+    {
+      "name": "conversation_send_invitation_button",
+      "value": "إرسال دعوة"
+    },
+    {
+      "name": "conversation_send_request",
+      "value": "أرسل لهم دعوة لتتمكّن من المحادثة."
+    },
+    {
+      "name": "conversation_send_request_title",
+      "value": "إرسال دعوة محادثة"
+    },
+    {
+      "name": "conversation_synchronization_message",
+      "value": "بانتظار اتصال %s لمزامنة المحادثة…"
+    },
+    {
+      "name": "conversation_synchronization_title",
+      "value": "لقد قبلت دعوة المحادثة."
+    },
+    {
+      "name": "conversation_syncing_title",
+      "value": "جارٍ مزامنة المحادثة"
+    },
+    {
+      "name": "conversation_typing_indicator_one_user",
+      "value": "%s يكتب"
+    },
+    {
+      "name": "conversation_typing_indicator_other_users",
+      "value": "%1$s و%2$s و%3$s آخر يكتبون"
+    },
+    {
+      "name": "conversation_typing_indicator_others_users",
+      "value": "%1$s و%2$s و%3$s آخرين يكتبون"
+    },
+    {
+      "name": "conversation_typing_indicator_two_users",
+      "value": "%1$s و%2$s يكتبان"
+    },
+    {
+      "name": "conversation_yourself",
+      "value": "أنت"
+    },
+    {
+      "name": "create_account_username_not_registered_message",
+      "value": "تم إنشاء حساب ولكن لم يتم تسجيل اسم المستخدم"
+    },
+    {
+      "name": "create_account_username_not_registered_title",
+      "value": "خطأ في الشبكة"
+    },
+    {
+      "name": "create_account_create_account_form_title",
+      "value": "انضموا إلى جامي"
+    },
+    {
+      "name": "create_account_creating_account",
+      "value": "جارٍ إنشاء الحساب"
+    },
+    {
+      "name": "create_account_customize",
+      "value": "تخصيص"
+    },
+    {
+      "name": "create_account_encrypt",
+      "value": "الحماية بكلمة مرور"
+    },
+    {
+      "name": "create_account_encrypt_explanation",
+      "value": "يتم إنشاء حساب جامي وتخزينه محليًا فقط على هذا الجهاز كأرشيف يحتوي على مفاتيح الحساب. يمكن اختياريًا حماية الوصول إلى الأرشيف بكلمة مرور."
+    },
+    {
+      "name": "create_account_encrypt_title",
+      "value": "حماية الحساب بكلمة مرور"
+    },
+    {
+      "name": "create_account_encryption_enabled",
+      "value": "تم تفعيل الحماية بكلمة مرور"
+    },
+    {
+      "name": "create_account_invalid_username",
+      "value": "اسم مستخدم غير صالح. يرجى إدخال اسم المستخدم الصحيح."
+    },
+    {
+      "name": "create_account_looking_for_username_availability",
+      "value": "جارٍ التحقق من توفّر اسم المستخدم…"
+    },
+    {
+      "name": "create_account_name_explanation",
+      "value": "يمكنك اختيار اسم مستخدم لمساعدة الآخرين على إيجادك و الوصول إليك بسهولة على جامي."
+    },
+    {
+      "name": "create_account_new_account",
+      "value": "حساب جديد"
+    },
+    {
+      "name": "create_account_sip_configure",
+      "value": "تكوين حساب SIP موجود"
+    },
+    {
+      "name": "create_account_timeout_message",
+      "value": "جارٍ تسجيل اسم المستخدم. يرجى الانتظار…"
+    },
+    {
+      "name": "create_account_timeout_title",
+      "value": "حساب تم إنشاؤه"
+    },
+    {
+      "name": "create_account_username_already_taken",
+      "value": "اسم المستخدم مستخدم بالفعل"
+    },
+    {
+      "name": "create_account_username_valid",
+      "value": "اسم المستخدم متاح."
+    },
+    {
+      "name": "create_profile_create_profile_picture",
+      "value": "إنشاء صورة الملف الشخصي"
+    },
+    {
+      "name": "create_profile_enter_name_label",
+      "value": "إدخال اسم العرض"
+    },
+    {
+      "name": "create_profile_enter_name_placeholder",
+      "value": "أدخِل اسم"
+    },
+    {
+      "name": "create_profile_profile_created",
+      "value": "التالي"
+    },
+    {
+      "name": "create_profile_skip_create_profile",
+      "value": "تخطي"
+    },
+    {
+      "name": "create_profile_subtitle",
+      "value": "تتم مشاركة ملفك الشخصي مع جهات اتصالك فقط. يمكن تغيير الملف الشخصي في أي وقت."
+    },
+    {
+      "name": "create_profile_title",
+      "value": "خصّص ملفك الشخصي"
+    },
+    {
+      "name": "data_transfer_info_message",
+      "value": "انقر لبدء التسجيل"
+    },
+    {
+      "name": "data_transfer_readable_status_accept",
+      "value": "اقبل"
+    },
+    {
+      "name": "data_transfer_readable_status_awaiting",
+      "value": "في انتظار..."
+    },
+    {
+      "name": "data_transfer_readable_status_canceled",
+      "value": "تم الإلغاء"
+    },
+    {
+      "name": "data_transfer_readable_status_created",
+      "value": "إبتدائية..."
+    },
+    {
+      "name": "data_transfer_readable_status_decline",
+      "value": "رفض"
+    },
+    {
+      "name": "data_transfer_readable_status_error",
+      "value": "خطأ"
+    },
+    {
+      "name": "data_transfer_readable_status_ongoing",
+      "value": "التحويل"
+    },
+    {
+      "name": "data_transfer_readable_status_success",
+      "value": "كاملة"
+    },
+    {
+      "name": "data_transfer_record_in_background_warning",
+      "value": "قد يؤدي تسجيل الفيديو أثناء تعدد المهام مع تطبيقات متعددة إلى جودة فيديو أقل. للحصول على أفضل النتائج، سجّل عند عدم تعدد المهام"
+    },
+    {
+      "name": "data_transfer_send_message",
+      "value": "أرسل"
+    },
+    {
+      "name": "data_transfer_sending_failed",
+      "value": "حدث خطأ أثناء الإرسال."
+    },
+    {
+      "name": "general_settings_accept_transfer_limit",
+      "value": "اقبلوا الحد المحدد للتحويل"
+    },
+    {
+      "name": "general_settings_accept_transfer_limit_description",
+      "value": "(ميجابايت، 0 = غير محدود)"
+    },
+    {
+      "name": "general_settings_automatic_accept_incoming_files",
+      "value": "تقبل الملفات الموصلة تلقائيًا"
+    },
+    {
+      "name": "general_settings_donation_campaign",
+      "value": "حملة التبرع"
+    },
+    {
+      "name": "general_settings_enable_donation_campaign",
+      "value": "تمكين حملة التبرعات"
+    },
+    {
+      "name": "general_settings_file_transfer",
+      "value": "نقل ملف"
+    },
+    {
+      "name": "general_settings_limit_location_sharing_duration",
+      "value": "الحد من مدة مشاركة الموقع"
+    },
+    {
+      "name": "general_settings_location_sharing",
+      "value": "مشاركة الموقع"
+    },
+    {
+      "name": "location_sharing_title",
+      "value": "مشاركة الموقع"
+    },
+    {
+      "name": "general_settings_location_sharing_duration",
+      "value": "مدة حصة الموقف"
+    },
+    {
+      "name": "general_settings_video_acceleration",
+      "value": "تمكين تسريع الفيديو"
+    },
+    {
+      "name": "general_settings_video_settings",
+      "value": "إعدادات الفيديو"
+    },
+    {
+      "name": "generated_message_contact_added",
+      "value": "تم تلقي دعوة"
+    },
+    {
+      "name": "generated_message_contact_blocked",
+      "value": "تم حظر %s من المحادثة."
+    },
+    {
+      "name": "generated_message_contact_left_conversation",
+      "value": "غادر %s المحادثة."
+    },
+    {
+      "name": "generated_message_contact_unblocked",
+      "value": "تم إلغاء حظر %s من المحادثة."
+    },
+    {
+      "name": "generated_message_invitation_accepted",
+      "value": "انضم %s إلى المحادثة."
+    },
+    {
+      "name": "generated_message_invitation_received",
+      "value": "تمت دعوة %s للانضمام إلى المحادثة."
+    },
+    {
+      "name": "generated_message_live_location_sharing",
+      "value": "مشاركة الموقع المباشر"
+    },
+    {
+      "name": "generated_message_missed_incoming_call",
+      "value": "مكالمة واردة فائتة"
+    },
+    {
+      "name": "generated_message_missed_outgoing_call",
+      "value": "مكالمة خارجة فائتة"
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_accepted",
+      "value": "تم قبول دعوتك."
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_received",
+      "value": "لقد أرسلت دعوة."
+    },
+    {
+      "name": "generated_message_outgoing_call",
+      "value": "مكالمة خارجة"
+    },
+    {
+      "name": "generated_message_swarm_created",
+      "value": "تم إنشاء المحادثة"
+    },
+    {
+      "name": "generated_message_you_joined",
+      "value": "انضممت إلى المحادثة."
+    },
+    {
+      "name": "global_accept",
+      "value": "اقبل"
+    },
+    {
+      "name": "global_account_settings",
+      "value": "إعدادت الحساب"
+    },
+    {
+      "name": "global_block",
+      "value": "حظر"
+    },
+    {
+      "name": "global_block_contact",
+      "value": "حظر جهة إتصال"
+    },
+    {
+      "name": "global_call",
+      "value": "مكالمة"
+    },
+    {
+      "name": "global_camera_disabled",
+      "value": "الوصول إلى الكاميرا معطّل. فعّله في إعدادات الجهاز لاستخدام هذه الميزة."
+    },
+    {
+      "name": "global_cancel",
+      "value": "ألغِ"
+    },
+    {
+      "name": "global_close",
+      "value": "إغلاق"
+    },
+    {
+      "name": "global_confirm",
+      "value": "تأكيد"
+    },
+    {
+      "name": "global_confirm_password",
+      "value": "تأكيد كلمة المرور"
+    },
+    {
+      "name": "global_connect",
+      "value": "إتصال"
+    },
+    {
+      "name": "global_copy",
+      "value": "نسخ"
+    },
+    {
+      "name": "global_create",
+      "value": "إنشاء"
+    },
+    {
+      "name": "global_decline",
+      "value": "رفض"
+    },
+    {
+      "name": "global_delete_file",
+      "value": "حذف الملف من الجهاز"
+    },
+    {
+      "name": "global_delete_message",
+      "value": "حذف رسالة"
+    },
+    {
+      "name": "global_edit",
+      "value": "تصحيح"
+    },
+    {
+      "name": "global_edit_message",
+      "value": "إصلاح الرسالة"
+    },
+    {
+      "name": "global_edit_password",
+      "value": "تعديل كلمة المرور"
+    },
+    {
+      "name": "global_editing",
+      "value": "جارٍ التعديل"
+    },
+    {
+      "name": "global_enter_password",
+      "value": "أدخِل كلمة المرور"
+    },
+    {
+      "name": "global_enter_username",
+      "value": "أدخِل اسم المستخدم"
+    },
+    {
+      "name": "global_forward",
+      "value": "للأمام"
+    },
+    {
+      "name": "global_incoming_call",
+      "value": "مكالمة واردة"
+    },
+    {
+      "name": "global_leave",
+      "value": "إرحل"
+    },
+    {
+      "name": "global_name",
+      "value": "إسم"
+    },
+    {
+      "name": "global_ok",
+      "value": "موافق"
+    },
+    {
+      "name": "global_password",
+      "value": "كلمة السر"
+    },
+    {
+      "name": "global_preview",
+      "value": "معاينة"
+    },
+    {
+      "name": "global_recommended",
+      "value": "موصى به"
+    },
+    {
+      "name": "global_register_a_username",
+      "value": "تسجيل اسم المستخدم"
+    },
+    {
+      "name": "global_remove",
+      "value": "احذف"
+    },
+    {
+      "name": "global_remove_account",
+      "value": "إزالة الحساب"
+    },
+    {
+      "name": "global_reply",
+      "value": "رد"
+    },
+    {
+      "name": "global_resend",
+      "value": "إعادة إرسال"
+    },
+    {
+      "name": "global_save",
+      "value": "سجل"
+    },
+    {
+      "name": "global_search",
+      "value": "يتم البحث..."
+    },
+    {
+      "name": "global_share",
+      "value": "مشاركة"
+    },
+    {
+      "name": "global_support_jami",
+      "value": "ادعم مشروع جامي"
+    },
+    {
+      "name": "global_time",
+      "value": "الوقت"
+    },
+    {
+      "name": "global_username",
+      "value": "اسم المستخدم"
+    },
+    {
+      "name": "global_video",
+      "value": "شريط"
+    },
+    {
+      "name": "import_from_archive_button_title",
+      "value": "استيراد"
+    },
+    {
+      "name": "import_from_archive_explanation",
+      "value": "استيراد حساب جامي من ملف أرشيف محلي."
+    },
+    {
+      "name": "import_from_archive_password_explanation",
+      "value": "إذا كان الحساب محميًا بكلمة مرور، يُرجى ملء الحقل التالي."
+    },
+    {
+      "name": "import_from_archive_select_archive_button",
+      "value": "حدد ملف الأرشيف"
+    },
+    {
+      "name": "import_from_archive_title",
+      "value": "استيراد من أرشيف"
+    },
+    {
+      "name": "invitations_accepted",
+      "value": "مقبول"
+    },
+    {
+      "name": "invitations_blocked",
+      "value": "محظور"
+    },
+    {
+      "name": "invitations_declined",
+      "value": "مرفوضة"
+    },
+    {
+      "name": "invitations_list",
+      "value": "الدعوات المستلمة"
+    },
+    {
+      "name": "invitations_no_invitations",
+      "value": "لم تــرد أي دعوة"
+    },
+    {
+      "name": "link_device_authentication_info",
+      "value": "تم العثور على جهاز جديد على عنوان IP التالي. هل هذا أنت؟ لمتابعة عملية تصدير الحساب، انقر على تأكيد."
+    },
+    {
+      "name": "link_device_code",
+      "value": "رمز"
+    },
+    {
+      "name": "link_device_completed",
+      "value": "تم استيراد الحساب بنجاح على الجهاز الجديد."
+    },
+    {
+      "name": "link_device_connecting",
+      "value": "جارٍ الاتصال بجهازك الجديد…"
+    },
+    {
+      "name": "link_device_error_code",
+      "value": "حدث خطأ أثناء إنشاء الرمز. يرجى المحاولة مرة أخرى."
+    },
+    {
+      "name": "link_device_error_network",
+      "value": "حدث خطأ في الشبكة أثناء ربط الحساب. يُرجى التحقق من اتصالك والمحاولة مجددًا."
+    },
+    {
+      "name": "link_device_error_timeout",
+      "value": "انتهت مهلة العملية. يُرجى المحاولة مجددًا."
+    },
+    {
+      "name": "link_device_error_wrong_data",
+      "value": "حدث خطأ أثناء تصدير الحساب. يُرجى المحاولة مجددًا."
+    },
+    {
+      "name": "link_device_error_wrong_password",
+      "value": "حدث خطأ في المصادقة أثناء ربط الجهاز. يُرجى التحقق من بيانات الاعتماد والمحاولة مجددًا."
+    },
+    {
+      "name": "link_device_export_in_progress",
+      "value": "عملية تصدير الحساب إلى الجهاز الجديد جارية. يرجى تأكيد الاستيراد على الجهاز الجديد."
+    },
+    {
+      "name": "link_device_info_add_account",
+      "value": "اختر إضافة حساب ← الاتصال من جهاز آخر."
+    },
+    {
+      "name": "link_device_info_code",
+      "value": "عند الاستعداد، أدخل الرمز وانقر على اتصال."
+    },
+    {
+      "name": "link_device_info_qr_code",
+      "value": "عند الاستعداد، امسح رمز QR."
+    },
+    {
+      "name": "link_device_initial_info",
+      "value": "على الجهاز الجديد، ابدأ حسابًا جديدًا."
+    },
+    {
+      "name": "link_device_network_error",
+      "value": "حدث خطأ في الشبكة أثناء تصدير الحساب."
+    },
+    {
+      "name": "link_device_new_device_ip",
+      "value": "عنوان IP للجهاز الجديد: %1$s"
+    },
+    {
+      "name": "link_device_title",
+      "value": "اربط جهاز جديد"
+    },
+    {
+      "name": "link_device_wrong_entry",
+      "value": "معرّف جهاز جديد غير معروف. يُرجى اتباع التعليمات أعلاه."
+    },
+    {
+      "name": "link_to_account_account_locked_with_password",
+      "value": "الحساب محمي بكلمة مرور. للمتابعة، أدخل كلمة مرور الحساب."
+    },
+    {
+      "name": "link_to_account_action_required",
+      "value": "إجراء مطلوب.\nيرجى تأكيد الحساب على الجهاز المصدر."
+    },
+    {
+      "name": "link_to_account_alert_message",
+      "value": "سيؤدي الإيقاف إلى إلغاء عملية استيراد الحساب."
+    },
+    {
+      "name": "link_to_account_alert_tile",
+      "value": "هل تريد إيقاف ربط الحساب؟"
+    },
+    {
+      "name": "link_to_account_all_set",
+      "value": "تم استيراد الحساب بنجاح."
+    },
+    {
+      "name": "link_to_account_enter_provided_code",
+      "value": "عند الاستعداد، أدخل رمز المصادقة."
+    },
+    {
+      "name": "link_to_account_exit",
+      "value": "غادر"
+    },
+    {
+      "name": "link_to_account_export_instructions",
+      "value": "على الجهاز المصدر، ابدأ عملية التصدير."
+    },
+    {
+      "name": "link_to_account_export_instructions_path",
+      "value": "اختر الحساب ← إعدادات الحساب ← ربط جهاز جديد."
+    },
+    {
+      "name": "link_to_account_go_to_accounts",
+      "value": "الانتقال إلى الحساب المستورد"
+    },
+    {
+      "name": "link_to_account_import_account",
+      "value": "استيراد حساب"
+    },
+    {
+      "name": "link_to_account_scan_qr_code",
+      "value": "عند الاستعداد، امسح رمز QR."
+    },
+    {
+      "name": "link_to_account_share_message",
+      "value": "رمزك هو: %s"
+    },
+    {
+      "name": "link_to_account_show_pin_code",
+      "value": "رمز المصادقة"
+    },
+    {
+      "name": "link_to_account_show_qr_code",
+      "value": "رمز QR"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_label",
+      "value": "أدخل عنوان URL لخادم الإدارة"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_placeholder",
+      "value": "عنوان URL لخادم الإدارة"
+    },
+    {
+      "name": "link_to_account_manager_enter_credentials",
+      "value": "أدخل بيانات اعتماد خادم الإدارة"
+    },
+    {
+      "name": "link_to_account_manager_jams_explanation",
+      "value": "أدخل عنوان URL لخادم الإدارة"
+    },
+    {
+      "name": "link_to_account_manager_sign_in",
+      "value": "تسجيل الدخول"
+    },
+    {
+      "name": "link_to_account_manager_title",
+      "value": "حساب خادم الإدارة"
+    },
+    {
+      "name": "log_view_description",
+      "value": "إعدادات سجل التشخيص المفتوحة"
+    },
+    {
+      "name": "log_view_save_error",
+      "value": "حدث خطأ أثناء حفظ الملف."
+    },
+    {
+      "name": "log_view_share_error",
+      "value": "حدث خطأ أثناء مشاركة الملف."
+    },
+    {
+      "name": "log_view_start_logging",
+      "value": "بدء التسجيل"
+    },
+    {
+      "name": "log_view_stop_logging",
+      "value": "توقف عن التقطيع"
+    },
+    {
+      "name": "log_view_title",
+      "value": "التشخيص"
+    },
+    {
+      "name": "migrate_account_error",
+      "value": "حدث خطأ أثناء ترحيل الحساب. أعد المحاولة أو احذف الحساب."
+    },
+    {
+      "name": "migrate_account_explanation",
+      "value": "ترحيل الحساب مطلوب."
+    },
+    {
+      "name": "migrate_account_migrate_another",
+      "value": "تحويل حساب آخر"
+    },
+    {
+      "name": "migrate_account_migrate_button",
+      "value": "حساب الهجرة"
+    },
+    {
+      "name": "migrate_account_migrating",
+      "value": "جارٍ الترحيل…"
+    },
+    {
+      "name": "migrate_account_password_explanation",
+      "value": "لمتابعة ترحيل الحساب، أدخل كلمة مرور الحساب."
+    },
+    {
+      "name": "migrate_account_title",
+      "value": "هجرة الحساب"
+    },
+    {
+      "name": "notifications_location_sharing_started",
+      "value": "بدأ تبادل الموقع المقبل"
+    },
+    {
+      "name": "notifications_location_sharing_stopped",
+      "value": "توقف مشاركة الموقع المقبل"
+    },
+    {
+      "name": "notifications_missed_call",
+      "value": "المكالمة المفقودة"
+    },
+    {
+      "name": "notifications_new_file",
+      "value": "ملف جديد"
+    },
+    {
+      "name": "peer_services_done",
+      "value": "منجز"
+    },
+    {
+      "name": "peer_services_empty",
+      "value": "لا توجد خدمات مشتركة متاحة"
+    },
+    {
+      "name": "peer_services_error_offline",
+      "value": "جهة الاتصال غير متصلة"
+    },
+    {
+      "name": "peer_services_error_timeout",
+      "value": "انتهت مهلة الطلب"
+    },
+    {
+      "name": "peer_services_error_unknown",
+      "value": "تعذّر استرجاع الخدمات"
+    },
+    {
+      "name": "peer_services_error_unreachable",
+      "value": "يتعذّر الوصول إلى جهة الاتصال"
+    },
+    {
+      "name": "peer_services_not_supported",
+      "value": "غير مدعوم"
+    },
+    {
+      "name": "peer_services_open",
+      "value": "إفتح"
+    },
+    {
+      "name": "peer_services_refresh",
+      "value": "تحديث الخدمات"
+    },
+    {
+      "name": "peer_services_title",
+      "value": "الخدمات المشتركة"
+    },
+    {
+      "name": "photo_capture_retake",
+      "value": "إعادة الالتقاط"
+    },
+    {
+      "name": "photo_capture_use_photo",
+      "value": "استخدام الصورة"
+    },
+    {
+      "name": "profile_editor_change_picture",
+      "value": "Change picture"
+    },
+    {
+      "name": "profile_editor_change_picture_hint",
+      "value": "Choose a new picture from the camera or photo library"
+    },
+    {
+      "name": "profile_editor_contact_name_placeholder",
+      "value": "Enter a name"
+    },
+    {
+      "name": "profile_editor_description",
+      "value": "وصف"
+    },
+    {
+      "name": "profile_editor_description_placeholder",
+      "value": "Enter a description"
+    },
+    {
+      "name": "profile_editor_discard",
+      "value": "Discard"
+    },
+    {
+      "name": "profile_editor_discard_message",
+      "value": "Your unsaved changes will be lost."
+    },
+    {
+      "name": "profile_editor_discard_title",
+      "value": "Discard changes?"
+    },
+    {
+      "name": "profile_editor_edit_contact",
+      "value": "Edit contact"
+    },
+    {
+      "name": "profile_editor_edit_contact_hint",
+      "value": "Opens the contact editor"
+    },
+    {
+      "name": "profile_editor_edit_group",
+      "value": "Edit group"
+    },
+    {
+      "name": "profile_editor_edit_group_hint",
+      "value": "Opens the group editor"
+    },
+    {
+      "name": "profile_editor_group_name_placeholder",
+      "value": "Enter a group name"
+    },
+    {
+      "name": "profile_editor_local_changes_footer",
+      "value": "This name and picture are visible only on this device."
+    },
+    {
+      "name": "profile_editor_name",
+      "value": "إسم"
+    },
+    {
+      "name": "profile_editor_no_picture",
+      "value": "No picture"
+    },
+    {
+      "name": "profile_editor_picture_selected",
+      "value": "Picture selected"
+    },
+    {
+      "name": "profile_editor_remove_picture",
+      "value": "Remove picture"
+    },
+    {
+      "name": "profile_editor_reset_original",
+      "value": "Use original name and picture"
+    },
+    {
+      "name": "profile_editor_reset_original_hint",
+      "value": "Restores the name and picture this contact set for themselves"
+    },
+    {
+      "name": "profile_editor_reset_picture",
+      "value": "Use original picture"
+    },
+    {
+      "name": "profile_editor_save_error",
+      "value": "The changes could not be saved. Please try again."
+    },
+    {
+      "name": "scan_bad_qr_code",
+      "value": "رمز QR غير صالح"
+    },
+    {
+      "name": "share_extension_accessibility_select_account",
+      "value": "انقر نقرًا مزدوجًا لتحديد هذا الحساب"
+    },
+    {
+      "name": "share_extension_accessibility_select_conversation",
+      "value": "انقر نقرًا مزدوجًا لتحديد هذه المحادثة"
+    },
+    {
+      "name": "share_extension_accessibility_selected_account",
+      "value": "الحساب المحدد: %s. انقر نقرًا مزدوجًا لتغيير الحساب."
+    },
+    {
+      "name": "share_extension_accessibility_send_button",
+      "value": "انقر نقرًا مزدوجًا للإرسال إلى المحادثات المحددة"
+    },
+    {
+      "name": "share_extension_no_account_description",
+      "value": "للمتابعة، أنشئ حسابًا في التطبيق الرئيسي."
+    },
+    {
+      "name": "share_extension_no_account_title",
+      "value": "لم يُعثر على الحساب"
+    },
+    {
+      "name": "share_extension_no_search_results",
+      "value": "لا توجد محادثات تطابق بحثك"
+    },
+    {
+      "name": "share_extension_search_conversations",
+      "value": "البحث في المحادثات"
+    },
+    {
+      "name": "share_extension_select_account_title",
+      "value": "اختيار حساب"
+    },
+    {
+      "name": "share_extension_send_to_conversation",
+      "value": "إرسال إلى %d محادثة"
+    },
+    {
+      "name": "share_extension_send_to_conversations_plural",
+      "value": "إرسال إلى %d محادثات"
+    },
+    {
+      "name": "share_extension_sending",
+      "value": "جارٍ الإرسال…"
+    },
+    {
+      "name": "share_extension_try_different_filter",
+      "value": "جرّب عامل تصفية مختلفًا"
+    },
+    {
+      "name": "share_extension_unsupported_type_description",
+      "value": "مشاركة المحتوى المحدد غير مدعومة حاليًا."
+    },
+    {
+      "name": "share_extension_unsupported_type_title",
+      "value": "محتوى غير مدعوم"
+    },
+    {
+      "name": "smartlist_about_jami",
+      "value": "حول جامي"
+    },
+    {
+      "name": "smartlist_accounts",
+      "value": "حسابات"
+    },
+    {
+      "name": "smartlist_accounts_title",
+      "value": "حسابات"
+    },
+    {
+      "name": "smartlist_add_account_button",
+      "value": "+ إضافة حساب"
+    },
+    {
+      "name": "smartlist_cellular_access",
+      "value": "تأكّد من السماح بالوصول إلى بيانات الهاتف المحمول في الإعدادات."
+    },
+    {
+      "name": "smartlist_conversations",
+      "value": "محادثات"
+    },
+    {
+      "name": "smartlist_conversations_search_hint",
+      "value": "You don't have any conversations yet."
+    },
+    {
+      "name": "smartlist_dialpad",
+      "value": "Keypad"
+    },
+    {
+      "name": "smartlist_disable_donation",
+      "value": "ليس الآن"
+    },
+    {
+      "name": "smartlist_donation_explanation",
+      "value": "إذا كنت تستمتع باستخدام Jami وتؤمن برسالتنا، فهل تريد التبرّع؟"
+    },
+    {
+      "name": "smartlist_in_synchronization",
+      "value": "جارٍ المزامنة…"
+    },
+    {
+      "name": "smartlist_invitation_received",
+      "value": "الدعوات المستلمة"
+    },
+    {
+      "name": "smartlist_invitations",
+      "value": "الدعوات"
+    },
+    {
+      "name": "smartlist_invite_friends",
+      "value": "دعوة الأصدقاء"
+    },
+    {
+      "name": "smartlist_jams_directory_hint",
+      "value": "People in your organization outside your contacts."
+    },
+    {
+      "name": "smartlist_jams_results",
+      "value": "Organization directory"
+    },
+    {
+      "name": "smartlist_new_contact",
+      "value": "جهة اتصال جديدة"
+    },
+    {
+      "name": "smartlist_new_group",
+      "value": "مجموعة جديدة"
+    },
+    {
+      "name": "smartlist_no_conversation",
+      "value": "لا يوجد محادثات"
+    },
+    {
+      "name": "smartlist_no_conversations_found",
+      "value": "لا توجد محادثات تطابق البحث."
+    },
+    {
+      "name": "smartlist_no_network_connectivity",
+      "value": "الاتصال بالشبكة غير متوفر"
+    },
+    {
+      "name": "smartlist_no_number",
+      "value": "لا تحتوى جهة الاتصال المحددة على أى رقم"
+    },
+    {
+      "name": "smartlist_no_results",
+      "value": "لا يوجد نتائج"
+    },
+    {
+      "name": "smartlist_public_directory_hint",
+      "value": "People on Jami outside your contacts."
+    },
+    {
+      "name": "smartlist_results",
+      "value": "الدليل عام"
+    },
+    {
+      "name": "smartlist_search_bar",
+      "value": "إبحث"
+    },
+    {
+      "name": "smartlist_search_bar_placeholder",
+      "value": "أدخل الاسم…"
+    },
+    {
+      "name": "smartlist_select_one_number",
+      "value": "حدد أحد الأرقام"
+    },
+    {
+      "name": "smartlist_yesterday",
+      "value": "البارحة"
+    },
+    {
+      "name": "swarm_leave",
+      "value": "إرحل"
+    },
+    {
+      "name": "swarm_accessibility_color_picker",
+      "value": "منتقي لون المحادثة"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code",
+      "value": "عرض رمز QR لجهة الاتصال"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code_hint",
+      "value": "يفتح شاشة تحتوي على رمز QR لجهة الاتصال"
+    },
+    {
+      "name": "swarm_accessibility_contact_share_hint",
+      "value": "يفتح خيارات مشاركة معلومات جهة الاتصال"
+    },
+    {
+      "name": "swarm_admin",
+      "value": "المدير"
+    },
+    {
+      "name": "swarm_admin_invites_only",
+      "value": "مجموعة خاصة (دعوات مقيدة)"
+    },
+    {
+      "name": "swarm_blocked",
+      "value": "محظور"
+    },
+    {
+      "name": "swarm_change_picture",
+      "value": "تغيير صورة المجموعة"
+    },
+    {
+      "name": "swarm_choose_color",
+      "value": "لون المحادثة"
+    },
+    {
+      "name": "swarm_confirm_leave_conversation",
+      "value": "هل تريد مغادرة هذه المحادثة؟"
+    },
+    {
+      "name": "swarm_contact_header",
+      "value": "إتصال"
+    },
+    {
+      "name": "swarm_conversation_ended",
+      "value": "انتهت المحادثة"
+    },
+    {
+      "name": "swarm_conversation_header",
+      "value": "محادثة"
+    },
+    {
+      "name": "swarm_conversation_id",
+      "value": "معرّف المحادثة"
+    },
+    {
+      "name": "swarm_customize",
+      "value": "تخصيص المجموعة"
+    },
+    {
+      "name": "swarm_customize_profile",
+      "value": "تخصيص ملف المجموعة"
+    },
+    {
+      "name": "swarm_explanation_text",
+      "value": "يمكن دعوة الأعضاء في أي وقت بعد إنشاء المجموعة."
+    },
+    {
+      "name": "swarm_identifier",
+      "value": "المعرف"
+    },
+    {
+      "name": "swarm_invite",
+      "value": "Invite"
+    },
+    {
+      "name": "swarm_invite_members",
+      "value": "دعوة الأعضاء"
+    },
+    {
+      "name": "swarm_invite_members_not_selected",
+      "value": "غير محدد"
+    },
+    {
+      "name": "swarm_invite_members_selected",
+      "value": "محدد"
+    },
+    {
+      "name": "swarm_invite_selected_members",
+      "value": "دعوة جهات الاتصال المحددة"
+    },
+    {
+      "name": "swarm_invited",
+      "value": "مدعوة"
+    },
+    {
+      "name": "swarm_invites_only",
+      "value": "مجموعة خاصة"
+    },
+    {
+      "name": "swarm_leave_conversation",
+      "value": "أترك المحادثة"
+    },
+    {
+      "name": "swarm_left",
+      "value": "غادر"
+    },
+    {
+      "name": "swarm_member",
+      "value": "عضو"
+    },
+    {
+      "name": "swarm_members",
+      "value": "الأعضاء"
+    },
+    {
+      "name": "swarm_mute_conversation",
+      "value": "محادثة صامتة"
+    },
+    {
+      "name": "swarm_name_placeholder",
+      "value": "اسم المجموعة"
+    },
+    {
+      "name": "swarm_new_group",
+      "value": "إنشاء مجموعة جديدة"
+    },
+    {
+      "name": "swarm_one_to_one",
+      "value": "خاص"
+    },
+    {
+      "name": "swarm_others",
+      "value": "آخرون"
+    },
+    {
+      "name": "swarm_public_chat",
+      "value": "مجموعة عامة"
+    },
+    {
+      "name": "swarm_remove_contact",
+      "value": "إزالة الاتصال"
+    },
+    {
+      "name": "swarm_remove_conversation",
+      "value": "إزالة المحادثة"
+    },
+    {
+      "name": "swarm_restart_conversation",
+      "value": "إعادة تشغيل المحادثة"
+    },
+    {
+      "name": "swarm_select_contacts",
+      "value": "إختيار جهات الاتصال"
+    },
+    {
+      "name": "swarm_settings",
+      "value": "الإعدادات"
+    },
+    {
+      "name": "swarm_share_contact_info",
+      "value": "مشاركة معلومات جهة الاتصال"
+    },
+    {
+      "name": "swarm_share_contact_message",
+      "value": "يمكنك إضافة جهة الاتصال هذه، %1$s، على منصة جامي للتواصل الموزّع: https://jami.net"
+    },
+    {
+      "name": "swarm_show_contact_qr_code",
+      "value": "عرض رمز QR لجهة الاتصال"
+    },
+    {
+      "name": "swarm_type_of_swarm",
+      "value": "نوع المحادثة"
+    },
+    {
+      "name": "swarm_unknown",
+      "value": "مجهول"
+    },
+    {
+      "name": "swarm_colors_amber",
+      "value": "كهرماني"
+    },
+    {
+      "name": "swarm_colors_bright_orange",
+      "value": "برتقالي زاهٍ"
+    },
+    {
+      "name": "swarm_colors_brown",
+      "value": "بني"
+    },
+    {
+      "name": "swarm_colors_cyan",
+      "value": "سماوي"
+    },
+    {
+      "name": "swarm_colors_green",
+      "value": "أخضر"
+    },
+    {
+      "name": "swarm_colors_indigo_blue",
+      "value": "نيلي"
+    },
+    {
+      "name": "swarm_colors_lime_green",
+      "value": "أخضر ليموني"
+    },
+    {
+      "name": "swarm_colors_medium_gray",
+      "value": "رمادي متوسط"
+    },
+    {
+      "name": "swarm_colors_purple",
+      "value": "أرجواني"
+    },
+    {
+      "name": "swarm_colors_sky_blue",
+      "value": "أزرق سماوي"
+    },
+    {
+      "name": "swarm_colors_steel_blue",
+      "value": "أزرق فولاذي"
+    },
+    {
+      "name": "swarm_colors_teal",
+      "value": "أزرق مخضر"
+    },
+    {
+      "name": "swarm_colors_vibrant_pink",
+      "value": "وردي زاهٍ"
+    },
+    {
+      "name": "swarm_colors_violet",
+      "value": "بنفسجي"
+    },
+    {
+      "name": "swarm_colors_yellow_green",
+      "value": "أصفر مخضر"
+    },
+    {
+      "name": "swarmcreation_add_description",
+      "value": "إضافة وصف"
+    },
+    {
+      "name": "swarmcreation_search_bar",
+      "value": "البحث عن جهة اتصال…"
+    },
+    {
+      "name": "welcome_connect_to_jams",
+      "value": "الاتصال بخادم إدارة"
+    },
+    {
+      "name": "welcome_create_account",
+      "value": "إعداد حساب جامي"
+    },
+    {
+      "name": "welcome_have_account",
+      "value": "لدي حساب بالفعل"
+    },
+    {
+      "name": "welcome_link_backup",
+      "value": "الاستيراد من النسخة الاحتياطية"
+    },
+    {
+      "name": "welcome_link_device",
+      "value": "الاستيراد من جهاز آخر"
+    },
+    {
+      "name": "welcome_text",
+      "value": "چامى هو منصة اتصال حرة وعالمية تحفظ خصوصية المستخدمين وحرياتهم"
+    },
+    {
+      "name": "welcome_title",
+      "value": "شارك بحرية وخصوصية مع جامي"
+    },
+    {
+      "name": "media_preview_date_time",
+      "value": "%1$s, %2$s"
+    },
+    {
+      "name": "media_preview_react",
+      "value": "React"
+    },
+    {
+      "name": "media_preview_more_actions",
+      "value": "More"
+    },
+    {
+      "name": "media_preview_more_emoji",
+      "value": "More emoji"
+    },
+    {
+      "name": "accessibility_audio_player_mute",
+      "value": "كتم الصوت"
+    },
+    {
+      "name": "accessibility_audio_player_unmute",
+      "value": "إعادة الصوت"
+    },
+    {
+      "name": "accessibility_message_reactions",
+      "value": "Reactions"
+    },
+    {
+      "name": "accessibility_remove_reaction",
+      "value": "Remove %s"
+    },
+    {
+      "name": "media_preview_live_text",
+      "value": "Live Text"
+    }
+  ]
+}

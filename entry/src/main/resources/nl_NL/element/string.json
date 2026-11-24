@@ -1,0 +1,3020 @@
+{
+  "string": [
+    {
+      "name": "about_jami_community_management",
+      "value": "Gemeenschapsbeheer"
+    },
+    {
+      "name": "about_jami_contribute",
+      "value": "Bijdragen"
+    },
+    {
+      "name": "about_jami_declaration1",
+      "value": "Jami, een GNU-pakket, is software voor universele en gedistribueerde peer-to-peer-communicatie die de vrijheid en privacy van de gebruikers respecteert. Bezoek"
+    },
+    {
+      "name": "about_jami_declaration2",
+      "value": "voor meer informatie."
+    },
+    {
+      "name": "about_jami_developers",
+      "value": "Ontwikkelaars"
+    },
+    {
+      "name": "about_jami_feedback",
+      "value": "Terugkoppeling"
+    },
+    {
+      "name": "about_jami_header",
+      "value": "We willen onze medewerkers bedanken, wier inspanningen gedurende vele jaren deze software hebben gemaakt tot wat hij nu is."
+    },
+    {
+      "name": "about_jami_info",
+      "value": "Dit is een lijst van mensen die een aanzienlijke investering van tijd, met nuttige resultaten, in Jami hebben gedaan. Dergelijke bijdragers die aan de lijst willen worden toegevoegd, kunnen contact met ons opnemen."
+    },
+    {
+      "name": "about_jami_media",
+      "value": "Media"
+    },
+    {
+      "name": "about_jami_no_warranty1",
+      "value": "Dit programma wordt geleverd zonder enige garantie. Zie de"
+    },
+    {
+      "name": "about_jami_no_warranty2",
+      "value": "versie 3 of later voor meer informatie."
+    },
+    {
+      "name": "about_jami_special_thanks",
+      "value": "Met uitzonderlijke dank aan"
+    },
+    {
+      "name": "accessibility_about_jami_title",
+      "value": "Over Jami"
+    },
+    {
+      "name": "accessibility_account_token_q_rcode",
+      "value": "Token-QR-code"
+    },
+    {
+      "name": "accessibility_account_summary_edit_profile_hint",
+      "value": "Dubbeltik om het profiel te bewerken"
+    },
+    {
+      "name": "accessibility_account_summary_edit_settings_button",
+      "value": "Instellingen"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code",
+      "value": "QR-code"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code_hint",
+      "value": "Dubbeltik om de QR-code van het account te bekijken"
+    },
+    {
+      "name": "accessibility_audio_player_pause",
+      "value": "Pauze"
+    },
+    {
+      "name": "accessibility_audio_player_play",
+      "value": "Afspelen"
+    },
+    {
+      "name": "accessibility_avatar_collapse_hint",
+      "value": "Double-tap to shrink the picture"
+    },
+    {
+      "name": "accessibility_avatar_expand_hint",
+      "value": "Double-tap to enlarge the picture"
+    },
+    {
+      "name": "accessibility_call_lasted",
+      "value": "Duurde %s"
+    },
+    {
+      "name": "accessibility_calls_alter_add_participant",
+      "value": "Deelnemer toevoegen"
+    },
+    {
+      "name": "accessibility_calls_alter_end_call",
+      "value": "Oproep beëindigen"
+    },
+    {
+      "name": "accessibility_calls_alter_open_conversation",
+      "value": "Gesprek openen"
+    },
+    {
+      "name": "accessibility_calls_alter_pause_call",
+      "value": "Hervat het gesprek"
+    },
+    {
+      "name": "accessibility_calls_alter_raise_hand",
+      "value": "Onderaan hand"
+    },
+    {
+      "name": "accessibility_calls_alter_show_dialpad",
+      "value": "Toetsenblok tonen"
+    },
+    {
+      "name": "accessibility_calls_alter_switch_camera",
+      "value": "Wissel camera"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_audio",
+      "value": "Demping microfoon opheffen"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_speaker",
+      "value": "Luidspreker uitschakelen"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_video",
+      "value": "Stopcamera"
+    },
+    {
+      "name": "accessibility_calls_default_add_participant",
+      "value": "Deelnemer toevoegen"
+    },
+    {
+      "name": "accessibility_calls_default_end_call",
+      "value": "Oproep beëindigen"
+    },
+    {
+      "name": "accessibility_calls_default_open_conversation",
+      "value": "Gesprek openen"
+    },
+    {
+      "name": "accessibility_calls_default_pause_call",
+      "value": "Pauze oproep"
+    },
+    {
+      "name": "accessibility_calls_default_raise_hand",
+      "value": "Hand opsteken"
+    },
+    {
+      "name": "accessibility_calls_default_show_dialpad",
+      "value": "Toetsenblok tonen"
+    },
+    {
+      "name": "accessibility_calls_default_switch_camera",
+      "value": "Wissel camera"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_audio",
+      "value": "Microfoon dempen"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_speaker",
+      "value": "Luidspreker inschakelen"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_video",
+      "value": "Camera starten"
+    },
+    {
+      "name": "accessibility_close",
+      "value": "Sluiten"
+    },
+    {
+      "name": "accessibility_conference_camera_off",
+      "value": "Camera off"
+    },
+    {
+      "name": "accessibility_conference_crop_video",
+      "value": "Crop video"
+    },
+    {
+      "name": "accessibility_conference_end_call",
+      "value": "Oproep beëindigen"
+    },
+    {
+      "name": "accessibility_conference_hand_raised",
+      "value": "Hand omhoog"
+    },
+    {
+      "name": "accessibility_conference_hide_local_preview",
+      "value": "Hide your video"
+    },
+    {
+      "name": "accessibility_conference_local_preview",
+      "value": "Your video"
+    },
+    {
+      "name": "accessibility_conference_lower_hand",
+      "value": "Onderaan hand"
+    },
+    {
+      "name": "accessibility_conference_maximize",
+      "value": "Maximaliseren"
+    },
+    {
+      "name": "accessibility_conference_microphone_muted",
+      "value": "Microphone muted"
+    },
+    {
+      "name": "accessibility_conference_minimize",
+      "value": "Minimaliseren"
+    },
+    {
+      "name": "accessibility_conference_moderator",
+      "value": "Moderator"
+    },
+    {
+      "name": "accessibility_conference_mute_audio",
+      "value": "Geluid dempen"
+    },
+    {
+      "name": "accessibility_conference_recording",
+      "value": "Opname"
+    },
+    {
+      "name": "accessibility_conference_set_moderator",
+      "value": "Stel moderator in"
+    },
+    {
+      "name": "accessibility_conference_show_full_video",
+      "value": "Show full video"
+    },
+    {
+      "name": "accessibility_conference_show_local_preview",
+      "value": "Show your video"
+    },
+    {
+      "name": "accessibility_conference_show_participants",
+      "value": "Show participants"
+    },
+    {
+      "name": "accessibility_conference_speaking",
+      "value": "Speaking"
+    },
+    {
+      "name": "accessibility_conference_unmute_audio",
+      "value": "Niet-gemakkelijk geluid"
+    },
+    {
+      "name": "accessibility_conference_unset_moderator",
+      "value": "De moderator is niet ingesteld."
+    },
+    {
+      "name": "accessibility_conversation_camera_hint",
+      "value": "Dubbeltik om de camera te openen"
+    },
+    {
+      "name": "accessibility_conversation_compose_message",
+      "value": "Een bericht opstellen"
+    },
+    {
+      "name": "accessibility_conversation_row_blocked",
+      "value": "Gesprek geblokkeerd"
+    },
+    {
+      "name": "accessibility_conversation_row_last_message",
+      "value": "Laatste bericht om %s"
+    },
+    {
+      "name": "accessibility_conversation_row_syncing",
+      "value": "Synchronisatie bezig"
+    },
+    {
+      "name": "accessibility_conversation_row_unread_count",
+      "value": "%s ongelezen berichten."
+    },
+    {
+      "name": "accessibility_conversation_share_media",
+      "value": "Media delen"
+    },
+    {
+      "name": "accessibility_conversation_start_video_call",
+      "value": "Video-oproep starten met %s"
+    },
+    {
+      "name": "accessibility_conversation_start_voice_call",
+      "value": "Audio-oproep starten met %s"
+    },
+    {
+      "name": "accessibility_create_account_verify_username_prompt",
+      "value": "Voer een gebruikersnaam in om de beschikbaarheid te controleren."
+    },
+    {
+      "name": "accessibility_file_transfer_received_on",
+      "value": "Bestand: %1$s, ontvangen op %2$s"
+    },
+    {
+      "name": "accessibility_file_transfer_sent_on",
+      "value": "Bestand: %1$s, verzonden op %2$s"
+    },
+    {
+      "name": "accessibility_file_transfer_no_name",
+      "value": "Bestand ontvangen op %s, naam niet beschikbaar"
+    },
+    {
+      "name": "accessibility_in_reply",
+      "value": "Als antwoord op bericht"
+    },
+    {
+      "name": "accessibility_message_bubble_deleted",
+      "value": "Bericht verwijderd"
+    },
+    {
+      "name": "accessibility_message_bubble_edited",
+      "value": "Gecorrigeerd"
+    },
+    {
+      "name": "accessibility_message_bubble_read",
+      "value": "Gelezen"
+    },
+    {
+      "name": "accessibility_message_bubble_unread",
+      "value": "Ongelezen"
+    },
+    {
+      "name": "accessibility_pending_requests_list_accept_invitation",
+      "value": "Uitnodiging accepteren"
+    },
+    {
+      "name": "accessibility_pending_requests_list_block_user",
+      "value": "Afzender van uitnodiging blokkeren"
+    },
+    {
+      "name": "accessibility_pending_requests_list_reject_invitation",
+      "value": "Uitnodiging weigeren"
+    },
+    {
+      "name": "accessibility_pending_requests_row_hint",
+      "value": "Dubbeltik om ontvangen uitnodigingen te bekijken en te beantwoorden"
+    },
+    {
+      "name": "accessibility_pending_requests_row_plural",
+      "value": "Ontvangen uitnodigingen: %s openstaande uitnodigingen"
+    },
+    {
+      "name": "accessibility_pending_requests_row_singular",
+      "value": "Ontvangen uitnodiging: %s openstaande uitnodiging"
+    },
+    {
+      "name": "accessibility_profile_picture_picker",
+      "value": "Profielfoto"
+    },
+    {
+      "name": "accessibility_profile_picture_picker_hint",
+      "value": "Dubbeltik om een foto te maken of een foto uit de bibliotheek te selecteren"
+    },
+    {
+      "name": "accessibility_smart_list_add_account",
+      "value": "Account toevoegen"
+    },
+    {
+      "name": "accessibility_smart_list_connected_as",
+      "value": "Het huidige account is %s"
+    },
+    {
+      "name": "accessibility_smart_list_switch_accounts",
+      "value": "Account wisselen"
+    },
+    {
+      "name": "accessibility_swarm_picture_picker",
+      "value": "Groepsafbeelding"
+    },
+    {
+      "name": "accessibility_text_received_on",
+      "value": "%1$s, bericht ontvangen op %2$s"
+    },
+    {
+      "name": "accessibility_text_sent_on",
+      "value": "%1$s, bericht verzonden op %2$s"
+    },
+    {
+      "name": "accessibility_text_not_available",
+      "value": "Leeg tekstbericht ontvangen op %s. Dit is mogelijk niet correct verzonden."
+    },
+    {
+      "name": "accessibility_user_presence_available",
+      "value": "Beschikbaar"
+    },
+    {
+      "name": "accessibility_user_presence_online",
+      "value": "Online"
+    },
+    {
+      "name": "accessibility_welcome_to_jami_title",
+      "value": "Welkom bij Jami"
+    },
+    {
+      "name": "account_account_status",
+      "value": "Accountstatus"
+    },
+    {
+      "name": "account_advanced_features",
+      "value": "Geavanceerde functies"
+    },
+    {
+      "name": "account_configure",
+      "value": "Configureren"
+    },
+    {
+      "name": "account_create_sip_account",
+      "value": "SIP-account configureren"
+    },
+    {
+      "name": "account_enable_account",
+      "value": "Account inschakelen"
+    },
+    {
+      "name": "account_me",
+      "value": "Ik"
+    },
+    {
+      "name": "account_need_migration",
+      "value": "Account vereist migratie."
+    },
+    {
+      "name": "account_port",
+      "value": "Poort"
+    },
+    {
+      "name": "account_port_label",
+      "value": "Voer poortnummer in"
+    },
+    {
+      "name": "account_proxy_server",
+      "value": "Proxy"
+    },
+    {
+      "name": "account_server_label",
+      "value": "Voer adres in"
+    },
+    {
+      "name": "account_sip_account",
+      "value": "SIP-account"
+    },
+    {
+      "name": "account_sip_server",
+      "value": "Server"
+    },
+    {
+      "name": "account_status_connecting",
+      "value": "Verbinden"
+    },
+    {
+      "name": "account_status_connectionerror",
+      "value": "Verbindingsfout"
+    },
+    {
+      "name": "account_status_offline",
+      "value": "Offline"
+    },
+    {
+      "name": "account_status_online",
+      "value": "Online"
+    },
+    {
+      "name": "account_status_unknown",
+      "value": "Onbekend"
+    },
+    {
+      "name": "account_page_account_header",
+      "value": "Account"
+    },
+    {
+      "name": "account_page_account_identity",
+      "value": "Accountidentiteit"
+    },
+    {
+      "name": "account_page_account_settings_explanation",
+      "value": "Deze instellingen gelden alleen voor dit account."
+    },
+    {
+      "name": "account_page_allow_ip_auto_rewrite",
+      "value": "IP automatisch herschrijven toestaan"
+    },
+    {
+      "name": "account_page_app_settings",
+      "value": "App-instellingen"
+    },
+    {
+      "name": "account_page_app_settings_explanation",
+      "value": "Deze instellingen gelden voor de hele applicatie."
+    },
+    {
+      "name": "account_page_auto_registration",
+      "value": "Auto-register na verval"
+    },
+    {
+      "name": "account_page_blocked_contacts",
+      "value": "Geblokkeerde contacten"
+    },
+    {
+      "name": "account_page_booth_mode_alert_message",
+      "value": "Nadat de boothmodus is ingeschakeld, worden alle gesprekken verwijderd."
+    },
+    {
+      "name": "account_page_booth_mode_explanation",
+      "value": "In de standmodus is de gesprekshistorie niet opgeslagen en de Jami-functionaliteit beperkt door uitgaande gesprekken te maken."
+    },
+    {
+      "name": "account_page_bootstrap",
+      "value": "Bootstrap"
+    },
+    {
+      "name": "account_page_calls_from_unknown_contacts",
+      "value": "Oproepen van onbekende contacten toestaan."
+    },
+    {
+      "name": "account_page_change_password",
+      "value": "Wachtwoord wijzigen"
+    },
+    {
+      "name": "account_page_change_password_error",
+      "value": "Verkeerd wachtwoord"
+    },
+    {
+      "name": "account_page_chats",
+      "value": "Chats"
+    },
+    {
+      "name": "account_page_connectivity_and_configuration",
+      "value": "Verbinding en configuraties"
+    },
+    {
+      "name": "account_page_connectivity_header",
+      "value": "Connectiviteit"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_contant",
+      "value": "Neem contact met me op via “%s” op het gedistribueerde communicatieplatform Jami: https://jami.net"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_title",
+      "value": "Contacteer me op Jami!"
+    },
+    {
+      "name": "account_page_create_password",
+      "value": "Wachtwoord instellen"
+    },
+    {
+      "name": "account_page_current_password_placeholder",
+      "value": "Voer het huidige wachtwoord in"
+    },
+    {
+      "name": "account_page_current_proxy",
+      "value": "Huidige proxy"
+    },
+    {
+      "name": "account_page_device_revocation_error",
+      "value": "Fout bij intrekken van apparaat"
+    },
+    {
+      "name": "account_page_device_revocation_progress",
+      "value": "Verwijderen…"
+    },
+    {
+      "name": "account_page_device_revocation_success",
+      "value": "Apparaat verwijderd"
+    },
+    {
+      "name": "account_page_device_revocation_try_again",
+      "value": "Opnieuw proberen"
+    },
+    {
+      "name": "account_page_device_revocation_unknown_device",
+      "value": "Onbekend apparaat"
+    },
+    {
+      "name": "account_page_device_revocation_wrong_password",
+      "value": "Verkeerd wachtwoord"
+    },
+    {
+      "name": "account_page_device_revoked",
+      "value": "Intrekken van apparaat voltooid"
+    },
+    {
+      "name": "account_page_devices_list_header",
+      "value": "Apparaten"
+    },
+    {
+      "name": "account_page_dht_configuration",
+      "value": "OpenDHT-configuratie"
+    },
+    {
+      "name": "account_page_disable_booth_mode",
+      "value": "De booth-modus uitschakelen"
+    },
+    {
+      "name": "account_page_disable_booth_mode_explanation",
+      "value": "Geef het accountwachtwoord op"
+    },
+    {
+      "name": "account_page_edit_profile",
+      "value": "Profiel bewerken"
+    },
+    {
+      "name": "account_page_edit_sip_expiration_time",
+      "value": "Vervaltijd"
+    },
+    {
+      "name": "account_page_enable_booth_mode",
+      "value": "De booth-modus in staat stellen"
+    },
+    {
+      "name": "account_page_enable_notifications",
+      "value": "Meldingen inschakelen"
+    },
+    {
+      "name": "account_page_enable_srtp",
+      "value": "SDES-sleutelwisseling mogelijk maken"
+    },
+    {
+      "name": "account_page_encrypt_account",
+      "value": "Wachtwoord"
+    },
+    {
+      "name": "account_page_encrypt_negotiation",
+      "value": "Onderhandeling versleutelen (TLS)"
+    },
+    {
+      "name": "account_page_generating_pin",
+      "value": "Pincode genereren…"
+    },
+    {
+      "name": "account_page_invalid_address",
+      "value": "Voer een geldig adres in"
+    },
+    {
+      "name": "account_page_invalid_port",
+      "value": "Voer een waarde tussen 0 en 65535 in"
+    },
+    {
+      "name": "account_page_invalid_sip_expiration_time",
+      "value": "Voer een waarde tussen 60 en 604800 seconden in"
+    },
+    {
+      "name": "account_page_invite_friends",
+      "value": "Vrienden uitnodigen"
+    },
+    {
+      "name": "account_page_link_device_title",
+      "value": "Een ander apparaat koppelen"
+    },
+    {
+      "name": "account_page_linked_devices",
+      "value": "Gekoppelde apparaten"
+    },
+    {
+      "name": "account_page_manage_account",
+      "value": "Account beheren"
+    },
+    {
+      "name": "account_page_name_server",
+      "value": "Naamserver"
+    },
+    {
+      "name": "account_page_new_password_confirm_placeholder",
+      "value": "Bevestig het nieuwe wachtwoord"
+    },
+    {
+      "name": "account_page_new_password_placeholder",
+      "value": "Voer een nieuw wachtwoord in"
+    },
+    {
+      "name": "account_page_no_booth_mode",
+      "value": "Beveilig het account eerst met een wachtwoord om de boothmodus in te schakelen."
+    },
+    {
+      "name": "account_page_no_proxy_explanation_label",
+      "value": "Kan geen meldingen ontvangen wanneer de proxy is uitgeschakeld."
+    },
+    {
+      "name": "account_page_notification_error",
+      "value": "Meldingen voor Jami zijn uitgeschakeld. Schakel ze in via de apparaatinstellingen om deze functie te gebruiken."
+    },
+    {
+      "name": "account_page_notification_title",
+      "value": "Meldingen"
+    },
+    {
+      "name": "account_page_notifications_header",
+      "value": "Meldingen"
+    },
+    {
+      "name": "account_page_other",
+      "value": "Anders"
+    },
+    {
+      "name": "account_page_other_devices",
+      "value": "Andere gekoppelde apparaten"
+    },
+    {
+      "name": "account_page_password_created",
+      "value": "Wachtwoord ingesteld"
+    },
+    {
+      "name": "account_page_password_explanation",
+      "value": "Uw Jami-account is alleen op dit apparaat geregistreerd als een archief met de sleutels van uw account. Toegang tot dit archief kan met een wachtwoord worden beschermd."
+    },
+    {
+      "name": "account_page_password_for_pin",
+      "value": "Het account is met een wachtwoord beveiligd. Voer het wachtwoord in om een pincode te genereren."
+    },
+    {
+      "name": "account_page_password_placeholder",
+      "value": "Voer het account wachtwoord in"
+    },
+    {
+      "name": "account_page_password_updated",
+      "value": "Wachtwoord bijgewerkt"
+    },
+    {
+      "name": "account_page_passwords_do_not_match",
+      "value": "Wachtwoorden komen niet overeen."
+    },
+    {
+      "name": "account_page_peer_discovery",
+      "value": "Lokale verwanten ontdekken inschakelen"
+    },
+    {
+      "name": "account_page_peer_discovery_explanation",
+      "value": "Verbinden met andere DHT nodes die zich kenbaar maken binnen het LAN waar u zich bevind"
+    },
+    {
+      "name": "account_page_pin_error",
+      "value": "Er is een fout opgetreden bij het genereren van de pincode."
+    },
+    {
+      "name": "account_page_pin_explanation_message",
+      "value": "Installeer en start Jami. Selecteer “Importeren vanaf een ander apparaat” en scan de QR-code. U kunt ook de PIN-code handmatig invoeren."
+    },
+    {
+      "name": "account_page_pin_explanation_title",
+      "value": "Op een ander apparaat"
+    },
+    {
+      "name": "account_page_profile_header",
+      "value": "Profiel"
+    },
+    {
+      "name": "account_page_profile_name",
+      "value": "Profielnaam"
+    },
+    {
+      "name": "account_page_profile_name_not_selected",
+      "value": "Naam niet geselecteerd"
+    },
+    {
+      "name": "account_page_profile_name_placeholder",
+      "value": "Voer profielnaam in"
+    },
+    {
+      "name": "account_page_proxy_address_alert",
+      "value": "Voer proxyadres in"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_body",
+      "value": "Schakel de proxy in om meldingen te kunnen ontvangen"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_title",
+      "value": "Proxyserver uitgeschakeld"
+    },
+    {
+      "name": "account_page_proxy_explanation",
+      "value": "Meldingen worden via een proxy gerouteerd. Je kunt de standaardproxy gebruiken, een aangepast proxyadres invoeren of een URL met een lijst met proxy's opgeven."
+    },
+    {
+      "name": "account_page_proxy_header",
+      "value": "Proxy"
+    },
+    {
+      "name": "account_page_proxy_list_url",
+      "value": "URL van proxylijst"
+    },
+    {
+      "name": "account_page_proxy_paceholder",
+      "value": "Proxyadres"
+    },
+    {
+      "name": "account_page_public_address_header",
+      "value": "Openbare adres"
+    },
+    {
+      "name": "account_page_published_address",
+      "value": "Adres"
+    },
+    {
+      "name": "account_page_published_port",
+      "value": "Poort"
+    },
+    {
+      "name": "account_page_published_same_as_local",
+      "value": "Gepubliceerd gelijk aan lokaal"
+    },
+    {
+      "name": "account_page_register_name_error_message",
+      "value": "De gebruikersnaam is niet beschikbaar."
+    },
+    {
+      "name": "account_page_register_name_explanation",
+      "value": "Registreer een gebruikersnaam zodat anderen je gemakkelijker kunnen vinden en bereiken op Jami."
+    },
+    {
+      "name": "account_page_remove_account_message",
+      "value": "Als er geen back-up van het account is gemaakt of het niet aan een ander apparaat is toegevoegd, gaan het account en de geregistreerde gebruikersnaam ONHERROEPELIJK VERLOREN."
+    },
+    {
+      "name": "account_page_remove_device_title",
+      "value": "Apparaat verwijderen"
+    },
+    {
+      "name": "account_page_revoke_device_button",
+      "value": "Intrekken"
+    },
+    {
+      "name": "account_page_revoke_device_message",
+      "value": "Wil je dit apparaat verwijderen? Deze actie kan niet ongedaan worden gemaakt."
+    },
+    {
+      "name": "account_page_revoke_device_placeholder",
+      "value": "Voer het account wachtwoord in"
+    },
+    {
+      "name": "account_page_security",
+      "value": "Beveiliging"
+    },
+    {
+      "name": "account_page_select_sip_expiration_time",
+      "value": "Stel de tijd (in seconden) in voor het verlopen van de registratie"
+    },
+    {
+      "name": "account_page_settings_header",
+      "value": "Instellingen"
+    },
+    {
+      "name": "account_page_sip_expiration_time",
+      "value": "Vervaltijd van de registratie (seconden)"
+    },
+    {
+      "name": "account_page_stun_enabled",
+      "value": "STUN gebruiken"
+    },
+    {
+      "name": "account_page_stun_server",
+      "value": "STUN-adres"
+    },
+    {
+      "name": "account_page_this_device",
+      "value": "Dit apparaat"
+    },
+    {
+      "name": "account_page_tls_disable_secure_dlg_check",
+      "value": "Beveiligde dialoogcontrole voor inkomende TLS-gegevens uitschakelen"
+    },
+    {
+      "name": "account_page_tls_require_tls_certificate",
+      "value": "Certificaat voor inkomende TLS-verbindingen vereisen"
+    },
+    {
+      "name": "account_page_tls_verify_client_certificates",
+      "value": "Client-TLS-certificaten verifiëren"
+    },
+    {
+      "name": "account_page_tls_verify_server_certificates",
+      "value": "Verifieer TLS-certificaten van de server"
+    },
+    {
+      "name": "account_page_turn_enabled",
+      "value": "Toch de omschakeling"
+    },
+    {
+      "name": "account_page_turn_password",
+      "value": "TURN-wachtwoord"
+    },
+    {
+      "name": "account_page_turn_realm",
+      "value": "TURN-realm"
+    },
+    {
+      "name": "account_page_turn_server",
+      "value": "TURN-adres"
+    },
+    {
+      "name": "account_page_turn_username",
+      "value": "TURN-gebruikersnaam"
+    },
+    {
+      "name": "account_page_typing_indicator",
+      "value": "Typingsindicator"
+    },
+    {
+      "name": "account_page_typing_indicator_explanation",
+      "value": "Aangeven wanneer berichten worden getypt."
+    },
+    {
+      "name": "account_page_unblock_contact",
+      "value": "Deblokkeren"
+    },
+    {
+      "name": "account_page_unlink",
+      "value": "Ontkoppelen"
+    },
+    {
+      "name": "account_page_upnp_enabled",
+      "value": "UPnP gebruiken"
+    },
+    {
+      "name": "account_page_use_proxy_list",
+      "value": "Proxylijst gebruiken"
+    },
+    {
+      "name": "account_page_username_placeholder",
+      "value": "Voer de gewenste gebruikersnaam in"
+    },
+    {
+      "name": "account_page_username_register_action",
+      "value": "Registreren"
+    },
+    {
+      "name": "account_page_username_registering",
+      "value": "Registratie"
+    },
+    {
+      "name": "account_page_username_registration_failed",
+      "value": "Controleer het accountwachtwoord."
+    },
+    {
+      "name": "account_page_username_registration_failed_title",
+      "value": "Registratie mislukt"
+    },
+    {
+      "name": "actions_back_action",
+      "value": "Terug"
+    },
+    {
+      "name": "actions_delete_action",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "actions_done_action",
+      "value": "Klaar"
+    },
+    {
+      "name": "actions_go_to_settings",
+      "value": "Ga naar instellingen"
+    },
+    {
+      "name": "actions_stop_location_sharing",
+      "value": "Stop met delen"
+    },
+    {
+      "name": "alerts_account_added_title",
+      "value": "Account toegevoegd"
+    },
+    {
+      "name": "alerts_account_cannot_be_found_message",
+      "value": "Kan de account niet vinden op het Jami-netwerk. Zorg ervoor dat deze in Jami is geëxporteerd vanaf een bestaand apparaat en dat de opgegeven inloggegevens correct zijn."
+    },
+    {
+      "name": "alerts_account_cannot_be_found_title",
+      "value": "Accountfout"
+    },
+    {
+      "name": "alerts_account_default_error_message",
+      "value": "Er is een fout opgetreden bij het aanmaken van de account."
+    },
+    {
+      "name": "alerts_account_default_error_title",
+      "value": "Accountfout"
+    },
+    {
+      "name": "alerts_account_linked_title",
+      "value": "Account koppelen"
+    },
+    {
+      "name": "alerts_account_no_network_message",
+      "value": "Er is een verbindingsfout opgetreden bij het toevoegen van het Jami-account aan het gedistribueerde netwerk. Probeer het opnieuw. Als het probleem aanhoudt, neem dan contact op met je systeembeheerder."
+    },
+    {
+      "name": "alerts_account_no_network_title",
+      "value": "Netwerkfout"
+    },
+    {
+      "name": "alerts_alreadylocation_sharing",
+      "value": "Al met deze gebruiker delen"
+    },
+    {
+      "name": "alerts_confim_remove_contact",
+      "value": "Wil je dit contact verwijderen? De bestaande geschiedenis wordt verwijderd."
+    },
+    {
+      "name": "alerts_confirm_block_contact",
+      "value": "Wil je dit contact blokkeren? De gespreksgeschiedenis met dit contact wordt ook permanent verwijderd."
+    },
+    {
+      "name": "alerts_confirm_delete_conversation",
+      "value": "Wil je dit gesprek permanent verwijderen?"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_from_contact",
+      "value": "Wil je het gesprek met dit contact verwijderen?"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_title",
+      "value": "Gesprek verwijderen"
+    },
+    {
+      "name": "alerts_confirm_leave_conversation",
+      "value": "Wilt u dit gesprek verlaten?"
+    },
+    {
+      "name": "alerts_confirm_remove_one_to_one_conversation",
+      "value": "Wil je dit gesprek verwijderen? De bestaande geschiedenis wordt verwijderd. Er kan een nieuw gesprek worden gestart als je geen andere gesprekken met dit contact hebt."
+    },
+    {
+      "name": "alerts_db_failed_message",
+      "value": "Sluit de toepassing en probeer het opnieuw"
+    },
+    {
+      "name": "alerts_db_failed_title",
+      "value": "Er is een fout opgetreden bij het starten van Jami"
+    },
+    {
+      "name": "alerts_error_wrong_credentials",
+      "value": "Er is een fout opgetreden bij het verbinden met de beheerserver. Probeer het opnieuw. Als het probleem aanhoudt, neem dan contact op met je systeembeheerder."
+    },
+    {
+      "name": "alerts_location_service_is_disabled",
+      "value": "Schakel “Locatievoorzieningen” in zodat “Jami” de locatie van het apparaat kan bepalen."
+    },
+    {
+      "name": "alerts_location_sharing",
+      "value": "Deel mijn locatie"
+    },
+    {
+      "name": "alerts_location_sharing_duration10min",
+      "value": "10 minuten"
+    },
+    {
+      "name": "alerts_location_sharing_duration1hour",
+      "value": "1 uur"
+    },
+    {
+      "name": "alerts_location_sharing_duration_title",
+      "value": "Hoe lang moet de locatie worden gedeeld?"
+    },
+    {
+      "name": "alerts_map_information",
+      "value": "Informatie over de kaart"
+    },
+    {
+      "name": "alerts_no_library_permissions_title",
+      "value": "Toegang tot de fotobibliotheek niet toegestaan"
+    },
+    {
+      "name": "alerts_no_location_permissions_title",
+      "value": "Toegang tot locatie niet toegestaan"
+    },
+    {
+      "name": "alerts_no_media_permissions_title",
+      "value": "Mediavergunning niet verleend"
+    },
+    {
+      "name": "alerts_open_street_map_copyright",
+      "value": "© OpenStreetMap-medewerkers"
+    },
+    {
+      "name": "alerts_open_street_map_copyright_more_info",
+      "value": "Meer informatie"
+    },
+    {
+      "name": "alerts_profile_take_photo",
+      "value": "Foto nemen"
+    },
+    {
+      "name": "alerts_profile_upload_photo",
+      "value": "Foto uploaden"
+    },
+    {
+      "name": "alerts_record_audio_message",
+      "value": "Geluidsbericht opnemen"
+    },
+    {
+      "name": "alerts_record_video_message",
+      "value": "Videobericht opnemen"
+    },
+    {
+      "name": "alerts_send_photo",
+      "value": "Foto versturen"
+    },
+    {
+      "name": "alerts_upload_file",
+      "value": "Bestand verzenden"
+    },
+    {
+      "name": "alerts_upload_photo",
+      "value": "Open galerij"
+    },
+    {
+      "name": "backup_account_archive_name",
+      "value": "Selecteer een naam voor het archief."
+    },
+    {
+      "name": "backup_account_archive_name_placeholder",
+      "value": "Archiefnaam"
+    },
+    {
+      "name": "backup_account_backup_button",
+      "value": "Back-up"
+    },
+    {
+      "name": "backup_account_creating",
+      "value": "Back-up maken"
+    },
+    {
+      "name": "backup_account_document_picker_button",
+      "value": "Back-uplocatie openen"
+    },
+    {
+      "name": "backup_account_error_access_denied",
+      "value": "Toegang tot de geselecteerde locatie is geweigerd."
+    },
+    {
+      "name": "backup_account_error_failed",
+      "value": "Er is een fout opgetreden bij het exporteren van het account."
+    },
+    {
+      "name": "backup_account_error_wrong_location",
+      "value": "Het geselecteerde bestandspad is ongeldig. Kies een andere locatie."
+    },
+    {
+      "name": "backup_account_explanation",
+      "value": "Dit Jami-account bestaat alleen op dit apparaat. Het account gaat verloren als dit apparaat verloren gaat of als de applicatie wordt verwijderd. Het wordt aanbevolen een back-up van dit account te maken."
+    },
+    {
+      "name": "backup_account_export_success",
+      "value": "Back-up gemaakt"
+    },
+    {
+      "name": "backup_account_password_request",
+      "value": "Voer het accountwachtwoord in."
+    },
+    {
+      "name": "backup_account_title",
+      "value": "Reservekopie van account maken"
+    },
+    {
+      "name": "block_list_page_no_blocked_contacts",
+      "value": "Geen geblokkeerde contacten"
+    },
+    {
+      "name": "calls_accept_with_audio",
+      "value": "Accepteren met audio"
+    },
+    {
+      "name": "calls_accept_with_video",
+      "value": "Accepteer met video"
+    },
+    {
+      "name": "calls_active_call_in_conversation",
+      "value": "Een gesprek is aan het gang."
+    },
+    {
+      "name": "calls_active_call_label",
+      "value": "Er is een oproep bezig. Wil je deelnemen aan de oproep? Je kunt later ook deelnemen vanuit het gesprek."
+    },
+    {
+      "name": "calls_call_finished",
+      "value": "Oproep beëindigd"
+    },
+    {
+      "name": "calls_calling",
+      "value": "Calling…"
+    },
+    {
+      "name": "calls_calling_participants",
+      "value": "Calling (%s)"
+    },
+    {
+      "name": "calls_connecting",
+      "value": "Bezig met verbinden…"
+    },
+    {
+      "name": "calls_current_call_with",
+      "value": "Bellen met"
+    },
+    {
+      "name": "calls_grid_layout",
+      "value": "Grid view"
+    },
+    {
+      "name": "calls_in_this_call",
+      "value": "In this call (%s)"
+    },
+    {
+      "name": "calls_inviting",
+      "value": "Inviting…"
+    },
+    {
+      "name": "calls_lower_hand",
+      "value": "Onderaan hand"
+    },
+    {
+      "name": "calls_maximize",
+      "value": "Maximaliseren"
+    },
+    {
+      "name": "calls_minimize",
+      "value": "Minimaliseren"
+    },
+    {
+      "name": "calls_mute_audio",
+      "value": "Microfoon dempen"
+    },
+    {
+      "name": "calls_participant_options",
+      "value": "Options for %s"
+    },
+    {
+      "name": "calls_participants_in_call",
+      "value": "%s in call"
+    },
+    {
+      "name": "calls_peer_recording",
+      "value": "Opname"
+    },
+    {
+      "name": "calls_raise_hand",
+      "value": "Hand opsteken"
+    },
+    {
+      "name": "calls_remove_moderator",
+      "value": "De moderator is niet ingesteld."
+    },
+    {
+      "name": "calls_ringing",
+      "value": "Gaat over…"
+    },
+    {
+      "name": "calls_set_moderator",
+      "value": "Stel moderator in"
+    },
+    {
+      "name": "calls_start_picture_in_picture",
+      "value": "Start Picture in Picture"
+    },
+    {
+      "name": "calls_stop_calling",
+      "value": "Stop calling %s"
+    },
+    {
+      "name": "calls_unmute_audio",
+      "value": "Demping microfoon opheffen"
+    },
+    {
+      "name": "collab_align_center",
+      "value": "Centrum"
+    },
+    {
+      "name": "collab_align_justify",
+      "value": "Justify"
+    },
+    {
+      "name": "collab_align_left",
+      "value": "Align left"
+    },
+    {
+      "name": "collab_align_right",
+      "value": "Align right"
+    },
+    {
+      "name": "collab_bold",
+      "value": "Vet"
+    },
+    {
+      "name": "collab_bullet_list",
+      "value": "Bulleted list"
+    },
+    {
+      "name": "collab_clear_format",
+      "value": "Clear formatting"
+    },
+    {
+      "name": "collab_create",
+      "value": "Aanmaken"
+    },
+    {
+      "name": "collab_create_error",
+      "value": "This document could not be created."
+    },
+    {
+      "name": "collab_created_by",
+      "value": "Created by %s"
+    },
+    {
+      "name": "collab_created_by_not_downloaded",
+      "value": "Created by %s, not downloaded"
+    },
+    {
+      "name": "collab_document_name_hint",
+      "value": "Document name"
+    },
+    {
+      "name": "collab_document_removed",
+      "value": "Document removed"
+    },
+    {
+      "name": "collab_document_removed_locally",
+      "value": "Document removed from this device"
+    },
+    {
+      "name": "collab_document_removed_locally_message",
+      "value": "\"%s\" is no longer on this device. Opening it again downloads it back."
+    },
+    {
+      "name": "collab_document_removed_message",
+      "value": "\"%s\" was removed by its author."
+    },
+    {
+      "name": "collab_documents",
+      "value": "Documenten"
+    },
+    {
+      "name": "collab_download_and_open",
+      "value": "Download and open"
+    },
+    {
+      "name": "collab_editable_document",
+      "value": "Editable document"
+    },
+    {
+      "name": "collab_editing_alone",
+      "value": "Only you are editing"
+    },
+    {
+      "name": "collab_editing_one_other",
+      "value": "1 other person is editing"
+    },
+    {
+      "name": "collab_editing_others",
+      "value": "%d other people are editing"
+    },
+    {
+      "name": "collab_export",
+      "value": "Export a local copy"
+    },
+    {
+      "name": "collab_export_anyway",
+      "value": "Export anyway"
+    },
+    {
+      "name": "collab_export_error",
+      "value": "This document could not be exported."
+    },
+    {
+      "name": "collab_export_html",
+      "value": "Export to HTML"
+    },
+    {
+      "name": "collab_export_markdown",
+      "value": "Export to Markdown"
+    },
+    {
+      "name": "collab_export_missing_images",
+      "value": "%d picture(s) in this document have not arrived yet, and will be left out of the exported file."
+    },
+    {
+      "name": "collab_export_pdf",
+      "value": "Export to PDF"
+    },
+    {
+      "name": "collab_export_text",
+      "value": "Export to plain text"
+    },
+    {
+      "name": "collab_heading",
+      "value": "Heading %d"
+    },
+    {
+      "name": "collab_history",
+      "value": "Version history"
+    },
+    {
+      "name": "collab_image_error",
+      "value": "This image could not be added."
+    },
+    {
+      "name": "collab_image_too_large",
+      "value": "This image is too large to be added to a document."
+    },
+    {
+      "name": "collab_insert_image",
+      "value": "Insert image"
+    },
+    {
+      "name": "collab_italic",
+      "value": "Cursief"
+    },
+    {
+      "name": "collab_link_add",
+      "value": "Voeg toe"
+    },
+    {
+      "name": "collab_link_hint",
+      "value": "Adres"
+    },
+    {
+      "name": "collab_link_remove",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "collab_link_title",
+      "value": "Koppelen"
+    },
+    {
+      "name": "collab_menu",
+      "value": "Document actions"
+    },
+    {
+      "name": "collab_new_document",
+      "value": "New document"
+    },
+    {
+      "name": "collab_no_documents",
+      "value": "No document has been written in this conversation yet."
+    },
+    {
+      "name": "collab_no_history",
+      "value": "This document has no saved version yet."
+    },
+    {
+      "name": "collab_not_downloaded",
+      "value": "Not downloaded"
+    },
+    {
+      "name": "collab_open",
+      "value": "Openen"
+    },
+    {
+      "name": "collab_open_error",
+      "value": "This document could not be opened."
+    },
+    {
+      "name": "collab_ordered_list",
+      "value": "Numbered list"
+    },
+    {
+      "name": "collab_redo",
+      "value": "Redo"
+    },
+    {
+      "name": "collab_remove",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "collab_remove_error",
+      "value": "This document could not be removed."
+    },
+    {
+      "name": "collab_remove_everywhere_action",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "collab_remove_everywhere_menu",
+      "value": "Remove for everyone"
+    },
+    {
+      "name": "collab_remove_locally_action",
+      "value": "Offload"
+    },
+    {
+      "name": "collab_remove_locally_error",
+      "value": "This document could not be removed from this device."
+    },
+    {
+      "name": "collab_remove_locally_menu",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_locally_message",
+      "value": "\"%s\" will be removed from this device only. The other members keep it, and opening it again downloads it back."
+    },
+    {
+      "name": "collab_remove_locally_title",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_message",
+      "value": "\"%s\" will be removed for every member of this conversation. This cannot be undone."
+    },
+    {
+      "name": "collab_remove_title",
+      "value": "Remove document"
+    },
+    {
+      "name": "collab_rename",
+      "value": "Rename"
+    },
+    {
+      "name": "collab_send_error",
+      "value": "Your changes could not be sent."
+    },
+    {
+      "name": "collab_strikethrough",
+      "value": "Doorhalen"
+    },
+    {
+      "name": "collab_underline",
+      "value": "Underline"
+    },
+    {
+      "name": "collab_undo",
+      "value": "Ongedaan maken"
+    },
+    {
+      "name": "collab_untitled",
+      "value": "Untitled document"
+    },
+    {
+      "name": "collab_version_by",
+      "value": "%1$s — %2$s"
+    },
+    {
+      "name": "collab_version_deltas",
+      "value": "%1$s — %2$s, %3$d change(s)"
+    },
+    {
+      "name": "collab_version_leave",
+      "value": "Back to the current version"
+    },
+    {
+      "name": "collab_version_restore",
+      "value": "Restore"
+    },
+    {
+      "name": "collab_version_restore_error",
+      "value": "This version could not be restored."
+    },
+    {
+      "name": "collab_version_restored",
+      "value": "The document was restored to this version."
+    },
+    {
+      "name": "collab_version_shown",
+      "value": "Version of %s"
+    },
+    {
+      "name": "collab_version_unchanged",
+      "value": "This version is the document you already have."
+    },
+    {
+      "name": "contact_page_leave_conversation",
+      "value": "Laat het gesprek"
+    },
+    {
+      "name": "contact_page_send",
+      "value": "Versturen"
+    },
+    {
+      "name": "contact_page_start_audio_call",
+      "value": "Audio-oproep starten"
+    },
+    {
+      "name": "contact_page_start_video_call",
+      "value": "Video-oproep starten"
+    },
+    {
+      "name": "contact_picker_calls",
+      "value": "Oproepen"
+    },
+    {
+      "name": "contact_picker_contacts",
+      "value": "Contacten"
+    },
+    {
+      "name": "conversation_add_to_contacts_button",
+      "value": "Aan contacten toevoegen"
+    },
+    {
+      "name": "conversation_add_to_contacts_label",
+      "value": "Toevoegen aan contacten?"
+    },
+    {
+      "name": "conversation_contact_blocked",
+      "value": "Contact geblokkeerd"
+    },
+    {
+      "name": "conversation_deleted_message",
+      "value": "%s heeft een bericht verwijderd"
+    },
+    {
+      "name": "conversation_edited",
+      "value": "Gecorrigeerd"
+    },
+    {
+      "name": "conversation_error_saving_image",
+      "value": "Kon afbeelding niet opslaan"
+    },
+    {
+      "name": "conversation_error_saving_image_message",
+      "value": "Er is een fout opgetreden bij het opslaan van de afbeelding in de fotobibliotheek."
+    },
+    {
+      "name": "conversation_image_saved",
+      "value": "Opgeslagen"
+    },
+    {
+      "name": "conversation_in_reply_to",
+      "value": "In antwoord op"
+    },
+    {
+      "name": "conversation_incoming_request",
+      "value": "heeft je een gespreksuitnodiging gestuurd."
+    },
+    {
+      "name": "conversation_last_message_deleted",
+      "value": "(verwijderd bericht)"
+    },
+    {
+      "name": "conversation_message_placeholder",
+      "value": "Schrijf naar"
+    },
+    {
+      "name": "conversation_not_contact_label",
+      "value": "%s staat niet in de contactenlijst"
+    },
+    {
+      "name": "conversation_photo_access_required_message",
+      "value": "Jami heeft toegang tot je fotobibliotheek nodig om afbeeldingen op te slaan. Je kunt dit inschakelen in Instellingen."
+    },
+    {
+      "name": "conversation_received_request",
+      "value": "%s heeft je een gespreksuitnodiging gestuurd."
+    },
+    {
+      "name": "conversation_replied_to",
+      "value": "%s heeft geantwoord op %s"
+    },
+    {
+      "name": "conversation_request_message",
+      "value": "Hallo,\nWilt u deelnemen aan het gesprek?"
+    },
+    {
+      "name": "conversation_send_invitation_button",
+      "value": "Uitnodiging sturen"
+    },
+    {
+      "name": "conversation_send_request",
+      "value": "Stuur hen een uitnodiging om te kunnen praten."
+    },
+    {
+      "name": "conversation_send_request_title",
+      "value": "Gespreksuitnodiging versturen"
+    },
+    {
+      "name": "conversation_synchronization_message",
+      "value": "Wachten tot %s verbinding maakt om het gesprek te synchroniseren…"
+    },
+    {
+      "name": "conversation_synchronization_title",
+      "value": "Je hebt de gespreksuitnodiging geaccepteerd."
+    },
+    {
+      "name": "conversation_syncing_title",
+      "value": "Gesprek synchroniseren"
+    },
+    {
+      "name": "conversation_typing_indicator_one_user",
+      "value": "%s is aan het typen"
+    },
+    {
+      "name": "conversation_typing_indicator_other_users",
+      "value": "%1$s, %2$s en %3$s ander zijn aan het typen"
+    },
+    {
+      "name": "conversation_typing_indicator_others_users",
+      "value": "%1$s, %2$s en %3$s anderen zijn aan het typen"
+    },
+    {
+      "name": "conversation_typing_indicator_two_users",
+      "value": "%1$s en %2$s zijn aan het typen"
+    },
+    {
+      "name": "conversation_yourself",
+      "value": "Jij?"
+    },
+    {
+      "name": "create_account_username_not_registered_message",
+      "value": "Het account is aangemaakt, maar de gebruikersnaam is niet geregistreerd"
+    },
+    {
+      "name": "create_account_username_not_registered_title",
+      "value": "Netwerkfout"
+    },
+    {
+      "name": "create_account_create_account_form_title",
+      "value": "Neem deel aan Jami."
+    },
+    {
+      "name": "create_account_creating_account",
+      "value": "Account aanmaken"
+    },
+    {
+      "name": "create_account_customize",
+      "value": "Aanpassing"
+    },
+    {
+      "name": "create_account_encrypt",
+      "value": "Beveiligen met wachtwoord"
+    },
+    {
+      "name": "create_account_encrypt_explanation",
+      "value": "Een Jami-account wordt alleen lokaal op dit apparaat aangemaakt en opgeslagen als een archief met de accountsleutels. De toegang tot het archief kan optioneel met een wachtwoord worden beveiligd."
+    },
+    {
+      "name": "create_account_encrypt_title",
+      "value": "Account beveiligen met wachtwoord"
+    },
+    {
+      "name": "create_account_encryption_enabled",
+      "value": "Wachtwoordbeveiliging ingeschakeld"
+    },
+    {
+      "name": "create_account_invalid_username",
+      "value": "Ongeldige gebruikersnaam. Voer de juiste gebruikersnaam in."
+    },
+    {
+      "name": "create_account_looking_for_username_availability",
+      "value": "Beschikbaarheid van gebruikersnaam controleren…"
+    },
+    {
+      "name": "create_account_name_explanation",
+      "value": "Je kunt een gebruikersnaam kiezen om anderen te helpen je makkelijker te vinden en te bereiken op Jami."
+    },
+    {
+      "name": "create_account_new_account",
+      "value": "Account aanmaken"
+    },
+    {
+      "name": "create_account_sip_configure",
+      "value": "Bestaand SIP-account configureren"
+    },
+    {
+      "name": "create_account_timeout_message",
+      "value": "Registratie van gebruikersnaam is bezig. Even geduld…"
+    },
+    {
+      "name": "create_account_timeout_title",
+      "value": "Account aangemaakt"
+    },
+    {
+      "name": "create_account_username_already_taken",
+      "value": "Gebruikersnaam reeds in gebruik"
+    },
+    {
+      "name": "create_account_username_valid",
+      "value": "De gebruikersnaam is beschikbaar."
+    },
+    {
+      "name": "create_profile_create_profile_picture",
+      "value": "Profielfoto maken"
+    },
+    {
+      "name": "create_profile_enter_name_label",
+      "value": "Voer een weergavenaam in"
+    },
+    {
+      "name": "create_profile_enter_name_placeholder",
+      "value": "Voer naam in"
+    },
+    {
+      "name": "create_profile_profile_created",
+      "value": "Volgende"
+    },
+    {
+      "name": "create_profile_skip_create_profile",
+      "value": "Overslaan"
+    },
+    {
+      "name": "create_profile_subtitle",
+      "value": "Je profiel wordt alleen gedeeld met je contacten. Het profiel kan op elk moment worden gewijzigd."
+    },
+    {
+      "name": "create_profile_title",
+      "value": "Personaliseer je profiel"
+    },
+    {
+      "name": "data_transfer_info_message",
+      "value": "Tik om de opname te starten"
+    },
+    {
+      "name": "data_transfer_readable_status_accept",
+      "value": "Accepteren"
+    },
+    {
+      "name": "data_transfer_readable_status_awaiting",
+      "value": "In afwachting…"
+    },
+    {
+      "name": "data_transfer_readable_status_canceled",
+      "value": "Geannuleerd"
+    },
+    {
+      "name": "data_transfer_readable_status_created",
+      "value": "Bezig met initialiseren…"
+    },
+    {
+      "name": "data_transfer_readable_status_decline",
+      "value": "Weigeren"
+    },
+    {
+      "name": "data_transfer_readable_status_error",
+      "value": "Fout"
+    },
+    {
+      "name": "data_transfer_readable_status_ongoing",
+      "value": "Wordt verstuurd"
+    },
+    {
+      "name": "data_transfer_readable_status_success",
+      "value": "Voltooid"
+    },
+    {
+      "name": "data_transfer_record_in_background_warning",
+      "value": "Video opnemen tijdens multitasken met meerdere apps kan resulteren in video's van lagere kwaliteit. Voor de beste resultaten neem je op zonder te multitasken"
+    },
+    {
+      "name": "data_transfer_send_message",
+      "value": "Versturen"
+    },
+    {
+      "name": "data_transfer_sending_failed",
+      "value": "Er is een fout opgetreden bij het verzenden."
+    },
+    {
+      "name": "general_settings_accept_transfer_limit",
+      "value": "Aanvaardingslimiet"
+    },
+    {
+      "name": "general_settings_accept_transfer_limit_description",
+      "value": "(MB, 0 = onbeperkt)"
+    },
+    {
+      "name": "general_settings_automatic_accept_incoming_files",
+      "value": "Automatisch ontvangen van inkomende bestanden"
+    },
+    {
+      "name": "general_settings_donation_campaign",
+      "value": "Donatiecampagne"
+    },
+    {
+      "name": "general_settings_enable_donation_campaign",
+      "value": "Donatiecampagne inschakelen"
+    },
+    {
+      "name": "general_settings_file_transfer",
+      "value": "Bestandsoverdracht"
+    },
+    {
+      "name": "general_settings_limit_location_sharing_duration",
+      "value": "Beperking van de duur van locatieverdeling"
+    },
+    {
+      "name": "general_settings_location_sharing",
+      "value": "Locatieverdeling"
+    },
+    {
+      "name": "location_sharing_title",
+      "value": "Locatieverdeling"
+    },
+    {
+      "name": "general_settings_location_sharing_duration",
+      "value": "De duur van de positie"
+    },
+    {
+      "name": "general_settings_video_acceleration",
+      "value": "Videoversnelling inschakelen"
+    },
+    {
+      "name": "general_settings_video_settings",
+      "value": "Video-instellingen"
+    },
+    {
+      "name": "generated_message_contact_added",
+      "value": "Uitnodiging ontvangen"
+    },
+    {
+      "name": "generated_message_contact_blocked",
+      "value": "%s is geblokkeerd in de conversatie."
+    },
+    {
+      "name": "generated_message_contact_left_conversation",
+      "value": "%s heeft de conversatie verlaten."
+    },
+    {
+      "name": "generated_message_contact_unblocked",
+      "value": "%s is gedeblokkeerd in de conversatie."
+    },
+    {
+      "name": "generated_message_invitation_accepted",
+      "value": "%s heeft zich bij de conversatie gevoegd."
+    },
+    {
+      "name": "generated_message_invitation_received",
+      "value": "%s is uitgenodigd voor de conversatie."
+    },
+    {
+      "name": "generated_message_live_location_sharing",
+      "value": "Live locatie delen"
+    },
+    {
+      "name": "generated_message_missed_incoming_call",
+      "value": "Gemiste inkomende oproep"
+    },
+    {
+      "name": "generated_message_missed_outgoing_call",
+      "value": "Gemiste uitgaande oproep"
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_accepted",
+      "value": "Je uitnodiging is geaccepteerd."
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_received",
+      "value": "Je hebt een uitnodiging verstuurd."
+    },
+    {
+      "name": "generated_message_outgoing_call",
+      "value": "Uitgaande oproep"
+    },
+    {
+      "name": "generated_message_swarm_created",
+      "value": "Gesprek aangemaakt"
+    },
+    {
+      "name": "generated_message_you_joined",
+      "value": "U bent lid geworden van het gesprek."
+    },
+    {
+      "name": "global_accept",
+      "value": "Accepteren"
+    },
+    {
+      "name": "global_account_settings",
+      "value": "Accountinstellingen"
+    },
+    {
+      "name": "global_block",
+      "value": "Blokkeren"
+    },
+    {
+      "name": "global_block_contact",
+      "value": "Contact blokkeren"
+    },
+    {
+      "name": "global_call",
+      "value": "Oproep"
+    },
+    {
+      "name": "global_camera_disabled",
+      "value": "Cameratoegang is uitgeschakeld. Schakel het in via de apparaatinstellingen om deze functie te gebruiken."
+    },
+    {
+      "name": "global_cancel",
+      "value": "Annuleren"
+    },
+    {
+      "name": "global_close",
+      "value": "Sluiten"
+    },
+    {
+      "name": "global_confirm",
+      "value": "Bevestigen"
+    },
+    {
+      "name": "global_confirm_password",
+      "value": "Bevestig wachtwoord"
+    },
+    {
+      "name": "global_connect",
+      "value": "Verbinden"
+    },
+    {
+      "name": "global_copy",
+      "value": "Kopiëren"
+    },
+    {
+      "name": "global_create",
+      "value": "Aanmaken"
+    },
+    {
+      "name": "global_decline",
+      "value": "Weigeren"
+    },
+    {
+      "name": "global_delete_file",
+      "value": "Bestand van apparaat verwijderen"
+    },
+    {
+      "name": "global_delete_message",
+      "value": "Bericht verwijderen"
+    },
+    {
+      "name": "global_edit",
+      "value": "Wijzigen"
+    },
+    {
+      "name": "global_edit_message",
+      "value": "Bewerk bericht"
+    },
+    {
+      "name": "global_edit_password",
+      "value": "Wachtwoord bewerken"
+    },
+    {
+      "name": "global_editing",
+      "value": "Bewerken"
+    },
+    {
+      "name": "global_enter_password",
+      "value": "Voer wachtwoord in"
+    },
+    {
+      "name": "global_enter_username",
+      "value": "Voer gebruikersnaam in"
+    },
+    {
+      "name": "global_forward",
+      "value": "Voorwaarts"
+    },
+    {
+      "name": "global_incoming_call",
+      "value": "Inkomende oproep"
+    },
+    {
+      "name": "global_leave",
+      "value": "Ga weg."
+    },
+    {
+      "name": "global_name",
+      "value": "Naam"
+    },
+    {
+      "name": "global_ok",
+      "value": "In orde"
+    },
+    {
+      "name": "global_password",
+      "value": "Wachtwoord"
+    },
+    {
+      "name": "global_preview",
+      "value": "Voorbeeld"
+    },
+    {
+      "name": "global_recommended",
+      "value": "Aanbevolen"
+    },
+    {
+      "name": "global_register_a_username",
+      "value": "Gebruikersnaam registreren"
+    },
+    {
+      "name": "global_remove",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "global_remove_account",
+      "value": "Account verwijderen"
+    },
+    {
+      "name": "global_reply",
+      "value": "Beantwoorden"
+    },
+    {
+      "name": "global_resend",
+      "value": "Verzend"
+    },
+    {
+      "name": "global_save",
+      "value": "Opslaan"
+    },
+    {
+      "name": "global_search",
+      "value": "Bezig met zoeken…"
+    },
+    {
+      "name": "global_share",
+      "value": "Delen"
+    },
+    {
+      "name": "global_support_jami",
+      "value": "Steun het Jami-project"
+    },
+    {
+      "name": "global_time",
+      "value": "Tijd"
+    },
+    {
+      "name": "global_username",
+      "value": "Gebruikersnaam"
+    },
+    {
+      "name": "global_video",
+      "value": "Video"
+    },
+    {
+      "name": "import_from_archive_button_title",
+      "value": "Importeren"
+    },
+    {
+      "name": "import_from_archive_explanation",
+      "value": "Importeer Jami-account uit het lokale archiefbestand."
+    },
+    {
+      "name": "import_from_archive_password_explanation",
+      "value": "Als het account met een wachtwoord is beveiligd, vul dan het volgende veld in."
+    },
+    {
+      "name": "import_from_archive_select_archive_button",
+      "value": "Selecteer archiefbestand"
+    },
+    {
+      "name": "import_from_archive_title",
+      "value": "Importeren uit archief"
+    },
+    {
+      "name": "invitations_accepted",
+      "value": "Geaccepteerd"
+    },
+    {
+      "name": "invitations_blocked",
+      "value": "Geblokkeerd"
+    },
+    {
+      "name": "invitations_declined",
+      "value": "Geweigerd"
+    },
+    {
+      "name": "invitations_list",
+      "value": "Uitnodigingen ontvangen"
+    },
+    {
+      "name": "invitations_no_invitations",
+      "value": "Geen uitnodigingen"
+    },
+    {
+      "name": "link_device_authentication_info",
+      "value": "Nieuw apparaat gevonden op het volgende IP-adres. Ben jij dat? Tik op Bevestigen om door te gaan met het exporteren van het account."
+    },
+    {
+      "name": "link_device_code",
+      "value": "code"
+    },
+    {
+      "name": "link_device_completed",
+      "value": "De account is succesvol geïmporteerd op het nieuwe apparaat."
+    },
+    {
+      "name": "link_device_connecting",
+      "value": "Verbinden met je nieuwe apparaat…"
+    },
+    {
+      "name": "link_device_error_code",
+      "value": "Er is een fout opgetreden bij het genereren van de code. Probeer het opnieuw."
+    },
+    {
+      "name": "link_device_error_network",
+      "value": "Er is een netwerkfout opgetreden bij het koppelen van het account. Controleer uw verbinding en probeer het opnieuw."
+    },
+    {
+      "name": "link_device_error_timeout",
+      "value": "De bewerking is verlopen. Probeer het opnieuw."
+    },
+    {
+      "name": "link_device_error_wrong_data",
+      "value": "Er is een fout opgetreden bij het exporteren van het account. Probeer het opnieuw."
+    },
+    {
+      "name": "link_device_error_wrong_password",
+      "value": "Er is een authenticatiefout opgetreden bij het koppelen van het apparaat. Controleer de inloggegevens en probeer het opnieuw."
+    },
+    {
+      "name": "link_device_export_in_progress",
+      "value": "Het exporteren van het account naar het nieuwe apparaat is bezig. Bevestig het importeren op het nieuwe apparaat."
+    },
+    {
+      "name": "link_device_info_add_account",
+      "value": "Selecteer Account toevoegen → Verbinden vanaf een ander apparaat."
+    },
+    {
+      "name": "link_device_info_code",
+      "value": "Voer de code in en tik op Verbinden wanneer je klaar bent."
+    },
+    {
+      "name": "link_device_info_qr_code",
+      "value": "Scan de QR-code wanneer je klaar bent."
+    },
+    {
+      "name": "link_device_initial_info",
+      "value": "Start een nieuw account op het nieuwe apparaat."
+    },
+    {
+      "name": "link_device_network_error",
+      "value": "Er is een netwerkfout opgetreden bij het exporteren van het account."
+    },
+    {
+      "name": "link_device_new_device_ip",
+      "value": "IP-adres van nieuw apparaat: %1$s"
+    },
+    {
+      "name": "link_device_title",
+      "value": "Nieuw apparaat koppelen"
+    },
+    {
+      "name": "link_device_wrong_entry",
+      "value": "Niet-herkende identificatie van nieuw apparaat. Volg de bovenstaande instructies."
+    },
+    {
+      "name": "link_to_account_account_locked_with_password",
+      "value": "Het account is met een wachtwoord beveiligd. Voer het accountwachtwoord in om door te gaan."
+    },
+    {
+      "name": "link_to_account_action_required",
+      "value": "Actie vereist.\nBevestig het account op het bronapparaat."
+    },
+    {
+      "name": "link_to_account_alert_message",
+      "value": "Stoppen annuleert de bewerking voor het importeren van de account."
+    },
+    {
+      "name": "link_to_account_alert_tile",
+      "value": "Wil je het koppelen van het account stoppen?"
+    },
+    {
+      "name": "link_to_account_all_set",
+      "value": "Het account is succesvol geïmporteerd."
+    },
+    {
+      "name": "link_to_account_enter_provided_code",
+      "value": "Voer de authenticatiecode in wanneer je klaar bent."
+    },
+    {
+      "name": "link_to_account_exit",
+      "value": "Afsluiten"
+    },
+    {
+      "name": "link_to_account_export_instructions",
+      "value": "Start het exporteren op het bronapparaat."
+    },
+    {
+      "name": "link_to_account_export_instructions_path",
+      "value": "Selecteer Account → Accountinstellingen → Nieuw apparaat koppelen."
+    },
+    {
+      "name": "link_to_account_go_to_accounts",
+      "value": "Ga naar geïmporteerd account"
+    },
+    {
+      "name": "link_to_account_import_account",
+      "value": "Account importeren"
+    },
+    {
+      "name": "link_to_account_scan_qr_code",
+      "value": "Scan de QR-code wanneer je klaar bent."
+    },
+    {
+      "name": "link_to_account_share_message",
+      "value": "Je code is: %s"
+    },
+    {
+      "name": "link_to_account_show_pin_code",
+      "value": "Authenticatiecode"
+    },
+    {
+      "name": "link_to_account_show_qr_code",
+      "value": "QR-code"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_label",
+      "value": "Voer de URL van de beheerserver in"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_placeholder",
+      "value": "URL van de beheerserver"
+    },
+    {
+      "name": "link_to_account_manager_enter_credentials",
+      "value": "Voer de inloggegevens van de beheerserver in"
+    },
+    {
+      "name": "link_to_account_manager_jams_explanation",
+      "value": "Voer de URL van de beheerserver in"
+    },
+    {
+      "name": "link_to_account_manager_sign_in",
+      "value": "Aanmelden"
+    },
+    {
+      "name": "link_to_account_manager_title",
+      "value": "Beheerserveraccount"
+    },
+    {
+      "name": "log_view_description",
+      "value": "Open diagnostische loginstellingen"
+    },
+    {
+      "name": "log_view_save_error",
+      "value": "Er is een fout opgetreden bij het opslaan van het bestand."
+    },
+    {
+      "name": "log_view_share_error",
+      "value": "Er is een fout opgetreden bij het delen van het bestand."
+    },
+    {
+      "name": "log_view_start_logging",
+      "value": "Loggen starten"
+    },
+    {
+      "name": "log_view_stop_logging",
+      "value": "Stop met het loggen"
+    },
+    {
+      "name": "log_view_title",
+      "value": "Diagnostiek"
+    },
+    {
+      "name": "migrate_account_error",
+      "value": "Er is een fout opgetreden bij het migreren van het account. Probeer het opnieuw of verwijder het account."
+    },
+    {
+      "name": "migrate_account_explanation",
+      "value": "Accountmigratie vereist."
+    },
+    {
+      "name": "migrate_account_migrate_another",
+      "value": "Migreer naar een ander account"
+    },
+    {
+      "name": "migrate_account_migrate_button",
+      "value": "Migreren rekening"
+    },
+    {
+      "name": "migrate_account_migrating",
+      "value": "Migreren…"
+    },
+    {
+      "name": "migrate_account_password_explanation",
+      "value": "Voer het accountwachtwoord in om door te gaan met de accountmigratie."
+    },
+    {
+      "name": "migrate_account_title",
+      "value": "Accountmigratie"
+    },
+    {
+      "name": "notifications_location_sharing_started",
+      "value": "Inkomende locatie delen begonnen"
+    },
+    {
+      "name": "notifications_location_sharing_stopped",
+      "value": "Inkomende locatie delen is gestopt"
+    },
+    {
+      "name": "notifications_missed_call",
+      "value": "Gemiste oproep"
+    },
+    {
+      "name": "notifications_new_file",
+      "value": "Nieuw bestand"
+    },
+    {
+      "name": "peer_services_done",
+      "value": "Klaar"
+    },
+    {
+      "name": "peer_services_empty",
+      "value": "Geen gedeelde diensten beschikbaar"
+    },
+    {
+      "name": "peer_services_error_offline",
+      "value": "Contact is offline"
+    },
+    {
+      "name": "peer_services_error_timeout",
+      "value": "Verzoek is verlopen"
+    },
+    {
+      "name": "peer_services_error_unknown",
+      "value": "Kan diensten niet ophalen"
+    },
+    {
+      "name": "peer_services_error_unreachable",
+      "value": "Contact is onbereikbaar"
+    },
+    {
+      "name": "peer_services_not_supported",
+      "value": "Niet ondersteund"
+    },
+    {
+      "name": "peer_services_open",
+      "value": "Openen"
+    },
+    {
+      "name": "peer_services_refresh",
+      "value": "Diensten vernieuwen"
+    },
+    {
+      "name": "peer_services_title",
+      "value": "Gedeelde diensten"
+    },
+    {
+      "name": "photo_capture_retake",
+      "value": "Opnieuw"
+    },
+    {
+      "name": "photo_capture_use_photo",
+      "value": "Gebruik foto"
+    },
+    {
+      "name": "profile_editor_change_picture",
+      "value": "Change picture"
+    },
+    {
+      "name": "profile_editor_change_picture_hint",
+      "value": "Choose a new picture from the camera or photo library"
+    },
+    {
+      "name": "profile_editor_contact_name_placeholder",
+      "value": "Enter a name"
+    },
+    {
+      "name": "profile_editor_description",
+      "value": "Beschrijving"
+    },
+    {
+      "name": "profile_editor_description_placeholder",
+      "value": "Enter a description"
+    },
+    {
+      "name": "profile_editor_discard",
+      "value": "Verwerpen"
+    },
+    {
+      "name": "profile_editor_discard_message",
+      "value": "Your unsaved changes will be lost."
+    },
+    {
+      "name": "profile_editor_discard_title",
+      "value": "Discard changes?"
+    },
+    {
+      "name": "profile_editor_edit_contact",
+      "value": "Edit contact"
+    },
+    {
+      "name": "profile_editor_edit_contact_hint",
+      "value": "Opens the contact editor"
+    },
+    {
+      "name": "profile_editor_edit_group",
+      "value": "Edit group"
+    },
+    {
+      "name": "profile_editor_edit_group_hint",
+      "value": "Opens the group editor"
+    },
+    {
+      "name": "profile_editor_group_name_placeholder",
+      "value": "Enter a group name"
+    },
+    {
+      "name": "profile_editor_local_changes_footer",
+      "value": "This name and picture are visible only on this device."
+    },
+    {
+      "name": "profile_editor_name",
+      "value": "Naam"
+    },
+    {
+      "name": "profile_editor_no_picture",
+      "value": "No picture"
+    },
+    {
+      "name": "profile_editor_picture_selected",
+      "value": "Picture selected"
+    },
+    {
+      "name": "profile_editor_remove_picture",
+      "value": "Remove picture"
+    },
+    {
+      "name": "profile_editor_reset_original",
+      "value": "Use original name and picture"
+    },
+    {
+      "name": "profile_editor_reset_original_hint",
+      "value": "Restores the name and picture this contact set for themselves"
+    },
+    {
+      "name": "profile_editor_reset_picture",
+      "value": "Use original picture"
+    },
+    {
+      "name": "profile_editor_save_error",
+      "value": "The changes could not be saved. Please try again."
+    },
+    {
+      "name": "scan_bad_qr_code",
+      "value": "Verkeerde QR-code"
+    },
+    {
+      "name": "share_extension_accessibility_select_account",
+      "value": "Dubbeltik om dit account te selecteren"
+    },
+    {
+      "name": "share_extension_accessibility_select_conversation",
+      "value": "Dubbeltik om dit gesprek te selecteren"
+    },
+    {
+      "name": "share_extension_accessibility_selected_account",
+      "value": "Geselecteerd account: %s. Dubbeltik om van account te wisselen."
+    },
+    {
+      "name": "share_extension_accessibility_send_button",
+      "value": "Dubbeltik om naar geselecteerde gesprekken te verzenden"
+    },
+    {
+      "name": "share_extension_no_account_description",
+      "value": "Maak een account aan in de hoofdapplicatie om door te gaan."
+    },
+    {
+      "name": "share_extension_no_account_title",
+      "value": "Account niet gevonden"
+    },
+    {
+      "name": "share_extension_no_search_results",
+      "value": "Geen gesprekken komen overeen met je zoekopdracht"
+    },
+    {
+      "name": "share_extension_search_conversations",
+      "value": "Gesprekken zoeken"
+    },
+    {
+      "name": "share_extension_select_account_title",
+      "value": "Account selecteren"
+    },
+    {
+      "name": "share_extension_send_to_conversation",
+      "value": "Naar %d gesprek versturen"
+    },
+    {
+      "name": "share_extension_send_to_conversations_plural",
+      "value": "Naar %d gesprekken versturen"
+    },
+    {
+      "name": "share_extension_sending",
+      "value": "Verzenden…"
+    },
+    {
+      "name": "share_extension_try_different_filter",
+      "value": "Probeer een ander filter"
+    },
+    {
+      "name": "share_extension_unsupported_type_description",
+      "value": "Het delen van de geselecteerde inhoud wordt momenteel niet ondersteund."
+    },
+    {
+      "name": "share_extension_unsupported_type_title",
+      "value": "Niet-ondersteunde inhoud"
+    },
+    {
+      "name": "smartlist_about_jami",
+      "value": "Over Jami"
+    },
+    {
+      "name": "smartlist_accounts",
+      "value": "Accounts"
+    },
+    {
+      "name": "smartlist_accounts_title",
+      "value": "Accounts"
+    },
+    {
+      "name": "smartlist_add_account_button",
+      "value": "+ Account toevoegen"
+    },
+    {
+      "name": "smartlist_cellular_access",
+      "value": "Zorg ervoor dat mobiele toegang is toegestaan in de instellingen."
+    },
+    {
+      "name": "smartlist_conversations",
+      "value": "Gesprekken"
+    },
+    {
+      "name": "smartlist_conversations_search_hint",
+      "value": "You don't have any conversations yet."
+    },
+    {
+      "name": "smartlist_dialpad",
+      "value": "Keypad"
+    },
+    {
+      "name": "smartlist_disable_donation",
+      "value": "Niet nu"
+    },
+    {
+      "name": "smartlist_donation_explanation",
+      "value": "Als u Jami graag gebruikt en in onze missie gelooft, wilt u dan een donatie doen?"
+    },
+    {
+      "name": "smartlist_in_synchronization",
+      "value": "Synchroniseren…"
+    },
+    {
+      "name": "smartlist_invitation_received",
+      "value": "Uitnodigingen ontvangen"
+    },
+    {
+      "name": "smartlist_invitations",
+      "value": "Uitnodigingen"
+    },
+    {
+      "name": "smartlist_invite_friends",
+      "value": "Vrienden uitnodigen"
+    },
+    {
+      "name": "smartlist_jams_directory_hint",
+      "value": "People in your organization outside your contacts."
+    },
+    {
+      "name": "smartlist_jams_results",
+      "value": "Organization directory"
+    },
+    {
+      "name": "smartlist_new_contact",
+      "value": "Nieuw contact"
+    },
+    {
+      "name": "smartlist_new_group",
+      "value": "Nieuwe groep"
+    },
+    {
+      "name": "smartlist_no_conversation",
+      "value": "Geen gesprekken"
+    },
+    {
+      "name": "smartlist_no_conversations_found",
+      "value": "Geen gesprekken komen overeen met de zoekopdracht."
+    },
+    {
+      "name": "smartlist_no_network_connectivity",
+      "value": "Geen netwerkverbinding"
+    },
+    {
+      "name": "smartlist_no_number",
+      "value": "Het geselecteerde contact heeft geen nummer"
+    },
+    {
+      "name": "smartlist_no_results",
+      "value": "Geen resultaten"
+    },
+    {
+      "name": "smartlist_public_directory_hint",
+      "value": "People on Jami outside your contacts."
+    },
+    {
+      "name": "smartlist_results",
+      "value": "Openbare catalogus"
+    },
+    {
+      "name": "smartlist_search_bar",
+      "value": "Zoek"
+    },
+    {
+      "name": "smartlist_search_bar_placeholder",
+      "value": "Voer naam in…"
+    },
+    {
+      "name": "smartlist_select_one_number",
+      "value": "Kies één van de nummers"
+    },
+    {
+      "name": "smartlist_yesterday",
+      "value": "Gisteren"
+    },
+    {
+      "name": "swarm_leave",
+      "value": "Ga weg."
+    },
+    {
+      "name": "swarm_accessibility_color_picker",
+      "value": "Kleurkiezer voor gesprek"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code",
+      "value": "QR-code van contact tonen"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code_hint",
+      "value": "Opent een scherm met de QR-code van het contact"
+    },
+    {
+      "name": "swarm_accessibility_contact_share_hint",
+      "value": "Opent deelopties voor contactgegevens"
+    },
+    {
+      "name": "swarm_admin",
+      "value": "Administrator"
+    },
+    {
+      "name": "swarm_admin_invites_only",
+      "value": "Privégroep (beperkte uitnodigingen)"
+    },
+    {
+      "name": "swarm_blocked",
+      "value": "Geblokkeerd"
+    },
+    {
+      "name": "swarm_change_picture",
+      "value": "Groepsafbeelding wijzigen"
+    },
+    {
+      "name": "swarm_choose_color",
+      "value": "Kleur van het gesprek"
+    },
+    {
+      "name": "swarm_confirm_leave_conversation",
+      "value": "Wilt u dit gesprek verlaten?"
+    },
+    {
+      "name": "swarm_contact_header",
+      "value": "Contact"
+    },
+    {
+      "name": "swarm_conversation_ended",
+      "value": "Gesprek beëindigd"
+    },
+    {
+      "name": "swarm_conversation_header",
+      "value": "Gesprek"
+    },
+    {
+      "name": "swarm_conversation_id",
+      "value": "Gesprek-ID"
+    },
+    {
+      "name": "swarm_customize",
+      "value": "Groep aanpassen"
+    },
+    {
+      "name": "swarm_customize_profile",
+      "value": "Groepsprofiel aanpassen"
+    },
+    {
+      "name": "swarm_explanation_text",
+      "value": "Leden kunnen op elk moment na het aanmaken van de groep worden uitgenodigd."
+    },
+    {
+      "name": "swarm_identifier",
+      "value": "Identificatie"
+    },
+    {
+      "name": "swarm_invite",
+      "value": "Invite"
+    },
+    {
+      "name": "swarm_invite_members",
+      "value": "Leden uitnodigen"
+    },
+    {
+      "name": "swarm_invite_members_not_selected",
+      "value": "Niet geselecteerd"
+    },
+    {
+      "name": "swarm_invite_members_selected",
+      "value": "Geselecteerd"
+    },
+    {
+      "name": "swarm_invite_selected_members",
+      "value": "Geselecteerde contacten uitnodigen"
+    },
+    {
+      "name": "swarm_invited",
+      "value": "Uitgenodigd"
+    },
+    {
+      "name": "swarm_invites_only",
+      "value": "Privégroep"
+    },
+    {
+      "name": "swarm_leave_conversation",
+      "value": "Laat het gesprek"
+    },
+    {
+      "name": "swarm_left",
+      "value": "Vertrokken"
+    },
+    {
+      "name": "swarm_member",
+      "value": "Lid"
+    },
+    {
+      "name": "swarm_members",
+      "value": "Lid-Staten"
+    },
+    {
+      "name": "swarm_mute_conversation",
+      "value": "Zwijg gesprek"
+    },
+    {
+      "name": "swarm_name_placeholder",
+      "value": "Groepsnaam"
+    },
+    {
+      "name": "swarm_new_group",
+      "value": "Nieuwe groep aanmaken"
+    },
+    {
+      "name": "swarm_one_to_one",
+      "value": "Privé"
+    },
+    {
+      "name": "swarm_others",
+      "value": "Andere"
+    },
+    {
+      "name": "swarm_public_chat",
+      "value": "Openbare groep"
+    },
+    {
+      "name": "swarm_remove_contact",
+      "value": "Contact verwijderen"
+    },
+    {
+      "name": "swarm_remove_conversation",
+      "value": "Gesprek verwijderen"
+    },
+    {
+      "name": "swarm_restart_conversation",
+      "value": "Gesprek opnieuw starten"
+    },
+    {
+      "name": "swarm_select_contacts",
+      "value": "Selecteer contacten"
+    },
+    {
+      "name": "swarm_settings",
+      "value": "Instellingen"
+    },
+    {
+      "name": "swarm_share_contact_info",
+      "value": "Contactgegevens delen"
+    },
+    {
+      "name": "swarm_share_contact_message",
+      "value": "Je kunt dit contact, %1$s, toevoegen op het gedistribueerde communicatieplatform Jami: https://jami.net"
+    },
+    {
+      "name": "swarm_show_contact_qr_code",
+      "value": "QR-code van contact tonen"
+    },
+    {
+      "name": "swarm_type_of_swarm",
+      "value": "Gesprekstype"
+    },
+    {
+      "name": "swarm_unknown",
+      "value": "Onbekend"
+    },
+    {
+      "name": "swarm_colors_amber",
+      "value": "Amber"
+    },
+    {
+      "name": "swarm_colors_bright_orange",
+      "value": "Feloranje"
+    },
+    {
+      "name": "swarm_colors_brown",
+      "value": "Bruin"
+    },
+    {
+      "name": "swarm_colors_cyan",
+      "value": "Cyaan"
+    },
+    {
+      "name": "swarm_colors_green",
+      "value": "Groen"
+    },
+    {
+      "name": "swarm_colors_indigo_blue",
+      "value": "Indigoblauw"
+    },
+    {
+      "name": "swarm_colors_lime_green",
+      "value": "Limoengroen"
+    },
+    {
+      "name": "swarm_colors_medium_gray",
+      "value": "Middelgrijs"
+    },
+    {
+      "name": "swarm_colors_purple",
+      "value": "Paars"
+    },
+    {
+      "name": "swarm_colors_sky_blue",
+      "value": "Hemelsblauw"
+    },
+    {
+      "name": "swarm_colors_steel_blue",
+      "value": "Staalblauw"
+    },
+    {
+      "name": "swarm_colors_teal",
+      "value": "Blauwgroen"
+    },
+    {
+      "name": "swarm_colors_vibrant_pink",
+      "value": "Felroze"
+    },
+    {
+      "name": "swarm_colors_violet",
+      "value": "Violet"
+    },
+    {
+      "name": "swarm_colors_yellow_green",
+      "value": "Geelgroen"
+    },
+    {
+      "name": "swarmcreation_add_description",
+      "value": "Beschrijving toevoegen"
+    },
+    {
+      "name": "swarmcreation_search_bar",
+      "value": "Contact zoeken…"
+    },
+    {
+      "name": "welcome_connect_to_jams",
+      "value": "Verbinden met een beheerserver"
+    },
+    {
+      "name": "welcome_create_account",
+      "value": "Maak een account op Jami"
+    },
+    {
+      "name": "welcome_have_account",
+      "value": "Ik heb al een account."
+    },
+    {
+      "name": "welcome_link_backup",
+      "value": "Importeren van back-uparchief"
+    },
+    {
+      "name": "welcome_link_device",
+      "value": "Import van een ander apparaat"
+    },
+    {
+      "name": "welcome_text",
+      "value": "Jami is een vrij en universeel communicatieplatform, dat de privacy en vrijheden van haar gebruikers eerbiedigt"
+    },
+    {
+      "name": "welcome_title",
+      "value": "Deel vrij en privé met Jami"
+    },
+    {
+      "name": "media_preview_date_time",
+      "value": "%1$s, %2$s"
+    },
+    {
+      "name": "media_preview_react",
+      "value": "React"
+    },
+    {
+      "name": "media_preview_more_actions",
+      "value": "Meer"
+    },
+    {
+      "name": "media_preview_more_emoji",
+      "value": "More emoji"
+    },
+    {
+      "name": "accessibility_audio_player_mute",
+      "value": "Dempen"
+    },
+    {
+      "name": "accessibility_audio_player_unmute",
+      "value": "Dempen opheffen"
+    },
+    {
+      "name": "accessibility_message_reactions",
+      "value": "Reactions"
+    },
+    {
+      "name": "accessibility_remove_reaction",
+      "value": "Remove %s"
+    },
+    {
+      "name": "media_preview_live_text",
+      "value": "Live Text"
+    }
+  ]
+}

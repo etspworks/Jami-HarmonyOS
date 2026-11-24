@@ -1,0 +1,3020 @@
+{
+  "string": [
+    {
+      "name": "about_jami_community_management",
+      "value": "コミュニティ管理"
+    },
+    {
+      "name": "about_jami_contribute",
+      "value": "開発に協力"
+    },
+    {
+      "name": "about_jami_declaration1",
+      "value": "GNUパッケージであるJamiは、ユーザーの自由とプライバシーを尊重する、普遍的で分散型のピアツーピア通信ソフトウェアです。詳しくは"
+    },
+    {
+      "name": "about_jami_declaration2",
+      "value": "をご覧ください。"
+    },
+    {
+      "name": "about_jami_developers",
+      "value": "開発者"
+    },
+    {
+      "name": "about_jami_feedback",
+      "value": "フィードバック"
+    },
+    {
+      "name": "about_jami_header",
+      "value": "長年にわたる努力でこのソフトウェアを現在の姿にしてくれた貢献者の皆さんに感謝します。"
+    },
+    {
+      "name": "about_jami_info",
+      "value": "これは、Jami に有用な成果をもたらし、多大な時間を投資した人々の一覧です。一覧に追加されることを希望する貢献者は、私たちにご連絡ください。"
+    },
+    {
+      "name": "about_jami_media",
+      "value": "メディア"
+    },
+    {
+      "name": "about_jami_no_warranty1",
+      "value": "このプログラムには一切の保証がありません。詳細は"
+    },
+    {
+      "name": "about_jami_no_warranty2",
+      "value": "バージョン3以降をご覧ください。"
+    },
+    {
+      "name": "about_jami_special_thanks",
+      "value": "特別な感謝を"
+    },
+    {
+      "name": "accessibility_about_jami_title",
+      "value": "Jamiについて"
+    },
+    {
+      "name": "accessibility_account_token_q_rcode",
+      "value": "トークンQRコード"
+    },
+    {
+      "name": "accessibility_account_summary_edit_profile_hint",
+      "value": "ダブルタップしてプロフィールを編集"
+    },
+    {
+      "name": "accessibility_account_summary_edit_settings_button",
+      "value": "設定"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code",
+      "value": "QRコード"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code_hint",
+      "value": "ダブルタップしてアカウントのQRコードを表示"
+    },
+    {
+      "name": "accessibility_audio_player_pause",
+      "value": "一時停止"
+    },
+    {
+      "name": "accessibility_audio_player_play",
+      "value": "再生"
+    },
+    {
+      "name": "accessibility_avatar_collapse_hint",
+      "value": "Double-tap to shrink the picture"
+    },
+    {
+      "name": "accessibility_avatar_expand_hint",
+      "value": "Double-tap to enlarge the picture"
+    },
+    {
+      "name": "accessibility_call_lasted",
+      "value": "通話時間 %s"
+    },
+    {
+      "name": "accessibility_calls_alter_add_participant",
+      "value": "参加者を追加"
+    },
+    {
+      "name": "accessibility_calls_alter_end_call",
+      "value": "通話を終了"
+    },
+    {
+      "name": "accessibility_calls_alter_open_conversation",
+      "value": "会話を開く"
+    },
+    {
+      "name": "accessibility_calls_alter_pause_call",
+      "value": "通話を再開"
+    },
+    {
+      "name": "accessibility_calls_alter_raise_hand",
+      "value": "手を下げる"
+    },
+    {
+      "name": "accessibility_calls_alter_show_dialpad",
+      "value": "ダイヤルパッドを表示"
+    },
+    {
+      "name": "accessibility_calls_alter_switch_camera",
+      "value": "カメラを切り替え"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_audio",
+      "value": "マイクのミュートを解除"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_speaker",
+      "value": "スピーカーをオフ"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_video",
+      "value": "カメラを止める"
+    },
+    {
+      "name": "accessibility_calls_default_add_participant",
+      "value": "参加者を追加"
+    },
+    {
+      "name": "accessibility_calls_default_end_call",
+      "value": "通話を終了"
+    },
+    {
+      "name": "accessibility_calls_default_open_conversation",
+      "value": "会話を開く"
+    },
+    {
+      "name": "accessibility_calls_default_pause_call",
+      "value": "通話を一時停止"
+    },
+    {
+      "name": "accessibility_calls_default_raise_hand",
+      "value": "手を挙げる"
+    },
+    {
+      "name": "accessibility_calls_default_show_dialpad",
+      "value": "ダイヤルパッドを表示"
+    },
+    {
+      "name": "accessibility_calls_default_switch_camera",
+      "value": "カメラを切り替え"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_audio",
+      "value": "マイクをミュート"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_speaker",
+      "value": "スピーカーをオン"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_video",
+      "value": "カメラを開始"
+    },
+    {
+      "name": "accessibility_close",
+      "value": "閉じる"
+    },
+    {
+      "name": "accessibility_conference_camera_off",
+      "value": "Camera off"
+    },
+    {
+      "name": "accessibility_conference_crop_video",
+      "value": "Crop video"
+    },
+    {
+      "name": "accessibility_conference_end_call",
+      "value": "通話を終了"
+    },
+    {
+      "name": "accessibility_conference_hand_raised",
+      "value": "挙手"
+    },
+    {
+      "name": "accessibility_conference_hide_local_preview",
+      "value": "Hide your video"
+    },
+    {
+      "name": "accessibility_conference_local_preview",
+      "value": "Your video"
+    },
+    {
+      "name": "accessibility_conference_lower_hand",
+      "value": "手を下げる"
+    },
+    {
+      "name": "accessibility_conference_maximize",
+      "value": "最大化"
+    },
+    {
+      "name": "accessibility_conference_microphone_muted",
+      "value": "Microphone muted"
+    },
+    {
+      "name": "accessibility_conference_minimize",
+      "value": "最小化"
+    },
+    {
+      "name": "accessibility_conference_moderator",
+      "value": "モデレータ"
+    },
+    {
+      "name": "accessibility_conference_mute_audio",
+      "value": "音声を消音する"
+    },
+    {
+      "name": "accessibility_conference_recording",
+      "value": "記録中"
+    },
+    {
+      "name": "accessibility_conference_set_moderator",
+      "value": "調停者を設定"
+    },
+    {
+      "name": "accessibility_conference_show_full_video",
+      "value": "Show full video"
+    },
+    {
+      "name": "accessibility_conference_show_local_preview",
+      "value": "Show your video"
+    },
+    {
+      "name": "accessibility_conference_show_participants",
+      "value": "Show participants"
+    },
+    {
+      "name": "accessibility_conference_speaking",
+      "value": "Speaking"
+    },
+    {
+      "name": "accessibility_conference_unmute_audio",
+      "value": "音声無音"
+    },
+    {
+      "name": "accessibility_conference_unset_moderator",
+      "value": "調停者を取り消し"
+    },
+    {
+      "name": "accessibility_conversation_camera_hint",
+      "value": "ダブルタップしてカメラを開く"
+    },
+    {
+      "name": "accessibility_conversation_compose_message",
+      "value": "メッセージを作成"
+    },
+    {
+      "name": "accessibility_conversation_row_blocked",
+      "value": "会話がブロックされています"
+    },
+    {
+      "name": "accessibility_conversation_row_last_message",
+      "value": "最後のメッセージ %s"
+    },
+    {
+      "name": "accessibility_conversation_row_syncing",
+      "value": "同期中"
+    },
+    {
+      "name": "accessibility_conversation_row_unread_count",
+      "value": "未読メッセージ %s 件。"
+    },
+    {
+      "name": "accessibility_conversation_share_media",
+      "value": "メディアを共有"
+    },
+    {
+      "name": "accessibility_conversation_start_video_call",
+      "value": "%s さんとビデオ通話を開始"
+    },
+    {
+      "name": "accessibility_conversation_start_voice_call",
+      "value": "%s さんと音声通話を開始"
+    },
+    {
+      "name": "accessibility_create_account_verify_username_prompt",
+      "value": "利用可否を確認するためにユーザー名を入力してください。"
+    },
+    {
+      "name": "accessibility_file_transfer_received_on",
+      "value": "ファイル: %1$s、%2$s に受信"
+    },
+    {
+      "name": "accessibility_file_transfer_sent_on",
+      "value": "ファイル: %1$s、%2$s に送信"
+    },
+    {
+      "name": "accessibility_file_transfer_no_name",
+      "value": "%s にファイルを受信、名前は利用できません"
+    },
+    {
+      "name": "accessibility_in_reply",
+      "value": "メッセージへの返信"
+    },
+    {
+      "name": "accessibility_message_bubble_deleted",
+      "value": "メッセージが削除されました"
+    },
+    {
+      "name": "accessibility_message_bubble_edited",
+      "value": "編集"
+    },
+    {
+      "name": "accessibility_message_bubble_read",
+      "value": "既読"
+    },
+    {
+      "name": "accessibility_message_bubble_unread",
+      "value": "未読"
+    },
+    {
+      "name": "accessibility_pending_requests_list_accept_invitation",
+      "value": "招待を承諾"
+    },
+    {
+      "name": "accessibility_pending_requests_list_block_user",
+      "value": "招待の送信者をブロック"
+    },
+    {
+      "name": "accessibility_pending_requests_list_reject_invitation",
+      "value": "招待を辞退"
+    },
+    {
+      "name": "accessibility_pending_requests_row_hint",
+      "value": "ダブルタップして受信した招待を確認し、返信します"
+    },
+    {
+      "name": "accessibility_pending_requests_row_plural",
+      "value": "受信した招待: 保留中の招待 %s 件"
+    },
+    {
+      "name": "accessibility_pending_requests_row_singular",
+      "value": "受信した招待: 保留中の招待 %s 件"
+    },
+    {
+      "name": "accessibility_profile_picture_picker",
+      "value": "プロフィール画像"
+    },
+    {
+      "name": "accessibility_profile_picture_picker_hint",
+      "value": "ダブルタップして写真を撮るか、ライブラリから写真を選択してください"
+    },
+    {
+      "name": "accessibility_smart_list_add_account",
+      "value": "アカウントを追加"
+    },
+    {
+      "name": "accessibility_smart_list_connected_as",
+      "value": "現在のアカウントは %s です"
+    },
+    {
+      "name": "accessibility_smart_list_switch_accounts",
+      "value": "アカウントを切り替え"
+    },
+    {
+      "name": "accessibility_swarm_picture_picker",
+      "value": "グループの画像"
+    },
+    {
+      "name": "accessibility_text_received_on",
+      "value": "%1$s、%2$s にメッセージを受信"
+    },
+    {
+      "name": "accessibility_text_sent_on",
+      "value": "%1$s、%2$s にメッセージを送信"
+    },
+    {
+      "name": "accessibility_text_not_available",
+      "value": "%s に空のテキストメッセージを受信しました。正しく送信されなかった可能性があります。"
+    },
+    {
+      "name": "accessibility_user_presence_available",
+      "value": "利用可能"
+    },
+    {
+      "name": "accessibility_user_presence_online",
+      "value": "オンライン"
+    },
+    {
+      "name": "accessibility_welcome_to_jami_title",
+      "value": "Jamiへようこそ"
+    },
+    {
+      "name": "account_account_status",
+      "value": "口座の状態"
+    },
+    {
+      "name": "account_advanced_features",
+      "value": "詳細機能"
+    },
+    {
+      "name": "account_configure",
+      "value": "設定"
+    },
+    {
+      "name": "account_create_sip_account",
+      "value": "SIPアカウントを設定"
+    },
+    {
+      "name": "account_enable_account",
+      "value": "アカウントを有効化"
+    },
+    {
+      "name": "account_me",
+      "value": "自分"
+    },
+    {
+      "name": "account_need_migration",
+      "value": "アカウントの移行が必要です。"
+    },
+    {
+      "name": "account_port",
+      "value": "ポート番号"
+    },
+    {
+      "name": "account_port_label",
+      "value": "ポート番号を入力する"
+    },
+    {
+      "name": "account_proxy_server",
+      "value": "プロキシ"
+    },
+    {
+      "name": "account_server_label",
+      "value": "アドレス入力"
+    },
+    {
+      "name": "account_sip_account",
+      "value": "SIPアカウント"
+    },
+    {
+      "name": "account_sip_server",
+      "value": "サーバー"
+    },
+    {
+      "name": "account_status_connecting",
+      "value": "接続中"
+    },
+    {
+      "name": "account_status_connectionerror",
+      "value": "接続エラー"
+    },
+    {
+      "name": "account_status_offline",
+      "value": "オフライン"
+    },
+    {
+      "name": "account_status_online",
+      "value": "オンライン"
+    },
+    {
+      "name": "account_status_unknown",
+      "value": "不明"
+    },
+    {
+      "name": "account_page_account_header",
+      "value": "アカウント"
+    },
+    {
+      "name": "account_page_account_identity",
+      "value": "アカウントの識別情報"
+    },
+    {
+      "name": "account_page_account_settings_explanation",
+      "value": "これらの設定はこのアカウントにのみ適用されます。"
+    },
+    {
+      "name": "account_page_allow_ip_auto_rewrite",
+      "value": "IPの自動書き換えを許可"
+    },
+    {
+      "name": "account_page_app_settings",
+      "value": "アプリ設定"
+    },
+    {
+      "name": "account_page_app_settings_explanation",
+      "value": "これらの設定はアプリケーション全体に適用されます。"
+    },
+    {
+      "name": "account_page_auto_registration",
+      "value": "期限切れ後自動登録"
+    },
+    {
+      "name": "account_page_blocked_contacts",
+      "value": "着信拒否した連絡先"
+    },
+    {
+      "name": "account_page_booth_mode_alert_message",
+      "value": "ブースモードを有効にすると、すべての会話が削除されます。"
+    },
+    {
+      "name": "account_page_booth_mode_explanation",
+      "value": "ブルースモードでは会話履歴が保存されず,Jami機能は出かけ通話によって制限されます.ブルースモードを有効にすると,すべての会話が削除されます."
+    },
+    {
+      "name": "account_page_bootstrap",
+      "value": "ブートストラップ"
+    },
+    {
+      "name": "account_page_calls_from_unknown_contacts",
+      "value": "不明な連絡先からの通話を許可します。"
+    },
+    {
+      "name": "account_page_change_password",
+      "value": "パスワードを変更"
+    },
+    {
+      "name": "account_page_change_password_error",
+      "value": "パスワードが一致しません"
+    },
+    {
+      "name": "account_page_chats",
+      "value": "チャット"
+    },
+    {
+      "name": "account_page_connectivity_and_configuration",
+      "value": "接続と構成"
+    },
+    {
+      "name": "account_page_connectivity_header",
+      "value": "接続性"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_contant",
+      "value": "Jami分散型コミュニケーションプラットフォームで「%s」を使って私に連絡してください: https://jami.net"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_title",
+      "value": "ジャミに連絡する!"
+    },
+    {
+      "name": "account_page_create_password",
+      "value": "パスワードを設定"
+    },
+    {
+      "name": "account_page_current_password_placeholder",
+      "value": "現在のパスワードを入力"
+    },
+    {
+      "name": "account_page_current_proxy",
+      "value": "現在のプロキシ"
+    },
+    {
+      "name": "account_page_device_revocation_error",
+      "value": "端末無効化エラー"
+    },
+    {
+      "name": "account_page_device_revocation_progress",
+      "value": "削除中…"
+    },
+    {
+      "name": "account_page_device_revocation_success",
+      "value": "デバイスを削除しました"
+    },
+    {
+      "name": "account_page_device_revocation_try_again",
+      "value": "もう一度やり直す"
+    },
+    {
+      "name": "account_page_device_revocation_unknown_device",
+      "value": "未知のデバイス"
+    },
+    {
+      "name": "account_page_device_revocation_wrong_password",
+      "value": "パスワードが一致しません"
+    },
+    {
+      "name": "account_page_device_revoked",
+      "value": "デバイスの無効化が完了しました"
+    },
+    {
+      "name": "account_page_devices_list_header",
+      "value": "デバイス"
+    },
+    {
+      "name": "account_page_dht_configuration",
+      "value": "OpenDHT設定"
+    },
+    {
+      "name": "account_page_disable_booth_mode",
+      "value": "ブースモードを無効にする"
+    },
+    {
+      "name": "account_page_disable_booth_mode_explanation",
+      "value": "アカウントのパスワードを入力してください"
+    },
+    {
+      "name": "account_page_edit_profile",
+      "value": "プロフィールを編集"
+    },
+    {
+      "name": "account_page_edit_sip_expiration_time",
+      "value": "有効期限"
+    },
+    {
+      "name": "account_page_enable_booth_mode",
+      "value": "ブースモードを有効にする"
+    },
+    {
+      "name": "account_page_enable_notifications",
+      "value": "通知を有効にする"
+    },
+    {
+      "name": "account_page_enable_srtp",
+      "value": "SDES 鍵交換"
+    },
+    {
+      "name": "account_page_encrypt_account",
+      "value": "暗証語"
+    },
+    {
+      "name": "account_page_encrypt_negotiation",
+      "value": "negotiationを暗号化 (TLS)"
+    },
+    {
+      "name": "account_page_generating_pin",
+      "value": "PINコードを生成中…"
+    },
+    {
+      "name": "account_page_invalid_address",
+      "value": "有効なアドレスを入力してください"
+    },
+    {
+      "name": "account_page_invalid_port",
+      "value": "0〜65535の値を入力してください"
+    },
+    {
+      "name": "account_page_invalid_sip_expiration_time",
+      "value": "60〜604800秒の値を入力してください"
+    },
+    {
+      "name": "account_page_invite_friends",
+      "value": "友達を招待"
+    },
+    {
+      "name": "account_page_link_device_title",
+      "value": "別のデバイスをリンク"
+    },
+    {
+      "name": "account_page_linked_devices",
+      "value": "リンクされたデバイス"
+    },
+    {
+      "name": "account_page_manage_account",
+      "value": "アカウント管理"
+    },
+    {
+      "name": "account_page_name_server",
+      "value": "ネームサーバー"
+    },
+    {
+      "name": "account_page_new_password_confirm_placeholder",
+      "value": "新しいパスワードを確認する"
+    },
+    {
+      "name": "account_page_new_password_placeholder",
+      "value": "新しいパスワードを入力"
+    },
+    {
+      "name": "account_page_no_booth_mode",
+      "value": "ブースモードを有効にするには、先にアカウントをパスワードで保護してください。"
+    },
+    {
+      "name": "account_page_no_proxy_explanation_label",
+      "value": "プロキシが無効の場合、通知を受信できません。"
+    },
+    {
+      "name": "account_page_notification_error",
+      "value": "Jamiの通知が無効になっています。この機能を使用するには、デバイスの設定で有効にしてください。"
+    },
+    {
+      "name": "account_page_notification_title",
+      "value": "通知"
+    },
+    {
+      "name": "account_page_notifications_header",
+      "value": "通知"
+    },
+    {
+      "name": "account_page_other",
+      "value": "その他"
+    },
+    {
+      "name": "account_page_other_devices",
+      "value": "接続された他の装置"
+    },
+    {
+      "name": "account_page_password_created",
+      "value": "パスワードを設定しました"
+    },
+    {
+      "name": "account_page_password_explanation",
+      "value": "あなたの Jami アカウントは、アカウントの鍵を含むアーカイブとしてこのデバイスにのみ登録されています。このアーカイブへのアクセスはパスワードで保護できます。"
+    },
+    {
+      "name": "account_page_password_for_pin",
+      "value": "アカウントはパスワードで保護されています。PINコードを生成するには、パスワードを入力してください。"
+    },
+    {
+      "name": "account_page_password_placeholder",
+      "value": "アカウントのパスワードを入力"
+    },
+    {
+      "name": "account_page_password_updated",
+      "value": "パスワードを更新しました"
+    },
+    {
+      "name": "account_page_passwords_do_not_match",
+      "value": "パスワードが一致しません。"
+    },
+    {
+      "name": "account_page_peer_discovery",
+      "value": "ローカルピアの探索を有効化"
+    },
+    {
+      "name": "account_page_peer_discovery_explanation",
+      "value": "ローカルネットワーク上の他のDHTノードに接続します"
+    },
+    {
+      "name": "account_page_pin_error",
+      "value": "PINコードの生成中にエラーが発生しました。"
+    },
+    {
+      "name": "account_page_pin_explanation_message",
+      "value": "Jamiをインストールして起動します。「別のデバイスからインポート」を選択し、QRコードをスキャンしてください。または、PINコードを手動で入力してください。"
+    },
+    {
+      "name": "account_page_pin_explanation_title",
+      "value": "別のデバイスで"
+    },
+    {
+      "name": "account_page_profile_header",
+      "value": "プロフィール"
+    },
+    {
+      "name": "account_page_profile_name",
+      "value": "プロフィール名"
+    },
+    {
+      "name": "account_page_profile_name_not_selected",
+      "value": "名前が選択されていません"
+    },
+    {
+      "name": "account_page_profile_name_placeholder",
+      "value": "プロフィール名を入力"
+    },
+    {
+      "name": "account_page_proxy_address_alert",
+      "value": "代理アドレスを入力する"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_body",
+      "value": "通知を有効にするため、プロキシを有効にしてください。"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_title",
+      "value": "プロキシサーバーが無効"
+    },
+    {
+      "name": "account_page_proxy_explanation",
+      "value": "通知はプロキシ経由でルーティングされます。デフォルトのプロキシを使用するか、カスタムのプロキシアドレスを入力するか、プロキシのリストを含むURLを指定できます。"
+    },
+    {
+      "name": "account_page_proxy_header",
+      "value": "プロキシ"
+    },
+    {
+      "name": "account_page_proxy_list_url",
+      "value": "プロキシリストの URL"
+    },
+    {
+      "name": "account_page_proxy_paceholder",
+      "value": "プロキシアドレス"
+    },
+    {
+      "name": "account_page_public_address_header",
+      "value": "公衆の演説"
+    },
+    {
+      "name": "account_page_published_address",
+      "value": "アドレス"
+    },
+    {
+      "name": "account_page_published_port",
+      "value": "ポート番号"
+    },
+    {
+      "name": "account_page_published_same_as_local",
+      "value": "ローカルと同じものを発行"
+    },
+    {
+      "name": "account_page_register_name_error_message",
+      "value": "このユーザー名は利用できません。"
+    },
+    {
+      "name": "account_page_register_name_explanation",
+      "value": "他の人がJamiであなたをより簡単に見つけて連絡できるように、ユーザー名を登録してください。"
+    },
+    {
+      "name": "account_page_remove_account_message",
+      "value": "アカウントがバックアップされていない、または別のデバイスに追加されていない場合、アカウントと登録済みのユーザー名は取り返しのつかない形で失われます。"
+    },
+    {
+      "name": "account_page_remove_device_title",
+      "value": "デバイスを削除"
+    },
+    {
+      "name": "account_page_revoke_device_button",
+      "value": "破棄"
+    },
+    {
+      "name": "account_page_revoke_device_message",
+      "value": "このデバイスを削除しますか？この操作は元に戻せません。"
+    },
+    {
+      "name": "account_page_revoke_device_placeholder",
+      "value": "アカウントのパスワードを入力"
+    },
+    {
+      "name": "account_page_security",
+      "value": "セキュリティ"
+    },
+    {
+      "name": "account_page_select_sip_expiration_time",
+      "value": "登録の有効期限の時間（秒）を設定"
+    },
+    {
+      "name": "account_page_settings_header",
+      "value": "設定"
+    },
+    {
+      "name": "account_page_sip_expiration_time",
+      "value": "登録期限 (秒)"
+    },
+    {
+      "name": "account_page_stun_enabled",
+      "value": "STUNを使用"
+    },
+    {
+      "name": "account_page_stun_server",
+      "value": "STUNアドレス"
+    },
+    {
+      "name": "account_page_this_device",
+      "value": "この機器"
+    },
+    {
+      "name": "account_page_tls_disable_secure_dlg_check",
+      "value": "入力 TLS データに対するセキュア・ダイアログチェックを無効にする"
+    },
+    {
+      "name": "account_page_tls_require_tls_certificate",
+      "value": "受信TLS接続は証明書が必要です"
+    },
+    {
+      "name": "account_page_tls_verify_client_certificates",
+      "value": "クライアントTLS証明書を検証"
+    },
+    {
+      "name": "account_page_tls_verify_server_certificates",
+      "value": "サーバー TLS 証明書を検証する"
+    },
+    {
+      "name": "account_page_turn_enabled",
+      "value": "ターンを有効にする"
+    },
+    {
+      "name": "account_page_turn_password",
+      "value": "TURNの暗証語"
+    },
+    {
+      "name": "account_page_turn_realm",
+      "value": "TURNレルム"
+    },
+    {
+      "name": "account_page_turn_server",
+      "value": "TURNアドレス"
+    },
+    {
+      "name": "account_page_turn_username",
+      "value": "TURNの利用者名"
+    },
+    {
+      "name": "account_page_typing_indicator",
+      "value": "タイプインジケーター"
+    },
+    {
+      "name": "account_page_typing_indicator_explanation",
+      "value": "メッセージの入力中であることを表示します。"
+    },
+    {
+      "name": "account_page_unblock_contact",
+      "value": "ブロック解除"
+    },
+    {
+      "name": "account_page_unlink",
+      "value": "リンク解除"
+    },
+    {
+      "name": "account_page_upnp_enabled",
+      "value": "UPnPを使用"
+    },
+    {
+      "name": "account_page_use_proxy_list",
+      "value": "プロキシリストを使用"
+    },
+    {
+      "name": "account_page_username_placeholder",
+      "value": "必要なユーザー名を入力する"
+    },
+    {
+      "name": "account_page_username_register_action",
+      "value": "登録"
+    },
+    {
+      "name": "account_page_username_registering",
+      "value": "登録"
+    },
+    {
+      "name": "account_page_username_registration_failed",
+      "value": "アカウントのパスワードを確認してください。"
+    },
+    {
+      "name": "account_page_username_registration_failed_title",
+      "value": "登録に失敗しました"
+    },
+    {
+      "name": "actions_back_action",
+      "value": "戻る"
+    },
+    {
+      "name": "actions_delete_action",
+      "value": "削除"
+    },
+    {
+      "name": "actions_done_action",
+      "value": "完了"
+    },
+    {
+      "name": "actions_go_to_settings",
+      "value": "設定へ移動"
+    },
+    {
+      "name": "actions_stop_location_sharing",
+      "value": "共有を停止"
+    },
+    {
+      "name": "alerts_account_added_title",
+      "value": "アカウントが追加されました"
+    },
+    {
+      "name": "alerts_account_cannot_be_found_message",
+      "value": "Jamiネットワークでアカウントが見つかりませんでした。既存のデバイスからJamiでエクスポートされていること、および入力した認証情報が正しいことを確認してください。"
+    },
+    {
+      "name": "alerts_account_cannot_be_found_title",
+      "value": "アカウントエラー"
+    },
+    {
+      "name": "alerts_account_default_error_message",
+      "value": "アカウントの作成中にエラーが発生しました。"
+    },
+    {
+      "name": "alerts_account_default_error_title",
+      "value": "アカウントエラー"
+    },
+    {
+      "name": "alerts_account_linked_title",
+      "value": "アカウントをリンクしています"
+    },
+    {
+      "name": "alerts_account_no_network_message",
+      "value": "Jamiアカウントを分散ネットワークに追加中に接続エラーが発生しました。もう一度お試しください。問題が解決しない場合は、システム管理者にお問い合わせください。"
+    },
+    {
+      "name": "alerts_account_no_network_title",
+      "value": "ネットワークエラー"
+    },
+    {
+      "name": "alerts_alreadylocation_sharing",
+      "value": "このユーザーと既に位置情報を共有済みです"
+    },
+    {
+      "name": "alerts_confim_remove_contact",
+      "value": "この連絡先を削除しますか？既存の履歴は削除されます。"
+    },
+    {
+      "name": "alerts_confirm_block_contact",
+      "value": "この連絡先をブロックしますか？この連絡先との会話履歴も完全に削除されます。"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation",
+      "value": "この会話を完全に削除しますか？"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_from_contact",
+      "value": "この連絡先との会話を削除しますか？"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_title",
+      "value": "会話を削除"
+    },
+    {
+      "name": "alerts_confirm_leave_conversation",
+      "value": "この会話から退出しますか？"
+    },
+    {
+      "name": "alerts_confirm_remove_one_to_one_conversation",
+      "value": "この会話を削除しますか？既存の履歴は削除されます。この連絡先と他の会話がない場合は、新しい会話が開始されることがあります。"
+    },
+    {
+      "name": "alerts_db_failed_message",
+      "value": "アプリケーションを終了し、起動し直してください"
+    },
+    {
+      "name": "alerts_db_failed_title",
+      "value": "Jamiの起動中にエラーが発生しました"
+    },
+    {
+      "name": "alerts_error_wrong_credentials",
+      "value": "管理サーバーへの接続中にエラーが発生しました。もう一度お試しください。問題が解決しない場合は、システム管理者にお問い合わせください。"
+    },
+    {
+      "name": "alerts_location_service_is_disabled",
+      "value": "「Jami」がデバイスの位置情報を取得できるように、「位置情報サービス」をオンにしてください。"
+    },
+    {
+      "name": "alerts_location_sharing",
+      "value": "私の位置をシェア"
+    },
+    {
+      "name": "alerts_location_sharing_duration10min",
+      "value": "10分"
+    },
+    {
+      "name": "alerts_location_sharing_duration1hour",
+      "value": "1時間"
+    },
+    {
+      "name": "alerts_location_sharing_duration_title",
+      "value": "いつまで位置情報を共有しますか？"
+    },
+    {
+      "name": "alerts_map_information",
+      "value": "地図情報"
+    },
+    {
+      "name": "alerts_no_library_permissions_title",
+      "value": "フォトライブラリへのアクセスが許可されていない"
+    },
+    {
+      "name": "alerts_no_location_permissions_title",
+      "value": "場所へのアクセスが認められていない"
+    },
+    {
+      "name": "alerts_no_media_permissions_title",
+      "value": "メディア許可が認められていない"
+    },
+    {
+      "name": "alerts_open_street_map_copyright",
+      "value": "© OpenStreetMapの貢献者"
+    },
+    {
+      "name": "alerts_open_street_map_copyright_more_info",
+      "value": "詳細情報"
+    },
+    {
+      "name": "alerts_profile_take_photo",
+      "value": "撮影"
+    },
+    {
+      "name": "alerts_profile_upload_photo",
+      "value": "写真のアップロード"
+    },
+    {
+      "name": "alerts_record_audio_message",
+      "value": "音声メッセージを録音"
+    },
+    {
+      "name": "alerts_record_video_message",
+      "value": "ビデオメッセージを録画"
+    },
+    {
+      "name": "alerts_send_photo",
+      "value": "写真を送信"
+    },
+    {
+      "name": "alerts_upload_file",
+      "value": "ファイルの送信"
+    },
+    {
+      "name": "alerts_upload_photo",
+      "value": "ギャラリーを開く"
+    },
+    {
+      "name": "backup_account_archive_name",
+      "value": "アーカイブの名前を選択してください。"
+    },
+    {
+      "name": "backup_account_archive_name_placeholder",
+      "value": "アーカイブ名"
+    },
+    {
+      "name": "backup_account_backup_button",
+      "value": "バックアップ"
+    },
+    {
+      "name": "backup_account_creating",
+      "value": "バックアップを作成中"
+    },
+    {
+      "name": "backup_account_document_picker_button",
+      "value": "バックアップの場所を開く"
+    },
+    {
+      "name": "backup_account_error_access_denied",
+      "value": "選択した場所へのアクセスが拒否されました。"
+    },
+    {
+      "name": "backup_account_error_failed",
+      "value": "アカウントのエクスポート中にエラーが発生しました。"
+    },
+    {
+      "name": "backup_account_error_wrong_location",
+      "value": "選択したファイルパスが無効です。別の場所を選択してください。"
+    },
+    {
+      "name": "backup_account_explanation",
+      "value": "このJamiアカウントはこのデバイスにのみ存在します。このデバイスを紛失したり、アプリケーションをアンインストールしたりすると、アカウントは失われます。このアカウントのバックアップを作成することをおすすめします。"
+    },
+    {
+      "name": "backup_account_export_success",
+      "value": "バックアップを作成しました"
+    },
+    {
+      "name": "backup_account_password_request",
+      "value": "アカウントのパスワードを入力してください。"
+    },
+    {
+      "name": "backup_account_title",
+      "value": "アカウントをバックアップ"
+    },
+    {
+      "name": "block_list_page_no_blocked_contacts",
+      "value": "ブロックした連絡先はありません"
+    },
+    {
+      "name": "calls_accept_with_audio",
+      "value": "音声で承諾"
+    },
+    {
+      "name": "calls_accept_with_video",
+      "value": "ビデオで承諾"
+    },
+    {
+      "name": "calls_active_call_in_conversation",
+      "value": "連絡が進んでいる. 連絡に参加したいですか?"
+    },
+    {
+      "name": "calls_active_call_label",
+      "value": "通話が進行中です。通話に参加しますか？後で会話から通話に参加することもできます。"
+    },
+    {
+      "name": "calls_call_finished",
+      "value": "呼び出し終了"
+    },
+    {
+      "name": "calls_calling",
+      "value": "Calling…"
+    },
+    {
+      "name": "calls_calling_participants",
+      "value": "Calling (%s)"
+    },
+    {
+      "name": "calls_connecting",
+      "value": "接続中…"
+    },
+    {
+      "name": "calls_current_call_with",
+      "value": "連絡する"
+    },
+    {
+      "name": "calls_grid_layout",
+      "value": "Grid view"
+    },
+    {
+      "name": "calls_in_this_call",
+      "value": "In this call (%s)"
+    },
+    {
+      "name": "calls_inviting",
+      "value": "Inviting…"
+    },
+    {
+      "name": "calls_lower_hand",
+      "value": "手を下げる"
+    },
+    {
+      "name": "calls_maximize",
+      "value": "最大化"
+    },
+    {
+      "name": "calls_minimize",
+      "value": "最小化"
+    },
+    {
+      "name": "calls_mute_audio",
+      "value": "マイクをミュート"
+    },
+    {
+      "name": "calls_participant_options",
+      "value": "Options for %s"
+    },
+    {
+      "name": "calls_participants_in_call",
+      "value": "%s in call"
+    },
+    {
+      "name": "calls_peer_recording",
+      "value": "記録中"
+    },
+    {
+      "name": "calls_raise_hand",
+      "value": "手を挙げる"
+    },
+    {
+      "name": "calls_remove_moderator",
+      "value": "調停者を取り消し"
+    },
+    {
+      "name": "calls_ringing",
+      "value": "鳴ってる"
+    },
+    {
+      "name": "calls_set_moderator",
+      "value": "調停者を設定"
+    },
+    {
+      "name": "calls_start_picture_in_picture",
+      "value": "Start Picture in Picture"
+    },
+    {
+      "name": "calls_stop_calling",
+      "value": "Stop calling %s"
+    },
+    {
+      "name": "calls_unmute_audio",
+      "value": "マイクのミュートを解除"
+    },
+    {
+      "name": "collab_align_center",
+      "value": "中央"
+    },
+    {
+      "name": "collab_align_justify",
+      "value": "Justify"
+    },
+    {
+      "name": "collab_align_left",
+      "value": "Align left"
+    },
+    {
+      "name": "collab_align_right",
+      "value": "Align right"
+    },
+    {
+      "name": "collab_bold",
+      "value": "太字"
+    },
+    {
+      "name": "collab_bullet_list",
+      "value": "Bulleted list"
+    },
+    {
+      "name": "collab_clear_format",
+      "value": "Clear formatting"
+    },
+    {
+      "name": "collab_create",
+      "value": "作成"
+    },
+    {
+      "name": "collab_create_error",
+      "value": "This document could not be created."
+    },
+    {
+      "name": "collab_created_by",
+      "value": "Created by %s"
+    },
+    {
+      "name": "collab_created_by_not_downloaded",
+      "value": "Created by %s, not downloaded"
+    },
+    {
+      "name": "collab_document_name_hint",
+      "value": "Document name"
+    },
+    {
+      "name": "collab_document_removed",
+      "value": "Document removed"
+    },
+    {
+      "name": "collab_document_removed_locally",
+      "value": "Document removed from this device"
+    },
+    {
+      "name": "collab_document_removed_locally_message",
+      "value": "\"%s\" is no longer on this device. Opening it again downloads it back."
+    },
+    {
+      "name": "collab_document_removed_message",
+      "value": "\"%s\" was removed by its author."
+    },
+    {
+      "name": "collab_documents",
+      "value": "文書"
+    },
+    {
+      "name": "collab_download_and_open",
+      "value": "Download and open"
+    },
+    {
+      "name": "collab_editable_document",
+      "value": "Editable document"
+    },
+    {
+      "name": "collab_editing_alone",
+      "value": "Only you are editing"
+    },
+    {
+      "name": "collab_editing_one_other",
+      "value": "1 other person is editing"
+    },
+    {
+      "name": "collab_editing_others",
+      "value": "%d other people are editing"
+    },
+    {
+      "name": "collab_export",
+      "value": "Export a local copy"
+    },
+    {
+      "name": "collab_export_anyway",
+      "value": "Export anyway"
+    },
+    {
+      "name": "collab_export_error",
+      "value": "This document could not be exported."
+    },
+    {
+      "name": "collab_export_html",
+      "value": "Export to HTML"
+    },
+    {
+      "name": "collab_export_markdown",
+      "value": "Export to Markdown"
+    },
+    {
+      "name": "collab_export_missing_images",
+      "value": "%d picture(s) in this document have not arrived yet, and will be left out of the exported file."
+    },
+    {
+      "name": "collab_export_pdf",
+      "value": "Export to PDF"
+    },
+    {
+      "name": "collab_export_text",
+      "value": "Export to plain text"
+    },
+    {
+      "name": "collab_heading",
+      "value": "Heading %d"
+    },
+    {
+      "name": "collab_history",
+      "value": "Version history"
+    },
+    {
+      "name": "collab_image_error",
+      "value": "This image could not be added."
+    },
+    {
+      "name": "collab_image_too_large",
+      "value": "This image is too large to be added to a document."
+    },
+    {
+      "name": "collab_insert_image",
+      "value": "Insert image"
+    },
+    {
+      "name": "collab_italic",
+      "value": "斜体"
+    },
+    {
+      "name": "collab_link_add",
+      "value": "追加"
+    },
+    {
+      "name": "collab_link_hint",
+      "value": "アドレス"
+    },
+    {
+      "name": "collab_link_remove",
+      "value": "削除"
+    },
+    {
+      "name": "collab_link_title",
+      "value": "リンク"
+    },
+    {
+      "name": "collab_menu",
+      "value": "Document actions"
+    },
+    {
+      "name": "collab_new_document",
+      "value": "New document"
+    },
+    {
+      "name": "collab_no_documents",
+      "value": "No document has been written in this conversation yet."
+    },
+    {
+      "name": "collab_no_history",
+      "value": "This document has no saved version yet."
+    },
+    {
+      "name": "collab_not_downloaded",
+      "value": "Not downloaded"
+    },
+    {
+      "name": "collab_open",
+      "value": "開く"
+    },
+    {
+      "name": "collab_open_error",
+      "value": "This document could not be opened."
+    },
+    {
+      "name": "collab_ordered_list",
+      "value": "Numbered list"
+    },
+    {
+      "name": "collab_redo",
+      "value": "やり直し"
+    },
+    {
+      "name": "collab_remove",
+      "value": "削除"
+    },
+    {
+      "name": "collab_remove_error",
+      "value": "This document could not be removed."
+    },
+    {
+      "name": "collab_remove_everywhere_action",
+      "value": "削除"
+    },
+    {
+      "name": "collab_remove_everywhere_menu",
+      "value": "Remove for everyone"
+    },
+    {
+      "name": "collab_remove_locally_action",
+      "value": "Offload"
+    },
+    {
+      "name": "collab_remove_locally_error",
+      "value": "This document could not be removed from this device."
+    },
+    {
+      "name": "collab_remove_locally_menu",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_locally_message",
+      "value": "\"%s\" will be removed from this device only. The other members keep it, and opening it again downloads it back."
+    },
+    {
+      "name": "collab_remove_locally_title",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_message",
+      "value": "\"%s\" will be removed for every member of this conversation. This cannot be undone."
+    },
+    {
+      "name": "collab_remove_title",
+      "value": "Remove document"
+    },
+    {
+      "name": "collab_rename",
+      "value": "Rename"
+    },
+    {
+      "name": "collab_send_error",
+      "value": "Your changes could not be sent."
+    },
+    {
+      "name": "collab_strikethrough",
+      "value": "取り消し線"
+    },
+    {
+      "name": "collab_underline",
+      "value": "Underline"
+    },
+    {
+      "name": "collab_undo",
+      "value": "取り消し"
+    },
+    {
+      "name": "collab_untitled",
+      "value": "Untitled document"
+    },
+    {
+      "name": "collab_version_by",
+      "value": "%1$s — %2$s"
+    },
+    {
+      "name": "collab_version_deltas",
+      "value": "%1$s — %2$s, %3$d change(s)"
+    },
+    {
+      "name": "collab_version_leave",
+      "value": "Back to the current version"
+    },
+    {
+      "name": "collab_version_restore",
+      "value": "Restore"
+    },
+    {
+      "name": "collab_version_restore_error",
+      "value": "This version could not be restored."
+    },
+    {
+      "name": "collab_version_restored",
+      "value": "The document was restored to this version."
+    },
+    {
+      "name": "collab_version_shown",
+      "value": "Version of %s"
+    },
+    {
+      "name": "collab_version_unchanged",
+      "value": "This version is the document you already have."
+    },
+    {
+      "name": "contact_page_leave_conversation",
+      "value": "話しをやめましょう"
+    },
+    {
+      "name": "contact_page_send",
+      "value": "送信"
+    },
+    {
+      "name": "contact_page_start_audio_call",
+      "value": "音声通話を開始"
+    },
+    {
+      "name": "contact_page_start_video_call",
+      "value": "ビデオ通話を開始"
+    },
+    {
+      "name": "contact_picker_calls",
+      "value": "通話"
+    },
+    {
+      "name": "contact_picker_contacts",
+      "value": "連絡先"
+    },
+    {
+      "name": "conversation_add_to_contacts_button",
+      "value": "連絡先に追加"
+    },
+    {
+      "name": "conversation_add_to_contacts_label",
+      "value": "連絡先を追加しますか？"
+    },
+    {
+      "name": "conversation_contact_blocked",
+      "value": "連絡先をブロックしました"
+    },
+    {
+      "name": "conversation_deleted_message",
+      "value": "%s さんがメッセージを削除しました"
+    },
+    {
+      "name": "conversation_edited",
+      "value": "編集"
+    },
+    {
+      "name": "conversation_error_saving_image",
+      "value": "画像を保存できませんでした"
+    },
+    {
+      "name": "conversation_error_saving_image_message",
+      "value": "画像をフォトライブラリに保存中にエラーが発生しました。"
+    },
+    {
+      "name": "conversation_image_saved",
+      "value": "保存しました"
+    },
+    {
+      "name": "conversation_in_reply_to",
+      "value": "メッセージへの返信"
+    },
+    {
+      "name": "conversation_incoming_request",
+      "value": "さんが会話の招待を送信しました。"
+    },
+    {
+      "name": "conversation_last_message_deleted",
+      "value": "(削除されたメッセージ)"
+    },
+    {
+      "name": "conversation_message_placeholder",
+      "value": "メッセージを書く"
+    },
+    {
+      "name": "conversation_not_contact_label",
+      "value": "%s は連絡先リストにありません"
+    },
+    {
+      "name": "conversation_photo_access_required_message",
+      "value": "画像を保存するには、Jamiがフォトライブラリにアクセスする必要があります。設定で有効にできます。"
+    },
+    {
+      "name": "conversation_received_request",
+      "value": "%s さんが会話の招待を送信しました。"
+    },
+    {
+      "name": "conversation_replied_to",
+      "value": "%s さんが %s に返信しました"
+    },
+    {
+      "name": "conversation_request_message",
+      "value": "こんにちは、\n会話に参加しますか？"
+    },
+    {
+      "name": "conversation_send_invitation_button",
+      "value": "招待を送信"
+    },
+    {
+      "name": "conversation_send_request",
+      "value": "会話できるように招待を送信してください。"
+    },
+    {
+      "name": "conversation_send_request_title",
+      "value": "会話の招待を送信"
+    },
+    {
+      "name": "conversation_synchronization_message",
+      "value": "会話を同期するために %s の接続を待っています…"
+    },
+    {
+      "name": "conversation_synchronization_title",
+      "value": "会話の招待を承認しました。"
+    },
+    {
+      "name": "conversation_syncing_title",
+      "value": "会話を同期中"
+    },
+    {
+      "name": "conversation_typing_indicator_one_user",
+      "value": "%s さんが入力中"
+    },
+    {
+      "name": "conversation_typing_indicator_other_users",
+      "value": "%1$s さん、%2$s さん、他 %3$s 人が入力中"
+    },
+    {
+      "name": "conversation_typing_indicator_others_users",
+      "value": "%1$s さん、%2$s さん、他 %3$s 人が入力中"
+    },
+    {
+      "name": "conversation_typing_indicator_two_users",
+      "value": "%1$s さんと %2$s さんが入力中"
+    },
+    {
+      "name": "conversation_yourself",
+      "value": "自分"
+    },
+    {
+      "name": "create_account_username_not_registered_message",
+      "value": "アカウントは作成されましたが、ユーザー名がまだ登録されていません"
+    },
+    {
+      "name": "create_account_username_not_registered_title",
+      "value": "ネットワークエラー"
+    },
+    {
+      "name": "create_account_create_account_form_title",
+      "value": "Jamiに登録"
+    },
+    {
+      "name": "create_account_creating_account",
+      "value": "アカウントを作成中"
+    },
+    {
+      "name": "create_account_customize",
+      "value": "調整する"
+    },
+    {
+      "name": "create_account_encrypt",
+      "value": "パスワードで保護"
+    },
+    {
+      "name": "create_account_encrypt_explanation",
+      "value": "Jamiアカウントは、アカウントキーを含むアーカイブとして、このデバイスにローカルにのみ作成・保存されます。アーカイブへのアクセスは、必要に応じてパスワードで保護できます。"
+    },
+    {
+      "name": "create_account_encrypt_title",
+      "value": "アカウントをパスワードで保護"
+    },
+    {
+      "name": "create_account_encryption_enabled",
+      "value": "パスワード保護が有効です"
+    },
+    {
+      "name": "create_account_invalid_username",
+      "value": "無効なユーザー名です。正しいユーザー名を入力してください。"
+    },
+    {
+      "name": "create_account_looking_for_username_availability",
+      "value": "ユーザー名の利用可否を確認中…"
+    },
+    {
+      "name": "create_account_name_explanation",
+      "value": "ユーザ名を選択して,他のユーザがJamiで簡単にあなたを見つけ,あなたのところに届けるようにします."
+    },
+    {
+      "name": "create_account_new_account",
+      "value": "新規アカウント"
+    },
+    {
+      "name": "create_account_sip_configure",
+      "value": "既存の SIP アカウントを設定"
+    },
+    {
+      "name": "create_account_timeout_message",
+      "value": "ユーザー名を登録中です。お待ちください…"
+    },
+    {
+      "name": "create_account_timeout_title",
+      "value": "アカウントを作成しました"
+    },
+    {
+      "name": "create_account_username_already_taken",
+      "value": "すでに取得されているユーザー名です"
+    },
+    {
+      "name": "create_account_username_valid",
+      "value": "このユーザー名は利用可能です。"
+    },
+    {
+      "name": "create_profile_create_profile_picture",
+      "value": "プロフィール写真を作成"
+    },
+    {
+      "name": "create_profile_enter_name_label",
+      "value": "表示名を入力"
+    },
+    {
+      "name": "create_profile_enter_name_placeholder",
+      "value": "名前を入力"
+    },
+    {
+      "name": "create_profile_profile_created",
+      "value": "次へ"
+    },
+    {
+      "name": "create_profile_skip_create_profile",
+      "value": "スキップ"
+    },
+    {
+      "name": "create_profile_subtitle",
+      "value": "プロフィールは連絡先とのみ共有されます。プロフィールはいつでも変更できます。"
+    },
+    {
+      "name": "create_profile_title",
+      "value": "プロフィールをパーソナライズ"
+    },
+    {
+      "name": "data_transfer_info_message",
+      "value": "タップして録音を開始"
+    },
+    {
+      "name": "data_transfer_readable_status_accept",
+      "value": "受け入れ"
+    },
+    {
+      "name": "data_transfer_readable_status_awaiting",
+      "value": "待ってる"
+    },
+    {
+      "name": "data_transfer_readable_status_canceled",
+      "value": "キャンセルしました"
+    },
+    {
+      "name": "data_transfer_readable_status_created",
+      "value": "初期化中…"
+    },
+    {
+      "name": "data_transfer_readable_status_decline",
+      "value": "辞退"
+    },
+    {
+      "name": "data_transfer_readable_status_error",
+      "value": "エラー"
+    },
+    {
+      "name": "data_transfer_readable_status_ongoing",
+      "value": "転送中"
+    },
+    {
+      "name": "data_transfer_readable_status_success",
+      "value": "完了"
+    },
+    {
+      "name": "data_transfer_record_in_background_warning",
+      "value": "複数のアプリでマルチタスク中にビデオを録画すると、ビデオの品質が低下する場合があります。最良の結果を得るには、マルチタスクをしていないときに録画してください"
+    },
+    {
+      "name": "data_transfer_send_message",
+      "value": "送信"
+    },
+    {
+      "name": "data_transfer_sending_failed",
+      "value": "送信中にエラーが発生しました。"
+    },
+    {
+      "name": "general_settings_accept_transfer_limit",
+      "value": "譲渡制限を承認する"
+    },
+    {
+      "name": "general_settings_accept_transfer_limit_description",
+      "value": "（MB、0 = 無制限）"
+    },
+    {
+      "name": "general_settings_automatic_accept_incoming_files",
+      "value": "ファイルの受信を自動的に許可"
+    },
+    {
+      "name": "general_settings_donation_campaign",
+      "value": "寄付キャンペーン"
+    },
+    {
+      "name": "general_settings_enable_donation_campaign",
+      "value": "寄付キャンペーンを有効にする"
+    },
+    {
+      "name": "general_settings_file_transfer",
+      "value": "ファイル転送"
+    },
+    {
+      "name": "general_settings_limit_location_sharing_duration",
+      "value": "場所共有の期間を制限する"
+    },
+    {
+      "name": "general_settings_location_sharing",
+      "value": "場所共有"
+    },
+    {
+      "name": "location_sharing_title",
+      "value": "場所共有"
+    },
+    {
+      "name": "general_settings_location_sharing_duration",
+      "value": "ポジションシェア期間"
+    },
+    {
+      "name": "general_settings_video_acceleration",
+      "value": "ビデオ加速を有効にする"
+    },
+    {
+      "name": "general_settings_video_settings",
+      "value": "ビデオ設定"
+    },
+    {
+      "name": "generated_message_contact_added",
+      "value": "招待を受信しました"
+    },
+    {
+      "name": "generated_message_contact_blocked",
+      "value": "%s さんが会話からブロックされました。"
+    },
+    {
+      "name": "generated_message_contact_left_conversation",
+      "value": "%s さんが会話から退出しました。"
+    },
+    {
+      "name": "generated_message_contact_unblocked",
+      "value": "%s さんが会話のブロックを解除されました。"
+    },
+    {
+      "name": "generated_message_invitation_accepted",
+      "value": "%s さんが会話に参加しました。"
+    },
+    {
+      "name": "generated_message_invitation_received",
+      "value": "%s さんが会話に招待されました。"
+    },
+    {
+      "name": "generated_message_live_location_sharing",
+      "value": "リアルタイムでの位置共有"
+    },
+    {
+      "name": "generated_message_missed_incoming_call",
+      "value": "不在着信"
+    },
+    {
+      "name": "generated_message_missed_outgoing_call",
+      "value": "不在発信"
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_accepted",
+      "value": "招待が承認されました。"
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_received",
+      "value": "招待を送信しました。"
+    },
+    {
+      "name": "generated_message_outgoing_call",
+      "value": "発信"
+    },
+    {
+      "name": "generated_message_swarm_created",
+      "value": "会話が作成されました"
+    },
+    {
+      "name": "generated_message_you_joined",
+      "value": "会話に参加しました。"
+    },
+    {
+      "name": "global_accept",
+      "value": "受け入れ"
+    },
+    {
+      "name": "global_account_settings",
+      "value": "アカウント設定"
+    },
+    {
+      "name": "global_block",
+      "value": "ブロック"
+    },
+    {
+      "name": "global_block_contact",
+      "value": "連絡先をブロック"
+    },
+    {
+      "name": "global_call",
+      "value": "通話"
+    },
+    {
+      "name": "global_camera_disabled",
+      "value": "カメラへのアクセスが無効になっています。この機能を使用するには、デバイスの設定で有効にしてください。"
+    },
+    {
+      "name": "global_cancel",
+      "value": "キャンセル"
+    },
+    {
+      "name": "global_close",
+      "value": "閉じる"
+    },
+    {
+      "name": "global_confirm",
+      "value": "確認"
+    },
+    {
+      "name": "global_confirm_password",
+      "value": "暗証語の再入力"
+    },
+    {
+      "name": "global_connect",
+      "value": "接続"
+    },
+    {
+      "name": "global_copy",
+      "value": "コピー"
+    },
+    {
+      "name": "global_create",
+      "value": "作成"
+    },
+    {
+      "name": "global_decline",
+      "value": "辞退"
+    },
+    {
+      "name": "global_delete_file",
+      "value": "デバイスからファイルを削除"
+    },
+    {
+      "name": "global_delete_message",
+      "value": "メッセージを削除"
+    },
+    {
+      "name": "global_edit",
+      "value": "編集"
+    },
+    {
+      "name": "global_edit_message",
+      "value": "メッセージ編集"
+    },
+    {
+      "name": "global_edit_password",
+      "value": "パスワードを編集"
+    },
+    {
+      "name": "global_editing",
+      "value": "編集中"
+    },
+    {
+      "name": "global_enter_password",
+      "value": "暗証語を入力してください"
+    },
+    {
+      "name": "global_enter_username",
+      "value": "ユーザー名を入力"
+    },
+    {
+      "name": "global_forward",
+      "value": "前へ"
+    },
+    {
+      "name": "global_incoming_call",
+      "value": "着信"
+    },
+    {
+      "name": "global_leave",
+      "value": "出て行こう"
+    },
+    {
+      "name": "global_name",
+      "value": "名前"
+    },
+    {
+      "name": "global_ok",
+      "value": "わかった"
+    },
+    {
+      "name": "global_password",
+      "value": "暗証語"
+    },
+    {
+      "name": "global_preview",
+      "value": "プレビュー"
+    },
+    {
+      "name": "global_recommended",
+      "value": "推奨"
+    },
+    {
+      "name": "global_register_a_username",
+      "value": "ユーザー名を登録"
+    },
+    {
+      "name": "global_remove",
+      "value": "削除"
+    },
+    {
+      "name": "global_remove_account",
+      "value": "アカウントを削除"
+    },
+    {
+      "name": "global_reply",
+      "value": "返信"
+    },
+    {
+      "name": "global_resend",
+      "value": "送信する"
+    },
+    {
+      "name": "global_save",
+      "value": "保存"
+    },
+    {
+      "name": "global_search",
+      "value": "検索中…"
+    },
+    {
+      "name": "global_share",
+      "value": "共有"
+    },
+    {
+      "name": "global_support_jami",
+      "value": "Jamiプロジェクトを支援する"
+    },
+    {
+      "name": "global_time",
+      "value": "時刻"
+    },
+    {
+      "name": "global_username",
+      "value": "利用者名"
+    },
+    {
+      "name": "global_video",
+      "value": "動画"
+    },
+    {
+      "name": "import_from_archive_button_title",
+      "value": "輸入"
+    },
+    {
+      "name": "import_from_archive_explanation",
+      "value": "ローカルアーカイブからJamiアカウントをインポート"
+    },
+    {
+      "name": "import_from_archive_password_explanation",
+      "value": "アカウントがパスワードで保護されている場合は、次のフィールドに入力してください。"
+    },
+    {
+      "name": "import_from_archive_select_archive_button",
+      "value": "アーカイブファイルを選択"
+    },
+    {
+      "name": "import_from_archive_title",
+      "value": "アーカイブからインポート"
+    },
+    {
+      "name": "invitations_accepted",
+      "value": "受諾済み"
+    },
+    {
+      "name": "invitations_blocked",
+      "value": "ブロック済み"
+    },
+    {
+      "name": "invitations_declined",
+      "value": "拒否しました"
+    },
+    {
+      "name": "invitations_list",
+      "value": "招待を受信しました"
+    },
+    {
+      "name": "invitations_no_invitations",
+      "value": "招待はありません"
+    },
+    {
+      "name": "link_device_authentication_info",
+      "value": "次のIPアドレスで新しいデバイスが見つかりました。これはあなたですか？アカウントのエクスポート操作を続行するには、「確認」をタップしてください。"
+    },
+    {
+      "name": "link_device_code",
+      "value": "コード"
+    },
+    {
+      "name": "link_device_completed",
+      "value": "新しいデバイスでアカウントが正常にインポートされました。"
+    },
+    {
+      "name": "link_device_connecting",
+      "value": "新しいデバイスに接続中…"
+    },
+    {
+      "name": "link_device_error_code",
+      "value": "コードの生成中にエラーが発生しました。もう一度お試しください。"
+    },
+    {
+      "name": "link_device_error_network",
+      "value": "アカウントのリンク中にネットワークエラーが発生しました。接続を確認して、もう一度お試しください。"
+    },
+    {
+      "name": "link_device_error_timeout",
+      "value": "操作がタイムアウトしました。もう一度お試しください。"
+    },
+    {
+      "name": "link_device_error_wrong_data",
+      "value": "アカウントのエクスポート中にエラーが発生しました。もう一度お試しください。"
+    },
+    {
+      "name": "link_device_error_wrong_password",
+      "value": "デバイスのリンク中に認証エラーが発生しました。認証情報を確認して、もう一度お試しください。"
+    },
+    {
+      "name": "link_device_export_in_progress",
+      "value": "新しいデバイスへのアカウントのエクスポート操作が進行中です。新しいデバイスでインポートを確認してください。"
+    },
+    {
+      "name": "link_device_info_add_account",
+      "value": "アカウントを追加 → 別のデバイスから接続 を選択してください。"
+    },
+    {
+      "name": "link_device_info_code",
+      "value": "準備ができたら、コードを入力して「接続」をタップしてください。"
+    },
+    {
+      "name": "link_device_info_qr_code",
+      "value": "準備ができたら、QRコードをスキャンしてください。"
+    },
+    {
+      "name": "link_device_initial_info",
+      "value": "新しいデバイスで、新しいアカウントを開始してください。"
+    },
+    {
+      "name": "link_device_network_error",
+      "value": "アカウントのエクスポート中にネットワークエラーが発生しました。"
+    },
+    {
+      "name": "link_device_new_device_ip",
+      "value": "新しいデバイスのIPアドレス: %1$s"
+    },
+    {
+      "name": "link_device_title",
+      "value": "新しいデバイスを連結する"
+    },
+    {
+      "name": "link_device_wrong_entry",
+      "value": "認識できない新しいデバイス識別子です。上記の手順に従ってください。"
+    },
+    {
+      "name": "link_to_account_account_locked_with_password",
+      "value": "アカウントはパスワードで保護されています。続行するには、アカウントのパスワードを入力してください。"
+    },
+    {
+      "name": "link_to_account_action_required",
+      "value": "操作が必要です。\n元のデバイスでアカウントを確認してください。"
+    },
+    {
+      "name": "link_to_account_alert_message",
+      "value": "停止すると、アカウントのインポート操作がキャンセルされます。"
+    },
+    {
+      "name": "link_to_account_alert_tile",
+      "value": "アカウントのリンクを停止しますか？"
+    },
+    {
+      "name": "link_to_account_all_set",
+      "value": "アカウントが正常にインポートされました。"
+    },
+    {
+      "name": "link_to_account_enter_provided_code",
+      "value": "準備ができたら、認証コードを入力してください。"
+    },
+    {
+      "name": "link_to_account_exit",
+      "value": "終了"
+    },
+    {
+      "name": "link_to_account_export_instructions",
+      "value": "元のデバイスでエクスポートを開始してください。"
+    },
+    {
+      "name": "link_to_account_export_instructions_path",
+      "value": "アカウント → アカウント設定 → 新しいデバイスをリンク を選択してください。"
+    },
+    {
+      "name": "link_to_account_go_to_accounts",
+      "value": "インポートしたアカウントへ移動"
+    },
+    {
+      "name": "link_to_account_import_account",
+      "value": "アカウントをインポート"
+    },
+    {
+      "name": "link_to_account_scan_qr_code",
+      "value": "準備ができたら、QRコードをスキャンしてください。"
+    },
+    {
+      "name": "link_to_account_share_message",
+      "value": "あなたのコード: %s"
+    },
+    {
+      "name": "link_to_account_show_pin_code",
+      "value": "認証コード"
+    },
+    {
+      "name": "link_to_account_show_qr_code",
+      "value": "QRコード"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_label",
+      "value": "管理サーバーの URL を入力してください"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_placeholder",
+      "value": "管理サーバーの URL"
+    },
+    {
+      "name": "link_to_account_manager_enter_credentials",
+      "value": "管理サーバーの認証情報を入力"
+    },
+    {
+      "name": "link_to_account_manager_jams_explanation",
+      "value": "管理サーバーの URL を入力してください"
+    },
+    {
+      "name": "link_to_account_manager_sign_in",
+      "value": "サインイン"
+    },
+    {
+      "name": "link_to_account_manager_title",
+      "value": "管理サーバーアカウント"
+    },
+    {
+      "name": "log_view_description",
+      "value": "診断記録設定を開く"
+    },
+    {
+      "name": "log_view_save_error",
+      "value": "ファイルの保存中にエラーが発生しました。"
+    },
+    {
+      "name": "log_view_share_error",
+      "value": "ファイルの共有中にエラーが発生しました。"
+    },
+    {
+      "name": "log_view_start_logging",
+      "value": "ログ記録を開始"
+    },
+    {
+      "name": "log_view_stop_logging",
+      "value": "記録を終了する"
+    },
+    {
+      "name": "log_view_title",
+      "value": "診断"
+    },
+    {
+      "name": "migrate_account_error",
+      "value": "アカウントの移行中にエラーが発生しました。再試行するか、アカウントを削除してください。"
+    },
+    {
+      "name": "migrate_account_explanation",
+      "value": "アカウントの移行が必要です。"
+    },
+    {
+      "name": "migrate_account_migrate_another",
+      "value": "別のアカウントに移行"
+    },
+    {
+      "name": "migrate_account_migrate_button",
+      "value": "アカウントを移行"
+    },
+    {
+      "name": "migrate_account_migrating",
+      "value": "移行中…"
+    },
+    {
+      "name": "migrate_account_password_explanation",
+      "value": "アカウントの移行を続行するには、アカウントのパスワードを入力してください。"
+    },
+    {
+      "name": "migrate_account_title",
+      "value": "アカウントの移行"
+    },
+    {
+      "name": "notifications_location_sharing_started",
+      "value": "位置共有開始"
+    },
+    {
+      "name": "notifications_location_sharing_stopped",
+      "value": "到着する場所共有停止"
+    },
+    {
+      "name": "notifications_missed_call",
+      "value": "欠電話"
+    },
+    {
+      "name": "notifications_new_file",
+      "value": "新しいファイル"
+    },
+    {
+      "name": "peer_services_done",
+      "value": "完了"
+    },
+    {
+      "name": "peer_services_empty",
+      "value": "利用可能な共有サービスはありません"
+    },
+    {
+      "name": "peer_services_error_offline",
+      "value": "連絡先はオフラインです"
+    },
+    {
+      "name": "peer_services_error_timeout",
+      "value": "リクエストがタイムアウトしました"
+    },
+    {
+      "name": "peer_services_error_unknown",
+      "value": "サービスを取得できませんでした"
+    },
+    {
+      "name": "peer_services_error_unreachable",
+      "value": "連絡先に到達できません"
+    },
+    {
+      "name": "peer_services_not_supported",
+      "value": "サポートされていません"
+    },
+    {
+      "name": "peer_services_open",
+      "value": "開く"
+    },
+    {
+      "name": "peer_services_refresh",
+      "value": "サービスを更新"
+    },
+    {
+      "name": "peer_services_title",
+      "value": "共有サービス"
+    },
+    {
+      "name": "photo_capture_retake",
+      "value": "再撮影"
+    },
+    {
+      "name": "photo_capture_use_photo",
+      "value": "写真を使用"
+    },
+    {
+      "name": "profile_editor_change_picture",
+      "value": "Change picture"
+    },
+    {
+      "name": "profile_editor_change_picture_hint",
+      "value": "Choose a new picture from the camera or photo library"
+    },
+    {
+      "name": "profile_editor_contact_name_placeholder",
+      "value": "Enter a name"
+    },
+    {
+      "name": "profile_editor_description",
+      "value": "記述"
+    },
+    {
+      "name": "profile_editor_description_placeholder",
+      "value": "Enter a description"
+    },
+    {
+      "name": "profile_editor_discard",
+      "value": "Discard"
+    },
+    {
+      "name": "profile_editor_discard_message",
+      "value": "Your unsaved changes will be lost."
+    },
+    {
+      "name": "profile_editor_discard_title",
+      "value": "Discard changes?"
+    },
+    {
+      "name": "profile_editor_edit_contact",
+      "value": "Edit contact"
+    },
+    {
+      "name": "profile_editor_edit_contact_hint",
+      "value": "Opens the contact editor"
+    },
+    {
+      "name": "profile_editor_edit_group",
+      "value": "Edit group"
+    },
+    {
+      "name": "profile_editor_edit_group_hint",
+      "value": "Opens the group editor"
+    },
+    {
+      "name": "profile_editor_group_name_placeholder",
+      "value": "Enter a group name"
+    },
+    {
+      "name": "profile_editor_local_changes_footer",
+      "value": "This name and picture are visible only on this device."
+    },
+    {
+      "name": "profile_editor_name",
+      "value": "名前"
+    },
+    {
+      "name": "profile_editor_no_picture",
+      "value": "No picture"
+    },
+    {
+      "name": "profile_editor_picture_selected",
+      "value": "Picture selected"
+    },
+    {
+      "name": "profile_editor_remove_picture",
+      "value": "Remove picture"
+    },
+    {
+      "name": "profile_editor_reset_original",
+      "value": "Use original name and picture"
+    },
+    {
+      "name": "profile_editor_reset_original_hint",
+      "value": "Restores the name and picture this contact set for themselves"
+    },
+    {
+      "name": "profile_editor_reset_picture",
+      "value": "Use original picture"
+    },
+    {
+      "name": "profile_editor_save_error",
+      "value": "The changes could not be saved. Please try again."
+    },
+    {
+      "name": "scan_bad_qr_code",
+      "value": "誤ったQRコード"
+    },
+    {
+      "name": "share_extension_accessibility_select_account",
+      "value": "ダブルタップしてこのアカウントを選択"
+    },
+    {
+      "name": "share_extension_accessibility_select_conversation",
+      "value": "ダブルタップしてこの会話を選択"
+    },
+    {
+      "name": "share_extension_accessibility_selected_account",
+      "value": "選択したアカウント: %s。ダブルタップしてアカウントを変更します。"
+    },
+    {
+      "name": "share_extension_accessibility_send_button",
+      "value": "ダブルタップして選択した会話に送信"
+    },
+    {
+      "name": "share_extension_no_account_description",
+      "value": "続行するには、メインアプリケーションでアカウントを作成してください。"
+    },
+    {
+      "name": "share_extension_no_account_title",
+      "value": "アカウントが見つかりません"
+    },
+    {
+      "name": "share_extension_no_search_results",
+      "value": "検索に一致する会話はありません"
+    },
+    {
+      "name": "share_extension_search_conversations",
+      "value": "会話を検索"
+    },
+    {
+      "name": "share_extension_select_account_title",
+      "value": "アカウントを選択"
+    },
+    {
+      "name": "share_extension_send_to_conversation",
+      "value": "%d 件の会話に送信"
+    },
+    {
+      "name": "share_extension_send_to_conversations_plural",
+      "value": "%d 件の会話に送信"
+    },
+    {
+      "name": "share_extension_sending",
+      "value": "送信中…"
+    },
+    {
+      "name": "share_extension_try_different_filter",
+      "value": "別のフィルターをお試しください"
+    },
+    {
+      "name": "share_extension_unsupported_type_description",
+      "value": "選択したコンテンツの共有は現在サポートされていません。"
+    },
+    {
+      "name": "share_extension_unsupported_type_title",
+      "value": "サポートされていないコンテンツ"
+    },
+    {
+      "name": "smartlist_about_jami",
+      "value": "Jamiについて"
+    },
+    {
+      "name": "smartlist_accounts",
+      "value": "アカウント"
+    },
+    {
+      "name": "smartlist_accounts_title",
+      "value": "アカウント"
+    },
+    {
+      "name": "smartlist_add_account_button",
+      "value": "+ アカウントを追加"
+    },
+    {
+      "name": "smartlist_cellular_access",
+      "value": "設定でモバイルデータ通信へのアクセスが許可されていることを確認してください。"
+    },
+    {
+      "name": "smartlist_conversations",
+      "value": "会話"
+    },
+    {
+      "name": "smartlist_conversations_search_hint",
+      "value": "You don't have any conversations yet."
+    },
+    {
+      "name": "smartlist_dialpad",
+      "value": "Keypad"
+    },
+    {
+      "name": "smartlist_disable_donation",
+      "value": "後で"
+    },
+    {
+      "name": "smartlist_donation_explanation",
+      "value": "Jami の使用を楽しみ、私たちのミッションに共感していただけるなら、寄付をしませんか？"
+    },
+    {
+      "name": "smartlist_in_synchronization",
+      "value": "同期中…"
+    },
+    {
+      "name": "smartlist_invitation_received",
+      "value": "招待を受信しました"
+    },
+    {
+      "name": "smartlist_invitations",
+      "value": "招待"
+    },
+    {
+      "name": "smartlist_invite_friends",
+      "value": "友達を招待"
+    },
+    {
+      "name": "smartlist_jams_directory_hint",
+      "value": "People in your organization outside your contacts."
+    },
+    {
+      "name": "smartlist_jams_results",
+      "value": "Organization directory"
+    },
+    {
+      "name": "smartlist_new_contact",
+      "value": "新しい連絡先"
+    },
+    {
+      "name": "smartlist_new_group",
+      "value": "新しいグループ"
+    },
+    {
+      "name": "smartlist_no_conversation",
+      "value": "会話はありません"
+    },
+    {
+      "name": "smartlist_no_conversations_found",
+      "value": "検索に一致する会話はありません。"
+    },
+    {
+      "name": "smartlist_no_network_connectivity",
+      "value": "ネットワーク接続がありません"
+    },
+    {
+      "name": "smartlist_no_number",
+      "value": "この連絡先には番号が登録されていません"
+    },
+    {
+      "name": "smartlist_no_results",
+      "value": "検索結果はありません"
+    },
+    {
+      "name": "smartlist_public_directory_hint",
+      "value": "People on Jami outside your contacts."
+    },
+    {
+      "name": "smartlist_results",
+      "value": "公開台帳"
+    },
+    {
+      "name": "smartlist_search_bar",
+      "value": "検索"
+    },
+    {
+      "name": "smartlist_search_bar_placeholder",
+      "value": "名前を入力…"
+    },
+    {
+      "name": "smartlist_select_one_number",
+      "value": "番号のうちの1つを選択"
+    },
+    {
+      "name": "smartlist_yesterday",
+      "value": "昨日"
+    },
+    {
+      "name": "swarm_leave",
+      "value": "出て行こう"
+    },
+    {
+      "name": "swarm_accessibility_color_picker",
+      "value": "会話の色の選択"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code",
+      "value": "連絡先のQRコードを表示"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code_hint",
+      "value": "連絡先のQRコードの画面を開きます"
+    },
+    {
+      "name": "swarm_accessibility_contact_share_hint",
+      "value": "連絡先情報の共有オプションを開きます"
+    },
+    {
+      "name": "swarm_admin",
+      "value": "管理者"
+    },
+    {
+      "name": "swarm_admin_invites_only",
+      "value": "プライベートグループ (限定招待)"
+    },
+    {
+      "name": "swarm_blocked",
+      "value": "ブロック済み"
+    },
+    {
+      "name": "swarm_change_picture",
+      "value": "グループの画像を変更"
+    },
+    {
+      "name": "swarm_choose_color",
+      "value": "会話の色"
+    },
+    {
+      "name": "swarm_confirm_leave_conversation",
+      "value": "この会話から退出しますか？"
+    },
+    {
+      "name": "swarm_contact_header",
+      "value": "連絡先"
+    },
+    {
+      "name": "swarm_conversation_ended",
+      "value": "会話が終了しました"
+    },
+    {
+      "name": "swarm_conversation_header",
+      "value": "話し合い"
+    },
+    {
+      "name": "swarm_conversation_id",
+      "value": "会話ID"
+    },
+    {
+      "name": "swarm_customize",
+      "value": "グループをカスタマイズ"
+    },
+    {
+      "name": "swarm_customize_profile",
+      "value": "グループプロフィールをカスタマイズ"
+    },
+    {
+      "name": "swarm_explanation_text",
+      "value": "メンバーはグループ作成後、いつでも招待できます。"
+    },
+    {
+      "name": "swarm_identifier",
+      "value": "識別子"
+    },
+    {
+      "name": "swarm_invite",
+      "value": "Invite"
+    },
+    {
+      "name": "swarm_invite_members",
+      "value": "メンバーを招待"
+    },
+    {
+      "name": "swarm_invite_members_not_selected",
+      "value": "未選択"
+    },
+    {
+      "name": "swarm_invite_members_selected",
+      "value": "選択済み"
+    },
+    {
+      "name": "swarm_invite_selected_members",
+      "value": "選択した連絡先を招待"
+    },
+    {
+      "name": "swarm_invited",
+      "value": "招待された"
+    },
+    {
+      "name": "swarm_invites_only",
+      "value": "プライベートグループ"
+    },
+    {
+      "name": "swarm_leave_conversation",
+      "value": "話しをやめましょう"
+    },
+    {
+      "name": "swarm_left",
+      "value": "退出しました"
+    },
+    {
+      "name": "swarm_member",
+      "value": "メンバー"
+    },
+    {
+      "name": "swarm_members",
+      "value": "要員"
+    },
+    {
+      "name": "swarm_mute_conversation",
+      "value": "会話をミュートする"
+    },
+    {
+      "name": "swarm_name_placeholder",
+      "value": "グループ名"
+    },
+    {
+      "name": "swarm_new_group",
+      "value": "新規グループを作成"
+    },
+    {
+      "name": "swarm_one_to_one",
+      "value": "プライベート"
+    },
+    {
+      "name": "swarm_others",
+      "value": "他者"
+    },
+    {
+      "name": "swarm_public_chat",
+      "value": "パブリックグループ"
+    },
+    {
+      "name": "swarm_remove_contact",
+      "value": "連絡先を削除"
+    },
+    {
+      "name": "swarm_remove_conversation",
+      "value": "会話を削除"
+    },
+    {
+      "name": "swarm_restart_conversation",
+      "value": "会話を再開"
+    },
+    {
+      "name": "swarm_select_contacts",
+      "value": "連絡先を選択"
+    },
+    {
+      "name": "swarm_settings",
+      "value": "設定"
+    },
+    {
+      "name": "swarm_share_contact_info",
+      "value": "連絡先情報を共有"
+    },
+    {
+      "name": "swarm_share_contact_message",
+      "value": "Jami分散型コミュニケーションプラットフォームでこの連絡先 %1$s を追加できます: https://jami.net"
+    },
+    {
+      "name": "swarm_show_contact_qr_code",
+      "value": "連絡先のQRコードを表示"
+    },
+    {
+      "name": "swarm_type_of_swarm",
+      "value": "会話の種類"
+    },
+    {
+      "name": "swarm_unknown",
+      "value": "不明"
+    },
+    {
+      "name": "swarm_colors_amber",
+      "value": "琥珀色"
+    },
+    {
+      "name": "swarm_colors_bright_orange",
+      "value": "ブライトオレンジ"
+    },
+    {
+      "name": "swarm_colors_brown",
+      "value": "茶色"
+    },
+    {
+      "name": "swarm_colors_cyan",
+      "value": "シアン"
+    },
+    {
+      "name": "swarm_colors_green",
+      "value": "緑"
+    },
+    {
+      "name": "swarm_colors_indigo_blue",
+      "value": "藍色"
+    },
+    {
+      "name": "swarm_colors_lime_green",
+      "value": "ライムグリーン"
+    },
+    {
+      "name": "swarm_colors_medium_gray",
+      "value": "ミディアムグレー"
+    },
+    {
+      "name": "swarm_colors_purple",
+      "value": "紫"
+    },
+    {
+      "name": "swarm_colors_sky_blue",
+      "value": "スカイブルー"
+    },
+    {
+      "name": "swarm_colors_steel_blue",
+      "value": "スチールブルー"
+    },
+    {
+      "name": "swarm_colors_teal",
+      "value": "ティール"
+    },
+    {
+      "name": "swarm_colors_vibrant_pink",
+      "value": "ビビッドピンク"
+    },
+    {
+      "name": "swarm_colors_violet",
+      "value": "すみれ色"
+    },
+    {
+      "name": "swarm_colors_yellow_green",
+      "value": "黄緑"
+    },
+    {
+      "name": "swarmcreation_add_description",
+      "value": "説明を追加"
+    },
+    {
+      "name": "swarmcreation_search_bar",
+      "value": "連絡先を検索…"
+    },
+    {
+      "name": "welcome_connect_to_jams",
+      "value": "管理サーバーに接続"
+    },
+    {
+      "name": "welcome_create_account",
+      "value": "Jamiアカウントを作成する"
+    },
+    {
+      "name": "welcome_have_account",
+      "value": "すでにアカウントを持っている"
+    },
+    {
+      "name": "welcome_link_backup",
+      "value": "アーカイブバックアップからインポート"
+    },
+    {
+      "name": "welcome_link_device",
+      "value": "他のデバイスから輸入する"
+    },
+    {
+      "name": "welcome_text",
+      "value": "Jamiは世界中の利用者と繋がることができる自由ソフトウェアであり，利用者の自由と私事権とを尊重しています。"
+    },
+    {
+      "name": "welcome_title",
+      "value": "Jamiで自由に、プライベートに共有しましょう"
+    },
+    {
+      "name": "media_preview_date_time",
+      "value": "%1$s, %2$s"
+    },
+    {
+      "name": "media_preview_react",
+      "value": "React"
+    },
+    {
+      "name": "media_preview_more_actions",
+      "value": "更に"
+    },
+    {
+      "name": "media_preview_more_emoji",
+      "value": "More emoji"
+    },
+    {
+      "name": "accessibility_audio_player_mute",
+      "value": "消音"
+    },
+    {
+      "name": "accessibility_audio_player_unmute",
+      "value": "消音を解除"
+    },
+    {
+      "name": "accessibility_message_reactions",
+      "value": "Reactions"
+    },
+    {
+      "name": "accessibility_remove_reaction",
+      "value": "Remove %s"
+    },
+    {
+      "name": "media_preview_live_text",
+      "value": "Live Text"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#C6B8E3"
+    },
+    {
+      "name": "background_msg_received",
+      "value": "#E7EBEB"
+    },
+    {
+      "name": "jami",
+      "value": "#00345F"
+    },
+    {
+      "name": "jami_button_primary",
+      "value": "#005599"
+    },
+    {
+      "name": "jami_button_secondary",
+      "value": "#0070C8"
+    },
+    {
+      "name": "jami_button_with_opacity",
+      "value": "#54005699"
+    },
+    {
+      "name": "jami_call_backdrop",
+      "value": "#06070A"
+    },
+    {
+      "name": "jami_call_canvas",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "jami_form_background",
+      "value": "#F4F4F4"
+    },
+    {
+      "name": "jami_on_video_glass",
+      "value": "#47000000"
+    },
+    {
+      "name": "jami_on_video_scrim",
+      "value": "#99000000"
+    },
+    {
+      "name": "jami_primary_control",
+      "value": "#001729"
+    },
+    {
+      "name": "jami_requests_background",
+      "value": "#00223C"
+    },
+    {
+      "name": "jami_secondary_control",
+      "value": "#0070C8"
+    },
+    {
+      "name": "jami_tertiary_control",
+      "value": "#D5E4EF"
+    },
+    {
+      "name": "message_background_color",
+      "value": "#FCFCFC"
+    },
+    {
+      "name": "requests_badge_background",
+      "value": "#005699"
+    },
+    {
+      "name": "requests_badge_foreground",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "label",
+      "value": "#FF000000"
+    },
+    {
+      "name": "secondary_label",
+      "value": "#993C3C43"
+    },
+    {
+      "name": "placeholder_text",
+      "value": "#4C3C3C43"
+    },
+    {
+      "name": "shadow_color",
+      "value": "#000000"
+    },
+    {
+      "name": "avatar_color_00",
+      "value": "#2196F3"
+    },
+    {
+      "name": "avatar_color_01",
+      "value": "#F44336"
+    },
+    {
+      "name": "avatar_color_02",
+      "value": "#E91E63"
+    },
+    {
+      "name": "avatar_color_03",
+      "value": "#9C27B0"
+    },
+    {
+      "name": "avatar_color_04",
+      "value": "#673AB7"
+    },
+    {
+      "name": "avatar_color_05",
+      "value": "#3F51B5"
+    },
+    {
+      "name": "avatar_color_06",
+      "value": "#00BCD4"
+    },
+    {
+      "name": "avatar_color_07",
+      "value": "#009688"
+    },
+    {
+      "name": "avatar_color_08",
+      "value": "#4CAF50"
+    },
+    {
+      "name": "avatar_color_09",
+      "value": "#8BC34A"
+    },
+    {
+      "name": "avatar_color_10",
+      "value": "#9E9E9E"
+    },
+    {
+      "name": "avatar_color_11",
+      "value": "#CDDC39"
+    },
+    {
+      "name": "avatar_color_12",
+      "value": "#FFC107"
+    },
+    {
+      "name": "avatar_color_13",
+      "value": "#FF5722"
+    },
+    {
+      "name": "avatar_color_14",
+      "value": "#795548"
+    },
+    {
+      "name": "avatar_color_15",
+      "value": "#607D8B"
+    }
+  ]
+}

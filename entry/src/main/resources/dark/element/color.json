@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#112B49"
+    },
+    {
+      "name": "background_msg_received",
+      "value": "#191E1E"
+    },
+    {
+      "name": "jami",
+      "value": "#039CC4"
+    },
+    {
+      "name": "jami_button_primary",
+      "value": "#00B9E9"
+    },
+    {
+      "name": "jami_button_secondary",
+      "value": "#039CC4"
+    },
+    {
+      "name": "jami_button_with_opacity",
+      "value": "#5402B9E9"
+    },
+    {
+      "name": "jami_primary_control",
+      "value": "#007BCF"
+    },
+    {
+      "name": "jami_requests_background",
+      "value": "#D3E4F0"
+    },
+    {
+      "name": "jami_secondary_control",
+      "value": "#039CC4"
+    },
+    {
+      "name": "jami_tertiary_control",
+      "value": "#00223C"
+    },
+    {
+      "name": "message_background_color",
+      "value": "#0A0A0A"
+    },
+    {
+      "name": "requests_badge_background",
+      "value": "#A3C2DA"
+    },
+    {
+      "name": "requests_badge_foreground",
+      "value": "#005699"
+    },
+    {
+      "name": "label",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "secondary_label",
+      "value": "#99EBEBF5"
+    },
+    {
+      "name": "placeholder_text",
+      "value": "#4CEBEBF5"
+    },
+    {
+      "name": "shadow_color",
+      "value": "#B4B4B4"
+    }
+  ]
+}

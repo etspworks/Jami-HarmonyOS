@@ -1,0 +1,3020 @@
+{
+  "string": [
+    {
+      "name": "about_jami_community_management",
+      "value": "Управління спільнотою"
+    },
+    {
+      "name": "about_jami_contribute",
+      "value": "Зробити внесок"
+    },
+    {
+      "name": "about_jami_declaration1",
+      "value": "Jami, пакунок GNU, — це програмне забезпечення для універсального та розподіленого однорангового зв'язку, що поважає свободу та приватність своїх користувачів. Відвідайте"
+    },
+    {
+      "name": "about_jami_declaration2",
+      "value": "щоб дізнатися більше."
+    },
+    {
+      "name": "about_jami_developers",
+      "value": "Розробники"
+    },
+    {
+      "name": "about_jami_feedback",
+      "value": "Відгук"
+    },
+    {
+      "name": "about_jami_header",
+      "value": "Ми хотіли б подякувати нашим дописувачам, чиї зусилля протягом багатьох років зробили це програмне забезпечення таким, яким воно є."
+    },
+    {
+      "name": "about_jami_info",
+      "value": "Це список людей, які вклали значний обсяг часу з корисними результатами в Jami. Будь-які такі учасники, які хочуть бути додані до списку, можуть зв’язатися з нами."
+    },
+    {
+      "name": "about_jami_media",
+      "value": "Медіа"
+    },
+    {
+      "name": "about_jami_no_warranty1",
+      "value": "Ця програма постачається абсолютно без жодних гарантій. Див."
+    },
+    {
+      "name": "about_jami_no_warranty2",
+      "value": "версію 3 або новішу для отримання докладної інформації."
+    },
+    {
+      "name": "about_jami_special_thanks",
+      "value": "Особлива подяка"
+    },
+    {
+      "name": "accessibility_about_jami_title",
+      "value": "Про Jami"
+    },
+    {
+      "name": "accessibility_account_token_q_rcode",
+      "value": "QR-код токена"
+    },
+    {
+      "name": "accessibility_account_summary_edit_profile_hint",
+      "value": "Двічі торкніться, щоб редагувати профіль"
+    },
+    {
+      "name": "accessibility_account_summary_edit_settings_button",
+      "value": "Налаштування"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code",
+      "value": "QR код"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code_hint",
+      "value": "Двічі торкніться, щоб переглянути QR-код облікового запису"
+    },
+    {
+      "name": "accessibility_audio_player_pause",
+      "value": "Пауза"
+    },
+    {
+      "name": "accessibility_audio_player_play",
+      "value": "Програти"
+    },
+    {
+      "name": "accessibility_avatar_collapse_hint",
+      "value": "Double-tap to shrink the picture"
+    },
+    {
+      "name": "accessibility_avatar_expand_hint",
+      "value": "Double-tap to enlarge the picture"
+    },
+    {
+      "name": "accessibility_call_lasted",
+      "value": "Тривав %s"
+    },
+    {
+      "name": "accessibility_calls_alter_add_participant",
+      "value": "Додати учасників"
+    },
+    {
+      "name": "accessibility_calls_alter_end_call",
+      "value": "Закінчити дзвінок"
+    },
+    {
+      "name": "accessibility_calls_alter_open_conversation",
+      "value": "Відкрити розмову"
+    },
+    {
+      "name": "accessibility_calls_alter_pause_call",
+      "value": "Продовжити дзвінок"
+    },
+    {
+      "name": "accessibility_calls_alter_raise_hand",
+      "value": "Нижня рука"
+    },
+    {
+      "name": "accessibility_calls_alter_show_dialpad",
+      "value": "Показати панель набору"
+    },
+    {
+      "name": "accessibility_calls_alter_switch_camera",
+      "value": "Перемкнути камеру"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_audio",
+      "value": "Увімкнути звук мікрофона"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_speaker",
+      "value": "Вимкнути гучномовець"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_video",
+      "value": "Зупинити камеру"
+    },
+    {
+      "name": "accessibility_calls_default_add_participant",
+      "value": "Додати учасників"
+    },
+    {
+      "name": "accessibility_calls_default_end_call",
+      "value": "Закінчити дзвінок"
+    },
+    {
+      "name": "accessibility_calls_default_open_conversation",
+      "value": "Відкрити розмову"
+    },
+    {
+      "name": "accessibility_calls_default_pause_call",
+      "value": "Призупинити дзвінок"
+    },
+    {
+      "name": "accessibility_calls_default_raise_hand",
+      "value": "Підняти руку"
+    },
+    {
+      "name": "accessibility_calls_default_show_dialpad",
+      "value": "Показати панель набору"
+    },
+    {
+      "name": "accessibility_calls_default_switch_camera",
+      "value": "Перемкнути камеру"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_audio",
+      "value": "Відключити мікрофон"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_speaker",
+      "value": "Увімкнути гучномовець"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_video",
+      "value": "Запустити камеру"
+    },
+    {
+      "name": "accessibility_close",
+      "value": "Закрити"
+    },
+    {
+      "name": "accessibility_conference_camera_off",
+      "value": "Camera off"
+    },
+    {
+      "name": "accessibility_conference_crop_video",
+      "value": "Crop video"
+    },
+    {
+      "name": "accessibility_conference_end_call",
+      "value": "Закінчити дзвінок"
+    },
+    {
+      "name": "accessibility_conference_hand_raised",
+      "value": "Піднята рука"
+    },
+    {
+      "name": "accessibility_conference_hide_local_preview",
+      "value": "Hide your video"
+    },
+    {
+      "name": "accessibility_conference_local_preview",
+      "value": "Your video"
+    },
+    {
+      "name": "accessibility_conference_lower_hand",
+      "value": "Нижня рука"
+    },
+    {
+      "name": "accessibility_conference_maximize",
+      "value": "Збільшити"
+    },
+    {
+      "name": "accessibility_conference_microphone_muted",
+      "value": "Microphone muted"
+    },
+    {
+      "name": "accessibility_conference_minimize",
+      "value": "Зменьшити"
+    },
+    {
+      "name": "accessibility_conference_moderator",
+      "value": "Модератор"
+    },
+    {
+      "name": "accessibility_conference_mute_audio",
+      "value": "Відключити звук"
+    },
+    {
+      "name": "accessibility_conference_recording",
+      "value": "Записування"
+    },
+    {
+      "name": "accessibility_conference_set_moderator",
+      "value": "Наведіть модератор"
+    },
+    {
+      "name": "accessibility_conference_show_full_video",
+      "value": "Show full video"
+    },
+    {
+      "name": "accessibility_conference_show_local_preview",
+      "value": "Show your video"
+    },
+    {
+      "name": "accessibility_conference_show_participants",
+      "value": "Show participants"
+    },
+    {
+      "name": "accessibility_conference_speaking",
+      "value": "Speaking"
+    },
+    {
+      "name": "accessibility_conference_unmute_audio",
+      "value": "Незаглушенний аудіо"
+    },
+    {
+      "name": "accessibility_conference_unset_moderator",
+      "value": "Не встановлюється модератор"
+    },
+    {
+      "name": "accessibility_conversation_camera_hint",
+      "value": "Двічі торкніться, щоб відкрити камеру"
+    },
+    {
+      "name": "accessibility_conversation_compose_message",
+      "value": "Написати повідомлення"
+    },
+    {
+      "name": "accessibility_conversation_row_blocked",
+      "value": "Розмову заблоковано"
+    },
+    {
+      "name": "accessibility_conversation_row_last_message",
+      "value": "Останнє повідомлення о %s"
+    },
+    {
+      "name": "accessibility_conversation_row_syncing",
+      "value": "Триває синхронізація"
+    },
+    {
+      "name": "accessibility_conversation_row_unread_count",
+      "value": "%s непрочитаних повідомлень."
+    },
+    {
+      "name": "accessibility_conversation_share_media",
+      "value": "Поділитися медіа"
+    },
+    {
+      "name": "accessibility_conversation_start_video_call",
+      "value": "Розпочати відеовиклик з %s"
+    },
+    {
+      "name": "accessibility_conversation_start_voice_call",
+      "value": "Розпочати голосовий виклик з %s"
+    },
+    {
+      "name": "accessibility_create_account_verify_username_prompt",
+      "value": "Введіть ім'я користувача, щоб перевірити доступність."
+    },
+    {
+      "name": "accessibility_file_transfer_received_on",
+      "value": "Файл: %1$s, отримано %2$s"
+    },
+    {
+      "name": "accessibility_file_transfer_sent_on",
+      "value": "Файл: %1$s, надіслано %2$s"
+    },
+    {
+      "name": "accessibility_file_transfer_no_name",
+      "value": "Файл отримано %s, ім'я недоступне"
+    },
+    {
+      "name": "accessibility_in_reply",
+      "value": "У відповідь на повідомлення"
+    },
+    {
+      "name": "accessibility_message_bubble_deleted",
+      "value": "Повідомлення видалено"
+    },
+    {
+      "name": "accessibility_message_bubble_edited",
+      "value": "Редагування"
+    },
+    {
+      "name": "accessibility_message_bubble_read",
+      "value": "Прочитано"
+    },
+    {
+      "name": "accessibility_message_bubble_unread",
+      "value": "Непрочитано"
+    },
+    {
+      "name": "accessibility_pending_requests_list_accept_invitation",
+      "value": "Прийняти запрошення"
+    },
+    {
+      "name": "accessibility_pending_requests_list_block_user",
+      "value": "Заблокувати відправника запрошення"
+    },
+    {
+      "name": "accessibility_pending_requests_list_reject_invitation",
+      "value": "Відхилити запрошення"
+    },
+    {
+      "name": "accessibility_pending_requests_row_hint",
+      "value": "Двічі торкніться, щоб переглянути отримані запрошення та відповісти на них"
+    },
+    {
+      "name": "accessibility_pending_requests_row_plural",
+      "value": "Отримані запрошення: %s запрошень в очікуванні"
+    },
+    {
+      "name": "accessibility_pending_requests_row_singular",
+      "value": "Отримане запрошення: %s запрошення в очікуванні"
+    },
+    {
+      "name": "accessibility_profile_picture_picker",
+      "value": "Фото профілю"
+    },
+    {
+      "name": "accessibility_profile_picture_picker_hint",
+      "value": "Двічі торкніться, щоб зробити знімок або вибрати зображення з бібліотеки"
+    },
+    {
+      "name": "accessibility_smart_list_add_account",
+      "value": "Додати обліковий запис"
+    },
+    {
+      "name": "accessibility_smart_list_connected_as",
+      "value": "Поточний обліковий запис: %s"
+    },
+    {
+      "name": "accessibility_smart_list_switch_accounts",
+      "value": "Перемкнути обліковий запис"
+    },
+    {
+      "name": "accessibility_swarm_picture_picker",
+      "value": "Зображення групи"
+    },
+    {
+      "name": "accessibility_text_received_on",
+      "value": "%1$s, повідомлення отримано %2$s"
+    },
+    {
+      "name": "accessibility_text_sent_on",
+      "value": "%1$s, повідомлення надіслано %2$s"
+    },
+    {
+      "name": "accessibility_text_not_available",
+      "value": "На %s отримано порожнє текстове повідомлення. Можливо, його було надіслано неправильно."
+    },
+    {
+      "name": "accessibility_user_presence_available",
+      "value": "Доступні"
+    },
+    {
+      "name": "accessibility_user_presence_online",
+      "value": "У мережі"
+    },
+    {
+      "name": "accessibility_welcome_to_jami_title",
+      "value": "Вітаємо в Jami"
+    },
+    {
+      "name": "account_account_status",
+      "value": "Стан облікового запису"
+    },
+    {
+      "name": "account_advanced_features",
+      "value": "Розширені функції"
+    },
+    {
+      "name": "account_configure",
+      "value": "Налаштувати"
+    },
+    {
+      "name": "account_create_sip_account",
+      "value": "Налаштувати обліковий запис SIP"
+    },
+    {
+      "name": "account_enable_account",
+      "value": "Дозволити обліковий запис"
+    },
+    {
+      "name": "account_me",
+      "value": "Я"
+    },
+    {
+      "name": "account_need_migration",
+      "value": "Обліковий запис потребує міграції."
+    },
+    {
+      "name": "account_port",
+      "value": "Порт"
+    },
+    {
+      "name": "account_port_label",
+      "value": "Введіть номер порта"
+    },
+    {
+      "name": "account_proxy_server",
+      "value": "Проксі"
+    },
+    {
+      "name": "account_server_label",
+      "value": "Введіть адресу"
+    },
+    {
+      "name": "account_sip_account",
+      "value": "Аккаунт SIP"
+    },
+    {
+      "name": "account_sip_server",
+      "value": "Сервер"
+    },
+    {
+      "name": "account_status_connecting",
+      "value": "З'єднання"
+    },
+    {
+      "name": "account_status_connectionerror",
+      "value": "Помилка з'єднання"
+    },
+    {
+      "name": "account_status_offline",
+      "value": "Поза мережею"
+    },
+    {
+      "name": "account_status_online",
+      "value": "У мережі"
+    },
+    {
+      "name": "account_status_unknown",
+      "value": "Невідомий"
+    },
+    {
+      "name": "account_page_account_header",
+      "value": "Акаунт"
+    },
+    {
+      "name": "account_page_account_identity",
+      "value": "Ідентичність облікового запису"
+    },
+    {
+      "name": "account_page_account_settings_explanation",
+      "value": "Ці налаштування застосовуватимуться лише до цього облікового запису."
+    },
+    {
+      "name": "account_page_allow_ip_auto_rewrite",
+      "value": "Дозволити автоматичне перезаписування IP"
+    },
+    {
+      "name": "account_page_app_settings",
+      "value": "Налаштування застосунку"
+    },
+    {
+      "name": "account_page_app_settings_explanation",
+      "value": "Ці налаштування застосовуватимуться до всього застосунку."
+    },
+    {
+      "name": "account_page_auto_registration",
+      "value": "Автореєстр після закінчення терміну дії"
+    },
+    {
+      "name": "account_page_blocked_contacts",
+      "value": "Заблоковані контакти"
+    },
+    {
+      "name": "account_page_booth_mode_alert_message",
+      "value": "Після ввімкнення режиму кабіни всі розмови буде вилучено."
+    },
+    {
+      "name": "account_page_booth_mode_explanation",
+      "value": "У режимі кабіни історія розмов не збереглася і функціонал Jami обмежений виходячими дзвінками."
+    },
+    {
+      "name": "account_page_bootstrap",
+      "value": "Початкове завантаження"
+    },
+    {
+      "name": "account_page_calls_from_unknown_contacts",
+      "value": "Дозволити виклики від невідомих контактів."
+    },
+    {
+      "name": "account_page_change_password",
+      "value": "Змінити пароль"
+    },
+    {
+      "name": "account_page_change_password_error",
+      "value": "Неправильний пароль"
+    },
+    {
+      "name": "account_page_chats",
+      "value": "Чати"
+    },
+    {
+      "name": "account_page_connectivity_and_configuration",
+      "value": "Підключення та конфігурації"
+    },
+    {
+      "name": "account_page_connectivity_header",
+      "value": "З'єднання"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_contant",
+      "value": "Зв'яжіться зі мною за допомогою «%s» на розподіленій комунікаційній платформі Jami: https://jami.net"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_title",
+      "value": "Звініться зі мною на Джамі!"
+    },
+    {
+      "name": "account_page_create_password",
+      "value": "Задати пароль"
+    },
+    {
+      "name": "account_page_current_password_placeholder",
+      "value": "Введіть поточний пароль"
+    },
+    {
+      "name": "account_page_current_proxy",
+      "value": "Поточний проксі"
+    },
+    {
+      "name": "account_page_device_revocation_error",
+      "value": "Помилка відкликання пристрою"
+    },
+    {
+      "name": "account_page_device_revocation_progress",
+      "value": "Вилучення…"
+    },
+    {
+      "name": "account_page_device_revocation_success",
+      "value": "Пристрій вилучено"
+    },
+    {
+      "name": "account_page_device_revocation_try_again",
+      "value": "Попробуй ще раз."
+    },
+    {
+      "name": "account_page_device_revocation_unknown_device",
+      "value": "Невідоме пристрої"
+    },
+    {
+      "name": "account_page_device_revocation_wrong_password",
+      "value": "Неправильний пароль"
+    },
+    {
+      "name": "account_page_device_revoked",
+      "value": "Завершено скасування пристрою"
+    },
+    {
+      "name": "account_page_devices_list_header",
+      "value": "Пристрої"
+    },
+    {
+      "name": "account_page_dht_configuration",
+      "value": "Налаштування OpenDHT"
+    },
+    {
+      "name": "account_page_disable_booth_mode",
+      "value": "Виключити режим бути"
+    },
+    {
+      "name": "account_page_disable_booth_mode_explanation",
+      "value": "Введіть пароль облікового запису"
+    },
+    {
+      "name": "account_page_edit_profile",
+      "value": "Редагувати профіль"
+    },
+    {
+      "name": "account_page_edit_sip_expiration_time",
+      "value": "Час закінчення терміну дії"
+    },
+    {
+      "name": "account_page_enable_booth_mode",
+      "value": "Отримати режим бути"
+    },
+    {
+      "name": "account_page_enable_notifications",
+      "value": "Дозволити сповіщення"
+    },
+    {
+      "name": "account_page_enable_srtp",
+      "value": "Обов'язково обміну SDES-ключами"
+    },
+    {
+      "name": "account_page_encrypt_account",
+      "value": "Пароль"
+    },
+    {
+      "name": "account_page_encrypt_negotiation",
+      "value": "Шифрування переговорів (TLS)"
+    },
+    {
+      "name": "account_page_generating_pin",
+      "value": "Генерування PIN-коду…"
+    },
+    {
+      "name": "account_page_invalid_address",
+      "value": "Введіть дійсну адресу"
+    },
+    {
+      "name": "account_page_invalid_port",
+      "value": "Введіть значення від 0 до 65535"
+    },
+    {
+      "name": "account_page_invalid_sip_expiration_time",
+      "value": "Введіть значення від 60 до 604800 секунд"
+    },
+    {
+      "name": "account_page_invite_friends",
+      "value": "Запросити друзів"
+    },
+    {
+      "name": "account_page_link_device_title",
+      "value": "Прив'язати інший пристрій"
+    },
+    {
+      "name": "account_page_linked_devices",
+      "value": "Привʼязані пристрої"
+    },
+    {
+      "name": "account_page_manage_account",
+      "value": "Керувати акаунтом"
+    },
+    {
+      "name": "account_page_name_server",
+      "value": "Сервер імен"
+    },
+    {
+      "name": "account_page_new_password_confirm_placeholder",
+      "value": "Підтвердити новий пароль"
+    },
+    {
+      "name": "account_page_new_password_placeholder",
+      "value": "Введіть новий пароль"
+    },
+    {
+      "name": "account_page_no_booth_mode",
+      "value": "Щоб увімкнути режим кабіни, спершу захистіть обліковий запис паролем."
+    },
+    {
+      "name": "account_page_no_proxy_explanation_label",
+      "value": "Неможливо отримувати сповіщення, коли проксі вимкнено."
+    },
+    {
+      "name": "account_page_notification_error",
+      "value": "Сповіщення для Jami вимкнено. Увімкніть їх у налаштуваннях пристрою, щоб скористатися цією функцією."
+    },
+    {
+      "name": "account_page_notification_title",
+      "value": "За повідомленнями"
+    },
+    {
+      "name": "account_page_notifications_header",
+      "value": "За повідомленнями"
+    },
+    {
+      "name": "account_page_other",
+      "value": "Інше"
+    },
+    {
+      "name": "account_page_other_devices",
+      "value": "Інші привʼязані пристрої"
+    },
+    {
+      "name": "account_page_password_created",
+      "value": "Пароль встановлено"
+    },
+    {
+      "name": "account_page_password_explanation",
+      "value": "Ваш обліковий запис Jami зареєстровано лише на цьому пристрої як архів, що містить ключі вашого облікового запису. Доступ до цього архіву можна захистити паролем."
+    },
+    {
+      "name": "account_page_password_for_pin",
+      "value": "Обліковий запис захищено паролем. Введіть пароль, щоб згенерувати PIN-код."
+    },
+    {
+      "name": "account_page_password_placeholder",
+      "value": "Введіть пароль рахунку"
+    },
+    {
+      "name": "account_page_password_updated",
+      "value": "Пароль оновлено"
+    },
+    {
+      "name": "account_page_passwords_do_not_match",
+      "value": "Паролі не збігаються."
+    },
+    {
+      "name": "account_page_peer_discovery",
+      "value": "Отримати локальне відкриття однолітків"
+    },
+    {
+      "name": "account_page_peer_discovery_explanation",
+      "value": "З'єднатися з іншими вузлами DHT, які рекламують на нашій локальній мережі"
+    },
+    {
+      "name": "account_page_pin_error",
+      "value": "Під час генерування PIN-коду сталася помилка."
+    },
+    {
+      "name": "account_page_pin_explanation_message",
+      "value": "Встановіть і запустіть Jami. Виберіть «Імпортувати з іншого пристрою» та відскануйте QR-код. Або введіть PIN-код вручну."
+    },
+    {
+      "name": "account_page_pin_explanation_title",
+      "value": "На іншому пристрої"
+    },
+    {
+      "name": "account_page_profile_header",
+      "value": "Профіль"
+    },
+    {
+      "name": "account_page_profile_name",
+      "value": "Ім'я профілю"
+    },
+    {
+      "name": "account_page_profile_name_not_selected",
+      "value": "Ім'я не вибрано"
+    },
+    {
+      "name": "account_page_profile_name_placeholder",
+      "value": "Введіть ім'я профілю"
+    },
+    {
+      "name": "account_page_proxy_address_alert",
+      "value": "Додайте прокси-адрес"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_body",
+      "value": "Щоб отримати повідомлення, будь ласка, включте прокси"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_title",
+      "value": "Прокси-сервер відключений"
+    },
+    {
+      "name": "account_page_proxy_explanation",
+      "value": "Сповіщення спрямовуються через проксі. Ви можете використовувати типовий проксі, ввести власну адресу проксі або вказати URL зі списком проксі."
+    },
+    {
+      "name": "account_page_proxy_header",
+      "value": "Проксі"
+    },
+    {
+      "name": "account_page_proxy_list_url",
+      "value": "URL-адреса списку проксі"
+    },
+    {
+      "name": "account_page_proxy_paceholder",
+      "value": "Адреса проксі"
+    },
+    {
+      "name": "account_page_public_address_header",
+      "value": "Публічна адреса"
+    },
+    {
+      "name": "account_page_published_address",
+      "value": "Адреса"
+    },
+    {
+      "name": "account_page_published_port",
+      "value": "Порт"
+    },
+    {
+      "name": "account_page_published_same_as_local",
+      "value": "Опубліковано такий же як і локальний"
+    },
+    {
+      "name": "account_page_register_name_error_message",
+      "value": "Ім'я користувача недоступне."
+    },
+    {
+      "name": "account_page_register_name_explanation",
+      "value": "Зареєструйте ім'я користувача, щоб іншим було легше знайти вас і зв'язатися з вами в Jami."
+    },
+    {
+      "name": "account_page_remove_account_message",
+      "value": "Якщо обліковий запис не було збережено в резервній копії або додано до іншого пристрою, обліковий запис і зареєстроване ім’я користувача буде НЕЗВОРОТНО ВТРАЧЕНО."
+    },
+    {
+      "name": "account_page_remove_device_title",
+      "value": "Видалити пристрій"
+    },
+    {
+      "name": "account_page_revoke_device_button",
+      "value": "Відкликати"
+    },
+    {
+      "name": "account_page_revoke_device_message",
+      "value": "Бажаєте вилучити цей пристрій? Цю дію не можна скасувати."
+    },
+    {
+      "name": "account_page_revoke_device_placeholder",
+      "value": "Введіть пароль рахунку"
+    },
+    {
+      "name": "account_page_security",
+      "value": "Безпека"
+    },
+    {
+      "name": "account_page_select_sip_expiration_time",
+      "value": "Встановіть час (у секундах) для закінчення терміну дії реєстрації"
+    },
+    {
+      "name": "account_page_settings_header",
+      "value": "Налаштування"
+    },
+    {
+      "name": "account_page_sip_expiration_time",
+      "value": "Час закінчення реєстрації (секунди)"
+    },
+    {
+      "name": "account_page_stun_enabled",
+      "value": "Використовувати STUN"
+    },
+    {
+      "name": "account_page_stun_server",
+      "value": "Адреса STUN"
+    },
+    {
+      "name": "account_page_this_device",
+      "value": "Цей пристрій"
+    },
+    {
+      "name": "account_page_tls_disable_secure_dlg_check",
+      "value": "Відключити безпечний перевірка діалогу для вхідних даних TLS"
+    },
+    {
+      "name": "account_page_tls_require_tls_certificate",
+      "value": "Вимагати сертифікат безпеки для вхідних TLS з’єднань"
+    },
+    {
+      "name": "account_page_tls_verify_client_certificates",
+      "value": "Перевіряти клієнтські сертифікати TLS"
+    },
+    {
+      "name": "account_page_tls_verify_server_certificates",
+      "value": "Перевірка сервісних TLS сертифікат "
+    },
+    {
+      "name": "account_page_turn_enabled",
+      "value": "Включити TURN"
+    },
+    {
+      "name": "account_page_turn_password",
+      "value": "Обрати пароль"
+    },
+    {
+      "name": "account_page_turn_realm",
+      "value": "Простір TURN"
+    },
+    {
+      "name": "account_page_turn_server",
+      "value": "Адреса TURN"
+    },
+    {
+      "name": "account_page_turn_username",
+      "value": "Обрати ім'я"
+    },
+    {
+      "name": "account_page_typing_indicator",
+      "value": "Індикатор типування"
+    },
+    {
+      "name": "account_page_typing_indicator_explanation",
+      "value": "Показувати, коли набираються повідомлення."
+    },
+    {
+      "name": "account_page_unblock_contact",
+      "value": "Розблокувати"
+    },
+    {
+      "name": "account_page_unlink",
+      "value": "Від'єднати"
+    },
+    {
+      "name": "account_page_upnp_enabled",
+      "value": "Використовувати UPnP"
+    },
+    {
+      "name": "account_page_use_proxy_list",
+      "value": "Використовувати список проксі"
+    },
+    {
+      "name": "account_page_username_placeholder",
+      "value": "Введіть бажане ім'я користувача"
+    },
+    {
+      "name": "account_page_username_register_action",
+      "value": "Зареєструватися"
+    },
+    {
+      "name": "account_page_username_registering",
+      "value": "Реєстрація"
+    },
+    {
+      "name": "account_page_username_registration_failed",
+      "value": "Перевірте пароль облікового запису."
+    },
+    {
+      "name": "account_page_username_registration_failed_title",
+      "value": "Не вдалося зареєструвати"
+    },
+    {
+      "name": "actions_back_action",
+      "value": "Назад"
+    },
+    {
+      "name": "actions_delete_action",
+      "value": "Видалити"
+    },
+    {
+      "name": "actions_done_action",
+      "value": "Готово"
+    },
+    {
+      "name": "actions_go_to_settings",
+      "value": "Перейти до Настройки"
+    },
+    {
+      "name": "actions_stop_location_sharing",
+      "value": "Зупинити поширення"
+    },
+    {
+      "name": "alerts_account_added_title",
+      "value": "Обліковий запис додано"
+    },
+    {
+      "name": "alerts_account_cannot_be_found_message",
+      "value": "Не вдається знайти обліковий запис у мережі Jami. Переконайтеся, що він був експортований з Jami з існуючого пристрою, і що надані облікові дані правильні."
+    },
+    {
+      "name": "alerts_account_cannot_be_found_title",
+      "value": "Account error"
+    },
+    {
+      "name": "alerts_account_default_error_message",
+      "value": "Сталася помилка під час створення облікового запису."
+    },
+    {
+      "name": "alerts_account_default_error_title",
+      "value": "Account error"
+    },
+    {
+      "name": "alerts_account_linked_title",
+      "value": "Спільний рахунок"
+    },
+    {
+      "name": "alerts_account_no_network_message",
+      "value": "Під час додавання облікового запису Jami до розподіленої мережі сталася помилка підключення. Спробуйте ще раз. Якщо проблема не зникає, зверніться до системного адміністратора."
+    },
+    {
+      "name": "alerts_account_no_network_title",
+      "value": "Збій мережі"
+    },
+    {
+      "name": "alerts_alreadylocation_sharing",
+      "value": "Уже поділяється місцезнаходженням з цим користувачем"
+    },
+    {
+      "name": "alerts_confim_remove_contact",
+      "value": "Бажаєте вилучити цей контакт? Наявну історію буде видалено."
+    },
+    {
+      "name": "alerts_confirm_block_contact",
+      "value": "Бажаєте заблокувати цей контакт? Історію розмов із цим контактом також буде остаточно видалено."
+    },
+    {
+      "name": "alerts_confirm_delete_conversation",
+      "value": "Бажаєте остаточно вилучити цю розмову?"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_from_contact",
+      "value": "Бажаєте видалити розмову з цим контактом?"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_title",
+      "value": "Видалити розмову"
+    },
+    {
+      "name": "alerts_confirm_leave_conversation",
+      "value": "Бажаєте покинути цю розмову?"
+    },
+    {
+      "name": "alerts_confirm_remove_one_to_one_conversation",
+      "value": "Бажаєте вилучити цю розмову? Наявну історію буде видалено. Якщо у вас немає інших розмов із цим контактом, може розпочатися нова розмова."
+    },
+    {
+      "name": "alerts_db_failed_message",
+      "value": "Будь ласка, закрийте заявку і спробуйте відкрити її знову"
+    },
+    {
+      "name": "alerts_db_failed_title",
+      "value": "Сталася помилка при запуску Jami"
+    },
+    {
+      "name": "alerts_error_wrong_credentials",
+      "value": "Під час підключення до сервера керування сталася помилка. Спробуйте ще раз. Якщо проблема не зникає, зверніться до системного адміністратора."
+    },
+    {
+      "name": "alerts_location_service_is_disabled",
+      "value": "Увімкніть «Служби геолокації», щоб дозволити «Jami» визначати місцезнаходження пристрою."
+    },
+    {
+      "name": "alerts_location_sharing",
+      "value": "Розділіть моє місцезнаходження"
+    },
+    {
+      "name": "alerts_location_sharing_duration10min",
+      "value": "10 хвилин"
+    },
+    {
+      "name": "alerts_location_sharing_duration1hour",
+      "value": "1 годину"
+    },
+    {
+      "name": "alerts_location_sharing_duration_title",
+      "value": "Як довго ділиться місцезнаходження?"
+    },
+    {
+      "name": "alerts_map_information",
+      "value": "Інформація з карти"
+    },
+    {
+      "name": "alerts_no_library_permissions_title",
+      "value": "Доступ до фотобіблиотеки не наданий"
+    },
+    {
+      "name": "alerts_no_location_permissions_title",
+      "value": "Доступ до місця не наданий"
+    },
+    {
+      "name": "alerts_no_media_permissions_title",
+      "value": "Звіленої інформації не надано дозволу"
+    },
+    {
+      "name": "alerts_open_street_map_copyright",
+      "value": "© Докладчики OpenStreetMap"
+    },
+    {
+      "name": "alerts_open_street_map_copyright_more_info",
+      "value": "Дізнатися більше"
+    },
+    {
+      "name": "alerts_profile_take_photo",
+      "value": "Зняти фото"
+    },
+    {
+      "name": "alerts_profile_upload_photo",
+      "value": "Завантажити фото"
+    },
+    {
+      "name": "alerts_record_audio_message",
+      "value": "Записати голосове повідомлення"
+    },
+    {
+      "name": "alerts_record_video_message",
+      "value": "Записати відеоповідомлення"
+    },
+    {
+      "name": "alerts_send_photo",
+      "value": "Надіслати фото"
+    },
+    {
+      "name": "alerts_upload_file",
+      "value": "Відправити файл"
+    },
+    {
+      "name": "alerts_upload_photo",
+      "value": "Відкрити галерею"
+    },
+    {
+      "name": "backup_account_archive_name",
+      "value": "Виберіть назву для архіву."
+    },
+    {
+      "name": "backup_account_archive_name_placeholder",
+      "value": "Назва архіву"
+    },
+    {
+      "name": "backup_account_backup_button",
+      "value": "Резервна копія"
+    },
+    {
+      "name": "backup_account_creating",
+      "value": "Створення резервної копії"
+    },
+    {
+      "name": "backup_account_document_picker_button",
+      "value": "Відкрити розташування резервної копії"
+    },
+    {
+      "name": "backup_account_error_access_denied",
+      "value": "Доступ до вибраного розташування відхилено."
+    },
+    {
+      "name": "backup_account_error_failed",
+      "value": "Під час експорту облікового запису сталася помилка."
+    },
+    {
+      "name": "backup_account_error_wrong_location",
+      "value": "Вибраний шлях до файлу недійсний. Виберіть інше розташування."
+    },
+    {
+      "name": "backup_account_explanation",
+      "value": "Цей обліковий запис Jami існує лише на цьому пристрої. Обліковий запис буде втрачено, якщо цей пристрій буде втрачено або застосунок буде видалено. Рекомендується створити резервну копію цього облікового запису."
+    },
+    {
+      "name": "backup_account_export_success",
+      "value": "Резервну копію створено"
+    },
+    {
+      "name": "backup_account_password_request",
+      "value": "Введіть пароль облікового запису."
+    },
+    {
+      "name": "backup_account_title",
+      "value": "Резервна копія облікового запису"
+    },
+    {
+      "name": "block_list_page_no_blocked_contacts",
+      "value": "Заблоковані користувачі відсутні"
+    },
+    {
+      "name": "calls_accept_with_audio",
+      "value": "Прийняти зі звуком"
+    },
+    {
+      "name": "calls_accept_with_video",
+      "value": "Прийняти з відео"
+    },
+    {
+      "name": "calls_active_call_in_conversation",
+      "value": "Зовсім не так."
+    },
+    {
+      "name": "calls_active_call_label",
+      "value": "Триває виклик. Бажаєте приєднатися до виклику? Ви також можете приєднатися до виклику пізніше з розмови."
+    },
+    {
+      "name": "calls_call_finished",
+      "value": "Зов'язок завершений"
+    },
+    {
+      "name": "calls_calling",
+      "value": "Calling…"
+    },
+    {
+      "name": "calls_calling_participants",
+      "value": "Calling (%s)"
+    },
+    {
+      "name": "calls_connecting",
+      "value": "З'єднавши..."
+    },
+    {
+      "name": "calls_current_call_with",
+      "value": "Звони з "
+    },
+    {
+      "name": "calls_grid_layout",
+      "value": "Grid view"
+    },
+    {
+      "name": "calls_in_this_call",
+      "value": "In this call (%s)"
+    },
+    {
+      "name": "calls_inviting",
+      "value": "Inviting…"
+    },
+    {
+      "name": "calls_lower_hand",
+      "value": "Нижня рука"
+    },
+    {
+      "name": "calls_maximize",
+      "value": "Збільшити"
+    },
+    {
+      "name": "calls_minimize",
+      "value": "Зменьшити"
+    },
+    {
+      "name": "calls_mute_audio",
+      "value": "Відключити мікрофон"
+    },
+    {
+      "name": "calls_participant_options",
+      "value": "Options for %s"
+    },
+    {
+      "name": "calls_participants_in_call",
+      "value": "%s in call"
+    },
+    {
+      "name": "calls_peer_recording",
+      "value": "Записування"
+    },
+    {
+      "name": "calls_raise_hand",
+      "value": "Підняти руку"
+    },
+    {
+      "name": "calls_remove_moderator",
+      "value": "Не встановлюється модератор"
+    },
+    {
+      "name": "calls_ringing",
+      "value": "Звон..."
+    },
+    {
+      "name": "calls_set_moderator",
+      "value": "Наведіть модератор"
+    },
+    {
+      "name": "calls_start_picture_in_picture",
+      "value": "Start Picture in Picture"
+    },
+    {
+      "name": "calls_stop_calling",
+      "value": "Stop calling %s"
+    },
+    {
+      "name": "calls_unmute_audio",
+      "value": "Увімкнути звук мікрофона"
+    },
+    {
+      "name": "collab_align_center",
+      "value": "Центр"
+    },
+    {
+      "name": "collab_align_justify",
+      "value": "Justify"
+    },
+    {
+      "name": "collab_align_left",
+      "value": "Align left"
+    },
+    {
+      "name": "collab_align_right",
+      "value": "Align right"
+    },
+    {
+      "name": "collab_bold",
+      "value": "Жирний"
+    },
+    {
+      "name": "collab_bullet_list",
+      "value": "Bulleted list"
+    },
+    {
+      "name": "collab_clear_format",
+      "value": "Clear formatting"
+    },
+    {
+      "name": "collab_create",
+      "value": "Створити"
+    },
+    {
+      "name": "collab_create_error",
+      "value": "This document could not be created."
+    },
+    {
+      "name": "collab_created_by",
+      "value": "Created by %s"
+    },
+    {
+      "name": "collab_created_by_not_downloaded",
+      "value": "Created by %s, not downloaded"
+    },
+    {
+      "name": "collab_document_name_hint",
+      "value": "Document name"
+    },
+    {
+      "name": "collab_document_removed",
+      "value": "Document removed"
+    },
+    {
+      "name": "collab_document_removed_locally",
+      "value": "Document removed from this device"
+    },
+    {
+      "name": "collab_document_removed_locally_message",
+      "value": "\"%s\" is no longer on this device. Opening it again downloads it back."
+    },
+    {
+      "name": "collab_document_removed_message",
+      "value": "\"%s\" was removed by its author."
+    },
+    {
+      "name": "collab_documents",
+      "value": "Документи"
+    },
+    {
+      "name": "collab_download_and_open",
+      "value": "Download and open"
+    },
+    {
+      "name": "collab_editable_document",
+      "value": "Editable document"
+    },
+    {
+      "name": "collab_editing_alone",
+      "value": "Only you are editing"
+    },
+    {
+      "name": "collab_editing_one_other",
+      "value": "1 other person is editing"
+    },
+    {
+      "name": "collab_editing_others",
+      "value": "%d other people are editing"
+    },
+    {
+      "name": "collab_export",
+      "value": "Export a local copy"
+    },
+    {
+      "name": "collab_export_anyway",
+      "value": "Export anyway"
+    },
+    {
+      "name": "collab_export_error",
+      "value": "This document could not be exported."
+    },
+    {
+      "name": "collab_export_html",
+      "value": "Export to HTML"
+    },
+    {
+      "name": "collab_export_markdown",
+      "value": "Export to Markdown"
+    },
+    {
+      "name": "collab_export_missing_images",
+      "value": "%d picture(s) in this document have not arrived yet, and will be left out of the exported file."
+    },
+    {
+      "name": "collab_export_pdf",
+      "value": "Export to PDF"
+    },
+    {
+      "name": "collab_export_text",
+      "value": "Export to plain text"
+    },
+    {
+      "name": "collab_heading",
+      "value": "Heading %d"
+    },
+    {
+      "name": "collab_history",
+      "value": "Version history"
+    },
+    {
+      "name": "collab_image_error",
+      "value": "This image could not be added."
+    },
+    {
+      "name": "collab_image_too_large",
+      "value": "This image is too large to be added to a document."
+    },
+    {
+      "name": "collab_insert_image",
+      "value": "Insert image"
+    },
+    {
+      "name": "collab_italic",
+      "value": "Курсив"
+    },
+    {
+      "name": "collab_link_add",
+      "value": "Додати"
+    },
+    {
+      "name": "collab_link_hint",
+      "value": "Адреса"
+    },
+    {
+      "name": "collab_link_remove",
+      "value": "Видалити"
+    },
+    {
+      "name": "collab_link_title",
+      "value": "Зв'язати"
+    },
+    {
+      "name": "collab_menu",
+      "value": "Document actions"
+    },
+    {
+      "name": "collab_new_document",
+      "value": "New document"
+    },
+    {
+      "name": "collab_no_documents",
+      "value": "No document has been written in this conversation yet."
+    },
+    {
+      "name": "collab_no_history",
+      "value": "This document has no saved version yet."
+    },
+    {
+      "name": "collab_not_downloaded",
+      "value": "Not downloaded"
+    },
+    {
+      "name": "collab_open",
+      "value": "Відкрити"
+    },
+    {
+      "name": "collab_open_error",
+      "value": "This document could not be opened."
+    },
+    {
+      "name": "collab_ordered_list",
+      "value": "Numbered list"
+    },
+    {
+      "name": "collab_redo",
+      "value": "Відмінити"
+    },
+    {
+      "name": "collab_remove",
+      "value": "Видалити"
+    },
+    {
+      "name": "collab_remove_error",
+      "value": "This document could not be removed."
+    },
+    {
+      "name": "collab_remove_everywhere_action",
+      "value": "Видалити"
+    },
+    {
+      "name": "collab_remove_everywhere_menu",
+      "value": "Remove for everyone"
+    },
+    {
+      "name": "collab_remove_locally_action",
+      "value": "Offload"
+    },
+    {
+      "name": "collab_remove_locally_error",
+      "value": "This document could not be removed from this device."
+    },
+    {
+      "name": "collab_remove_locally_menu",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_locally_message",
+      "value": "\"%s\" will be removed from this device only. The other members keep it, and opening it again downloads it back."
+    },
+    {
+      "name": "collab_remove_locally_title",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_message",
+      "value": "\"%s\" will be removed for every member of this conversation. This cannot be undone."
+    },
+    {
+      "name": "collab_remove_title",
+      "value": "Remove document"
+    },
+    {
+      "name": "collab_rename",
+      "value": "Rename"
+    },
+    {
+      "name": "collab_send_error",
+      "value": "Your changes could not be sent."
+    },
+    {
+      "name": "collab_strikethrough",
+      "value": "Закреслений"
+    },
+    {
+      "name": "collab_underline",
+      "value": "Underline"
+    },
+    {
+      "name": "collab_undo",
+      "value": "Відмінити"
+    },
+    {
+      "name": "collab_untitled",
+      "value": "Untitled document"
+    },
+    {
+      "name": "collab_version_by",
+      "value": "%1$s — %2$s"
+    },
+    {
+      "name": "collab_version_deltas",
+      "value": "%1$s — %2$s, %3$d change(s)"
+    },
+    {
+      "name": "collab_version_leave",
+      "value": "Back to the current version"
+    },
+    {
+      "name": "collab_version_restore",
+      "value": "Restore"
+    },
+    {
+      "name": "collab_version_restore_error",
+      "value": "This version could not be restored."
+    },
+    {
+      "name": "collab_version_restored",
+      "value": "The document was restored to this version."
+    },
+    {
+      "name": "collab_version_shown",
+      "value": "Version of %s"
+    },
+    {
+      "name": "collab_version_unchanged",
+      "value": "This version is the document you already have."
+    },
+    {
+      "name": "contact_page_leave_conversation",
+      "value": "Не переконвайтеся"
+    },
+    {
+      "name": "contact_page_send",
+      "value": "Відправити"
+    },
+    {
+      "name": "contact_page_start_audio_call",
+      "value": "Розпочати аудіодзвінок"
+    },
+    {
+      "name": "contact_page_start_video_call",
+      "value": "Розпочати відеодзвінок"
+    },
+    {
+      "name": "contact_picker_calls",
+      "value": "Дзвінки"
+    },
+    {
+      "name": "contact_picker_contacts",
+      "value": "Контакти"
+    },
+    {
+      "name": "conversation_add_to_contacts_button",
+      "value": "Додати до контактів"
+    },
+    {
+      "name": "conversation_add_to_contacts_label",
+      "value": "Додати до контактів?"
+    },
+    {
+      "name": "conversation_contact_blocked",
+      "value": "Контакт заблоковано"
+    },
+    {
+      "name": "conversation_deleted_message",
+      "value": "%s видалив(-ла) повідомлення"
+    },
+    {
+      "name": "conversation_edited",
+      "value": "Редагування"
+    },
+    {
+      "name": "conversation_error_saving_image",
+      "value": "Не вдалося зберегти зображення"
+    },
+    {
+      "name": "conversation_error_saving_image_message",
+      "value": "Під час збереження зображення до фотоальбому сталася помилка."
+    },
+    {
+      "name": "conversation_image_saved",
+      "value": "Збережено"
+    },
+    {
+      "name": "conversation_in_reply_to",
+      "value": "Відповідно до"
+    },
+    {
+      "name": "conversation_incoming_request",
+      "value": "надіслав вам запрошення до розмови."
+    },
+    {
+      "name": "conversation_last_message_deleted",
+      "value": "(видалене повідомлення)"
+    },
+    {
+      "name": "conversation_message_placeholder",
+      "value": "Написати"
+    },
+    {
+      "name": "conversation_not_contact_label",
+      "value": "%s немає у списку контактів"
+    },
+    {
+      "name": "conversation_photo_access_required_message",
+      "value": "Jami потрібен доступ до вашого фотоальбому для збереження зображень. Ви можете увімкнути це в Налаштуваннях."
+    },
+    {
+      "name": "conversation_received_request",
+      "value": "%s надіслав вам запрошення до розмови."
+    },
+    {
+      "name": "conversation_replied_to",
+      "value": "%s відповів %s"
+    },
+    {
+      "name": "conversation_request_message",
+      "value": "Привіт,\nбажаєте приєднатися до розмови?"
+    },
+    {
+      "name": "conversation_send_invitation_button",
+      "value": "Надіслати запрошення"
+    },
+    {
+      "name": "conversation_send_request",
+      "value": "Надішліть їм запрошення, щоб мати змогу спілкуватися."
+    },
+    {
+      "name": "conversation_send_request_title",
+      "value": "Надіслати запрошення до розмови"
+    },
+    {
+      "name": "conversation_synchronization_message",
+      "value": "Очікування підключення %s для синхронізації розмови…"
+    },
+    {
+      "name": "conversation_synchronization_title",
+      "value": "Ви прийняли запрошення до розмови."
+    },
+    {
+      "name": "conversation_syncing_title",
+      "value": "Синхронізація розмови"
+    },
+    {
+      "name": "conversation_typing_indicator_one_user",
+      "value": "%s пише"
+    },
+    {
+      "name": "conversation_typing_indicator_other_users",
+      "value": "%1$s, %2$s та ще %3$s пишуть"
+    },
+    {
+      "name": "conversation_typing_indicator_others_users",
+      "value": "%1$s, %2$s та ще %3$s пишуть"
+    },
+    {
+      "name": "conversation_typing_indicator_two_users",
+      "value": "%1$s і %2$s пишуть"
+    },
+    {
+      "name": "conversation_yourself",
+      "value": "Ви"
+    },
+    {
+      "name": "create_account_username_not_registered_message",
+      "value": "Уведено обліковий запис, але ім'я користувача не зареєстровано"
+    },
+    {
+      "name": "create_account_username_not_registered_title",
+      "value": "Збій мережі"
+    },
+    {
+      "name": "create_account_create_account_form_title",
+      "value": "Приєднуйся до Jami"
+    },
+    {
+      "name": "create_account_creating_account",
+      "value": "Створення облікового запису"
+    },
+    {
+      "name": "create_account_customize",
+      "value": "Натомість"
+    },
+    {
+      "name": "create_account_encrypt",
+      "value": "Захистити паролем"
+    },
+    {
+      "name": "create_account_encrypt_explanation",
+      "value": "Обліковий запис Jami створюється та зберігається локально лише на цьому пристрої як архів, що містить ключі облікового запису. Доступ до архіву можна додатково захистити паролем."
+    },
+    {
+      "name": "create_account_encrypt_title",
+      "value": "Захистити обліковий запис паролем"
+    },
+    {
+      "name": "create_account_encryption_enabled",
+      "value": "Захист паролем увімкнено"
+    },
+    {
+      "name": "create_account_invalid_username",
+      "value": "Недійсне ім'я користувача. Введіть правильне ім'я користувача."
+    },
+    {
+      "name": "create_account_looking_for_username_availability",
+      "value": "Перевірка доступності імені користувача..."
+    },
+    {
+      "name": "create_account_name_explanation",
+      "value": "Ви можете вибрати ім'я користувача, щоб іншим було легше знайти вас і зв'язатися з вами в Jami."
+    },
+    {
+      "name": "create_account_new_account",
+      "value": "Новий аккаунт"
+    },
+    {
+      "name": "create_account_sip_configure",
+      "value": "Налаштувати існуючий SIP-обліковий запис"
+    },
+    {
+      "name": "create_account_timeout_message",
+      "value": "Реєстрація імені користувача триває. Будь ласка, зачекайте..."
+    },
+    {
+      "name": "create_account_timeout_title",
+      "value": "Обліковий запис створено"
+    },
+    {
+      "name": "create_account_username_already_taken",
+      "value": "Ім'я користувача вже зайнято"
+    },
+    {
+      "name": "create_account_username_valid",
+      "value": "Ім'я користувача доступне."
+    },
+    {
+      "name": "create_profile_create_profile_picture",
+      "value": "Створити зображення профілю"
+    },
+    {
+      "name": "create_profile_enter_name_label",
+      "value": "Введіть ім'я дисплею"
+    },
+    {
+      "name": "create_profile_enter_name_placeholder",
+      "value": "Введіть ім'я"
+    },
+    {
+      "name": "create_profile_profile_created",
+      "value": "Далі"
+    },
+    {
+      "name": "create_profile_skip_create_profile",
+      "value": "Пропустити"
+    },
+    {
+      "name": "create_profile_subtitle",
+      "value": "Ваш профіль доступний лише вашим контактам. Профіль можна змінити будь-коли."
+    },
+    {
+      "name": "create_profile_title",
+      "value": "Персоналізуйте свій профіль"
+    },
+    {
+      "name": "data_transfer_info_message",
+      "value": "Торкніться, щоб розпочати запис"
+    },
+    {
+      "name": "data_transfer_readable_status_accept",
+      "value": "Прийняти"
+    },
+    {
+      "name": "data_transfer_readable_status_awaiting",
+      "value": "Очікую..."
+    },
+    {
+      "name": "data_transfer_readable_status_canceled",
+      "value": "Скасовано"
+    },
+    {
+      "name": "data_transfer_readable_status_created",
+      "value": "Ініціалізація..."
+    },
+    {
+      "name": "data_transfer_readable_status_decline",
+      "value": "Відхилити"
+    },
+    {
+      "name": "data_transfer_readable_status_error",
+      "value": "Помилка"
+    },
+    {
+      "name": "data_transfer_readable_status_ongoing",
+      "value": "Передача"
+    },
+    {
+      "name": "data_transfer_readable_status_success",
+      "value": "Повністю"
+    },
+    {
+      "name": "data_transfer_record_in_background_warning",
+      "value": "Запис відео під час використання кількох застосунків одночасно може призвести до зниження якості відео. Для отримання найкращих результатів, рекомендується записувати відео без використання кількох застосунків одночасно."
+    },
+    {
+      "name": "data_transfer_send_message",
+      "value": "Відправити"
+    },
+    {
+      "name": "data_transfer_sending_failed",
+      "value": "Під час надсилання сталася помилка."
+    },
+    {
+      "name": "general_settings_accept_transfer_limit",
+      "value": "Прийміть ліміт переведення"
+    },
+    {
+      "name": "general_settings_accept_transfer_limit_description",
+      "value": "(МБ, 0 = без обмежень)"
+    },
+    {
+      "name": "general_settings_automatic_accept_incoming_files",
+      "value": "Автоматично приймають вхідні файли"
+    },
+    {
+      "name": "general_settings_donation_campaign",
+      "value": "Кампанія збору пожертв"
+    },
+    {
+      "name": "general_settings_enable_donation_campaign",
+      "value": "Увімкнути кампанію збору пожертв"
+    },
+    {
+      "name": "general_settings_file_transfer",
+      "value": "Передача файлів"
+    },
+    {
+      "name": "general_settings_limit_location_sharing_duration",
+      "value": "Ограничити тривалість обміну місцем розташування"
+    },
+    {
+      "name": "general_settings_location_sharing",
+      "value": "Розділ місцезнаходження"
+    },
+    {
+      "name": "location_sharing_title",
+      "value": "Розділ місцезнаходження"
+    },
+    {
+      "name": "general_settings_location_sharing_duration",
+      "value": "Тривалість позиційних акцій"
+    },
+    {
+      "name": "general_settings_video_acceleration",
+      "value": "Отримати прискорення відео"
+    },
+    {
+      "name": "general_settings_video_settings",
+      "value": "Налаштування відео"
+    },
+    {
+      "name": "generated_message_contact_added",
+      "value": "Отримано запрошення"
+    },
+    {
+      "name": "generated_message_contact_blocked",
+      "value": "%s був(-ла) заблокований(-а) в розмові."
+    },
+    {
+      "name": "generated_message_contact_left_conversation",
+      "value": "%s залишив(-ла) розмову."
+    },
+    {
+      "name": "generated_message_contact_unblocked",
+      "value": "%s був(-ла) розблокований(-а) в розмові."
+    },
+    {
+      "name": "generated_message_invitation_accepted",
+      "value": "%s приєднався(-лась) до розмови."
+    },
+    {
+      "name": "generated_message_invitation_received",
+      "value": "%s був(-ла) запрошений(-а) приєднатися до розмови."
+    },
+    {
+      "name": "generated_message_live_location_sharing",
+      "value": "Поділення місцями на живо"
+    },
+    {
+      "name": "generated_message_missed_incoming_call",
+      "value": "Пропущений вхідний виклик"
+    },
+    {
+      "name": "generated_message_missed_outgoing_call",
+      "value": "Пропущений вихідний виклик"
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_accepted",
+      "value": "Ваше запрошення прийнято."
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_received",
+      "value": "Ви надіслали запрошення."
+    },
+    {
+      "name": "generated_message_outgoing_call",
+      "value": "Вихідний виклик"
+    },
+    {
+      "name": "generated_message_swarm_created",
+      "value": "Розмову створено"
+    },
+    {
+      "name": "generated_message_you_joined",
+      "value": "Ви приєдналися до розмови."
+    },
+    {
+      "name": "global_accept",
+      "value": "Прийняти"
+    },
+    {
+      "name": "global_account_settings",
+      "value": "Налаштування облікового запису"
+    },
+    {
+      "name": "global_block",
+      "value": "Заблокувати"
+    },
+    {
+      "name": "global_block_contact",
+      "value": "Заблокувати контакт"
+    },
+    {
+      "name": "global_call",
+      "value": "Дзвінок"
+    },
+    {
+      "name": "global_camera_disabled",
+      "value": "Доступ до камери вимкнено. Увімкніть його в налаштуваннях пристрою, щоб скористатися цією функцією."
+    },
+    {
+      "name": "global_cancel",
+      "value": "Скасувати"
+    },
+    {
+      "name": "global_close",
+      "value": "Закрити"
+    },
+    {
+      "name": "global_confirm",
+      "value": "Підтвердження"
+    },
+    {
+      "name": "global_confirm_password",
+      "value": "Підтвердити пароль"
+    },
+    {
+      "name": "global_connect",
+      "value": "З'єднати"
+    },
+    {
+      "name": "global_copy",
+      "value": "Копіювати"
+    },
+    {
+      "name": "global_create",
+      "value": "Створити"
+    },
+    {
+      "name": "global_decline",
+      "value": "Відхилити"
+    },
+    {
+      "name": "global_delete_file",
+      "value": "Видалити файл із пристрою"
+    },
+    {
+      "name": "global_delete_message",
+      "value": "Видалити повідомлення"
+    },
+    {
+      "name": "global_edit",
+      "value": "Редагувати"
+    },
+    {
+      "name": "global_edit_message",
+      "value": "Редагувати повідомлення"
+    },
+    {
+      "name": "global_edit_password",
+      "value": "Змінити пароль"
+    },
+    {
+      "name": "global_editing",
+      "value": "Редагування"
+    },
+    {
+      "name": "global_enter_password",
+      "value": "Ввести пароль"
+    },
+    {
+      "name": "global_enter_username",
+      "value": "Ввести ім'я користувача"
+    },
+    {
+      "name": "global_forward",
+      "value": "Наперед"
+    },
+    {
+      "name": "global_incoming_call",
+      "value": "Вхідний виклик"
+    },
+    {
+      "name": "global_leave",
+      "value": "Піти"
+    },
+    {
+      "name": "global_name",
+      "value": "Ім’я"
+    },
+    {
+      "name": "global_ok",
+      "value": "Гаразд"
+    },
+    {
+      "name": "global_password",
+      "value": "Пароль"
+    },
+    {
+      "name": "global_preview",
+      "value": "Попередній перегляд"
+    },
+    {
+      "name": "global_recommended",
+      "value": "Рекомендовано"
+    },
+    {
+      "name": "global_register_a_username",
+      "value": "Зареєструйте ім'я користувача"
+    },
+    {
+      "name": "global_remove",
+      "value": "Видалити"
+    },
+    {
+      "name": "global_remove_account",
+      "value": "Вилучити обліковий запис"
+    },
+    {
+      "name": "global_reply",
+      "value": "Відповісти"
+    },
+    {
+      "name": "global_resend",
+      "value": "Перепродажу"
+    },
+    {
+      "name": "global_save",
+      "value": "Зберігти"
+    },
+    {
+      "name": "global_search",
+      "value": "Пошук…"
+    },
+    {
+      "name": "global_share",
+      "value": "Поділитися"
+    },
+    {
+      "name": "global_support_jami",
+      "value": "Підтримати проєкт Jami"
+    },
+    {
+      "name": "global_time",
+      "value": "Час"
+    },
+    {
+      "name": "global_username",
+      "value": "Ім’я"
+    },
+    {
+      "name": "global_video",
+      "value": "Відео"
+    },
+    {
+      "name": "import_from_archive_button_title",
+      "value": "Імпортувати"
+    },
+    {
+      "name": "import_from_archive_explanation",
+      "value": "Імпортувати обліковий запис Jami з локального архівного файлу."
+    },
+    {
+      "name": "import_from_archive_password_explanation",
+      "value": "Якщо обліковий запис захищено паролем, заповніть наступне поле."
+    },
+    {
+      "name": "import_from_archive_select_archive_button",
+      "value": "Виберіть файл архіва"
+    },
+    {
+      "name": "import_from_archive_title",
+      "value": "Імпортувати з архіву"
+    },
+    {
+      "name": "invitations_accepted",
+      "value": "Прийнято"
+    },
+    {
+      "name": "invitations_blocked",
+      "value": "Заблоковано"
+    },
+    {
+      "name": "invitations_declined",
+      "value": "Відхилено"
+    },
+    {
+      "name": "invitations_list",
+      "value": "Запрошення отримані"
+    },
+    {
+      "name": "invitations_no_invitations",
+      "value": "Ніяких запрошень"
+    },
+    {
+      "name": "link_device_authentication_info",
+      "value": "За такою IP-адресою знайдено новий пристрій. Це ви? Щоб продовжити експорт облікового запису, торкніться Підтвердити."
+    },
+    {
+      "name": "link_device_code",
+      "value": "код"
+    },
+    {
+      "name": "link_device_completed",
+      "value": "Обліковий запис успішно імпортовано на новий пристрій."
+    },
+    {
+      "name": "link_device_connecting",
+      "value": "Підключення до вашого нового пристрою…"
+    },
+    {
+      "name": "link_device_error_code",
+      "value": "Під час генерування коду сталася помилка. Спробуйте ще раз."
+    },
+    {
+      "name": "link_device_error_network",
+      "value": "Сталася мережева помилка під час підключення облікового запису. Перевірте підключення та повторіть спробу."
+    },
+    {
+      "name": "link_device_error_timeout",
+      "value": "Час очікування операції минув. Повторіть спробу."
+    },
+    {
+      "name": "link_device_error_wrong_data",
+      "value": "Сталася помилка під час експорту облікового запису. Повторіть спробу."
+    },
+    {
+      "name": "link_device_error_wrong_password",
+      "value": "Сталася помилка автентифікації під час підключення пристрою. Перевірте облікові дані та повторіть спробу."
+    },
+    {
+      "name": "link_device_export_in_progress",
+      "value": "Триває експорт облікового запису на новий пристрій. Підтвердьте імпорт на новому пристрої."
+    },
+    {
+      "name": "link_device_info_add_account",
+      "value": "Виберіть Додати обліковий запис → Підключити з іншого пристрою."
+    },
+    {
+      "name": "link_device_info_code",
+      "value": "Коли будете готові, введіть код і торкніться Підключити."
+    },
+    {
+      "name": "link_device_info_qr_code",
+      "value": "Коли будете готові, відскануйте QR-код."
+    },
+    {
+      "name": "link_device_initial_info",
+      "value": "На новому пристрої розпочніть новий обліковий запис."
+    },
+    {
+      "name": "link_device_network_error",
+      "value": "Під час експорту облікового запису сталася помилка мережі."
+    },
+    {
+      "name": "link_device_new_device_ip",
+      "value": "IP-адреса нового пристрою:%1$s"
+    },
+    {
+      "name": "link_device_title",
+      "value": "Привʼязати новий пристрій"
+    },
+    {
+      "name": "link_device_wrong_entry",
+      "value": "Нерозпізнаний ідентифікатор нового пристрою. Дотримуйтесь інструкцій вище."
+    },
+    {
+      "name": "link_to_account_account_locked_with_password",
+      "value": "Обліковий запис захищено паролем. Щоб продовжити, введіть пароль облікового запису."
+    },
+    {
+      "name": "link_to_account_action_required",
+      "value": "Потрібна дія.\nПідтвердьте обліковий запис на вихідному пристрої."
+    },
+    {
+      "name": "link_to_account_alert_message",
+      "value": "Зупинка скасує операцію імпорту облікового запису."
+    },
+    {
+      "name": "link_to_account_alert_tile",
+      "value": "Бажаєте зупинити прив'язку облікового запису?"
+    },
+    {
+      "name": "link_to_account_all_set",
+      "value": "Обліковий запис успішно імпортовано."
+    },
+    {
+      "name": "link_to_account_enter_provided_code",
+      "value": "Коли будете готові, введіть код автентифікації."
+    },
+    {
+      "name": "link_to_account_exit",
+      "value": "Вийти"
+    },
+    {
+      "name": "link_to_account_export_instructions",
+      "value": "На вихідному пристрої розпочніть експорт."
+    },
+    {
+      "name": "link_to_account_export_instructions_path",
+      "value": "Виберіть Обліковий запис → Налаштування облікового запису → Прив'язати новий пристрій."
+    },
+    {
+      "name": "link_to_account_go_to_accounts",
+      "value": "Перейти до імпортованого облікового запису"
+    },
+    {
+      "name": "link_to_account_import_account",
+      "value": "Імпортувати аккаунт"
+    },
+    {
+      "name": "link_to_account_scan_qr_code",
+      "value": "Коли будете готові, відскануйте QR-код."
+    },
+    {
+      "name": "link_to_account_share_message",
+      "value": "Ваш код: %s"
+    },
+    {
+      "name": "link_to_account_show_pin_code",
+      "value": "Код автентифікації"
+    },
+    {
+      "name": "link_to_account_show_qr_code",
+      "value": "QR-код"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_label",
+      "value": "Введіть URL-адресу сервера керування"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_placeholder",
+      "value": "URL-адреса сервера керування"
+    },
+    {
+      "name": "link_to_account_manager_enter_credentials",
+      "value": "Введіть облікові дані сервера керування"
+    },
+    {
+      "name": "link_to_account_manager_jams_explanation",
+      "value": "Введіть URL-адресу сервера керування"
+    },
+    {
+      "name": "link_to_account_manager_sign_in",
+      "value": "Увійти"
+    },
+    {
+      "name": "link_to_account_manager_title",
+      "value": "Обліковий запис сервера керування"
+    },
+    {
+      "name": "log_view_description",
+      "value": "Відкриття налаштувань діагностичного журналу"
+    },
+    {
+      "name": "log_view_save_error",
+      "value": "Під час збереження файлу сталася помилка."
+    },
+    {
+      "name": "log_view_share_error",
+      "value": "Сталася помилка під час поширення файлу."
+    },
+    {
+      "name": "log_view_start_logging",
+      "value": "Розпочати журналювання"
+    },
+    {
+      "name": "log_view_stop_logging",
+      "value": "Зупинити ведення журналу"
+    },
+    {
+      "name": "log_view_title",
+      "value": "Діагностика"
+    },
+    {
+      "name": "migrate_account_error",
+      "value": "Під час міграції облікового запису сталася помилка. Повторіть спробу або видаліть обліковий запис."
+    },
+    {
+      "name": "migrate_account_explanation",
+      "value": "Потрібна міграція облікового запису."
+    },
+    {
+      "name": "migrate_account_migrate_another",
+      "value": "Переїжджайте на інший обліковий запис"
+    },
+    {
+      "name": "migrate_account_migrate_button",
+      "value": "Миграційний рахунок"
+    },
+    {
+      "name": "migrate_account_migrating",
+      "value": "Міграція…"
+    },
+    {
+      "name": "migrate_account_password_explanation",
+      "value": "Щоб продовжити міграцію облікового запису, введіть пароль облікового запису."
+    },
+    {
+      "name": "migrate_account_title",
+      "value": "Переведення облікового запису"
+    },
+    {
+      "name": "notifications_location_sharing_started",
+      "value": "Розпочалося обмін місцем розташування"
+    },
+    {
+      "name": "notifications_location_sharing_stopped",
+      "value": "Дохідний обмін місцем розташування припинено"
+    },
+    {
+      "name": "notifications_missed_call",
+      "value": "Згублений дзвін"
+    },
+    {
+      "name": "notifications_new_file",
+      "value": "Новий файл"
+    },
+    {
+      "name": "peer_services_done",
+      "value": "Готово"
+    },
+    {
+      "name": "peer_services_empty",
+      "value": "Немає доступних спільних сервісів"
+    },
+    {
+      "name": "peer_services_error_offline",
+      "value": "Контакт не в мережі"
+    },
+    {
+      "name": "peer_services_error_timeout",
+      "value": "Час очікування запиту вичерпано"
+    },
+    {
+      "name": "peer_services_error_unknown",
+      "value": "Не вдалося отримати сервіси"
+    },
+    {
+      "name": "peer_services_error_unreachable",
+      "value": "Контакт недоступний"
+    },
+    {
+      "name": "peer_services_not_supported",
+      "value": "Не підтримується"
+    },
+    {
+      "name": "peer_services_open",
+      "value": "Відкрити"
+    },
+    {
+      "name": "peer_services_refresh",
+      "value": "Оновити сервіси"
+    },
+    {
+      "name": "peer_services_title",
+      "value": "Спільні сервіси"
+    },
+    {
+      "name": "photo_capture_retake",
+      "value": "Перезняти"
+    },
+    {
+      "name": "photo_capture_use_photo",
+      "value": "Використати фото"
+    },
+    {
+      "name": "profile_editor_change_picture",
+      "value": "Change picture"
+    },
+    {
+      "name": "profile_editor_change_picture_hint",
+      "value": "Choose a new picture from the camera or photo library"
+    },
+    {
+      "name": "profile_editor_contact_name_placeholder",
+      "value": "Enter a name"
+    },
+    {
+      "name": "profile_editor_description",
+      "value": "Описание"
+    },
+    {
+      "name": "profile_editor_description_placeholder",
+      "value": "Enter a description"
+    },
+    {
+      "name": "profile_editor_discard",
+      "value": "Відхилити"
+    },
+    {
+      "name": "profile_editor_discard_message",
+      "value": "Your unsaved changes will be lost."
+    },
+    {
+      "name": "profile_editor_discard_title",
+      "value": "Discard changes?"
+    },
+    {
+      "name": "profile_editor_edit_contact",
+      "value": "Edit contact"
+    },
+    {
+      "name": "profile_editor_edit_contact_hint",
+      "value": "Opens the contact editor"
+    },
+    {
+      "name": "profile_editor_edit_group",
+      "value": "Edit group"
+    },
+    {
+      "name": "profile_editor_edit_group_hint",
+      "value": "Opens the group editor"
+    },
+    {
+      "name": "profile_editor_group_name_placeholder",
+      "value": "Enter a group name"
+    },
+    {
+      "name": "profile_editor_local_changes_footer",
+      "value": "This name and picture are visible only on this device."
+    },
+    {
+      "name": "profile_editor_name",
+      "value": "Ім’я"
+    },
+    {
+      "name": "profile_editor_no_picture",
+      "value": "No picture"
+    },
+    {
+      "name": "profile_editor_picture_selected",
+      "value": "Picture selected"
+    },
+    {
+      "name": "profile_editor_remove_picture",
+      "value": "Remove picture"
+    },
+    {
+      "name": "profile_editor_reset_original",
+      "value": "Use original name and picture"
+    },
+    {
+      "name": "profile_editor_reset_original_hint",
+      "value": "Restores the name and picture this contact set for themselves"
+    },
+    {
+      "name": "profile_editor_reset_picture",
+      "value": "Use original picture"
+    },
+    {
+      "name": "profile_editor_save_error",
+      "value": "The changes could not be saved. Please try again."
+    },
+    {
+      "name": "scan_bad_qr_code",
+      "value": "Неприйнятний QR-код"
+    },
+    {
+      "name": "share_extension_accessibility_select_account",
+      "value": "Двічі торкніться, щоб вибрати цей обліковий запис"
+    },
+    {
+      "name": "share_extension_accessibility_select_conversation",
+      "value": "Двічі торкніться, щоб вибрати цю розмову"
+    },
+    {
+      "name": "share_extension_accessibility_selected_account",
+      "value": "Вибраний обліковий запис: %s. Двічі торкніться, щоб змінити обліковий запис."
+    },
+    {
+      "name": "share_extension_accessibility_send_button",
+      "value": "Двічі торкніться, щоб надіслати до вибраних розмов"
+    },
+    {
+      "name": "share_extension_no_account_description",
+      "value": "Щоб продовжити, створіть обліковий запис у головному застосунку."
+    },
+    {
+      "name": "share_extension_no_account_title",
+      "value": "Обліковий запис не знайдено"
+    },
+    {
+      "name": "share_extension_no_search_results",
+      "value": "Немає розмов, що відповідають вашому пошуку"
+    },
+    {
+      "name": "share_extension_search_conversations",
+      "value": "Шукати розмови"
+    },
+    {
+      "name": "share_extension_select_account_title",
+      "value": "Вибрати обліковий запис"
+    },
+    {
+      "name": "share_extension_send_to_conversation",
+      "value": "Надіслати до %d розмови"
+    },
+    {
+      "name": "share_extension_send_to_conversations_plural",
+      "value": "Надіслати до %d розмов"
+    },
+    {
+      "name": "share_extension_sending",
+      "value": "Надсилання…"
+    },
+    {
+      "name": "share_extension_try_different_filter",
+      "value": "Спробуйте інший фільтр"
+    },
+    {
+      "name": "share_extension_unsupported_type_description",
+      "value": "Надсилання вибраного вмісту наразі не підтримується."
+    },
+    {
+      "name": "share_extension_unsupported_type_title",
+      "value": "Непідтримуваний вміст"
+    },
+    {
+      "name": "smartlist_about_jami",
+      "value": "Про Jami"
+    },
+    {
+      "name": "smartlist_accounts",
+      "value": "Облікові записи"
+    },
+    {
+      "name": "smartlist_accounts_title",
+      "value": "Облікові записи"
+    },
+    {
+      "name": "smartlist_add_account_button",
+      "value": "+ Додати обліковий запис"
+    },
+    {
+      "name": "smartlist_cellular_access",
+      "value": "Переконайтеся, що в налаштуваннях надано доступ до мобільної мережі."
+    },
+    {
+      "name": "smartlist_conversations",
+      "value": "Групові чати"
+    },
+    {
+      "name": "smartlist_conversations_search_hint",
+      "value": "You don't have any conversations yet."
+    },
+    {
+      "name": "smartlist_dialpad",
+      "value": "Keypad"
+    },
+    {
+      "name": "smartlist_disable_donation",
+      "value": "Не зараз"
+    },
+    {
+      "name": "smartlist_donation_explanation",
+      "value": "Якщо вам подобається користуватися Jami і ви вірите в нашу місію, чи хочете зробити пожертву?"
+    },
+    {
+      "name": "smartlist_in_synchronization",
+      "value": "Синхронізація…"
+    },
+    {
+      "name": "smartlist_invitation_received",
+      "value": "Запрошення отримані"
+    },
+    {
+      "name": "smartlist_invitations",
+      "value": "Запрошення"
+    },
+    {
+      "name": "smartlist_invite_friends",
+      "value": "Запросити друзів"
+    },
+    {
+      "name": "smartlist_jams_directory_hint",
+      "value": "People in your organization outside your contacts."
+    },
+    {
+      "name": "smartlist_jams_results",
+      "value": "Organization directory"
+    },
+    {
+      "name": "smartlist_new_contact",
+      "value": "Новий контакт"
+    },
+    {
+      "name": "smartlist_new_group",
+      "value": "Нова група"
+    },
+    {
+      "name": "smartlist_no_conversation",
+      "value": "Ніяких розмов"
+    },
+    {
+      "name": "smartlist_no_conversations_found",
+      "value": "Немає розмов, що відповідають пошуку."
+    },
+    {
+      "name": "smartlist_no_network_connectivity",
+      "value": "Відсутнє з’єднання з мережею"
+    },
+    {
+      "name": "smartlist_no_number",
+      "value": "Вибраний контакт не має ніякого номера"
+    },
+    {
+      "name": "smartlist_no_results",
+      "value": "Ніяких результатів"
+    },
+    {
+      "name": "smartlist_public_directory_hint",
+      "value": "People on Jami outside your contacts."
+    },
+    {
+      "name": "smartlist_results",
+      "value": "Публічний каталог"
+    },
+    {
+      "name": "smartlist_search_bar",
+      "value": "Пошук"
+    },
+    {
+      "name": "smartlist_search_bar_placeholder",
+      "value": "Введіть ім'я…"
+    },
+    {
+      "name": "smartlist_select_one_number",
+      "value": "Виберіть один з цифр"
+    },
+    {
+      "name": "smartlist_yesterday",
+      "value": "Учора"
+    },
+    {
+      "name": "swarm_leave",
+      "value": "Піти"
+    },
+    {
+      "name": "swarm_accessibility_color_picker",
+      "value": "Вибір кольору розмови"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code",
+      "value": "Показати QR-код контакту"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code_hint",
+      "value": "Відкриває екран із QR-кодом контакту"
+    },
+    {
+      "name": "swarm_accessibility_contact_share_hint",
+      "value": "Відкриває параметри надсилання контактної інформації"
+    },
+    {
+      "name": "swarm_admin",
+      "value": "Адміністратор"
+    },
+    {
+      "name": "swarm_admin_invites_only",
+      "value": "Частна група (запрошення обмежені)"
+    },
+    {
+      "name": "swarm_blocked",
+      "value": "Заблоковано"
+    },
+    {
+      "name": "swarm_change_picture",
+      "value": "Змінити зображення групи"
+    },
+    {
+      "name": "swarm_choose_color",
+      "value": "Колір розмови"
+    },
+    {
+      "name": "swarm_confirm_leave_conversation",
+      "value": "Бажаєте покинути цю розмову?"
+    },
+    {
+      "name": "swarm_contact_header",
+      "value": "Контакт"
+    },
+    {
+      "name": "swarm_conversation_ended",
+      "value": "Розмову завершено"
+    },
+    {
+      "name": "swarm_conversation_header",
+      "value": "Розмова"
+    },
+    {
+      "name": "swarm_conversation_id",
+      "value": "Ідентифікатор розмови"
+    },
+    {
+      "name": "swarm_customize",
+      "value": "Налаштувати групу"
+    },
+    {
+      "name": "swarm_customize_profile",
+      "value": "Налаштувати профіль групи"
+    },
+    {
+      "name": "swarm_explanation_text",
+      "value": "Учасників можна запросити будь-коли після створення групи."
+    },
+    {
+      "name": "swarm_identifier",
+      "value": "Ідентифікатор"
+    },
+    {
+      "name": "swarm_invite",
+      "value": "Invite"
+    },
+    {
+      "name": "swarm_invite_members",
+      "value": "Запросити учасників"
+    },
+    {
+      "name": "swarm_invite_members_not_selected",
+      "value": "Не вибрано"
+    },
+    {
+      "name": "swarm_invite_members_selected",
+      "value": "Вибрано"
+    },
+    {
+      "name": "swarm_invite_selected_members",
+      "value": "Запросити вибрані контакти"
+    },
+    {
+      "name": "swarm_invited",
+      "value": "Запрошено"
+    },
+    {
+      "name": "swarm_invites_only",
+      "value": "Приватна група"
+    },
+    {
+      "name": "swarm_leave_conversation",
+      "value": "Не переконвайтеся"
+    },
+    {
+      "name": "swarm_left",
+      "value": "Вийшов"
+    },
+    {
+      "name": "swarm_member",
+      "value": "Член"
+    },
+    {
+      "name": "swarm_members",
+      "value": "Учасники"
+    },
+    {
+      "name": "swarm_mute_conversation",
+      "value": "Немовний розмову"
+    },
+    {
+      "name": "swarm_name_placeholder",
+      "value": "Назва групи"
+    },
+    {
+      "name": "swarm_new_group",
+      "value": "Створити нову групу"
+    },
+    {
+      "name": "swarm_one_to_one",
+      "value": "Приватне"
+    },
+    {
+      "name": "swarm_others",
+      "value": "Інші"
+    },
+    {
+      "name": "swarm_public_chat",
+      "value": "Публічна група"
+    },
+    {
+      "name": "swarm_remove_contact",
+      "value": "Видалити контакт"
+    },
+    {
+      "name": "swarm_remove_conversation",
+      "value": "Вилучити розмову"
+    },
+    {
+      "name": "swarm_restart_conversation",
+      "value": "Перезапустити розмову"
+    },
+    {
+      "name": "swarm_select_contacts",
+      "value": "Виберіть контакти"
+    },
+    {
+      "name": "swarm_settings",
+      "value": "Налаштування"
+    },
+    {
+      "name": "swarm_share_contact_info",
+      "value": "Поділитися контактною інформацією"
+    },
+    {
+      "name": "swarm_share_contact_message",
+      "value": "Ви можете додати цей контакт, %1$s, на розподіленій комунікаційній платформі Jami: https://jami.net"
+    },
+    {
+      "name": "swarm_show_contact_qr_code",
+      "value": "Показати QR-код контакту"
+    },
+    {
+      "name": "swarm_type_of_swarm",
+      "value": "Тип розмови"
+    },
+    {
+      "name": "swarm_unknown",
+      "value": "Невідомий"
+    },
+    {
+      "name": "swarm_colors_amber",
+      "value": "Бурштиновий"
+    },
+    {
+      "name": "swarm_colors_bright_orange",
+      "value": "Яскраво-помаранчевий"
+    },
+    {
+      "name": "swarm_colors_brown",
+      "value": "Коричневий"
+    },
+    {
+      "name": "swarm_colors_cyan",
+      "value": "Блакитний"
+    },
+    {
+      "name": "swarm_colors_green",
+      "value": "Зелений"
+    },
+    {
+      "name": "swarm_colors_indigo_blue",
+      "value": "Індиго"
+    },
+    {
+      "name": "swarm_colors_lime_green",
+      "value": "Лаймовий"
+    },
+    {
+      "name": "swarm_colors_medium_gray",
+      "value": "Середній сірий"
+    },
+    {
+      "name": "swarm_colors_purple",
+      "value": "Фіолетовий"
+    },
+    {
+      "name": "swarm_colors_sky_blue",
+      "value": "Небесно-блакитний"
+    },
+    {
+      "name": "swarm_colors_steel_blue",
+      "value": "Сталево-синій"
+    },
+    {
+      "name": "swarm_colors_teal",
+      "value": "Бірюзовий"
+    },
+    {
+      "name": "swarm_colors_vibrant_pink",
+      "value": "Яскраво-рожевий"
+    },
+    {
+      "name": "swarm_colors_violet",
+      "value": "Бузковий"
+    },
+    {
+      "name": "swarm_colors_yellow_green",
+      "value": "Жовто-зелений"
+    },
+    {
+      "name": "swarmcreation_add_description",
+      "value": "Додати опис"
+    },
+    {
+      "name": "swarmcreation_search_bar",
+      "value": "Пошук контакту…"
+    },
+    {
+      "name": "welcome_connect_to_jams",
+      "value": "Підключитися до сервера керування"
+    },
+    {
+      "name": "welcome_create_account",
+      "value": "Створення акаунту Jami"
+    },
+    {
+      "name": "welcome_have_account",
+      "value": "У мене вже є рахунок."
+    },
+    {
+      "name": "welcome_link_backup",
+      "value": "Імпорт з архивного резервного копію"
+    },
+    {
+      "name": "welcome_link_device",
+      "value": "Імпорт з іншого пристрою"
+    },
+    {
+      "name": "welcome_text",
+      "value": "Джамі — це вільна та універсальна платформа для зв'язку, яка оберігає приватність і свободи користувачів"
+    },
+    {
+      "name": "welcome_title",
+      "value": "Діліться вільно і приватно з Jami"
+    },
+    {
+      "name": "media_preview_date_time",
+      "value": "%1$s, %2$s"
+    },
+    {
+      "name": "media_preview_react",
+      "value": "React"
+    },
+    {
+      "name": "media_preview_more_actions",
+      "value": "Більше"
+    },
+    {
+      "name": "media_preview_more_emoji",
+      "value": "More emoji"
+    },
+    {
+      "name": "accessibility_audio_player_mute",
+      "value": "Без звуку"
+    },
+    {
+      "name": "accessibility_audio_player_unmute",
+      "value": "Увімкнути звук"
+    },
+    {
+      "name": "accessibility_message_reactions",
+      "value": "Reactions"
+    },
+    {
+      "name": "accessibility_remove_reaction",
+      "value": "Remove %s"
+    },
+    {
+      "name": "media_preview_live_text",
+      "value": "Live Text"
+    }
+  ]
+}

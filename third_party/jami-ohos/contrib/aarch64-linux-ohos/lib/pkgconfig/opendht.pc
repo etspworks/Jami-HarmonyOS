@@ -1,0 +1,10 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+Name: OpenDHT
+Description: C++17 Distributed Hash Table library
+Version: 4.4.1
+Cflags: -I${includedir}
+Libs:  -L${libdir} -lopendht -lfmt   -pthread
+Requires:  gnutls >= 3.3, jsoncpp, openssl  nettle >= 2.4, libargon2, libllhttp, simdutf

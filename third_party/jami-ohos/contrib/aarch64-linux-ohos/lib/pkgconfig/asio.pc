@@ -1,0 +1,11 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+
+Name: asio
+Description: A cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach.
+Version: 1.38.0
+Cflags: -I${includedir}
+Lflags:
+Libs:  
+Requires:  

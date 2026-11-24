@@ -1,0 +1,14 @@
+# Package Information for pkg-config
+
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+
+Name: libpjproject
+Description: Multimedia communication library
+URL: http://www.pjsip.org
+Version: 2.15.1
+Cflags: -I/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include -DPJ_AUTOCONF=1  -DPJ_IS_BIG_ENDIAN=0 -DPJ_IS_LITTLE_ENDIAN=1
+Libs:  -L/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib -lpjsua2-aarch64-unknown-linux-ohos -lstdc++ -lpjsua-aarch64-unknown-linux-ohos -lpjsip-ua-aarch64-unknown-linux-ohos -lpjsip-simple-aarch64-unknown-linux-ohos -lpjsip-aarch64-unknown-linux-ohos -lpjmedia-codec-aarch64-unknown-linux-ohos -lpjmedia-videodev-aarch64-unknown-linux-ohos -lpjmedia-audiodev-aarch64-unknown-linux-ohos -lpjmedia-aarch64-unknown-linux-ohos -lpjnath-aarch64-unknown-linux-ohos -lpjlib-util-aarch64-unknown-linux-ohos -lpj-aarch64-unknown-linux-ohos   -lsrtp-aarch64-unknown-linux-ohos -lyuv-aarch64-unknown-linux-ohos  -lm -lrt -lpthread  -L/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib -lgnutls -lgmp
+Requires:  

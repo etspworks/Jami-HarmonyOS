@@ -1,0 +1,3020 @@
+{
+  "string": [
+    {
+      "name": "about_jami_community_management",
+      "value": "Topluluk Yönetimi"
+    },
+    {
+      "name": "about_jami_contribute",
+      "value": "Katkı Yap"
+    },
+    {
+      "name": "about_jami_declaration1",
+      "value": "Bir GNU paketi olan Jami, kullanıcılarının özgürlüğüne ve gizliliğine saygı duyan, evrensel ve dağıtık eşler arası iletişim yazılımıdır. Ziyaret edin:"
+    },
+    {
+      "name": "about_jami_declaration2",
+      "value": "daha fazla bilgi için."
+    },
+    {
+      "name": "about_jami_developers",
+      "value": "Geliştiriciler"
+    },
+    {
+      "name": "about_jami_feedback",
+      "value": "Geri bildirim"
+    },
+    {
+      "name": "about_jami_header",
+      "value": "Bu yazılımın bu hale gelmesinde şimdiye kadar yardımı dokunan herkese teşekkür ediyoruz."
+    },
+    {
+      "name": "about_jami_info",
+      "value": "Bu, Jami'ye önemli miktarda zaman yatırımı yapan ve faydalı sonuçlar veren kişilerin listesidir. Listeye eklenmek isteyen bu tür katkıda bulunanların bizimle iletişime geçmesi gerekir."
+    },
+    {
+      "name": "about_jami_media",
+      "value": "Ortam"
+    },
+    {
+      "name": "about_jami_no_warranty1",
+      "value": "Bu program kesinlikle hiçbir garanti vermez. Bkz."
+    },
+    {
+      "name": "about_jami_no_warranty2",
+      "value": "ayrıntılar için sürüm 3 veya üzeri."
+    },
+    {
+      "name": "about_jami_special_thanks",
+      "value": "Özel teşekkürler"
+    },
+    {
+      "name": "accessibility_about_jami_title",
+      "value": "Jami Hakkında"
+    },
+    {
+      "name": "accessibility_account_token_q_rcode",
+      "value": "Jeton QR kodu"
+    },
+    {
+      "name": "accessibility_account_summary_edit_profile_hint",
+      "value": "Profili düzenlemek için çift dokunun"
+    },
+    {
+      "name": "accessibility_account_summary_edit_settings_button",
+      "value": "Ayarlar"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code",
+      "value": "QR Kod"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code_hint",
+      "value": "Hesap QR kodunu görüntülemek için çift dokunun"
+    },
+    {
+      "name": "accessibility_audio_player_pause",
+      "value": "Duraklat"
+    },
+    {
+      "name": "accessibility_audio_player_play",
+      "value": "Oynat"
+    },
+    {
+      "name": "accessibility_avatar_collapse_hint",
+      "value": "Double-tap to shrink the picture"
+    },
+    {
+      "name": "accessibility_avatar_expand_hint",
+      "value": "Double-tap to enlarge the picture"
+    },
+    {
+      "name": "accessibility_call_lasted",
+      "value": "%s sürdü"
+    },
+    {
+      "name": "accessibility_calls_alter_add_participant",
+      "value": "Katılımcı ekle"
+    },
+    {
+      "name": "accessibility_calls_alter_end_call",
+      "value": "Çağrıyı sonlandır"
+    },
+    {
+      "name": "accessibility_calls_alter_open_conversation",
+      "value": "Konuşma aç"
+    },
+    {
+      "name": "accessibility_calls_alter_pause_call",
+      "value": "Çağrıyı sürdür"
+    },
+    {
+      "name": "accessibility_calls_alter_raise_hand",
+      "value": "Elini indir"
+    },
+    {
+      "name": "accessibility_calls_alter_show_dialpad",
+      "value": "Tuş takımını göster"
+    },
+    {
+      "name": "accessibility_calls_alter_switch_camera",
+      "value": "Kamerayı çevir"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_audio",
+      "value": "Mikrofonun sesini aç"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_speaker",
+      "value": "Hoparlörü kapat"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_video",
+      "value": "Kamerayı kapat"
+    },
+    {
+      "name": "accessibility_calls_default_add_participant",
+      "value": "Katılımcı ekle"
+    },
+    {
+      "name": "accessibility_calls_default_end_call",
+      "value": "Çağrıyı sonlandır"
+    },
+    {
+      "name": "accessibility_calls_default_open_conversation",
+      "value": "Konuşma aç"
+    },
+    {
+      "name": "accessibility_calls_default_pause_call",
+      "value": "Çağrıyı duraklat"
+    },
+    {
+      "name": "accessibility_calls_default_raise_hand",
+      "value": "El kaldır"
+    },
+    {
+      "name": "accessibility_calls_default_show_dialpad",
+      "value": "Tuş takımını göster"
+    },
+    {
+      "name": "accessibility_calls_default_switch_camera",
+      "value": "Kamerayı çevir"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_audio",
+      "value": "Mikrofon sessiz"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_speaker",
+      "value": "Hoparlörü aç"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_video",
+      "value": "Kamerayı başlat"
+    },
+    {
+      "name": "accessibility_close",
+      "value": "Kapat"
+    },
+    {
+      "name": "accessibility_conference_camera_off",
+      "value": "Camera off"
+    },
+    {
+      "name": "accessibility_conference_crop_video",
+      "value": "Crop video"
+    },
+    {
+      "name": "accessibility_conference_end_call",
+      "value": "Çağrıyı sonlandır"
+    },
+    {
+      "name": "accessibility_conference_hand_raised",
+      "value": "El kaldırıldı"
+    },
+    {
+      "name": "accessibility_conference_hide_local_preview",
+      "value": "Hide your video"
+    },
+    {
+      "name": "accessibility_conference_local_preview",
+      "value": "Your video"
+    },
+    {
+      "name": "accessibility_conference_lower_hand",
+      "value": "Elini indir"
+    },
+    {
+      "name": "accessibility_conference_maximize",
+      "value": "En büyük"
+    },
+    {
+      "name": "accessibility_conference_microphone_muted",
+      "value": "Microphone muted"
+    },
+    {
+      "name": "accessibility_conference_minimize",
+      "value": "En küçük"
+    },
+    {
+      "name": "accessibility_conference_moderator",
+      "value": "Moderatör"
+    },
+    {
+      "name": "accessibility_conference_mute_audio",
+      "value": "Sesi kapat"
+    },
+    {
+      "name": "accessibility_conference_recording",
+      "value": "Kayıt"
+    },
+    {
+      "name": "accessibility_conference_set_moderator",
+      "value": "Oturum başkanı ayarla"
+    },
+    {
+      "name": "accessibility_conference_show_full_video",
+      "value": "Show full video"
+    },
+    {
+      "name": "accessibility_conference_show_local_preview",
+      "value": "Show your video"
+    },
+    {
+      "name": "accessibility_conference_show_participants",
+      "value": "Show participants"
+    },
+    {
+      "name": "accessibility_conference_speaking",
+      "value": "Speaking"
+    },
+    {
+      "name": "accessibility_conference_unmute_audio",
+      "value": "Sesi aç"
+    },
+    {
+      "name": "accessibility_conference_unset_moderator",
+      "value": "Oturum başkanı ayarını kaldır"
+    },
+    {
+      "name": "accessibility_conversation_camera_hint",
+      "value": "Kamerayı açmak için çift dokunun"
+    },
+    {
+      "name": "accessibility_conversation_compose_message",
+      "value": "İleti oluştur"
+    },
+    {
+      "name": "accessibility_conversation_row_blocked",
+      "value": "Görüşme engellendi"
+    },
+    {
+      "name": "accessibility_conversation_row_last_message",
+      "value": "Son ileti %s"
+    },
+    {
+      "name": "accessibility_conversation_row_syncing",
+      "value": "Eşitleme sürüyor"
+    },
+    {
+      "name": "accessibility_conversation_row_unread_count",
+      "value": "%s okunmamış ileti"
+    },
+    {
+      "name": "accessibility_conversation_share_media",
+      "value": "Medya paylaş"
+    },
+    {
+      "name": "accessibility_conversation_start_video_call",
+      "value": "%s ile görüntülü çağrı başlat"
+    },
+    {
+      "name": "accessibility_conversation_start_voice_call",
+      "value": "%s ile sesli çağrı başlat"
+    },
+    {
+      "name": "accessibility_create_account_verify_username_prompt",
+      "value": "Kullanılabilirliği kontrol etmek için kullanıcı adı girin."
+    },
+    {
+      "name": "accessibility_file_transfer_received_on",
+      "value": "Dosya: %1$s, %2$s tarihinde alındı"
+    },
+    {
+      "name": "accessibility_file_transfer_sent_on",
+      "value": "Dosya: %1$s, %2$s tarihinde gönderildi"
+    },
+    {
+      "name": "accessibility_file_transfer_no_name",
+      "value": "%s tarihinde dosya alındı, ad mevcut değil"
+    },
+    {
+      "name": "accessibility_in_reply",
+      "value": "İletiye yanıt olarak"
+    },
+    {
+      "name": "accessibility_message_bubble_deleted",
+      "value": "İleti silindi"
+    },
+    {
+      "name": "accessibility_message_bubble_edited",
+      "value": "Düzenlendi"
+    },
+    {
+      "name": "accessibility_message_bubble_read",
+      "value": "Okundu"
+    },
+    {
+      "name": "accessibility_message_bubble_unread",
+      "value": "Okunmadı"
+    },
+    {
+      "name": "accessibility_pending_requests_list_accept_invitation",
+      "value": "Daveti kabul et"
+    },
+    {
+      "name": "accessibility_pending_requests_list_block_user",
+      "value": "Davet gönderenini engelle"
+    },
+    {
+      "name": "accessibility_pending_requests_list_reject_invitation",
+      "value": "Daveti reddet"
+    },
+    {
+      "name": "accessibility_pending_requests_row_hint",
+      "value": "Aldığınız davetleri gözden geçirmek ve yanıtlamak için çift dokunun"
+    },
+    {
+      "name": "accessibility_pending_requests_row_plural",
+      "value": "Alınan davetler: %s bekleyen davet"
+    },
+    {
+      "name": "accessibility_pending_requests_row_singular",
+      "value": "Alınan davet: %s bekleyen davet"
+    },
+    {
+      "name": "accessibility_profile_picture_picker",
+      "value": "Profil görseli"
+    },
+    {
+      "name": "accessibility_profile_picture_picker_hint",
+      "value": "Fotoğraf çekmek veya kitaplıktan bir fotoğraf seçmek için çift dokunun"
+    },
+    {
+      "name": "accessibility_smart_list_add_account",
+      "value": "Hesap ekle"
+    },
+    {
+      "name": "accessibility_smart_list_connected_as",
+      "value": "Geçerli hesap %s"
+    },
+    {
+      "name": "accessibility_smart_list_switch_accounts",
+      "value": "Hesap değiştir"
+    },
+    {
+      "name": "accessibility_swarm_picture_picker",
+      "value": "Grup resmi"
+    },
+    {
+      "name": "accessibility_text_received_on",
+      "value": "%1$s, mesaj %2$s önce alındı"
+    },
+    {
+      "name": "accessibility_text_sent_on",
+      "value": "%1$s, mesaj %2$s önce gönderildi"
+    },
+    {
+      "name": "accessibility_text_not_available",
+      "value": "%s tarihinde boş bir metin mesajı alındı. Doğru gönderilmemiş olabilir."
+    },
+    {
+      "name": "accessibility_user_presence_available",
+      "value": "Uygun"
+    },
+    {
+      "name": "accessibility_user_presence_online",
+      "value": "Çevrim İçi"
+    },
+    {
+      "name": "accessibility_welcome_to_jami_title",
+      "value": "Jami ye Hoş geldin"
+    },
+    {
+      "name": "account_account_status",
+      "value": "Hesap Durumu"
+    },
+    {
+      "name": "account_advanced_features",
+      "value": "Gelişmiş özellikler"
+    },
+    {
+      "name": "account_configure",
+      "value": "Yapılandır"
+    },
+    {
+      "name": "account_create_sip_account",
+      "value": "SIP Hesabını Yapılandır"
+    },
+    {
+      "name": "account_enable_account",
+      "value": "Hesabı etkinleştir"
+    },
+    {
+      "name": "account_me",
+      "value": "Ben"
+    },
+    {
+      "name": "account_need_migration",
+      "value": "Hesap geçiş gerektiriyor."
+    },
+    {
+      "name": "account_port",
+      "value": "Delik"
+    },
+    {
+      "name": "account_port_label",
+      "value": "Bağlantı Noktası Numarası Gir"
+    },
+    {
+      "name": "account_proxy_server",
+      "value": "Vekil"
+    },
+    {
+      "name": "account_server_label",
+      "value": "Adres Girin"
+    },
+    {
+      "name": "account_sip_account",
+      "value": "SIP Hesabı"
+    },
+    {
+      "name": "account_sip_server",
+      "value": "Sunucu"
+    },
+    {
+      "name": "account_status_connecting",
+      "value": "Bağlanılıyor"
+    },
+    {
+      "name": "account_status_connectionerror",
+      "value": "Bağlantı hatası"
+    },
+    {
+      "name": "account_status_offline",
+      "value": "Çevrim Dışı"
+    },
+    {
+      "name": "account_status_online",
+      "value": "Çevrim İçi"
+    },
+    {
+      "name": "account_status_unknown",
+      "value": "Bilinmeyen"
+    },
+    {
+      "name": "account_page_account_header",
+      "value": "Hesap"
+    },
+    {
+      "name": "account_page_account_identity",
+      "value": "Hesap kimliği"
+    },
+    {
+      "name": "account_page_account_settings_explanation",
+      "value": "Bu ayarlar yalnızca bu hesap için geçerli olacak."
+    },
+    {
+      "name": "account_page_allow_ip_auto_rewrite",
+      "value": "IP otomatik yeniden yazımına izin ver"
+    },
+    {
+      "name": "account_page_app_settings",
+      "value": "Uygulama ayarları"
+    },
+    {
+      "name": "account_page_app_settings_explanation",
+      "value": "Bu ayarlar tüm uygulama için geçerli olacak."
+    },
+    {
+      "name": "account_page_auto_registration",
+      "value": "Geçerlilik bittiğinde kendiliğinden kaydol"
+    },
+    {
+      "name": "account_page_blocked_contacts",
+      "value": "Engellenmiş kişiler"
+    },
+    {
+      "name": "account_page_booth_mode_alert_message",
+      "value": "Kabin kipi etkinleştirildikten sonra tüm görüşmeler kaldırılacak."
+    },
+    {
+      "name": "account_page_booth_mode_explanation",
+      "value": "Kabin kipinde konuşma geçmişiniz kaydedilmez ve jami'nin işlevleri giden aramalar ile kısıtlandırılır. Kabin kipini etkinleştirdiğinizde tüm konuşmalarınız kaldırılacaktır."
+    },
+    {
+      "name": "account_page_bootstrap",
+      "value": "Önyükleme"
+    },
+    {
+      "name": "account_page_calls_from_unknown_contacts",
+      "value": "Bilinmeyen kişilerden gelen çağrılara izin ver."
+    },
+    {
+      "name": "account_page_change_password",
+      "value": "Parolayı değiştir"
+    },
+    {
+      "name": "account_page_change_password_error",
+      "value": "Geçersiz parola"
+    },
+    {
+      "name": "account_page_chats",
+      "value": "Sohbetler"
+    },
+    {
+      "name": "account_page_connectivity_and_configuration",
+      "value": "Bağlantı ve yapılandırmalar"
+    },
+    {
+      "name": "account_page_connectivity_header",
+      "value": "Bağlanabilirlik"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_contant",
+      "value": "Jami dağıtık iletişim platformunda bana “%s” ile ulaşın: https://jami.net"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_title",
+      "value": "Benimle Jami'de iletişime geç!"
+    },
+    {
+      "name": "account_page_create_password",
+      "value": "Parola ayarla"
+    },
+    {
+      "name": "account_page_current_password_placeholder",
+      "value": "Güncel parolayı gir"
+    },
+    {
+      "name": "account_page_current_proxy",
+      "value": "Geçerli vekil sunucu"
+    },
+    {
+      "name": "account_page_device_revocation_error",
+      "value": "Aygıt iptal hatası"
+    },
+    {
+      "name": "account_page_device_revocation_progress",
+      "value": "Kaldırılıyor…"
+    },
+    {
+      "name": "account_page_device_revocation_success",
+      "value": "Aygıt kaldırıldı"
+    },
+    {
+      "name": "account_page_device_revocation_try_again",
+      "value": "Yeniden dene"
+    },
+    {
+      "name": "account_page_device_revocation_unknown_device",
+      "value": "Bilinmeyen aygıt"
+    },
+    {
+      "name": "account_page_device_revocation_wrong_password",
+      "value": "Geçersiz parola"
+    },
+    {
+      "name": "account_page_device_revoked",
+      "value": "Aygıt iptali tamamlandı"
+    },
+    {
+      "name": "account_page_devices_list_header",
+      "value": "Aygıtlar"
+    },
+    {
+      "name": "account_page_dht_configuration",
+      "value": "OpenDHT yapılandırma"
+    },
+    {
+      "name": "account_page_disable_booth_mode",
+      "value": "Kabin Kipini Devre Dışı Bırak"
+    },
+    {
+      "name": "account_page_disable_booth_mode_explanation",
+      "value": "Lütfen hesap parolanı gir"
+    },
+    {
+      "name": "account_page_edit_profile",
+      "value": "Profili Düzenle"
+    },
+    {
+      "name": "account_page_edit_sip_expiration_time",
+      "value": "Sona erme süresi"
+    },
+    {
+      "name": "account_page_enable_booth_mode",
+      "value": "Kabin Kipini Etkinleştir"
+    },
+    {
+      "name": "account_page_enable_notifications",
+      "value": "Bildirimleri etkinleştir"
+    },
+    {
+      "name": "account_page_enable_srtp",
+      "value": "SDES anahtar değişimini etkinleştir"
+    },
+    {
+      "name": "account_page_encrypt_account",
+      "value": "Parola"
+    },
+    {
+      "name": "account_page_encrypt_negotiation",
+      "value": "Görüşmeyi şifrele (TLS)"
+    },
+    {
+      "name": "account_page_generating_pin",
+      "value": "PIN kodu oluşturuluyor…"
+    },
+    {
+      "name": "account_page_invalid_address",
+      "value": "Geçerli bir adres girin"
+    },
+    {
+      "name": "account_page_invalid_port",
+      "value": "0 ile 65535 arasında bir değer girin"
+    },
+    {
+      "name": "account_page_invalid_sip_expiration_time",
+      "value": "60 ile 604800 saniye arasında bir değer girin"
+    },
+    {
+      "name": "account_page_invite_friends",
+      "value": "Arkadaşlarını davet et"
+    },
+    {
+      "name": "account_page_link_device_title",
+      "value": "Diğer aygıtı bağla"
+    },
+    {
+      "name": "account_page_linked_devices",
+      "value": "Bağlı Aygıtlar"
+    },
+    {
+      "name": "account_page_manage_account",
+      "value": "Hesabı yönet"
+    },
+    {
+      "name": "account_page_name_server",
+      "value": "Ad Sunucusu"
+    },
+    {
+      "name": "account_page_new_password_confirm_placeholder",
+      "value": "Yeni parolayı doğrula"
+    },
+    {
+      "name": "account_page_new_password_placeholder",
+      "value": "Yeni parolayı gir"
+    },
+    {
+      "name": "account_page_no_booth_mode",
+      "value": "Kabin Kipini etkinleştirmek için önce hesabı parolayla koruyun."
+    },
+    {
+      "name": "account_page_no_proxy_explanation_label",
+      "value": "Vekil sunucu devre dışıyken bildirimler alınamaz."
+    },
+    {
+      "name": "account_page_notification_error",
+      "value": "Jami bildirimleri devre dışı. Bu özelliği kullanmak için aygıt ayarlarından etkinleştirin."
+    },
+    {
+      "name": "account_page_notification_title",
+      "value": "Bildirimler"
+    },
+    {
+      "name": "account_page_notifications_header",
+      "value": "Bildirimler"
+    },
+    {
+      "name": "account_page_other",
+      "value": "Diğer"
+    },
+    {
+      "name": "account_page_other_devices",
+      "value": "Diğer bağlı aygıtlar"
+    },
+    {
+      "name": "account_page_password_created",
+      "value": "Parola ayarlandı"
+    },
+    {
+      "name": "account_page_password_explanation",
+      "value": "Jami hesabı yalnızca bu aygıtta hesabının anahtarlarını içeren bir arşiv olarak kayıtlı. Bu arşive erişim parola ile korunabilir."
+    },
+    {
+      "name": "account_page_password_for_pin",
+      "value": "Bu hesap parola korumalıdır, PIN kodu oluşturmak için parolayı gir."
+    },
+    {
+      "name": "account_page_password_placeholder",
+      "value": "Hesap parolanı gir"
+    },
+    {
+      "name": "account_page_password_updated",
+      "value": "Parola güncellendi"
+    },
+    {
+      "name": "account_page_passwords_do_not_match",
+      "value": "Parolalar eşleşmiyor"
+    },
+    {
+      "name": "account_page_peer_discovery",
+      "value": "Yerel bağlantı bulmayı etkinleştir"
+    },
+    {
+      "name": "account_page_peer_discovery_explanation",
+      "value": "Yerel ağımızda tanıtılan diğer DHT düğümlerine bağlan"
+    },
+    {
+      "name": "account_page_pin_error",
+      "value": "PIN kodu oluşturulurken bir hata oluştu."
+    },
+    {
+      "name": "account_page_pin_explanation_message",
+      "value": "Jami'yi kur ve başlat. “Başka bir cihazdan içe aktar”ı seç ve QR kodunu tara. Alternatif olarak PIN kodunu manuel olarak gir."
+    },
+    {
+      "name": "account_page_pin_explanation_title",
+      "value": "Diğer aygıtta"
+    },
+    {
+      "name": "account_page_profile_header",
+      "value": "Profil"
+    },
+    {
+      "name": "account_page_profile_name",
+      "value": "Profil adı"
+    },
+    {
+      "name": "account_page_profile_name_not_selected",
+      "value": "Ad seçilmedi"
+    },
+    {
+      "name": "account_page_profile_name_placeholder",
+      "value": "Profil adını girin"
+    },
+    {
+      "name": "account_page_proxy_address_alert",
+      "value": "Vekil sunucu adresi sağlayın"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_body",
+      "value": "Bildirimleri almak için lütfen vekil sunucuyu etkinleştirin"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_title",
+      "value": "Vekil Sunucu Devre dışı"
+    },
+    {
+      "name": "account_page_proxy_explanation",
+      "value": "Bildirimler bir vekil sunucu üzerinden yönlendirilir. Varsayılan vekil sunucuyu kullanabilir, özel bir vekil sunucu adresi girebilir veya vekil sunucu listesi içeren bir URL sağlayabilirsiniz."
+    },
+    {
+      "name": "account_page_proxy_header",
+      "value": "Vekil"
+    },
+    {
+      "name": "account_page_proxy_list_url",
+      "value": "Proxy listesi bağlantısı"
+    },
+    {
+      "name": "account_page_proxy_paceholder",
+      "value": "Vekil sunucu adresi"
+    },
+    {
+      "name": "account_page_public_address_header",
+      "value": "Açık adres"
+    },
+    {
+      "name": "account_page_published_address",
+      "value": "Yer"
+    },
+    {
+      "name": "account_page_published_port",
+      "value": "Bağlantı noktası"
+    },
+    {
+      "name": "account_page_published_same_as_local",
+      "value": "Yayımlanan yerel ile aynı"
+    },
+    {
+      "name": "account_page_register_name_error_message",
+      "value": "Kullanıcı adı uygun değil."
+    },
+    {
+      "name": "account_page_register_name_explanation",
+      "value": "Başkalarının sizi Jami'de daha kolay bulup ulaşabilmesi için bir kullanıcı adı kaydedin."
+    },
+    {
+      "name": "account_page_remove_account_message",
+      "value": "Hesap yedeklenmediyse veya başka bir cihaza eklenmediyse, hesap ve kayıtlı kullanıcı adı KURTARILAMAZ ŞEKİLDE KAYBOLACAKTIR."
+    },
+    {
+      "name": "account_page_remove_device_title",
+      "value": "Aygıtı Kaldır"
+    },
+    {
+      "name": "account_page_revoke_device_button",
+      "value": "Kaldır"
+    },
+    {
+      "name": "account_page_revoke_device_message",
+      "value": "Bu aygıtı kaldırmak istiyor musunuz? Bu işlem geri alınamaz."
+    },
+    {
+      "name": "account_page_revoke_device_placeholder",
+      "value": "Hesap parolanı gir"
+    },
+    {
+      "name": "account_page_security",
+      "value": "Güvenlik"
+    },
+    {
+      "name": "account_page_select_sip_expiration_time",
+      "value": "Kayıt sona ermesi için süre (saniye) ayarlayın"
+    },
+    {
+      "name": "account_page_settings_header",
+      "value": "Ayarlar"
+    },
+    {
+      "name": "account_page_sip_expiration_time",
+      "value": "Kaydolma bitimi süresi (saniye)"
+    },
+    {
+      "name": "account_page_stun_enabled",
+      "value": "STUN kullan"
+    },
+    {
+      "name": "account_page_stun_server",
+      "value": "STUN adresi"
+    },
+    {
+      "name": "account_page_this_device",
+      "value": "Bu aygıt"
+    },
+    {
+      "name": "account_page_tls_disable_secure_dlg_check",
+      "value": "Gelen TLS verileri için güvenli iletişim kontrolünü devre dışı bırak"
+    },
+    {
+      "name": "account_page_tls_require_tls_certificate",
+      "value": "Gelen TLS bağlantıları için sertifika iste"
+    },
+    {
+      "name": "account_page_tls_verify_client_certificates",
+      "value": "İstemci TLS sertifikalarını doğrula"
+    },
+    {
+      "name": "account_page_tls_verify_server_certificates",
+      "value": "Sunucu TLS sertifikalarını doğrula"
+    },
+    {
+      "name": "account_page_turn_enabled",
+      "value": "Dönüştürme etkinleştir"
+    },
+    {
+      "name": "account_page_turn_password",
+      "value": "TURN parolası"
+    },
+    {
+      "name": "account_page_turn_realm",
+      "value": "TURN yetki alanı"
+    },
+    {
+      "name": "account_page_turn_server",
+      "value": "TURN adresi"
+    },
+    {
+      "name": "account_page_turn_username",
+      "value": "TURN kullanıcı adı"
+    },
+    {
+      "name": "account_page_typing_indicator",
+      "value": "Tipleme göstergesi"
+    },
+    {
+      "name": "account_page_typing_indicator_explanation",
+      "value": "İletilerin ne zaman yazıldığını belirt."
+    },
+    {
+      "name": "account_page_unblock_contact",
+      "value": "Engeli kaldır"
+    },
+    {
+      "name": "account_page_unlink",
+      "value": "Bağlantıyı kaldır"
+    },
+    {
+      "name": "account_page_upnp_enabled",
+      "value": "UpnP kullan"
+    },
+    {
+      "name": "account_page_use_proxy_list",
+      "value": "Vekil sunucu listesini kullan"
+    },
+    {
+      "name": "account_page_username_placeholder",
+      "value": "İstenen kullanıcı adını girin"
+    },
+    {
+      "name": "account_page_username_register_action",
+      "value": "Kaydol"
+    },
+    {
+      "name": "account_page_username_registering",
+      "value": "Kayıt ediliyor"
+    },
+    {
+      "name": "account_page_username_registration_failed",
+      "value": "Lütfen hesap parolanı kontrol ed."
+    },
+    {
+      "name": "account_page_username_registration_failed_title",
+      "value": "Kayıt başarısız"
+    },
+    {
+      "name": "actions_back_action",
+      "value": "Geri"
+    },
+    {
+      "name": "actions_delete_action",
+      "value": "Sil"
+    },
+    {
+      "name": "actions_done_action",
+      "value": "Tamam"
+    },
+    {
+      "name": "actions_go_to_settings",
+      "value": "Ayarlara Git"
+    },
+    {
+      "name": "actions_stop_location_sharing",
+      "value": "Paylaşmayı durdur"
+    },
+    {
+      "name": "alerts_account_added_title",
+      "value": "Hesap eklendi"
+    },
+    {
+      "name": "alerts_account_cannot_be_found_message",
+      "value": "Jami ağında hesap bulunamadı. Mevcut bir cihazdan Jami'ye aktarıldığından ve sağlanan kimlik bilgilerinin doğru olduğundan emin ol."
+    },
+    {
+      "name": "alerts_account_cannot_be_found_title",
+      "value": "Hesap hatası"
+    },
+    {
+      "name": "alerts_account_default_error_message",
+      "value": "Hesap oluşturulurken bir hata oluştu."
+    },
+    {
+      "name": "alerts_account_default_error_title",
+      "value": "Hesap hatası"
+    },
+    {
+      "name": "alerts_account_linked_title",
+      "value": "Hesap bağlama"
+    },
+    {
+      "name": "alerts_account_no_network_message",
+      "value": "Jami hesabı dağıtık ağa eklenirken bir bağlantı hatası oluştu. Lütfen tekrar deneyin. Sorun devam ederse sistem yöneticinizle iletişime geçin."
+    },
+    {
+      "name": "alerts_account_no_network_title",
+      "value": "Ağ hatası"
+    },
+    {
+      "name": "alerts_alreadylocation_sharing",
+      "value": "Bu kullanıcıyla hâlihazırda konum paylaşılıyor"
+    },
+    {
+      "name": "alerts_confim_remove_contact",
+      "value": "Bu kişiyi kaldırmak istiyor musunuz? Mevcut geçmiş silinecek."
+    },
+    {
+      "name": "alerts_confirm_block_contact",
+      "value": "Bu kişiyi engellemek istiyor musunuz? Bu kişiyle olan görüşme geçmişi de kalıcı olarak silinecek."
+    },
+    {
+      "name": "alerts_confirm_delete_conversation",
+      "value": "Bu görüşmeyi kalıcı olarak kaldırmak istiyor musunuz?"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_from_contact",
+      "value": "Bu kişiyle olan görüşmeyi silmek istiyor musunuz?"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_title",
+      "value": "Görüşmeyi sil"
+    },
+    {
+      "name": "alerts_confirm_leave_conversation",
+      "value": "Sohbetten ayrılmak istiyor musun?"
+    },
+    {
+      "name": "alerts_confirm_remove_one_to_one_conversation",
+      "value": "Bu görüşmeyi kaldırmak istiyor musunuz? Mevcut geçmiş silinecek. Bu kişiyle başka görüşmeniz yoksa yeni bir görüşme başlatılabilir."
+    },
+    {
+      "name": "alerts_db_failed_message",
+      "value": "Lütfen uygulamayı kapatın ve yeniden açmayı deneyin"
+    },
+    {
+      "name": "alerts_db_failed_title",
+      "value": "Jami başlatılırken bir hata oluştu"
+    },
+    {
+      "name": "alerts_error_wrong_credentials",
+      "value": "Yönetim sunucusuna bağlanırken bir hata oluştu. Lütfen tekrar deneyin. Sorun devam ederse sistem yöneticinizle iletişime geçin."
+    },
+    {
+      "name": "alerts_location_service_is_disabled",
+      "value": "“Jami”nin aygıt konumunu belirlemesine izin vermek için “Konum Servisleri”ni açın."
+    },
+    {
+      "name": "alerts_location_sharing",
+      "value": "Konumumu paylaş"
+    },
+    {
+      "name": "alerts_location_sharing_duration10min",
+      "value": "10 dk"
+    },
+    {
+      "name": "alerts_location_sharing_duration1hour",
+      "value": "1 saat"
+    },
+    {
+      "name": "alerts_location_sharing_duration_title",
+      "value": "Konum paylaşımı ne zamana dek sürmeli?"
+    },
+    {
+      "name": "alerts_map_information",
+      "value": "Harita bilgisi"
+    },
+    {
+      "name": "alerts_no_library_permissions_title",
+      "value": "Fotoğraf kitaplığına erişim izni verilmedi"
+    },
+    {
+      "name": "alerts_no_location_permissions_title",
+      "value": "Konum erişim izni verilmedi"
+    },
+    {
+      "name": "alerts_no_media_permissions_title",
+      "value": "Medya izni verilmedi"
+    },
+    {
+      "name": "alerts_open_street_map_copyright",
+      "value": "© OpenStreetMap katkıcıları"
+    },
+    {
+      "name": "alerts_open_street_map_copyright_more_info",
+      "value": "Daha çok  öğren"
+    },
+    {
+      "name": "alerts_profile_take_photo",
+      "value": "Fotoğraf çek"
+    },
+    {
+      "name": "alerts_profile_upload_photo",
+      "value": "Fotograf yükle"
+    },
+    {
+      "name": "alerts_record_audio_message",
+      "value": "Sesli ileti kaydet"
+    },
+    {
+      "name": "alerts_record_video_message",
+      "value": "Video iletisi kaydet"
+    },
+    {
+      "name": "alerts_send_photo",
+      "value": "Fotoğraf gönder"
+    },
+    {
+      "name": "alerts_upload_file",
+      "value": "Dosya gönder"
+    },
+    {
+      "name": "alerts_upload_photo",
+      "value": "Galeriyi aç"
+    },
+    {
+      "name": "backup_account_archive_name",
+      "value": "Arşiv için bir ad seçin."
+    },
+    {
+      "name": "backup_account_archive_name_placeholder",
+      "value": "Arşiv adı"
+    },
+    {
+      "name": "backup_account_backup_button",
+      "value": "Yedekle"
+    },
+    {
+      "name": "backup_account_creating",
+      "value": "Yedek oluşturuluyor"
+    },
+    {
+      "name": "backup_account_document_picker_button",
+      "value": "Yedek konumunu aç"
+    },
+    {
+      "name": "backup_account_error_access_denied",
+      "value": "Seçilen konuma erişim reddedildi."
+    },
+    {
+      "name": "backup_account_error_failed",
+      "value": "Hesap dışa aktarılırken bir hata oluştu."
+    },
+    {
+      "name": "backup_account_error_wrong_location",
+      "value": "Seçilen dosya yolu geçersiz. Lütfen farklı bir konum seçin."
+    },
+    {
+      "name": "backup_account_explanation",
+      "value": "Bu Jami hesabı yalnızca bu aygıtta bulunur. Bu aygıt kaybolursa veya uygulama kaldırılırsa hesap kaybolur. Bu hesabın yedeğini almanız önerilir."
+    },
+    {
+      "name": "backup_account_export_success",
+      "value": "Yedek oluşturuldu"
+    },
+    {
+      "name": "backup_account_password_request",
+      "value": "Hesap parolanı gir"
+    },
+    {
+      "name": "backup_account_title",
+      "value": "Hesabı yedekle"
+    },
+    {
+      "name": "block_list_page_no_blocked_contacts",
+      "value": "Engellenmiş kişi yok"
+    },
+    {
+      "name": "calls_accept_with_audio",
+      "value": "Sesli kabul et"
+    },
+    {
+      "name": "calls_accept_with_video",
+      "value": "Görüntülü kabul et"
+    },
+    {
+      "name": "calls_active_call_in_conversation",
+      "value": "Bir çağrı sürüyor. Görüşmeye katılmak istiyor musun?"
+    },
+    {
+      "name": "calls_active_call_label",
+      "value": "Bir çağrı sürüyor. Çağrıya katılmak istiyor musunuz? Çağrıya daha sonra görüşmeden de katılabilirsiniz."
+    },
+    {
+      "name": "calls_call_finished",
+      "value": "Çağrı sonlandırıldı"
+    },
+    {
+      "name": "calls_calling",
+      "value": "Calling…"
+    },
+    {
+      "name": "calls_calling_participants",
+      "value": "Calling (%s)"
+    },
+    {
+      "name": "calls_connecting",
+      "value": "Bağlanıyor..."
+    },
+    {
+      "name": "calls_current_call_with",
+      "value": "İle çağrı yap"
+    },
+    {
+      "name": "calls_grid_layout",
+      "value": "Grid view"
+    },
+    {
+      "name": "calls_in_this_call",
+      "value": "In this call (%s)"
+    },
+    {
+      "name": "calls_inviting",
+      "value": "Inviting…"
+    },
+    {
+      "name": "calls_lower_hand",
+      "value": "Elini indir"
+    },
+    {
+      "name": "calls_maximize",
+      "value": "En büyük"
+    },
+    {
+      "name": "calls_minimize",
+      "value": "En küçük"
+    },
+    {
+      "name": "calls_mute_audio",
+      "value": "Mikrofon sessiz"
+    },
+    {
+      "name": "calls_participant_options",
+      "value": "Options for %s"
+    },
+    {
+      "name": "calls_participants_in_call",
+      "value": "%s in call"
+    },
+    {
+      "name": "calls_peer_recording",
+      "value": "Kayıt"
+    },
+    {
+      "name": "calls_raise_hand",
+      "value": "El kaldır"
+    },
+    {
+      "name": "calls_remove_moderator",
+      "value": "Oturum başkanı ayarını kaldır"
+    },
+    {
+      "name": "calls_ringing",
+      "value": "Çalıyor..."
+    },
+    {
+      "name": "calls_set_moderator",
+      "value": "Oturum başkanı ayarla"
+    },
+    {
+      "name": "calls_start_picture_in_picture",
+      "value": "Start Picture in Picture"
+    },
+    {
+      "name": "calls_stop_calling",
+      "value": "Stop calling %s"
+    },
+    {
+      "name": "calls_unmute_audio",
+      "value": "Mikrofonun sesini aç"
+    },
+    {
+      "name": "collab_align_center",
+      "value": "Merkez"
+    },
+    {
+      "name": "collab_align_justify",
+      "value": "Justify"
+    },
+    {
+      "name": "collab_align_left",
+      "value": "Align left"
+    },
+    {
+      "name": "collab_align_right",
+      "value": "Align right"
+    },
+    {
+      "name": "collab_bold",
+      "value": "Kalın"
+    },
+    {
+      "name": "collab_bullet_list",
+      "value": "Bulleted list"
+    },
+    {
+      "name": "collab_clear_format",
+      "value": "Clear formatting"
+    },
+    {
+      "name": "collab_create",
+      "value": "Oluştur"
+    },
+    {
+      "name": "collab_create_error",
+      "value": "This document could not be created."
+    },
+    {
+      "name": "collab_created_by",
+      "value": "Created by %s"
+    },
+    {
+      "name": "collab_created_by_not_downloaded",
+      "value": "Created by %s, not downloaded"
+    },
+    {
+      "name": "collab_document_name_hint",
+      "value": "Document name"
+    },
+    {
+      "name": "collab_document_removed",
+      "value": "Document removed"
+    },
+    {
+      "name": "collab_document_removed_locally",
+      "value": "Document removed from this device"
+    },
+    {
+      "name": "collab_document_removed_locally_message",
+      "value": "\"%s\" is no longer on this device. Opening it again downloads it back."
+    },
+    {
+      "name": "collab_document_removed_message",
+      "value": "\"%s\" was removed by its author."
+    },
+    {
+      "name": "collab_documents",
+      "value": "Belgeler"
+    },
+    {
+      "name": "collab_download_and_open",
+      "value": "Download and open"
+    },
+    {
+      "name": "collab_editable_document",
+      "value": "Editable document"
+    },
+    {
+      "name": "collab_editing_alone",
+      "value": "Only you are editing"
+    },
+    {
+      "name": "collab_editing_one_other",
+      "value": "1 other person is editing"
+    },
+    {
+      "name": "collab_editing_others",
+      "value": "%d other people are editing"
+    },
+    {
+      "name": "collab_export",
+      "value": "Export a local copy"
+    },
+    {
+      "name": "collab_export_anyway",
+      "value": "Export anyway"
+    },
+    {
+      "name": "collab_export_error",
+      "value": "This document could not be exported."
+    },
+    {
+      "name": "collab_export_html",
+      "value": "Export to HTML"
+    },
+    {
+      "name": "collab_export_markdown",
+      "value": "Export to Markdown"
+    },
+    {
+      "name": "collab_export_missing_images",
+      "value": "%d picture(s) in this document have not arrived yet, and will be left out of the exported file."
+    },
+    {
+      "name": "collab_export_pdf",
+      "value": "Export to PDF"
+    },
+    {
+      "name": "collab_export_text",
+      "value": "Export to plain text"
+    },
+    {
+      "name": "collab_heading",
+      "value": "Heading %d"
+    },
+    {
+      "name": "collab_history",
+      "value": "Version history"
+    },
+    {
+      "name": "collab_image_error",
+      "value": "This image could not be added."
+    },
+    {
+      "name": "collab_image_too_large",
+      "value": "This image is too large to be added to a document."
+    },
+    {
+      "name": "collab_insert_image",
+      "value": "Insert image"
+    },
+    {
+      "name": "collab_italic",
+      "value": "İtalik"
+    },
+    {
+      "name": "collab_link_add",
+      "value": "Ekle"
+    },
+    {
+      "name": "collab_link_hint",
+      "value": "Yer"
+    },
+    {
+      "name": "collab_link_remove",
+      "value": "Kaldır"
+    },
+    {
+      "name": "collab_link_title",
+      "value": "Bağlantı"
+    },
+    {
+      "name": "collab_menu",
+      "value": "Document actions"
+    },
+    {
+      "name": "collab_new_document",
+      "value": "New document"
+    },
+    {
+      "name": "collab_no_documents",
+      "value": "No document has been written in this conversation yet."
+    },
+    {
+      "name": "collab_no_history",
+      "value": "This document has no saved version yet."
+    },
+    {
+      "name": "collab_not_downloaded",
+      "value": "Not downloaded"
+    },
+    {
+      "name": "collab_open",
+      "value": "Açık"
+    },
+    {
+      "name": "collab_open_error",
+      "value": "This document could not be opened."
+    },
+    {
+      "name": "collab_ordered_list",
+      "value": "Numbered list"
+    },
+    {
+      "name": "collab_redo",
+      "value": "Geri Al"
+    },
+    {
+      "name": "collab_remove",
+      "value": "Kaldır"
+    },
+    {
+      "name": "collab_remove_error",
+      "value": "This document could not be removed."
+    },
+    {
+      "name": "collab_remove_everywhere_action",
+      "value": "Kaldır"
+    },
+    {
+      "name": "collab_remove_everywhere_menu",
+      "value": "Remove for everyone"
+    },
+    {
+      "name": "collab_remove_locally_action",
+      "value": "Offload"
+    },
+    {
+      "name": "collab_remove_locally_error",
+      "value": "This document could not be removed from this device."
+    },
+    {
+      "name": "collab_remove_locally_menu",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_locally_message",
+      "value": "\"%s\" will be removed from this device only. The other members keep it, and opening it again downloads it back."
+    },
+    {
+      "name": "collab_remove_locally_title",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_message",
+      "value": "\"%s\" will be removed for every member of this conversation. This cannot be undone."
+    },
+    {
+      "name": "collab_remove_title",
+      "value": "Remove document"
+    },
+    {
+      "name": "collab_rename",
+      "value": "Rename"
+    },
+    {
+      "name": "collab_send_error",
+      "value": "Your changes could not be sent."
+    },
+    {
+      "name": "collab_strikethrough",
+      "value": "Üstü çizili"
+    },
+    {
+      "name": "collab_underline",
+      "value": "Underline"
+    },
+    {
+      "name": "collab_undo",
+      "value": "Geri Al"
+    },
+    {
+      "name": "collab_untitled",
+      "value": "Untitled document"
+    },
+    {
+      "name": "collab_version_by",
+      "value": "%1$s — %2$s"
+    },
+    {
+      "name": "collab_version_deltas",
+      "value": "%1$s — %2$s, %3$d change(s)"
+    },
+    {
+      "name": "collab_version_leave",
+      "value": "Back to the current version"
+    },
+    {
+      "name": "collab_version_restore",
+      "value": "Restore"
+    },
+    {
+      "name": "collab_version_restore_error",
+      "value": "This version could not be restored."
+    },
+    {
+      "name": "collab_version_restored",
+      "value": "The document was restored to this version."
+    },
+    {
+      "name": "collab_version_shown",
+      "value": "Version of %s"
+    },
+    {
+      "name": "collab_version_unchanged",
+      "value": "This version is the document you already have."
+    },
+    {
+      "name": "contact_page_leave_conversation",
+      "value": "Görüşmeden ayrıl"
+    },
+    {
+      "name": "contact_page_send",
+      "value": "Gönder"
+    },
+    {
+      "name": "contact_page_start_audio_call",
+      "value": "Sesli arama başlat"
+    },
+    {
+      "name": "contact_page_start_video_call",
+      "value": "Görüntülü arama başlat"
+    },
+    {
+      "name": "contact_picker_calls",
+      "value": "Çağrılar"
+    },
+    {
+      "name": "contact_picker_contacts",
+      "value": "Kişiler"
+    },
+    {
+      "name": "conversation_add_to_contacts_button",
+      "value": "Kişilere ekle"
+    },
+    {
+      "name": "conversation_add_to_contacts_label",
+      "value": "Kişilere eklensin mi?"
+    },
+    {
+      "name": "conversation_contact_blocked",
+      "value": "Kişi engellendi"
+    },
+    {
+      "name": "conversation_deleted_message",
+      "value": "%s iletiyi sildi"
+    },
+    {
+      "name": "conversation_edited",
+      "value": "Düzenlendi"
+    },
+    {
+      "name": "conversation_error_saving_image",
+      "value": "Görüntü kaydedilemedi"
+    },
+    {
+      "name": "conversation_error_saving_image_message",
+      "value": "Görüntü fotoğraf kitaplığına kaydedilirken bir hata oluştu."
+    },
+    {
+      "name": "conversation_image_saved",
+      "value": "Kaydedildi"
+    },
+    {
+      "name": "conversation_in_reply_to",
+      "value": "Cevap olarak"
+    },
+    {
+      "name": "conversation_incoming_request",
+      "value": "size bir görüşme daveti gönderdi."
+    },
+    {
+      "name": "conversation_last_message_deleted",
+      "value": "(silinmiş ileti)"
+    },
+    {
+      "name": "conversation_message_placeholder",
+      "value": "Şuna yaz:"
+    },
+    {
+      "name": "conversation_not_contact_label",
+      "value": "%s kişi listesinde değil"
+    },
+    {
+      "name": "conversation_photo_access_required_message",
+      "value": "Jami'nin görüntüleri kaydetmek için fotoğraf kitaplığınıza erişmesi gerekiyor. Bunu Ayarlar'dan etkinleştirebilirsiniz."
+    },
+    {
+      "name": "conversation_received_request",
+      "value": "%s size bir görüşme daveti gönderdi."
+    },
+    {
+      "name": "conversation_replied_to",
+      "value": "%s, %s yanıtladı"
+    },
+    {
+      "name": "conversation_request_message",
+      "value": "Merhaba,\nSohbete katılmak ister misin?"
+    },
+    {
+      "name": "conversation_send_invitation_button",
+      "value": "Davetiye Gönder"
+    },
+    {
+      "name": "conversation_send_request",
+      "value": "Görüşebilmek için onlara bir davet gönderin."
+    },
+    {
+      "name": "conversation_send_request_title",
+      "value": "Görüşme daveti gönder"
+    },
+    {
+      "name": "conversation_synchronization_message",
+      "value": "Görüşmeyi eşitlemek için %s bağlantısı bekleniyor…"
+    },
+    {
+      "name": "conversation_synchronization_title",
+      "value": "Görüşme davetini kabul ettiniz."
+    },
+    {
+      "name": "conversation_syncing_title",
+      "value": "Görüşme eşitleniyor"
+    },
+    {
+      "name": "conversation_typing_indicator_one_user",
+      "value": "%s yazıyor"
+    },
+    {
+      "name": "conversation_typing_indicator_other_users",
+      "value": "%1$s, %2$s ve %3$s diğer kişi yazıyor"
+    },
+    {
+      "name": "conversation_typing_indicator_others_users",
+      "value": "%1$s, %2$s ve %3$s diğer kişi yazıyor"
+    },
+    {
+      "name": "conversation_typing_indicator_two_users",
+      "value": "%1$s ve %2$s yazıyor"
+    },
+    {
+      "name": "conversation_yourself",
+      "value": "Siz"
+    },
+    {
+      "name": "create_account_username_not_registered_message",
+      "value": "Hesap oluşturuldu fakat kullanıcı adı kaydedilmedi"
+    },
+    {
+      "name": "create_account_username_not_registered_title",
+      "value": "Ağ hatası"
+    },
+    {
+      "name": "create_account_create_account_form_title",
+      "value": "Jami'ye katılın."
+    },
+    {
+      "name": "create_account_creating_account",
+      "value": "Hesap oluşturuluyor"
+    },
+    {
+      "name": "create_account_customize",
+      "value": "Özelleştir"
+    },
+    {
+      "name": "create_account_encrypt",
+      "value": "Parola koruması"
+    },
+    {
+      "name": "create_account_encrypt_explanation",
+      "value": "Jami hesabı, hesap anahtarlarını içeren bir arşiv olarak yalnızca bu aygıtta yerel olarak oluşturulur ve saklanır. Bu arşive erişim isteğe bağlı olarak parola ile korunabilir."
+    },
+    {
+      "name": "create_account_encrypt_title",
+      "value": "Parola korumalı hesap"
+    },
+    {
+      "name": "create_account_encryption_enabled",
+      "value": "Parola koruması etkin"
+    },
+    {
+      "name": "create_account_invalid_username",
+      "value": "Geçersiz kullanıcı adı. Lütfen doğru kullanıcı adını girin."
+    },
+    {
+      "name": "create_account_looking_for_username_availability",
+      "value": "Kullanıcı adının kullanılabilirliği kontrol ediliyor…"
+    },
+    {
+      "name": "create_account_name_explanation",
+      "value": "Jami'de bulunmanı kolaylaştırmak için bir kullanıcı adı seçebilirsin."
+    },
+    {
+      "name": "create_account_new_account",
+      "value": "Yeni hesap"
+    },
+    {
+      "name": "create_account_sip_configure",
+      "value": "Mevcut SIP hesabını yapılandır"
+    },
+    {
+      "name": "create_account_timeout_message",
+      "value": "Kullanıcı adı kaydı devam ediyor. Lütfen bekle…"
+    },
+    {
+      "name": "create_account_timeout_title",
+      "value": "Hesap Oluşturuldu"
+    },
+    {
+      "name": "create_account_username_already_taken",
+      "value": "Kullanıcı adı önceden alınmış"
+    },
+    {
+      "name": "create_account_username_valid",
+      "value": "Kullanıcı adı uygun."
+    },
+    {
+      "name": "create_profile_create_profile_picture",
+      "value": "Profil resmi oluştur"
+    },
+    {
+      "name": "create_profile_enter_name_label",
+      "value": "Görünecek adı girin"
+    },
+    {
+      "name": "create_profile_enter_name_placeholder",
+      "value": "Ad girin"
+    },
+    {
+      "name": "create_profile_profile_created",
+      "value": "İleri"
+    },
+    {
+      "name": "create_profile_skip_create_profile",
+      "value": "Atla"
+    },
+    {
+      "name": "create_profile_subtitle",
+      "value": "Profiliniz yalnızca kişilerinizle paylaşılır. Profil istenildiği zaman değiştirilebilir."
+    },
+    {
+      "name": "create_profile_title",
+      "value": "Profilini kişiselleştir"
+    },
+    {
+      "name": "data_transfer_info_message",
+      "value": "Kaydı başlatmak için dokunun"
+    },
+    {
+      "name": "data_transfer_readable_status_accept",
+      "value": "Kabul et"
+    },
+    {
+      "name": "data_transfer_readable_status_awaiting",
+      "value": "Bekliyor..."
+    },
+    {
+      "name": "data_transfer_readable_status_canceled",
+      "value": "İptal edildi"
+    },
+    {
+      "name": "data_transfer_readable_status_created",
+      "value": "Başlatılıyor..."
+    },
+    {
+      "name": "data_transfer_readable_status_decline",
+      "value": "Reddet"
+    },
+    {
+      "name": "data_transfer_readable_status_error",
+      "value": "Hata"
+    },
+    {
+      "name": "data_transfer_readable_status_ongoing",
+      "value": "Aktarıyor"
+    },
+    {
+      "name": "data_transfer_readable_status_success",
+      "value": "Tam"
+    },
+    {
+      "name": "data_transfer_record_in_background_warning",
+      "value": "Birden fazla uygulamayla çoklu görev yaparken video kaydetmek, video kalitesinin düşmesine neden olabilir. İyi sonuç elde etmek için çoklu görev yapmadığınız zamanlarda kaydedin"
+    },
+    {
+      "name": "data_transfer_send_message",
+      "value": "Gönder"
+    },
+    {
+      "name": "data_transfer_sending_failed",
+      "value": "Gönderilirken bir hata oluştu."
+    },
+    {
+      "name": "general_settings_accept_transfer_limit",
+      "value": "Aktarma sınırını kabul et"
+    },
+    {
+      "name": "general_settings_accept_transfer_limit_description",
+      "value": "(MB, 0 = sınırsız)"
+    },
+    {
+      "name": "general_settings_automatic_accept_incoming_files",
+      "value": "Gelen dosyaları otomatik olarak kabul et"
+    },
+    {
+      "name": "general_settings_donation_campaign",
+      "value": "Bağış kampanyası"
+    },
+    {
+      "name": "general_settings_enable_donation_campaign",
+      "value": "Bağış kampanyasını etkinleştir"
+    },
+    {
+      "name": "general_settings_file_transfer",
+      "value": "Dosya aktarımı"
+    },
+    {
+      "name": "general_settings_limit_location_sharing_duration",
+      "value": "Konum paylaşımının süresini sınırla"
+    },
+    {
+      "name": "general_settings_location_sharing",
+      "value": "Konum paylaşımı"
+    },
+    {
+      "name": "location_sharing_title",
+      "value": "Konum paylaşımı"
+    },
+    {
+      "name": "general_settings_location_sharing_duration",
+      "value": "Konum paylaşım süresi"
+    },
+    {
+      "name": "general_settings_video_acceleration",
+      "value": "Görüntü hızlandırmayı etkinleştir"
+    },
+    {
+      "name": "general_settings_video_settings",
+      "value": "Video ayarları"
+    },
+    {
+      "name": "generated_message_contact_added",
+      "value": "Davetiye alındı"
+    },
+    {
+      "name": "generated_message_contact_blocked",
+      "value": "%s görüşmeye katılması engellendi."
+    },
+    {
+      "name": "generated_message_contact_left_conversation",
+      "value": "%s görüşmeden ayrıldı."
+    },
+    {
+      "name": "generated_message_contact_unblocked",
+      "value": "%s görüşmeye erişim engeli kaldırıldı."
+    },
+    {
+      "name": "generated_message_invitation_accepted",
+      "value": "%s görüşme katıldı."
+    },
+    {
+      "name": "generated_message_invitation_received",
+      "value": "%s görüşmeye katılmaya davet edildi."
+    },
+    {
+      "name": "generated_message_live_location_sharing",
+      "value": "Canlı konum paylaşımı"
+    },
+    {
+      "name": "generated_message_missed_incoming_call",
+      "value": "Cevapsız gelen çağrı"
+    },
+    {
+      "name": "generated_message_missed_outgoing_call",
+      "value": "Cevapsız giden çağrı"
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_accepted",
+      "value": "Davetiniz kabul edildi."
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_received",
+      "value": "Bir davet gönderdiniz."
+    },
+    {
+      "name": "generated_message_outgoing_call",
+      "value": "Giden çağrı"
+    },
+    {
+      "name": "generated_message_swarm_created",
+      "value": "Görüşme oluşturuldu"
+    },
+    {
+      "name": "generated_message_you_joined",
+      "value": "Sohbete katıldın."
+    },
+    {
+      "name": "global_accept",
+      "value": "Kabul et"
+    },
+    {
+      "name": "global_account_settings",
+      "value": "Hesap Ayarları"
+    },
+    {
+      "name": "global_block",
+      "value": "Engelle"
+    },
+    {
+      "name": "global_block_contact",
+      "value": "Kişiyi engelle"
+    },
+    {
+      "name": "global_call",
+      "value": "Çağrı"
+    },
+    {
+      "name": "global_camera_disabled",
+      "value": "Kamera erişimi devre dışı. Bu özelliği kullanmak için aygıt ayarlarından etkinleştirin."
+    },
+    {
+      "name": "global_cancel",
+      "value": "İptal"
+    },
+    {
+      "name": "global_close",
+      "value": "Kapat"
+    },
+    {
+      "name": "global_confirm",
+      "value": "Onayla"
+    },
+    {
+      "name": "global_confirm_password",
+      "value": "Parolayı onayla"
+    },
+    {
+      "name": "global_connect",
+      "value": "Bağlan"
+    },
+    {
+      "name": "global_copy",
+      "value": "Kopyala"
+    },
+    {
+      "name": "global_create",
+      "value": "Oluştur"
+    },
+    {
+      "name": "global_decline",
+      "value": "Reddet"
+    },
+    {
+      "name": "global_delete_file",
+      "value": "Dosyayı aygıttan sil"
+    },
+    {
+      "name": "global_delete_message",
+      "value": "İletiyi sil"
+    },
+    {
+      "name": "global_edit",
+      "value": "Düzenle"
+    },
+    {
+      "name": "global_edit_message",
+      "value": "İletiyi düzenle"
+    },
+    {
+      "name": "global_edit_password",
+      "value": "Parolayı düzenle"
+    },
+    {
+      "name": "global_editing",
+      "value": "Düzenleniyor"
+    },
+    {
+      "name": "global_enter_password",
+      "value": "Parolayı gir"
+    },
+    {
+      "name": "global_enter_username",
+      "value": "Kullanıcı adını girin"
+    },
+    {
+      "name": "global_forward",
+      "value": "İlet"
+    },
+    {
+      "name": "global_incoming_call",
+      "value": "Gelen çağrı"
+    },
+    {
+      "name": "global_leave",
+      "value": "Git."
+    },
+    {
+      "name": "global_name",
+      "value": "İsim"
+    },
+    {
+      "name": "global_ok",
+      "value": "Tamam"
+    },
+    {
+      "name": "global_password",
+      "value": "Parola"
+    },
+    {
+      "name": "global_preview",
+      "value": "Ön izle"
+    },
+    {
+      "name": "global_recommended",
+      "value": "Önerilen"
+    },
+    {
+      "name": "global_register_a_username",
+      "value": "Kullanıcı adını kaydet"
+    },
+    {
+      "name": "global_remove",
+      "value": "Kaldır"
+    },
+    {
+      "name": "global_remove_account",
+      "value": "Hesabı Kaldır"
+    },
+    {
+      "name": "global_reply",
+      "value": "Yanıtla"
+    },
+    {
+      "name": "global_resend",
+      "value": "Yeniden gönder"
+    },
+    {
+      "name": "global_save",
+      "value": "Kaydet"
+    },
+    {
+      "name": "global_search",
+      "value": "Aranıyor…"
+    },
+    {
+      "name": "global_share",
+      "value": "Paylaş"
+    },
+    {
+      "name": "global_support_jami",
+      "value": "Jami projesini destekleyin"
+    },
+    {
+      "name": "global_time",
+      "value": "Zaman"
+    },
+    {
+      "name": "global_username",
+      "value": "Kullanıcı adı"
+    },
+    {
+      "name": "global_video",
+      "value": "Görüntü"
+    },
+    {
+      "name": "import_from_archive_button_title",
+      "value": "İçe aktar"
+    },
+    {
+      "name": "import_from_archive_explanation",
+      "value": "Jami hesabını yerel arşiv dosyasından içe aktar."
+    },
+    {
+      "name": "import_from_archive_password_explanation",
+      "value": "Hesabın parola korumalı ise lütfen aşağıdaki alanı doldur."
+    },
+    {
+      "name": "import_from_archive_select_archive_button",
+      "value": "Arşiv dosyasını seç"
+    },
+    {
+      "name": "import_from_archive_title",
+      "value": "Arşivden içe aktar"
+    },
+    {
+      "name": "invitations_accepted",
+      "value": "Kabul edildi"
+    },
+    {
+      "name": "invitations_blocked",
+      "value": "Engellendi"
+    },
+    {
+      "name": "invitations_declined",
+      "value": "Reddedildi"
+    },
+    {
+      "name": "invitations_list",
+      "value": "Alınan davetler"
+    },
+    {
+      "name": "invitations_no_invitations",
+      "value": "Davetiye yok"
+    },
+    {
+      "name": "link_device_authentication_info",
+      "value": "Aşağıdaki IP adresinde yeni bir aygıt bulundu. Bu siz misiniz? Hesap dışa aktarma işlemine devam etmek için Onayla'ya dokunun."
+    },
+    {
+      "name": "link_device_code",
+      "value": "kod"
+    },
+    {
+      "name": "link_device_completed",
+      "value": "Hesap yeni cihaza başarıyla aktarıldı."
+    },
+    {
+      "name": "link_device_connecting",
+      "value": "Yeni aygıtınıza bağlanılıyor…"
+    },
+    {
+      "name": "link_device_error_code",
+      "value": "Kod oluşturulurken bir hata oluştu. Lütfen tekrar deneyin."
+    },
+    {
+      "name": "link_device_error_network",
+      "value": "Hesap bağlanırken bir ağ hatası oluştu. Lütfen bağlantını doğrula ve tekrar dene."
+    },
+    {
+      "name": "link_device_error_timeout",
+      "value": "İşlem zaman aşımına uğradı. Lütfen tekrar dene."
+    },
+    {
+      "name": "link_device_error_wrong_data",
+      "value": "Hesabı dışa aktarırken bir hata oluştu. Lütfen tekrar dene."
+    },
+    {
+      "name": "link_device_error_wrong_password",
+      "value": "Cihaz bağlanırken bir kimlik doğrulama hatası oluştu. Lütfen kimlik bilgilerini kontrol et ve tekrar dene."
+    },
+    {
+      "name": "link_device_export_in_progress",
+      "value": "Yeni aygıta hesap dışa aktarma işlemi sürüyor. Lütfen yeni aygıtta içe aktarmayı onaylayın."
+    },
+    {
+      "name": "link_device_info_add_account",
+      "value": "Hesap Ekle → Başka bir aygıttan bağlan seçin."
+    },
+    {
+      "name": "link_device_info_code",
+      "value": "Hazır olduğunuzda kodu girin ve Bağlan'a dokunun."
+    },
+    {
+      "name": "link_device_info_qr_code",
+      "value": "Hazır olduğunuzda QR kodunu tara."
+    },
+    {
+      "name": "link_device_initial_info",
+      "value": "Yeni cihazda yeni bir hesap başlat."
+    },
+    {
+      "name": "link_device_network_error",
+      "value": "Hesap dışa aktarılırken bir ağ hatası oluştu."
+    },
+    {
+      "name": "link_device_new_device_ip",
+      "value": "Yeni cihazın IP adresi: %1$s"
+    },
+    {
+      "name": "link_device_title",
+      "value": "Yeni aygıt bağla"
+    },
+    {
+      "name": "link_device_wrong_entry",
+      "value": "Tanınmayan yeni cihaz tanımlayıcısı. Lütfen yukarıdaki talimatları izle."
+    },
+    {
+      "name": "link_to_account_account_locked_with_password",
+      "value": "Hesap parola korumalıdır. Devam etmek için hesap parolasını gir."
+    },
+    {
+      "name": "link_to_account_action_required",
+      "value": "İşlem gerekli.\nLütfen kaynak aygıtta hesabı onaylayın."
+    },
+    {
+      "name": "link_to_account_alert_message",
+      "value": "Durdurma işlemi, hesabın içeri aktarılması işlemini iptal edecek."
+    },
+    {
+      "name": "link_to_account_alert_tile",
+      "value": "Hesap bağlamayı durdurmak istiyor musunuz?"
+    },
+    {
+      "name": "link_to_account_all_set",
+      "value": "Hesap başarıyla içe aktarıldı."
+    },
+    {
+      "name": "link_to_account_enter_provided_code",
+      "value": "Hazır olduğunuzda kimlik doğrulama kodunu girin."
+    },
+    {
+      "name": "link_to_account_exit",
+      "value": "Çıkış"
+    },
+    {
+      "name": "link_to_account_export_instructions",
+      "value": "Kaynak aygıtta dışa aktarmayı başlatın."
+    },
+    {
+      "name": "link_to_account_export_instructions_path",
+      "value": "Hesap → Hesap Ayarları → Yeni aygıt bağla seçin."
+    },
+    {
+      "name": "link_to_account_go_to_accounts",
+      "value": "İçe aktarılan hesaba git"
+    },
+    {
+      "name": "link_to_account_import_account",
+      "value": "Hesabı içe aktar"
+    },
+    {
+      "name": "link_to_account_scan_qr_code",
+      "value": "Hazır olduğunuzda QR kodunu tara."
+    },
+    {
+      "name": "link_to_account_share_message",
+      "value": "Kodunuz: %s"
+    },
+    {
+      "name": "link_to_account_show_pin_code",
+      "value": "Kimlik doğrulama kodu"
+    },
+    {
+      "name": "link_to_account_show_qr_code",
+      "value": "QR kodu"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_label",
+      "value": "Yönetim sunucusu bağlantısını gir"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_placeholder",
+      "value": "Yönetim sunucusu bağlantısı"
+    },
+    {
+      "name": "link_to_account_manager_enter_credentials",
+      "value": "Yönetim sunucusu kimlik bilgilerini girin"
+    },
+    {
+      "name": "link_to_account_manager_jams_explanation",
+      "value": "Yönetim sunucusu bağlantısını gir"
+    },
+    {
+      "name": "link_to_account_manager_sign_in",
+      "value": "Oturum açın"
+    },
+    {
+      "name": "link_to_account_manager_title",
+      "value": "Yönetim sunucusu hesabı"
+    },
+    {
+      "name": "log_view_description",
+      "value": "Tanılama günlüğü ayarlarını aç"
+    },
+    {
+      "name": "log_view_save_error",
+      "value": "Dosya kaydedilirken bir hata oluştu."
+    },
+    {
+      "name": "log_view_share_error",
+      "value": "Dosya paylaşılırken bir hata oluştu."
+    },
+    {
+      "name": "log_view_start_logging",
+      "value": "Günlük kaydını başlat"
+    },
+    {
+      "name": "log_view_stop_logging",
+      "value": "Günlüklemeyi durdur"
+    },
+    {
+      "name": "log_view_title",
+      "value": "Tanılama"
+    },
+    {
+      "name": "migrate_account_error",
+      "value": "Hesap geçişi yapılırken bir hata oluştu. Tekrar deneyin veya hesabı silin."
+    },
+    {
+      "name": "migrate_account_explanation",
+      "value": "Hesap geçişi gerekli."
+    },
+    {
+      "name": "migrate_account_migrate_another",
+      "value": "Başka Bir Hesabı Taşı"
+    },
+    {
+      "name": "migrate_account_migrate_button",
+      "value": "Hesap Taşıma"
+    },
+    {
+      "name": "migrate_account_migrating",
+      "value": "Geçiş yapılıyor…"
+    },
+    {
+      "name": "migrate_account_password_explanation",
+      "value": "Hesap taşıma işlemine devam etmek için hesap parolasını gir."
+    },
+    {
+      "name": "migrate_account_title",
+      "value": "Hesap taşıma"
+    },
+    {
+      "name": "notifications_location_sharing_started",
+      "value": "Gelen konum paylaşımı başlatıldı"
+    },
+    {
+      "name": "notifications_location_sharing_stopped",
+      "value": "Gelen konum paylaşımı durduruldu"
+    },
+    {
+      "name": "notifications_missed_call",
+      "value": "Yanıtsız Çağrı"
+    },
+    {
+      "name": "notifications_new_file",
+      "value": "Yeni dosya"
+    },
+    {
+      "name": "peer_services_done",
+      "value": "Tamam"
+    },
+    {
+      "name": "peer_services_empty",
+      "value": "Kullanılabilir paylaşılan hizmet yok"
+    },
+    {
+      "name": "peer_services_error_offline",
+      "value": "Kişi çevrimdışı"
+    },
+    {
+      "name": "peer_services_error_timeout",
+      "value": "İstek zaman aşımına uğradı"
+    },
+    {
+      "name": "peer_services_error_unknown",
+      "value": "Hizmetler alınamadı"
+    },
+    {
+      "name": "peer_services_error_unreachable",
+      "value": "Kişiye ulaşılamıyor"
+    },
+    {
+      "name": "peer_services_not_supported",
+      "value": "Desteklenmiyor"
+    },
+    {
+      "name": "peer_services_open",
+      "value": "Açık"
+    },
+    {
+      "name": "peer_services_refresh",
+      "value": "Hizmetleri yenile"
+    },
+    {
+      "name": "peer_services_title",
+      "value": "Paylaşılan Hizmetler"
+    },
+    {
+      "name": "photo_capture_retake",
+      "value": "Yeniden Çek"
+    },
+    {
+      "name": "photo_capture_use_photo",
+      "value": "Fotoğrafı Kullan"
+    },
+    {
+      "name": "profile_editor_change_picture",
+      "value": "Görseli değiştir"
+    },
+    {
+      "name": "profile_editor_change_picture_hint",
+      "value": "Choose a new picture from the camera or photo library"
+    },
+    {
+      "name": "profile_editor_contact_name_placeholder",
+      "value": "Enter a name"
+    },
+    {
+      "name": "profile_editor_description",
+      "value": "Açıklama"
+    },
+    {
+      "name": "profile_editor_description_placeholder",
+      "value": "Enter a description"
+    },
+    {
+      "name": "profile_editor_discard",
+      "value": "Vazgeç"
+    },
+    {
+      "name": "profile_editor_discard_message",
+      "value": "Your unsaved changes will be lost."
+    },
+    {
+      "name": "profile_editor_discard_title",
+      "value": "Discard changes?"
+    },
+    {
+      "name": "profile_editor_edit_contact",
+      "value": "Edit contact"
+    },
+    {
+      "name": "profile_editor_edit_contact_hint",
+      "value": "Opens the contact editor"
+    },
+    {
+      "name": "profile_editor_edit_group",
+      "value": "Edit group"
+    },
+    {
+      "name": "profile_editor_edit_group_hint",
+      "value": "Opens the group editor"
+    },
+    {
+      "name": "profile_editor_group_name_placeholder",
+      "value": "Enter a group name"
+    },
+    {
+      "name": "profile_editor_local_changes_footer",
+      "value": "This name and picture are visible only on this device."
+    },
+    {
+      "name": "profile_editor_name",
+      "value": "İsim"
+    },
+    {
+      "name": "profile_editor_no_picture",
+      "value": "No picture"
+    },
+    {
+      "name": "profile_editor_picture_selected",
+      "value": "Picture selected"
+    },
+    {
+      "name": "profile_editor_remove_picture",
+      "value": "Remove picture"
+    },
+    {
+      "name": "profile_editor_reset_original",
+      "value": "Use original name and picture"
+    },
+    {
+      "name": "profile_editor_reset_original_hint",
+      "value": "Restores the name and picture this contact set for themselves"
+    },
+    {
+      "name": "profile_editor_reset_picture",
+      "value": "Use original picture"
+    },
+    {
+      "name": "profile_editor_save_error",
+      "value": "The changes could not be saved. Please try again."
+    },
+    {
+      "name": "scan_bad_qr_code",
+      "value": "Bozuk QR kod"
+    },
+    {
+      "name": "share_extension_accessibility_select_account",
+      "value": "Bu hesabı seçmek için çift dokunun"
+    },
+    {
+      "name": "share_extension_accessibility_select_conversation",
+      "value": "Bu görüşmeyi seçmek için çift dokunun"
+    },
+    {
+      "name": "share_extension_accessibility_selected_account",
+      "value": "Seçilen hesap: %s. Hesabı değiştirmek için çift dokunun."
+    },
+    {
+      "name": "share_extension_accessibility_send_button",
+      "value": "Seçili görüşmelere göndermek için çift dokunun"
+    },
+    {
+      "name": "share_extension_no_account_description",
+      "value": "Devam etmek için ana uygulamada bir hesap oluşturun."
+    },
+    {
+      "name": "share_extension_no_account_title",
+      "value": "Hesap bulunamadı"
+    },
+    {
+      "name": "share_extension_no_search_results",
+      "value": "Aramanızla eşleşen görüşme yok"
+    },
+    {
+      "name": "share_extension_search_conversations",
+      "value": "Görüşmelerde ara"
+    },
+    {
+      "name": "share_extension_select_account_title",
+      "value": "Hesap seç"
+    },
+    {
+      "name": "share_extension_send_to_conversation",
+      "value": "%d görüşmeye gönder"
+    },
+    {
+      "name": "share_extension_send_to_conversations_plural",
+      "value": "%d görüşmeye gönder"
+    },
+    {
+      "name": "share_extension_sending",
+      "value": "Gönderiliyor…"
+    },
+    {
+      "name": "share_extension_try_different_filter",
+      "value": "Farklı bir filtre deneyin"
+    },
+    {
+      "name": "share_extension_unsupported_type_description",
+      "value": "Seçilen içeriğin paylaşımı şu anda desteklenmiyor."
+    },
+    {
+      "name": "share_extension_unsupported_type_title",
+      "value": "Desteklenmeyen içerik"
+    },
+    {
+      "name": "smartlist_about_jami",
+      "value": "Jami Hakkında"
+    },
+    {
+      "name": "smartlist_accounts",
+      "value": "Hesaplar"
+    },
+    {
+      "name": "smartlist_accounts_title",
+      "value": "Hesaplar"
+    },
+    {
+      "name": "smartlist_add_account_button",
+      "value": "+ Hesap ekle"
+    },
+    {
+      "name": "smartlist_cellular_access",
+      "value": "Ayarlarda hücresel erişimin verildiğinden emin olun."
+    },
+    {
+      "name": "smartlist_conversations",
+      "value": "Görüşmeler"
+    },
+    {
+      "name": "smartlist_conversations_search_hint",
+      "value": "You don't have any conversations yet."
+    },
+    {
+      "name": "smartlist_dialpad",
+      "value": "Keypad"
+    },
+    {
+      "name": "smartlist_disable_donation",
+      "value": "Şimdi değil"
+    },
+    {
+      "name": "smartlist_donation_explanation",
+      "value": "Jami'yi kullanmaktan hoşlanıyor ve misyonumuza güveniyorsan bağış yapmak ister misin?"
+    },
+    {
+      "name": "smartlist_in_synchronization",
+      "value": "Eşitleniyor…"
+    },
+    {
+      "name": "smartlist_invitation_received",
+      "value": "Alınan davetler"
+    },
+    {
+      "name": "smartlist_invitations",
+      "value": "Davetiyeler"
+    },
+    {
+      "name": "smartlist_invite_friends",
+      "value": "Arkadaşlarını davet et"
+    },
+    {
+      "name": "smartlist_jams_directory_hint",
+      "value": "People in your organization outside your contacts."
+    },
+    {
+      "name": "smartlist_jams_results",
+      "value": "Organization directory"
+    },
+    {
+      "name": "smartlist_new_contact",
+      "value": "Yeni kişi"
+    },
+    {
+      "name": "smartlist_new_group",
+      "value": "Yeni grup"
+    },
+    {
+      "name": "smartlist_no_conversation",
+      "value": "Görüşme yok"
+    },
+    {
+      "name": "smartlist_no_conversations_found",
+      "value": "Aramayla eşleşen görüşme yok."
+    },
+    {
+      "name": "smartlist_no_network_connectivity",
+      "value": "Ağ bağlantısı yok"
+    },
+    {
+      "name": "smartlist_no_number",
+      "value": "Seçilen kişinin herhangi bir numarası yok"
+    },
+    {
+      "name": "smartlist_no_results",
+      "value": "Sonuç yok"
+    },
+    {
+      "name": "smartlist_public_directory_hint",
+      "value": "People on Jami outside your contacts."
+    },
+    {
+      "name": "smartlist_results",
+      "value": "Aleni dizin"
+    },
+    {
+      "name": "smartlist_search_bar",
+      "value": "Ara"
+    },
+    {
+      "name": "smartlist_search_bar_placeholder",
+      "value": "Ad girin…"
+    },
+    {
+      "name": "smartlist_select_one_number",
+      "value": "Numaralardan birini seçin"
+    },
+    {
+      "name": "smartlist_yesterday",
+      "value": "Dün"
+    },
+    {
+      "name": "swarm_leave",
+      "value": "Git."
+    },
+    {
+      "name": "swarm_accessibility_color_picker",
+      "value": "Görüşme rengi seçici"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code",
+      "value": "Kişi QR kodunu göster"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code_hint",
+      "value": "Kişinin QR kodunu içeren bir ekran açar"
+    },
+    {
+      "name": "swarm_accessibility_contact_share_hint",
+      "value": "Kişi bilgilerini paylaşma seçeneklerini açar"
+    },
+    {
+      "name": "swarm_admin",
+      "value": "Yöneticisi"
+    },
+    {
+      "name": "swarm_admin_invites_only",
+      "value": "Özel grup (sınırlı davet)"
+    },
+    {
+      "name": "swarm_blocked",
+      "value": "Engellendi"
+    },
+    {
+      "name": "swarm_change_picture",
+      "value": "Grup resmini değiştir"
+    },
+    {
+      "name": "swarm_choose_color",
+      "value": "Görüşme rengi"
+    },
+    {
+      "name": "swarm_confirm_leave_conversation",
+      "value": "Sohbetten ayrılmak istiyor musun?"
+    },
+    {
+      "name": "swarm_contact_header",
+      "value": "Kişi"
+    },
+    {
+      "name": "swarm_conversation_ended",
+      "value": "Görüşme sona erdi"
+    },
+    {
+      "name": "swarm_conversation_header",
+      "value": "Görüşme"
+    },
+    {
+      "name": "swarm_conversation_id",
+      "value": "Görüşme kimliği"
+    },
+    {
+      "name": "swarm_customize",
+      "value": "Grubu özelleştir"
+    },
+    {
+      "name": "swarm_customize_profile",
+      "value": "Grup profilini özelleştir"
+    },
+    {
+      "name": "swarm_explanation_text",
+      "value": "Grup oluşturulduktan sonra üyeler istenildiği zaman davet edilebilir."
+    },
+    {
+      "name": "swarm_identifier",
+      "value": "Tanımlayıcı"
+    },
+    {
+      "name": "swarm_invite",
+      "value": "Invite"
+    },
+    {
+      "name": "swarm_invite_members",
+      "value": "Üyeleri davet et"
+    },
+    {
+      "name": "swarm_invite_members_not_selected",
+      "value": "Seçilmedi"
+    },
+    {
+      "name": "swarm_invite_members_selected",
+      "value": "Seçildi"
+    },
+    {
+      "name": "swarm_invite_selected_members",
+      "value": "Seçili kişileri davet et"
+    },
+    {
+      "name": "swarm_invited",
+      "value": "- davet edildi."
+    },
+    {
+      "name": "swarm_invites_only",
+      "value": "Özel grup"
+    },
+    {
+      "name": "swarm_leave_conversation",
+      "value": "Görüşmeden ayrıl"
+    },
+    {
+      "name": "swarm_left",
+      "value": "Ayrıldı"
+    },
+    {
+      "name": "swarm_member",
+      "value": "Üye"
+    },
+    {
+      "name": "swarm_members",
+      "value": "Üyeler"
+    },
+    {
+      "name": "swarm_mute_conversation",
+      "value": "Görüşmeyi sessize al"
+    },
+    {
+      "name": "swarm_name_placeholder",
+      "value": "Grup adı"
+    },
+    {
+      "name": "swarm_new_group",
+      "value": "Yeni grup oluştur"
+    },
+    {
+      "name": "swarm_one_to_one",
+      "value": "Özel"
+    },
+    {
+      "name": "swarm_others",
+      "value": "Diğerleri"
+    },
+    {
+      "name": "swarm_public_chat",
+      "value": "Herkese açık grup"
+    },
+    {
+      "name": "swarm_remove_contact",
+      "value": "Kişiyi kaldır"
+    },
+    {
+      "name": "swarm_remove_conversation",
+      "value": "Konuşma sil"
+    },
+    {
+      "name": "swarm_restart_conversation",
+      "value": "Görüşmeyi yeniden başlat"
+    },
+    {
+      "name": "swarm_select_contacts",
+      "value": "Kişi seç"
+    },
+    {
+      "name": "swarm_settings",
+      "value": "Ayarlar"
+    },
+    {
+      "name": "swarm_share_contact_info",
+      "value": "İletişim bilgilerini paylaş"
+    },
+    {
+      "name": "swarm_share_contact_message",
+      "value": "Bu kişiyi, %1$s, Jami dağıtık iletişim platformunda ekleyebilirsiniz: https://jami.net"
+    },
+    {
+      "name": "swarm_show_contact_qr_code",
+      "value": "Kişi QR kodunu göster"
+    },
+    {
+      "name": "swarm_type_of_swarm",
+      "value": "Görüşme tipi"
+    },
+    {
+      "name": "swarm_unknown",
+      "value": "Bilinmeyen"
+    },
+    {
+      "name": "swarm_colors_amber",
+      "value": "Kehribar"
+    },
+    {
+      "name": "swarm_colors_bright_orange",
+      "value": "Parlak turuncu"
+    },
+    {
+      "name": "swarm_colors_brown",
+      "value": "Kahverengi"
+    },
+    {
+      "name": "swarm_colors_cyan",
+      "value": "Camgöbeği"
+    },
+    {
+      "name": "swarm_colors_green",
+      "value": "Yeşil"
+    },
+    {
+      "name": "swarm_colors_indigo_blue",
+      "value": "Çivit mavisi"
+    },
+    {
+      "name": "swarm_colors_lime_green",
+      "value": "Limon yeşili"
+    },
+    {
+      "name": "swarm_colors_medium_gray",
+      "value": "Orta gri"
+    },
+    {
+      "name": "swarm_colors_purple",
+      "value": "Mor"
+    },
+    {
+      "name": "swarm_colors_sky_blue",
+      "value": "Gök mavisi"
+    },
+    {
+      "name": "swarm_colors_steel_blue",
+      "value": "Çelik mavisi"
+    },
+    {
+      "name": "swarm_colors_teal",
+      "value": "Deniz mavisi"
+    },
+    {
+      "name": "swarm_colors_vibrant_pink",
+      "value": "Canlı pembe"
+    },
+    {
+      "name": "swarm_colors_violet",
+      "value": "Menekşe"
+    },
+    {
+      "name": "swarm_colors_yellow_green",
+      "value": "Sarı-yeşil"
+    },
+    {
+      "name": "swarmcreation_add_description",
+      "value": "Açıklama ekle"
+    },
+    {
+      "name": "swarmcreation_search_bar",
+      "value": "Kişi ara…"
+    },
+    {
+      "name": "welcome_connect_to_jams",
+      "value": "Bir yönetim sunucusuna bağlan"
+    },
+    {
+      "name": "welcome_create_account",
+      "value": "Jami hesabı oluştur"
+    },
+    {
+      "name": "welcome_have_account",
+      "value": "- Hesabım var."
+    },
+    {
+      "name": "welcome_link_backup",
+      "value": "Arşiv yedeklemesinden içe aktar"
+    },
+    {
+      "name": "welcome_link_device",
+      "value": "Diğer aygıttan içe aktar"
+    },
+    {
+      "name": "welcome_text",
+      "value": "Jami, kullanıcılarının gizlilik ve özgürlüklerini sağlayan evrensel ve özgür platformdur."
+    },
+    {
+      "name": "welcome_title",
+      "value": "Jami ile özgürce ve özel olarak paylaşın"
+    },
+    {
+      "name": "media_preview_date_time",
+      "value": "%1$s, %2$s"
+    },
+    {
+      "name": "media_preview_react",
+      "value": "React"
+    },
+    {
+      "name": "media_preview_more_actions",
+      "value": "Daha fazla"
+    },
+    {
+      "name": "media_preview_more_emoji",
+      "value": "More emoji"
+    },
+    {
+      "name": "accessibility_audio_player_mute",
+      "value": "Sessiz"
+    },
+    {
+      "name": "accessibility_audio_player_unmute",
+      "value": "Sesi aç"
+    },
+    {
+      "name": "accessibility_message_reactions",
+      "value": "Reactions"
+    },
+    {
+      "name": "accessibility_remove_reaction",
+      "value": "Remove %s"
+    },
+    {
+      "name": "media_preview_live_text",
+      "value": "Live Text"
+    }
+  ]
+}

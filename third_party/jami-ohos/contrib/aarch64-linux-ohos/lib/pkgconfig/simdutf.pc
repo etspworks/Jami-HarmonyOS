@@ -1,0 +1,12 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+includedir=${prefix}/include
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+
+Name: simdutf
+Description: Fast Unicode validation, transcoding and processing
+URL:
+Version: 8.0.0
+Cflags: -I${includedir}
+
+Libs:  -L${libdir} -lsimdutf 
+Requires:  

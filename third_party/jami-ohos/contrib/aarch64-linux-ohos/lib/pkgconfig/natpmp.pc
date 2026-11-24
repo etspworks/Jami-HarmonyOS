@@ -1,0 +1,11 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+
+Name: libnatpmp
+Description: NAT-PMP client library
+Version: 20120821
+Cflags: -I${includedir}
+Libs:  -L${libdir} -lnatpmp 
+Requires:  

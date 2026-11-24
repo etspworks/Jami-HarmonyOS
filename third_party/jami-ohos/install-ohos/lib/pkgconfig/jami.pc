@@ -1,0 +1,10 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/install-ohos
+exec_prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/install-ohos
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/install-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/install-ohos/include/jami
+
+Name: jami
+Description: Jami core library and daemon
+Version: 16.0.0
+Libs: -L${libdir} -ljami
+Cflags: -I${includedir}

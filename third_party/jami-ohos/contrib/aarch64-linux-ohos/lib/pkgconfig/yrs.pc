@@ -1,0 +1,11 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: yrs
+Description: Y-CRDT (yrs) C FFI - CRDT engine for collaborative editing
+Version: 0.27.2
+Cflags: -I${includedir}
+Libs:  -L${libdir} -lyrs  -ldl -lm
+Requires:  

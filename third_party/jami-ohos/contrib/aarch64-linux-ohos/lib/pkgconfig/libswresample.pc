@@ -1,0 +1,12 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+
+Name: libswresample
+Description: FFmpeg audio resampling library
+Version: 4.12.100
+Conflicts:
+Cflags: -I${includedir}
+Libs:  -L${libdir}  -lswresample -lm 
+Requires:  libavutil >= 58.29.100 

@@ -1,0 +1,11 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+
+Name: Yaml-cpp
+Description: A YAML parser and emitter for C++
+Version: 0.9.0
+Cflags: -I${includedir}
+Libs:  -L${libdir} -lyaml-cpp 
+Requires:  

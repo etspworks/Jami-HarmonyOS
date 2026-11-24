@@ -1,0 +1,12 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=${exec_prefix}//Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=${prefix}/include
+
+Name: libupnp
+Description: Linux SDK for UPnP Devices
+Version: 1.14.25
+Cflags: -pthread -I${includedir}/upnp
+
+Libs:  -pthread  -L${libdir} -lupnp -lixml 
+Requires:  

@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "nav_bar_icon_glyph_size",
+      "value": "20vp"
+    },
+    {
+      "name": "tap_target_size",
+      "value": "44vp"
+    }
+  ]
+}

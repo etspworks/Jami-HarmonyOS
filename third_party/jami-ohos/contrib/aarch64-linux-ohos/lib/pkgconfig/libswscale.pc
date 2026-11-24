@@ -1,0 +1,12 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+
+Name: libswscale
+Description: FFmpeg image rescaling library
+Version: 7.5.100
+Conflicts:
+Cflags: -I${includedir}
+Libs:  -L${libdir}  -lswscale -lm 
+Requires:  libavutil >= 58.29.100 

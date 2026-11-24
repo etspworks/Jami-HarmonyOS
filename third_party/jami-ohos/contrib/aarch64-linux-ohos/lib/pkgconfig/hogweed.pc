@@ -1,0 +1,17 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+
+# Uses Requires.private and Libs.private, under the assumption that
+# when using shared libraries, the ELF dependencies from libhogweed.so
+# to nettle and gmp work.
+
+Name: Hogweed
+Description: Nettle low-level cryptographic library (public-key algorithms)
+URL: http://www.lysator.liu.se/~nisse/nettle
+Version: 4.0
+Cflags: -I${includedir}
+
+Libs:  -L${libdir} -lhogweed  -lgmp  # -lgmp
+Requires:   nettle  # nettle

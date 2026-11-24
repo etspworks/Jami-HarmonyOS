@@ -1,0 +1,3020 @@
+{
+  "string": [
+    {
+      "name": "about_jami_community_management",
+      "value": "커뮤니티 관리"
+    },
+    {
+      "name": "about_jami_contribute",
+      "value": "기여"
+    },
+    {
+      "name": "about_jami_declaration1",
+      "value": "GNU 패키지인 Jami는 사용자의 자유와 개인정보를 존중하는 보편적이고 분산된 P2P 통신 소프트웨어입니다. 방문:"
+    },
+    {
+      "name": "about_jami_declaration2",
+      "value": "자세히 알아보려면."
+    },
+    {
+      "name": "about_jami_developers",
+      "value": "개발자"
+    },
+    {
+      "name": "about_jami_feedback",
+      "value": "피드백"
+    },
+    {
+      "name": "about_jami_header",
+      "value": "수년간의 노력으로 이 소프트웨어를 지금의 모습으로 만들어 준 기여자들에게 감사드립니다."
+    },
+    {
+      "name": "about_jami_info",
+      "value": "이것은 유용한 결과와 함께 Jami에 상당한 시간을 투자한 사람들의 목록입니다. 목록에 추가되기를 원하는 기여자는 저희에게 연락해 주세요."
+    },
+    {
+      "name": "about_jami_media",
+      "value": "미디어"
+    },
+    {
+      "name": "about_jami_no_warranty1",
+      "value": "이 프로그램은 어떠한 보증도 제공하지 않습니다. 다음을 참조하세요:"
+    },
+    {
+      "name": "about_jami_no_warranty2",
+      "value": "자세한 내용은 버전 3 이상을 참조하세요."
+    },
+    {
+      "name": "about_jami_special_thanks",
+      "value": "특별히 감사드립니다"
+    },
+    {
+      "name": "accessibility_about_jami_title",
+      "value": "자미 에 관한 것"
+    },
+    {
+      "name": "accessibility_account_token_q_rcode",
+      "value": "토큰 QR 코드"
+    },
+    {
+      "name": "accessibility_account_summary_edit_profile_hint",
+      "value": "두 번 탭하여 프로필을 편집하세요"
+    },
+    {
+      "name": "accessibility_account_summary_edit_settings_button",
+      "value": "설정"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code",
+      "value": "QR 코드"
+    },
+    {
+      "name": "accessibility_account_summary_qr_code_hint",
+      "value": "두 번 탭하여 계정 QR 코드를 보세요"
+    },
+    {
+      "name": "accessibility_audio_player_pause",
+      "value": "멈춤"
+    },
+    {
+      "name": "accessibility_audio_player_play",
+      "value": "재생"
+    },
+    {
+      "name": "accessibility_avatar_collapse_hint",
+      "value": "Double-tap to shrink the picture"
+    },
+    {
+      "name": "accessibility_avatar_expand_hint",
+      "value": "Double-tap to enlarge the picture"
+    },
+    {
+      "name": "accessibility_call_lasted",
+      "value": "%s 동안 지속됨"
+    },
+    {
+      "name": "accessibility_calls_alter_add_participant",
+      "value": "참가자를 추가"
+    },
+    {
+      "name": "accessibility_calls_alter_end_call",
+      "value": "통화 종료"
+    },
+    {
+      "name": "accessibility_calls_alter_open_conversation",
+      "value": "열린 대화"
+    },
+    {
+      "name": "accessibility_calls_alter_pause_call",
+      "value": "다시 전화"
+    },
+    {
+      "name": "accessibility_calls_alter_raise_hand",
+      "value": "하위 손"
+    },
+    {
+      "name": "accessibility_calls_alter_show_dialpad",
+      "value": "다이얼패드 표시"
+    },
+    {
+      "name": "accessibility_calls_alter_switch_camera",
+      "value": "카메라 전환"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_audio",
+      "value": "마이크 음소거 해제"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_speaker",
+      "value": "스피커 끄기"
+    },
+    {
+      "name": "accessibility_calls_alter_toggle_video",
+      "value": "카메라를 멈추"
+    },
+    {
+      "name": "accessibility_calls_default_add_participant",
+      "value": "참가자를 추가"
+    },
+    {
+      "name": "accessibility_calls_default_end_call",
+      "value": "통화 종료"
+    },
+    {
+      "name": "accessibility_calls_default_open_conversation",
+      "value": "열린 대화"
+    },
+    {
+      "name": "accessibility_calls_default_pause_call",
+      "value": "휴식 통화"
+    },
+    {
+      "name": "accessibility_calls_default_raise_hand",
+      "value": "손 들기"
+    },
+    {
+      "name": "accessibility_calls_default_show_dialpad",
+      "value": "다이얼패드 표시"
+    },
+    {
+      "name": "accessibility_calls_default_switch_camera",
+      "value": "카메라 전환"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_audio",
+      "value": "무음 마이크"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_speaker",
+      "value": "스피커 켜기"
+    },
+    {
+      "name": "accessibility_calls_default_toggle_video",
+      "value": "카메라 시작"
+    },
+    {
+      "name": "accessibility_close",
+      "value": "가까이"
+    },
+    {
+      "name": "accessibility_conference_camera_off",
+      "value": "Camera off"
+    },
+    {
+      "name": "accessibility_conference_crop_video",
+      "value": "Crop video"
+    },
+    {
+      "name": "accessibility_conference_end_call",
+      "value": "통화 종료"
+    },
+    {
+      "name": "accessibility_conference_hand_raised",
+      "value": "손을 들어"
+    },
+    {
+      "name": "accessibility_conference_hide_local_preview",
+      "value": "Hide your video"
+    },
+    {
+      "name": "accessibility_conference_local_preview",
+      "value": "Your video"
+    },
+    {
+      "name": "accessibility_conference_lower_hand",
+      "value": "하위 손"
+    },
+    {
+      "name": "accessibility_conference_maximize",
+      "value": "최대한 활용"
+    },
+    {
+      "name": "accessibility_conference_microphone_muted",
+      "value": "Microphone muted"
+    },
+    {
+      "name": "accessibility_conference_minimize",
+      "value": "최소화"
+    },
+    {
+      "name": "accessibility_conference_moderator",
+      "value": "조정자"
+    },
+    {
+      "name": "accessibility_conference_mute_audio",
+      "value": "음향이 무성"
+    },
+    {
+      "name": "accessibility_conference_recording",
+      "value": "Recording"
+    },
+    {
+      "name": "accessibility_conference_set_moderator",
+      "value": "조정기를 설정"
+    },
+    {
+      "name": "accessibility_conference_show_full_video",
+      "value": "Show full video"
+    },
+    {
+      "name": "accessibility_conference_show_local_preview",
+      "value": "Show your video"
+    },
+    {
+      "name": "accessibility_conference_show_participants",
+      "value": "Show participants"
+    },
+    {
+      "name": "accessibility_conference_speaking",
+      "value": "Speaking"
+    },
+    {
+      "name": "accessibility_conference_unmute_audio",
+      "value": "무음 음향"
+    },
+    {
+      "name": "accessibility_conference_unset_moderator",
+      "value": "설정하지 않는 모더레이터"
+    },
+    {
+      "name": "accessibility_conversation_camera_hint",
+      "value": "두 번 탭하여 카메라를 여세요"
+    },
+    {
+      "name": "accessibility_conversation_compose_message",
+      "value": "메시지 작성"
+    },
+    {
+      "name": "accessibility_conversation_row_blocked",
+      "value": "대화 차단됨"
+    },
+    {
+      "name": "accessibility_conversation_row_last_message",
+      "value": "마지막 메시지 %s"
+    },
+    {
+      "name": "accessibility_conversation_row_syncing",
+      "value": "동기화 진행 중"
+    },
+    {
+      "name": "accessibility_conversation_row_unread_count",
+      "value": "읽지 않은 메시지 %s개."
+    },
+    {
+      "name": "accessibility_conversation_share_media",
+      "value": "미디어 공유"
+    },
+    {
+      "name": "accessibility_conversation_start_video_call",
+      "value": "%s님과 영상 통화 시작"
+    },
+    {
+      "name": "accessibility_conversation_start_voice_call",
+      "value": "%s님과 음성 통화 시작"
+    },
+    {
+      "name": "accessibility_create_account_verify_username_prompt",
+      "value": "사용 가능 여부를 확인하려면 사용자 이름을 입력하세요."
+    },
+    {
+      "name": "accessibility_file_transfer_received_on",
+      "value": "파일: %1$s, %2$s에 수신됨"
+    },
+    {
+      "name": "accessibility_file_transfer_sent_on",
+      "value": "파일: %1$s, %2$s에 전송됨"
+    },
+    {
+      "name": "accessibility_file_transfer_no_name",
+      "value": "%s에 파일 수신됨, 이름을 사용할 수 없음"
+    },
+    {
+      "name": "accessibility_in_reply",
+      "value": "메시지에 대한 답장"
+    },
+    {
+      "name": "accessibility_message_bubble_deleted",
+      "value": "메시지 삭제됨"
+    },
+    {
+      "name": "accessibility_message_bubble_edited",
+      "value": "편집"
+    },
+    {
+      "name": "accessibility_message_bubble_read",
+      "value": "읽음"
+    },
+    {
+      "name": "accessibility_message_bubble_unread",
+      "value": "읽지 않음"
+    },
+    {
+      "name": "accessibility_pending_requests_list_accept_invitation",
+      "value": "초대 수락"
+    },
+    {
+      "name": "accessibility_pending_requests_list_block_user",
+      "value": "초대 발신자 차단"
+    },
+    {
+      "name": "accessibility_pending_requests_list_reject_invitation",
+      "value": "초대 거절"
+    },
+    {
+      "name": "accessibility_pending_requests_row_hint",
+      "value": "두 번 탭하여 받은 초대를 검토하고 응답하세요"
+    },
+    {
+      "name": "accessibility_pending_requests_row_plural",
+      "value": "받은 초대: 대기 중인 초대 %s개"
+    },
+    {
+      "name": "accessibility_pending_requests_row_singular",
+      "value": "받은 초대: 대기 중인 초대 %s개"
+    },
+    {
+      "name": "accessibility_profile_picture_picker",
+      "value": "프로필 사진"
+    },
+    {
+      "name": "accessibility_profile_picture_picker_hint",
+      "value": "두 번 탭하여 사진을 찍거나 보관함에서 사진을 선택하세요"
+    },
+    {
+      "name": "accessibility_smart_list_add_account",
+      "value": "계정 추가"
+    },
+    {
+      "name": "accessibility_smart_list_connected_as",
+      "value": "현재 계정은 %s입니다"
+    },
+    {
+      "name": "accessibility_smart_list_switch_accounts",
+      "value": "계정 전환"
+    },
+    {
+      "name": "accessibility_swarm_picture_picker",
+      "value": "모임 사진"
+    },
+    {
+      "name": "accessibility_text_received_on",
+      "value": "%1$s, %2$s에 메시지 수신됨"
+    },
+    {
+      "name": "accessibility_text_sent_on",
+      "value": "%1$s, %2$s에 메시지 전송됨"
+    },
+    {
+      "name": "accessibility_text_not_available",
+      "value": "%s에 빈 텍스트 메시지가 수신되었습니다. 올바르게 전송되지 않았을 수 있습니다."
+    },
+    {
+      "name": "accessibility_user_presence_available",
+      "value": "사용 가능"
+    },
+    {
+      "name": "accessibility_user_presence_online",
+      "value": "온라인"
+    },
+    {
+      "name": "accessibility_welcome_to_jami_title",
+      "value": "자미에 오신 것을 환영합니다"
+    },
+    {
+      "name": "account_account_status",
+      "value": "계정 상태"
+    },
+    {
+      "name": "account_advanced_features",
+      "value": "고급 기능"
+    },
+    {
+      "name": "account_configure",
+      "value": "구성"
+    },
+    {
+      "name": "account_create_sip_account",
+      "value": "SIP 계정 구성"
+    },
+    {
+      "name": "account_enable_account",
+      "value": "계정을 활성화"
+    },
+    {
+      "name": "account_me",
+      "value": "나"
+    },
+    {
+      "name": "account_need_migration",
+      "value": "계정에 마이그레이션이 필요합니다."
+    },
+    {
+      "name": "account_port",
+      "value": "포트"
+    },
+    {
+      "name": "account_port_label",
+      "value": "포트 번호를 입력"
+    },
+    {
+      "name": "account_proxy_server",
+      "value": "프록시"
+    },
+    {
+      "name": "account_server_label",
+      "value": "주소 입력"
+    },
+    {
+      "name": "account_sip_account",
+      "value": "SIP 계정"
+    },
+    {
+      "name": "account_sip_server",
+      "value": "서버"
+    },
+    {
+      "name": "account_status_connecting",
+      "value": "연결"
+    },
+    {
+      "name": "account_status_connectionerror",
+      "value": "연결 오류"
+    },
+    {
+      "name": "account_status_offline",
+      "value": "오프라인"
+    },
+    {
+      "name": "account_status_online",
+      "value": "온라인"
+    },
+    {
+      "name": "account_status_unknown",
+      "value": "알 수 없는"
+    },
+    {
+      "name": "account_page_account_header",
+      "value": "계정"
+    },
+    {
+      "name": "account_page_account_identity",
+      "value": "계정 식별"
+    },
+    {
+      "name": "account_page_account_settings_explanation",
+      "value": "이 설정은 이 계정에만 적용됩니다."
+    },
+    {
+      "name": "account_page_allow_ip_auto_rewrite",
+      "value": "IP 자동 재작성 허용"
+    },
+    {
+      "name": "account_page_app_settings",
+      "value": "앱 설정"
+    },
+    {
+      "name": "account_page_app_settings_explanation",
+      "value": "이 설정은 전체 애플리케이션에 적용됩니다."
+    },
+    {
+      "name": "account_page_auto_registration",
+      "value": "만료 후 자동 등록"
+    },
+    {
+      "name": "account_page_blocked_contacts",
+      "value": "차단된 연락처"
+    },
+    {
+      "name": "account_page_booth_mode_alert_message",
+      "value": "부스 모드를 활성화하면 모든 대화가 삭제됩니다."
+    },
+    {
+      "name": "account_page_booth_mode_explanation",
+      "value": "부시 모드에서는 대화의 역사가 저장되지 않고, 출력 통화로 Jami 기능이 제한됩니다. 부시 모드를 활성화하면 모든 대화가 삭제됩니다."
+    },
+    {
+      "name": "account_page_bootstrap",
+      "value": "부트 스트랩"
+    },
+    {
+      "name": "account_page_calls_from_unknown_contacts",
+      "value": "알 수 없는 연락처로부터 통화 허용"
+    },
+    {
+      "name": "account_page_change_password",
+      "value": "비밀번호 변경"
+    },
+    {
+      "name": "account_page_change_password_error",
+      "value": "잘못된 비밀번호"
+    },
+    {
+      "name": "account_page_chats",
+      "value": "대화"
+    },
+    {
+      "name": "account_page_connectivity_and_configuration",
+      "value": "연결 및 구성"
+    },
+    {
+      "name": "account_page_connectivity_header",
+      "value": "연결성"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_contant",
+      "value": "Jami 분산 통신 플랫폼에서 “%s”(으)로 저에게 연락하세요: https://jami.net"
+    },
+    {
+      "name": "account_page_contact_me_on_jami_title",
+      "value": "자미에 연락해!"
+    },
+    {
+      "name": "account_page_create_password",
+      "value": "암호 설정"
+    },
+    {
+      "name": "account_page_current_password_placeholder",
+      "value": "현재 비밀번호를 입력"
+    },
+    {
+      "name": "account_page_current_proxy",
+      "value": "현재 프록시"
+    },
+    {
+      "name": "account_page_device_revocation_error",
+      "value": "장치 취소 오류"
+    },
+    {
+      "name": "account_page_device_revocation_progress",
+      "value": "제거 중..."
+    },
+    {
+      "name": "account_page_device_revocation_success",
+      "value": "기기 제거됨"
+    },
+    {
+      "name": "account_page_device_revocation_try_again",
+      "value": "다시 시도해봐"
+    },
+    {
+      "name": "account_page_device_revocation_unknown_device",
+      "value": "알려지지 않은 장치"
+    },
+    {
+      "name": "account_page_device_revocation_wrong_password",
+      "value": "잘못된 비밀번호"
+    },
+    {
+      "name": "account_page_device_revoked",
+      "value": "장치 취소 완료"
+    },
+    {
+      "name": "account_page_devices_list_header",
+      "value": "장치"
+    },
+    {
+      "name": "account_page_dht_configuration",
+      "value": "OpenDHT 구성"
+    },
+    {
+      "name": "account_page_disable_booth_mode",
+      "value": "부스 모드를 비활성화"
+    },
+    {
+      "name": "account_page_disable_booth_mode_explanation",
+      "value": "계정 비밀번호를 입력하세요"
+    },
+    {
+      "name": "account_page_edit_profile",
+      "value": "프로필 수정"
+    },
+    {
+      "name": "account_page_edit_sip_expiration_time",
+      "value": "만료 시간"
+    },
+    {
+      "name": "account_page_enable_booth_mode",
+      "value": "부스 모드를 활성화"
+    },
+    {
+      "name": "account_page_enable_notifications",
+      "value": "알람 사용하기"
+    },
+    {
+      "name": "account_page_enable_srtp",
+      "value": "SDES 키 교환을 가능하게 합니다"
+    },
+    {
+      "name": "account_page_encrypt_account",
+      "value": "암호"
+    },
+    {
+      "name": "account_page_encrypt_negotiation",
+      "value": "암호 협상 (TLS)"
+    },
+    {
+      "name": "account_page_generating_pin",
+      "value": "PIN 코드 생성 중..."
+    },
+    {
+      "name": "account_page_invalid_address",
+      "value": "유효한 주소를 입력하세요"
+    },
+    {
+      "name": "account_page_invalid_port",
+      "value": "0에서 65535 사이의 값을 입력하세요"
+    },
+    {
+      "name": "account_page_invalid_sip_expiration_time",
+      "value": "60에서 604800초 사이의 값을 입력하세요"
+    },
+    {
+      "name": "account_page_invite_friends",
+      "value": "친구 초대"
+    },
+    {
+      "name": "account_page_link_device_title",
+      "value": "다른 장치를 연결"
+    },
+    {
+      "name": "account_page_linked_devices",
+      "value": "연결된 장치"
+    },
+    {
+      "name": "account_page_manage_account",
+      "value": "계정을 관리"
+    },
+    {
+      "name": "account_page_name_server",
+      "value": "이름 서버"
+    },
+    {
+      "name": "account_page_new_password_confirm_placeholder",
+      "value": "새로운 비밀번호를 확인"
+    },
+    {
+      "name": "account_page_new_password_placeholder",
+      "value": "새로운 비밀번호를 입력"
+    },
+    {
+      "name": "account_page_no_booth_mode",
+      "value": "부스 모드를 활성화하려면 먼저 비밀번호로 계정을 보호하세요."
+    },
+    {
+      "name": "account_page_no_proxy_explanation_label",
+      "value": "프록시가 비활성화되면 알림을 받을 수 없습니다."
+    },
+    {
+      "name": "account_page_notification_error",
+      "value": "Jami 알림이 비활성화되어 있습니다. 이 기능을 사용하려면 기기 설정에서 활성화하세요."
+    },
+    {
+      "name": "account_page_notification_title",
+      "value": "통지"
+    },
+    {
+      "name": "account_page_notifications_header",
+      "value": "통지"
+    },
+    {
+      "name": "account_page_other",
+      "value": "다른"
+    },
+    {
+      "name": "account_page_other_devices",
+      "value": "다른 연결된 장치"
+    },
+    {
+      "name": "account_page_password_created",
+      "value": "암호 설정"
+    },
+    {
+      "name": "account_page_password_explanation",
+      "value": "귀하의 Jami 계정은 계정 키가 포함된 아카이브로 이 장치에만 등록되어 있습니다. 이 아카이브에 대한 접근은 비밀번호로 보호할 수 있습니다."
+    },
+    {
+      "name": "account_page_password_for_pin",
+      "value": "계정이 비밀번호로 보호되어 있습니다. PIN 코드를 생성하려면 비밀번호를 입력하세요."
+    },
+    {
+      "name": "account_page_password_placeholder",
+      "value": "계정 비밀번호를 입력"
+    },
+    {
+      "name": "account_page_password_updated",
+      "value": "암호 갱신됨"
+    },
+    {
+      "name": "account_page_passwords_do_not_match",
+      "value": "암호가 일치하지 않습니다."
+    },
+    {
+      "name": "account_page_peer_discovery",
+      "value": "지역 동시 발견을 가능하게 합니다"
+    },
+    {
+      "name": "account_page_peer_discovery_explanation",
+      "value": "우리의 로컬 네트워크에 광고하는 다른 DHT 노드에 연결"
+    },
+    {
+      "name": "account_page_pin_error",
+      "value": "PIN 코드를 생성하는 중 오류가 발생했습니다."
+    },
+    {
+      "name": "account_page_pin_explanation_message",
+      "value": "Jami를 설치하고 실행하십시오. “다른 기기에서 가져오기”를 선택하고 QR 코드를 스캔하십시오. 또는 PIN 코드를 수동으로 입력하십시오."
+    },
+    {
+      "name": "account_page_pin_explanation_title",
+      "value": "다른 기기에서"
+    },
+    {
+      "name": "account_page_profile_header",
+      "value": "프로필"
+    },
+    {
+      "name": "account_page_profile_name",
+      "value": "프로필 이름"
+    },
+    {
+      "name": "account_page_profile_name_not_selected",
+      "value": "이름 선택 안됨"
+    },
+    {
+      "name": "account_page_profile_name_placeholder",
+      "value": "프로필 이름 입력"
+    },
+    {
+      "name": "account_page_proxy_address_alert",
+      "value": "프록시 주소를 입력"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_body",
+      "value": "알림을 받기 위해 프록시를 활성화하십시오"
+    },
+    {
+      "name": "account_page_proxy_disabled_alert_title",
+      "value": "프록시 서버 비활성화"
+    },
+    {
+      "name": "account_page_proxy_explanation",
+      "value": "알림은 프록시를 통해 전달됩니다. 기본 프록시를 사용하거나, 사용자 지정 프록시 주소를 입력하거나, 프록시 목록이 있는 URL을 제공할 수 있습니다."
+    },
+    {
+      "name": "account_page_proxy_header",
+      "value": "프록시"
+    },
+    {
+      "name": "account_page_proxy_list_url",
+      "value": "프록시 목록 URL"
+    },
+    {
+      "name": "account_page_proxy_paceholder",
+      "value": "프록시 주소는"
+    },
+    {
+      "name": "account_page_public_address_header",
+      "value": "공공 연설"
+    },
+    {
+      "name": "account_page_published_address",
+      "value": "주소"
+    },
+    {
+      "name": "account_page_published_port",
+      "value": "포트"
+    },
+    {
+      "name": "account_page_published_same_as_local",
+      "value": "지역과 같은 출판"
+    },
+    {
+      "name": "account_page_register_name_error_message",
+      "value": "이 사용자 이름은 사용할 수 없습니다."
+    },
+    {
+      "name": "account_page_register_name_explanation",
+      "value": "다른 사람들이 Jami에서 더 쉽게 회원님을 찾고 연락할 수 있도록 사용자 이름을 등록하세요."
+    },
+    {
+      "name": "account_page_remove_account_message",
+      "value": "계정이 백업되지 않았거나 다른 장치에 추가되지 않은 경우, 계정과 등록된 사용자 이름은 돌이킬 수 없이 손실됩니다."
+    },
+    {
+      "name": "account_page_remove_device_title",
+      "value": "기기 제거"
+    },
+    {
+      "name": "account_page_revoke_device_button",
+      "value": "취소"
+    },
+    {
+      "name": "account_page_revoke_device_message",
+      "value": "이 기기를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다."
+    },
+    {
+      "name": "account_page_revoke_device_placeholder",
+      "value": "계정 비밀번호를 입력"
+    },
+    {
+      "name": "account_page_security",
+      "value": "보안"
+    },
+    {
+      "name": "account_page_select_sip_expiration_time",
+      "value": "등록 만료 시간 설정(초 단위)"
+    },
+    {
+      "name": "account_page_settings_header",
+      "value": "설정"
+    },
+    {
+      "name": "account_page_sip_expiration_time",
+      "value": "등록 만료시간 (초)"
+    },
+    {
+      "name": "account_page_stun_enabled",
+      "value": "STUN 사용"
+    },
+    {
+      "name": "account_page_stun_server",
+      "value": "STUN 주소는"
+    },
+    {
+      "name": "account_page_this_device",
+      "value": "이 장치"
+    },
+    {
+      "name": "account_page_tls_disable_secure_dlg_check",
+      "value": "입력 TLS 데이터에 대한 보안 대화정 확인을 비활성화"
+    },
+    {
+      "name": "account_page_tls_require_tls_certificate",
+      "value": "수신 TLS 연결에 인증서 요구"
+    },
+    {
+      "name": "account_page_tls_verify_client_certificates",
+      "value": "클라이언트 TLS 인증서 확인"
+    },
+    {
+      "name": "account_page_tls_verify_server_certificates",
+      "value": "서버 TLS 인증서를 확인"
+    },
+    {
+      "name": "account_page_turn_enabled",
+      "value": "TURN를 활성화"
+    },
+    {
+      "name": "account_page_turn_password",
+      "value": "TURN 비밀번호"
+    },
+    {
+      "name": "account_page_turn_realm",
+      "value": "스 영역"
+    },
+    {
+      "name": "account_page_turn_server",
+      "value": "TURN 주소"
+    },
+    {
+      "name": "account_page_turn_username",
+      "value": "TURN 사용자 이름"
+    },
+    {
+      "name": "account_page_typing_indicator",
+      "value": "타이핑 지표"
+    },
+    {
+      "name": "account_page_typing_indicator_explanation",
+      "value": "메시지가 입력 중일 때 표시합니다."
+    },
+    {
+      "name": "account_page_unblock_contact",
+      "value": "차단 해제"
+    },
+    {
+      "name": "account_page_unlink",
+      "value": "연결 해제"
+    },
+    {
+      "name": "account_page_upnp_enabled",
+      "value": "UPnP를 사용"
+    },
+    {
+      "name": "account_page_use_proxy_list",
+      "value": "프록시 목록 사용"
+    },
+    {
+      "name": "account_page_username_placeholder",
+      "value": "원하는 사용자 이름을 입력"
+    },
+    {
+      "name": "account_page_username_register_action",
+      "value": "등록"
+    },
+    {
+      "name": "account_page_username_registering",
+      "value": "등록"
+    },
+    {
+      "name": "account_page_username_registration_failed",
+      "value": "계정 비밀번호를 확인하세요."
+    },
+    {
+      "name": "account_page_username_registration_failed_title",
+      "value": "등록 실패함"
+    },
+    {
+      "name": "actions_back_action",
+      "value": "돌아와"
+    },
+    {
+      "name": "actions_delete_action",
+      "value": "삭제"
+    },
+    {
+      "name": "actions_done_action",
+      "value": "완료"
+    },
+    {
+      "name": "actions_go_to_settings",
+      "value": "설정에 가"
+    },
+    {
+      "name": "actions_stop_location_sharing",
+      "value": "공유를 그만 두세요"
+    },
+    {
+      "name": "alerts_account_added_title",
+      "value": "계정 추가됨"
+    },
+    {
+      "name": "alerts_account_cannot_be_found_message",
+      "value": "Jami 네트워크에서 계정을 찾을 수 없습니다. 기존 기기에서 Jami로 내보냈는지, 제공된 자격 증명이 올바른지 확인하십시오."
+    },
+    {
+      "name": "alerts_account_cannot_be_found_title",
+      "value": "계정 오류"
+    },
+    {
+      "name": "alerts_account_default_error_message",
+      "value": "계정 생성 중 오류가 발생했습니다."
+    },
+    {
+      "name": "alerts_account_default_error_title",
+      "value": "계정 오류"
+    },
+    {
+      "name": "alerts_account_linked_title",
+      "value": "연결 계좌"
+    },
+    {
+      "name": "alerts_account_no_network_message",
+      "value": "분산 네트워크에 Jami 계정을 추가하는 중 연결 오류가 발생했습니다. 다시 시도하세요. 문제가 계속되면 시스템 관리자에게 문의하세요."
+    },
+    {
+      "name": "alerts_account_no_network_title",
+      "value": "네트워크 오류"
+    },
+    {
+      "name": "alerts_alreadylocation_sharing",
+      "value": "이미 이 사용자와 위치를 공유"
+    },
+    {
+      "name": "alerts_confim_remove_contact",
+      "value": "이 연락처를 삭제하시겠습니까? 기존 기록이 삭제됩니다."
+    },
+    {
+      "name": "alerts_confirm_block_contact",
+      "value": "이 연락처를 차단하시겠습니까? 이 연락처와 대화 기록이 즉시 삭제됩니다."
+    },
+    {
+      "name": "alerts_confirm_delete_conversation",
+      "value": "이 대화를 영구적으로 삭제하시겠습니까?"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_from_contact",
+      "value": "이 연락처와의 대화를 삭제하시겠습니까?"
+    },
+    {
+      "name": "alerts_confirm_delete_conversation_title",
+      "value": "대화 삭제"
+    },
+    {
+      "name": "alerts_confirm_leave_conversation",
+      "value": "대화를 나가시겠습니까?"
+    },
+    {
+      "name": "alerts_confirm_remove_one_to_one_conversation",
+      "value": "이 대화를 삭제하시겠습니까? 기존 기록이 삭제됩니다. 이 연락처와 다른 대화가 없으면 새 대화가 시작될 수 있습니다."
+    },
+    {
+      "name": "alerts_db_failed_message",
+      "value": "신청서를 닫고 다시 열려고 해 주세요"
+    },
+    {
+      "name": "alerts_db_failed_title",
+      "value": "Jami 실행 중 오류가 발생했습니다."
+    },
+    {
+      "name": "alerts_error_wrong_credentials",
+      "value": "관리 서버에 연결하는 중 오류가 발생했습니다. 다시 시도하세요. 문제가 계속되면 시스템 관리자에게 문의하세요."
+    },
+    {
+      "name": "alerts_location_service_is_disabled",
+      "value": "“Jami”가 기기 위치를 확인할 수 있도록 “위치 서비스”를 켜세요."
+    },
+    {
+      "name": "alerts_location_sharing",
+      "value": "내 위치를 공유"
+    },
+    {
+      "name": "alerts_location_sharing_duration10min",
+      "value": "10분"
+    },
+    {
+      "name": "alerts_location_sharing_duration1hour",
+      "value": "1시간"
+    },
+    {
+      "name": "alerts_location_sharing_duration_title",
+      "value": "위치 공유는 얼마나 오래 걸릴까요?"
+    },
+    {
+      "name": "alerts_map_information",
+      "value": "지도 정보"
+    },
+    {
+      "name": "alerts_no_library_permissions_title",
+      "value": "사진 라이브러리에 대한 접근 권한이 부여되지 않았습니다"
+    },
+    {
+      "name": "alerts_no_location_permissions_title",
+      "value": "장소 접근은 허용되지 않습니다"
+    },
+    {
+      "name": "alerts_no_media_permissions_title",
+      "value": "언론 허가 받지 않은"
+    },
+    {
+      "name": "alerts_open_street_map_copyright",
+      "value": "© 오픈스트리트맵 참여자"
+    },
+    {
+      "name": "alerts_open_street_map_copyright_more_info",
+      "value": "더 많은 것을 배우십시오"
+    },
+    {
+      "name": "alerts_profile_take_photo",
+      "value": "사진 찍기"
+    },
+    {
+      "name": "alerts_profile_upload_photo",
+      "value": "사진 업로드"
+    },
+    {
+      "name": "alerts_record_audio_message",
+      "value": "음성 메시지 녹음"
+    },
+    {
+      "name": "alerts_record_video_message",
+      "value": "영상 메시지 녹화"
+    },
+    {
+      "name": "alerts_send_photo",
+      "value": "사진 보내기"
+    },
+    {
+      "name": "alerts_upload_file",
+      "value": "파일 보내기"
+    },
+    {
+      "name": "alerts_upload_photo",
+      "value": "개장 갤러리"
+    },
+    {
+      "name": "backup_account_archive_name",
+      "value": "보관 파일의 이름을 선택하세요."
+    },
+    {
+      "name": "backup_account_archive_name_placeholder",
+      "value": "아카이브 이름"
+    },
+    {
+      "name": "backup_account_backup_button",
+      "value": "백업"
+    },
+    {
+      "name": "backup_account_creating",
+      "value": "백업 생성 중"
+    },
+    {
+      "name": "backup_account_document_picker_button",
+      "value": "백업 위치 열기"
+    },
+    {
+      "name": "backup_account_error_access_denied",
+      "value": "선택한 위치에 대한 접근이 거부되었습니다."
+    },
+    {
+      "name": "backup_account_error_failed",
+      "value": "계정을 내보내는 중 오류가 발생했습니다."
+    },
+    {
+      "name": "backup_account_error_wrong_location",
+      "value": "선택한 파일 경로가 잘못되었습니다. 다른 위치를 선택하세요."
+    },
+    {
+      "name": "backup_account_explanation",
+      "value": "이 Jami 계정은 이 기기에만 존재합니다. 이 기기를 분실하거나 애플리케이션을 제거하면 계정이 손실됩니다. 이 계정을 백업하는 것이 좋습니다."
+    },
+    {
+      "name": "backup_account_export_success",
+      "value": "백업 생성됨"
+    },
+    {
+      "name": "backup_account_password_request",
+      "value": "계정 암호를 입력하세요."
+    },
+    {
+      "name": "backup_account_title",
+      "value": "백업 계좌"
+    },
+    {
+      "name": "block_list_page_no_blocked_contacts",
+      "value": "차단된 연락처가 없습니다"
+    },
+    {
+      "name": "calls_accept_with_audio",
+      "value": "음성과 함께 수락"
+    },
+    {
+      "name": "calls_accept_with_video",
+      "value": "영상과 함께 수락"
+    },
+    {
+      "name": "calls_active_call_in_conversation",
+      "value": "전화가 진행 중이야, 전화에 참여하고 싶니?"
+    },
+    {
+      "name": "calls_active_call_label",
+      "value": "통화가 진행 중입니다. 통화에 참여하시겠습니까? 나중에 대화에서 통화에 참여할 수도 있습니다."
+    },
+    {
+      "name": "calls_call_finished",
+      "value": "전화 종료"
+    },
+    {
+      "name": "calls_calling",
+      "value": "Calling…"
+    },
+    {
+      "name": "calls_calling_participants",
+      "value": "Calling (%s)"
+    },
+    {
+      "name": "calls_connecting",
+      "value": "연결..."
+    },
+    {
+      "name": "calls_current_call_with",
+      "value": "전화"
+    },
+    {
+      "name": "calls_grid_layout",
+      "value": "Grid view"
+    },
+    {
+      "name": "calls_in_this_call",
+      "value": "In this call (%s)"
+    },
+    {
+      "name": "calls_inviting",
+      "value": "Inviting…"
+    },
+    {
+      "name": "calls_lower_hand",
+      "value": "하위 손"
+    },
+    {
+      "name": "calls_maximize",
+      "value": "최대한 활용"
+    },
+    {
+      "name": "calls_minimize",
+      "value": "최소화"
+    },
+    {
+      "name": "calls_mute_audio",
+      "value": "무음 마이크"
+    },
+    {
+      "name": "calls_participant_options",
+      "value": "Options for %s"
+    },
+    {
+      "name": "calls_participants_in_call",
+      "value": "%s in call"
+    },
+    {
+      "name": "calls_peer_recording",
+      "value": "Recording"
+    },
+    {
+      "name": "calls_raise_hand",
+      "value": "손 들기"
+    },
+    {
+      "name": "calls_remove_moderator",
+      "value": "설정하지 않는 모더레이터"
+    },
+    {
+      "name": "calls_ringing",
+      "value": "울리는 소리..."
+    },
+    {
+      "name": "calls_set_moderator",
+      "value": "조정기를 설정"
+    },
+    {
+      "name": "calls_start_picture_in_picture",
+      "value": "Start Picture in Picture"
+    },
+    {
+      "name": "calls_stop_calling",
+      "value": "Stop calling %s"
+    },
+    {
+      "name": "calls_unmute_audio",
+      "value": "마이크 음소거 해제"
+    },
+    {
+      "name": "collab_align_center",
+      "value": "중앙"
+    },
+    {
+      "name": "collab_align_justify",
+      "value": "Justify"
+    },
+    {
+      "name": "collab_align_left",
+      "value": "Align left"
+    },
+    {
+      "name": "collab_align_right",
+      "value": "Align right"
+    },
+    {
+      "name": "collab_bold",
+      "value": "굵게"
+    },
+    {
+      "name": "collab_bullet_list",
+      "value": "Bulleted list"
+    },
+    {
+      "name": "collab_clear_format",
+      "value": "Clear formatting"
+    },
+    {
+      "name": "collab_create",
+      "value": "생성하기"
+    },
+    {
+      "name": "collab_create_error",
+      "value": "This document could not be created."
+    },
+    {
+      "name": "collab_created_by",
+      "value": "Created by %s"
+    },
+    {
+      "name": "collab_created_by_not_downloaded",
+      "value": "Created by %s, not downloaded"
+    },
+    {
+      "name": "collab_document_name_hint",
+      "value": "Document name"
+    },
+    {
+      "name": "collab_document_removed",
+      "value": "Document removed"
+    },
+    {
+      "name": "collab_document_removed_locally",
+      "value": "Document removed from this device"
+    },
+    {
+      "name": "collab_document_removed_locally_message",
+      "value": "\"%s\" is no longer on this device. Opening it again downloads it back."
+    },
+    {
+      "name": "collab_document_removed_message",
+      "value": "\"%s\" was removed by its author."
+    },
+    {
+      "name": "collab_documents",
+      "value": "문서"
+    },
+    {
+      "name": "collab_download_and_open",
+      "value": "Download and open"
+    },
+    {
+      "name": "collab_editable_document",
+      "value": "Editable document"
+    },
+    {
+      "name": "collab_editing_alone",
+      "value": "Only you are editing"
+    },
+    {
+      "name": "collab_editing_one_other",
+      "value": "1 other person is editing"
+    },
+    {
+      "name": "collab_editing_others",
+      "value": "%d other people are editing"
+    },
+    {
+      "name": "collab_export",
+      "value": "Export a local copy"
+    },
+    {
+      "name": "collab_export_anyway",
+      "value": "Export anyway"
+    },
+    {
+      "name": "collab_export_error",
+      "value": "This document could not be exported."
+    },
+    {
+      "name": "collab_export_html",
+      "value": "Export to HTML"
+    },
+    {
+      "name": "collab_export_markdown",
+      "value": "Export to Markdown"
+    },
+    {
+      "name": "collab_export_missing_images",
+      "value": "%d picture(s) in this document have not arrived yet, and will be left out of the exported file."
+    },
+    {
+      "name": "collab_export_pdf",
+      "value": "Export to PDF"
+    },
+    {
+      "name": "collab_export_text",
+      "value": "Export to plain text"
+    },
+    {
+      "name": "collab_heading",
+      "value": "Heading %d"
+    },
+    {
+      "name": "collab_history",
+      "value": "Version history"
+    },
+    {
+      "name": "collab_image_error",
+      "value": "This image could not be added."
+    },
+    {
+      "name": "collab_image_too_large",
+      "value": "This image is too large to be added to a document."
+    },
+    {
+      "name": "collab_insert_image",
+      "value": "Insert image"
+    },
+    {
+      "name": "collab_italic",
+      "value": "기울임꼴"
+    },
+    {
+      "name": "collab_link_add",
+      "value": "추가"
+    },
+    {
+      "name": "collab_link_hint",
+      "value": "주소"
+    },
+    {
+      "name": "collab_link_remove",
+      "value": "제거"
+    },
+    {
+      "name": "collab_link_title",
+      "value": "연결"
+    },
+    {
+      "name": "collab_menu",
+      "value": "Document actions"
+    },
+    {
+      "name": "collab_new_document",
+      "value": "New document"
+    },
+    {
+      "name": "collab_no_documents",
+      "value": "No document has been written in this conversation yet."
+    },
+    {
+      "name": "collab_no_history",
+      "value": "This document has no saved version yet."
+    },
+    {
+      "name": "collab_not_downloaded",
+      "value": "Not downloaded"
+    },
+    {
+      "name": "collab_open",
+      "value": "열리"
+    },
+    {
+      "name": "collab_open_error",
+      "value": "This document could not be opened."
+    },
+    {
+      "name": "collab_ordered_list",
+      "value": "Numbered list"
+    },
+    {
+      "name": "collab_redo",
+      "value": "Redo"
+    },
+    {
+      "name": "collab_remove",
+      "value": "제거"
+    },
+    {
+      "name": "collab_remove_error",
+      "value": "This document could not be removed."
+    },
+    {
+      "name": "collab_remove_everywhere_action",
+      "value": "제거"
+    },
+    {
+      "name": "collab_remove_everywhere_menu",
+      "value": "Remove for everyone"
+    },
+    {
+      "name": "collab_remove_locally_action",
+      "value": "Offload"
+    },
+    {
+      "name": "collab_remove_locally_error",
+      "value": "This document could not be removed from this device."
+    },
+    {
+      "name": "collab_remove_locally_menu",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_locally_message",
+      "value": "\"%s\" will be removed from this device only. The other members keep it, and opening it again downloads it back."
+    },
+    {
+      "name": "collab_remove_locally_title",
+      "value": "Remove from this device"
+    },
+    {
+      "name": "collab_remove_message",
+      "value": "\"%s\" will be removed for every member of this conversation. This cannot be undone."
+    },
+    {
+      "name": "collab_remove_title",
+      "value": "Remove document"
+    },
+    {
+      "name": "collab_rename",
+      "value": "Rename"
+    },
+    {
+      "name": "collab_send_error",
+      "value": "Your changes could not be sent."
+    },
+    {
+      "name": "collab_strikethrough",
+      "value": "취소선"
+    },
+    {
+      "name": "collab_underline",
+      "value": "Underline"
+    },
+    {
+      "name": "collab_undo",
+      "value": "Undo"
+    },
+    {
+      "name": "collab_untitled",
+      "value": "Untitled document"
+    },
+    {
+      "name": "collab_version_by",
+      "value": "%1$s — %2$s"
+    },
+    {
+      "name": "collab_version_deltas",
+      "value": "%1$s — %2$s, %3$d change(s)"
+    },
+    {
+      "name": "collab_version_leave",
+      "value": "Back to the current version"
+    },
+    {
+      "name": "collab_version_restore",
+      "value": "Restore"
+    },
+    {
+      "name": "collab_version_restore_error",
+      "value": "This version could not be restored."
+    },
+    {
+      "name": "collab_version_restored",
+      "value": "The document was restored to this version."
+    },
+    {
+      "name": "collab_version_shown",
+      "value": "Version of %s"
+    },
+    {
+      "name": "collab_version_unchanged",
+      "value": "This version is the document you already have."
+    },
+    {
+      "name": "contact_page_leave_conversation",
+      "value": "대화는 그만둬"
+    },
+    {
+      "name": "contact_page_send",
+      "value": "보내"
+    },
+    {
+      "name": "contact_page_start_audio_call",
+      "value": "오디오 호출을 시작"
+    },
+    {
+      "name": "contact_page_start_video_call",
+      "value": "비디오 통화 시작"
+    },
+    {
+      "name": "contact_picker_calls",
+      "value": "전화"
+    },
+    {
+      "name": "contact_picker_contacts",
+      "value": "연락처"
+    },
+    {
+      "name": "conversation_add_to_contacts_button",
+      "value": "연락처에 추가"
+    },
+    {
+      "name": "conversation_add_to_contacts_label",
+      "value": "연락처를 추가할 수 있을까요?"
+    },
+    {
+      "name": "conversation_contact_blocked",
+      "value": "연락처 차단됨"
+    },
+    {
+      "name": "conversation_deleted_message",
+      "value": "%s님이 메시지를 삭제했습니다"
+    },
+    {
+      "name": "conversation_edited",
+      "value": "편집"
+    },
+    {
+      "name": "conversation_error_saving_image",
+      "value": "이미지를 저장할 수 없습니다"
+    },
+    {
+      "name": "conversation_error_saving_image_message",
+      "value": "사진 보관함에 이미지를 저장하는 중 오류가 발생했습니다."
+    },
+    {
+      "name": "conversation_image_saved",
+      "value": "저장됨"
+    },
+    {
+      "name": "conversation_in_reply_to",
+      "value": "이에 대한 답변"
+    },
+    {
+      "name": "conversation_incoming_request",
+      "value": "님이 대화 초대를 보냈습니다."
+    },
+    {
+      "name": "conversation_last_message_deleted",
+      "value": "(삭제된 메시지)"
+    },
+    {
+      "name": "conversation_message_placeholder",
+      "value": "작성하기"
+    },
+    {
+      "name": "conversation_not_contact_label",
+      "value": "%s님은 연락처 목록에 없습니다"
+    },
+    {
+      "name": "conversation_photo_access_required_message",
+      "value": "이미지를 저장하려면 Jami가 사진 보관함에 접근해야 합니다. 설정에서 활성화할 수 있습니다."
+    },
+    {
+      "name": "conversation_received_request",
+      "value": "%s님이 대화 초대를 보냈습니다."
+    },
+    {
+      "name": "conversation_replied_to",
+      "value": "%s님이 %s에 답장했습니다"
+    },
+    {
+      "name": "conversation_request_message",
+      "value": "안녕하세요,\n대화에 참여하시겠습니까?"
+    },
+    {
+      "name": "conversation_send_invitation_button",
+      "value": "초대 보내기"
+    },
+    {
+      "name": "conversation_send_request",
+      "value": "대화하려면 초대를 보내세요."
+    },
+    {
+      "name": "conversation_send_request_title",
+      "value": "대화 초대 전송"
+    },
+    {
+      "name": "conversation_synchronization_message",
+      "value": "대화를 동기화하기 위해 %s님의 연결을 기다리는 중…"
+    },
+    {
+      "name": "conversation_synchronization_title",
+      "value": "대화 초대를 수락했습니다."
+    },
+    {
+      "name": "conversation_syncing_title",
+      "value": "대화 동기화 중"
+    },
+    {
+      "name": "conversation_typing_indicator_one_user",
+      "value": "%s님이 입력 중"
+    },
+    {
+      "name": "conversation_typing_indicator_other_users",
+      "value": "%1$s, %2$s님 외 %3$s명이 입력 중"
+    },
+    {
+      "name": "conversation_typing_indicator_others_users",
+      "value": "%1$s, %2$s님 외 %3$s명이 입력 중"
+    },
+    {
+      "name": "conversation_typing_indicator_two_users",
+      "value": "%1$s님과 %2$s님이 입력 중"
+    },
+    {
+      "name": "conversation_yourself",
+      "value": "- 네"
+    },
+    {
+      "name": "create_account_username_not_registered_message",
+      "value": "계정 생성, 사용자 이름 등록되지 않았습니다"
+    },
+    {
+      "name": "create_account_username_not_registered_title",
+      "value": "네트워크 오류"
+    },
+    {
+      "name": "create_account_create_account_form_title",
+      "value": "자미에 합류해"
+    },
+    {
+      "name": "create_account_creating_account",
+      "value": "계정 생성 중"
+    },
+    {
+      "name": "create_account_customize",
+      "value": "사용자 정의"
+    },
+    {
+      "name": "create_account_encrypt",
+      "value": "암호 보호"
+    },
+    {
+      "name": "create_account_encrypt_explanation",
+      "value": "Jami 계정은 계정 키가 포함된 보관 파일로 이 기기에만 로컬로 생성되어 저장됩니다. 보관 파일에 대한 접근은 선택적으로 비밀번호로 보호할 수 있습니다."
+    },
+    {
+      "name": "create_account_encrypt_title",
+      "value": "비밀번호로 계정 보호"
+    },
+    {
+      "name": "create_account_encryption_enabled",
+      "value": "암호 보호 활성화됨"
+    },
+    {
+      "name": "create_account_invalid_username",
+      "value": "잘못된 사용자 이름입니다. 올바른 사용자 이름을 입력하세요."
+    },
+    {
+      "name": "create_account_looking_for_username_availability",
+      "value": "사용자 이름 사용 가능 여부 확인 중…"
+    },
+    {
+      "name": "create_account_name_explanation",
+      "value": "다른 사람들이 더 쉽게 Jami에서 당신을 찾아서 연락할 수 있도록 사용자 이름을 선택할 수 있습니다."
+    },
+    {
+      "name": "create_account_new_account",
+      "value": "새 계정"
+    },
+    {
+      "name": "create_account_sip_configure",
+      "value": "기존 SIP 계정 구성"
+    },
+    {
+      "name": "create_account_timeout_message",
+      "value": "사용자 이름 등록이 진행 중입니다. 기다려 주십시오…"
+    },
+    {
+      "name": "create_account_timeout_title",
+      "value": "계정 생성"
+    },
+    {
+      "name": "create_account_username_already_taken",
+      "value": "이미 사용 이름"
+    },
+    {
+      "name": "create_account_username_valid",
+      "value": "사용자 이름이 사용 가능합니다."
+    },
+    {
+      "name": "create_profile_create_profile_picture",
+      "value": "프로필 사진 만들기"
+    },
+    {
+      "name": "create_profile_enter_name_label",
+      "value": "표시 이름을 입력"
+    },
+    {
+      "name": "create_profile_enter_name_placeholder",
+      "value": "이름 입력"
+    },
+    {
+      "name": "create_profile_profile_created",
+      "value": "다음"
+    },
+    {
+      "name": "create_profile_skip_create_profile",
+      "value": "스피프"
+    },
+    {
+      "name": "create_profile_subtitle",
+      "value": "프로필은 연락처에게만 공유됩니다. 프로필은 언제든지 변경할 수 있습니다."
+    },
+    {
+      "name": "create_profile_title",
+      "value": "프로필 개인 설정"
+    },
+    {
+      "name": "data_transfer_info_message",
+      "value": "탭하여 녹음 시작"
+    },
+    {
+      "name": "data_transfer_readable_status_accept",
+      "value": "수락"
+    },
+    {
+      "name": "data_transfer_readable_status_awaiting",
+      "value": "기다렸어"
+    },
+    {
+      "name": "data_transfer_readable_status_canceled",
+      "value": "취소됨"
+    },
+    {
+      "name": "data_transfer_readable_status_created",
+      "value": "초기화..."
+    },
+    {
+      "name": "data_transfer_readable_status_decline",
+      "value": "감소"
+    },
+    {
+      "name": "data_transfer_readable_status_error",
+      "value": "오류"
+    },
+    {
+      "name": "data_transfer_readable_status_ongoing",
+      "value": "이전"
+    },
+    {
+      "name": "data_transfer_readable_status_success",
+      "value": "완전함"
+    },
+    {
+      "name": "data_transfer_record_in_background_warning",
+      "value": "여러 앱으로 멀티태스킹하면서 비디오를 녹화하면 비디오 품질이 낮아질 수 있습니다. 최상의 결과를 위해 멀티태스킹을 하지 않을 때 녹화하세요"
+    },
+    {
+      "name": "data_transfer_send_message",
+      "value": "보내"
+    },
+    {
+      "name": "data_transfer_sending_failed",
+      "value": "전송 중 오류가 발생했습니다."
+    },
+    {
+      "name": "general_settings_accept_transfer_limit",
+      "value": "환승 제한을 받아 들인다"
+    },
+    {
+      "name": "general_settings_accept_transfer_limit_description",
+      "value": "(MB, 0 = 무제한)"
+    },
+    {
+      "name": "general_settings_automatic_accept_incoming_files",
+      "value": "자동으로 입력 파일을 받아"
+    },
+    {
+      "name": "general_settings_donation_campaign",
+      "value": "기부 캠페인"
+    },
+    {
+      "name": "general_settings_enable_donation_campaign",
+      "value": "기부 캠페인 활성화"
+    },
+    {
+      "name": "general_settings_file_transfer",
+      "value": "파일 전송"
+    },
+    {
+      "name": "general_settings_limit_location_sharing_duration",
+      "value": "위치 공유 기간을 제한"
+    },
+    {
+      "name": "general_settings_location_sharing",
+      "value": "위치 공유"
+    },
+    {
+      "name": "location_sharing_title",
+      "value": "위치 공유"
+    },
+    {
+      "name": "general_settings_location_sharing_duration",
+      "value": "위치 공유 기간"
+    },
+    {
+      "name": "general_settings_video_acceleration",
+      "value": "비디오 가속을 활성화"
+    },
+    {
+      "name": "general_settings_video_settings",
+      "value": "영상 썰정"
+    },
+    {
+      "name": "generated_message_contact_added",
+      "value": "초대 받은 것"
+    },
+    {
+      "name": "generated_message_contact_blocked",
+      "value": "%s님이 대화에서 차단되었습니다."
+    },
+    {
+      "name": "generated_message_contact_left_conversation",
+      "value": "%s님이 대화를 떠났습니다."
+    },
+    {
+      "name": "generated_message_contact_unblocked",
+      "value": "%s님이 대화에서 차단 해제되었습니다."
+    },
+    {
+      "name": "generated_message_invitation_accepted",
+      "value": "%s님이 대화에 참여했습니다."
+    },
+    {
+      "name": "generated_message_invitation_received",
+      "value": "%s이(가) 대화에 초대되었습니다."
+    },
+    {
+      "name": "generated_message_live_location_sharing",
+      "value": "실시간 위치 공유"
+    },
+    {
+      "name": "generated_message_missed_incoming_call",
+      "value": "수신 전화가 빠진 것"
+    },
+    {
+      "name": "generated_message_missed_outgoing_call",
+      "value": "출력 전화가 빠진 것"
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_accepted",
+      "value": "초대가 수락되었습니다."
+    },
+    {
+      "name": "generated_message_non_swarm_invitation_received",
+      "value": "초대를 보냈습니다."
+    },
+    {
+      "name": "generated_message_outgoing_call",
+      "value": "출력 전화"
+    },
+    {
+      "name": "generated_message_swarm_created",
+      "value": "대화 생성됨"
+    },
+    {
+      "name": "generated_message_you_joined",
+      "value": "대화에 참여했습니다."
+    },
+    {
+      "name": "global_accept",
+      "value": "수락"
+    },
+    {
+      "name": "global_account_settings",
+      "value": "계정 설정"
+    },
+    {
+      "name": "global_block",
+      "value": "블록"
+    },
+    {
+      "name": "global_block_contact",
+      "value": "차단 접촉"
+    },
+    {
+      "name": "global_call",
+      "value": "통화"
+    },
+    {
+      "name": "global_camera_disabled",
+      "value": "카메라 접근이 비활성화되었습니다. 기능 사용을  위해 기기 설정에서 활성화하세요."
+    },
+    {
+      "name": "global_cancel",
+      "value": "취소"
+    },
+    {
+      "name": "global_close",
+      "value": "가까이"
+    },
+    {
+      "name": "global_confirm",
+      "value": "확인"
+    },
+    {
+      "name": "global_confirm_password",
+      "value": "암호 확인"
+    },
+    {
+      "name": "global_connect",
+      "value": "연결"
+    },
+    {
+      "name": "global_copy",
+      "value": "복사하기"
+    },
+    {
+      "name": "global_create",
+      "value": "생성하기"
+    },
+    {
+      "name": "global_decline",
+      "value": "감소"
+    },
+    {
+      "name": "global_delete_file",
+      "value": "기기에서 파일 삭제"
+    },
+    {
+      "name": "global_delete_message",
+      "value": "메시지 삭제"
+    },
+    {
+      "name": "global_edit",
+      "value": "편집"
+    },
+    {
+      "name": "global_edit_message",
+      "value": "메시지 편집"
+    },
+    {
+      "name": "global_edit_password",
+      "value": "암호 수정"
+    },
+    {
+      "name": "global_editing",
+      "value": "수정 중"
+    },
+    {
+      "name": "global_enter_password",
+      "value": "비밀번호를 입력"
+    },
+    {
+      "name": "global_enter_username",
+      "value": "사용자 이름 임력"
+    },
+    {
+      "name": "global_forward",
+      "value": "앞으로"
+    },
+    {
+      "name": "global_incoming_call",
+      "value": "수신 전화"
+    },
+    {
+      "name": "global_leave",
+      "value": "떠나"
+    },
+    {
+      "name": "global_name",
+      "value": "이름"
+    },
+    {
+      "name": "global_ok",
+      "value": "확인"
+    },
+    {
+      "name": "global_password",
+      "value": "암호"
+    },
+    {
+      "name": "global_preview",
+      "value": "미리보기"
+    },
+    {
+      "name": "global_recommended",
+      "value": "추천"
+    },
+    {
+      "name": "global_register_a_username",
+      "value": "사용자 이름을 등록"
+    },
+    {
+      "name": "global_remove",
+      "value": "제거"
+    },
+    {
+      "name": "global_remove_account",
+      "value": "계정을 삭제"
+    },
+    {
+      "name": "global_reply",
+      "value": "답변"
+    },
+    {
+      "name": "global_resend",
+      "value": "다시 보내"
+    },
+    {
+      "name": "global_save",
+      "value": "저장"
+    },
+    {
+      "name": "global_search",
+      "value": "찾아..."
+    },
+    {
+      "name": "global_share",
+      "value": "공유"
+    },
+    {
+      "name": "global_support_jami",
+      "value": "Jami 프로젝트 지원"
+    },
+    {
+      "name": "global_time",
+      "value": "시간"
+    },
+    {
+      "name": "global_username",
+      "value": "사용자명"
+    },
+    {
+      "name": "global_video",
+      "value": "비디오"
+    },
+    {
+      "name": "import_from_archive_button_title",
+      "value": "가져오기"
+    },
+    {
+      "name": "import_from_archive_explanation",
+      "value": "자미 계정을 로컬 아카이브 파일에서 가져오세요."
+    },
+    {
+      "name": "import_from_archive_password_explanation",
+      "value": "계정이 비밀번호로 보호되어 있으면 다음 필드를 입력하세요."
+    },
+    {
+      "name": "import_from_archive_select_archive_button",
+      "value": "파일 파일 선택"
+    },
+    {
+      "name": "import_from_archive_title",
+      "value": "아카이브로부터 불러오기"
+    },
+    {
+      "name": "invitations_accepted",
+      "value": "받아들여"
+    },
+    {
+      "name": "invitations_blocked",
+      "value": "차단됨"
+    },
+    {
+      "name": "invitations_declined",
+      "value": "거절됨"
+    },
+    {
+      "name": "invitations_list",
+      "value": "초대 받음"
+    },
+    {
+      "name": "invitations_no_invitations",
+      "value": "초대도 없습니다"
+    },
+    {
+      "name": "link_device_authentication_info",
+      "value": "다음 IP 주소에서 새 기기를 찾았습니다. 본인이 맞습니까? 계정 내보내기 작업을 계속하려면 확인을 누르세요."
+    },
+    {
+      "name": "link_device_code",
+      "value": "코드"
+    },
+    {
+      "name": "link_device_completed",
+      "value": "계정이 성공적으로 새 기기에 불러와졌습니다."
+    },
+    {
+      "name": "link_device_connecting",
+      "value": "새 기기에 연결하는 중…"
+    },
+    {
+      "name": "link_device_error_code",
+      "value": "코드를 생성하는 중 오류가 발생했습니다. 다시 시도하세요."
+    },
+    {
+      "name": "link_device_error_network",
+      "value": "계정을 연결하는 중 네트워크 오류가 발생했습니다. 연결을 확인하고 다시 시도하세요."
+    },
+    {
+      "name": "link_device_error_timeout",
+      "value": "작업 시간이 초과되었습니다. 다시 시도하세요."
+    },
+    {
+      "name": "link_device_error_wrong_data",
+      "value": "계정을 내보내는 중 오류가 발생했습니다. 다시 시도하세요."
+    },
+    {
+      "name": "link_device_error_wrong_password",
+      "value": "장치를 연결하는 중 인증 오류가 발생했습니다. 자격 증명을 확인하고 다시 시도하세요."
+    },
+    {
+      "name": "link_device_export_in_progress",
+      "value": "새 기기로 계정 내보내기 작업이 진행 중입니다. 새 기기에서 불러오기를 확인하세요."
+    },
+    {
+      "name": "link_device_info_add_account",
+      "value": "계정 추가 → 다른 기기에서 연결을 선택하세요."
+    },
+    {
+      "name": "link_device_info_code",
+      "value": "준비되면 코드를 입력하고 연결을 누르세요."
+    },
+    {
+      "name": "link_device_info_qr_code",
+      "value": "준비되면 QR 코드를 스캔하세요."
+    },
+    {
+      "name": "link_device_initial_info",
+      "value": "새 기기에서 새 계정 생성을 시작하세요."
+    },
+    {
+      "name": "link_device_network_error",
+      "value": "계정을 내보내는 중 네트워크 오류가 발생했습니다."
+    },
+    {
+      "name": "link_device_new_device_ip",
+      "value": "새 기기 IP 주소: %1$s"
+    },
+    {
+      "name": "link_device_title",
+      "value": "새로운 장치를 연결"
+    },
+    {
+      "name": "link_device_wrong_entry",
+      "value": "알 수 없는 새 기기 식별자입니다. 상단의 설명을 따르세요."
+    },
+    {
+      "name": "link_to_account_account_locked_with_password",
+      "value": "계정이 비밀번호로 보호되어 있습니다. 계속하려면 계정 비밀번호를 입력하세요."
+    },
+    {
+      "name": "link_to_account_action_required",
+      "value": "작업이 필요합니다.\n원본 기기에서 계정을 확인하세요."
+    },
+    {
+      "name": "link_to_account_alert_message",
+      "value": "중지하면 계정 가져오기 작업이 취소됩니다."
+    },
+    {
+      "name": "link_to_account_alert_tile",
+      "value": "계정 연결을 중단하시겠습니까?"
+    },
+    {
+      "name": "link_to_account_all_set",
+      "value": "계정을 성공적으로 불러왔습니다."
+    },
+    {
+      "name": "link_to_account_enter_provided_code",
+      "value": "준비되면 인증 코드를 입력하세요."
+    },
+    {
+      "name": "link_to_account_exit",
+      "value": "종료"
+    },
+    {
+      "name": "link_to_account_export_instructions",
+      "value": "원본 기기에서 내보내기를 시작하세요."
+    },
+    {
+      "name": "link_to_account_export_instructions_path",
+      "value": "계정 → 계정 설정 → 새 기기 연결을 선택하세요."
+    },
+    {
+      "name": "link_to_account_go_to_accounts",
+      "value": "가져온 계정으로 이동"
+    },
+    {
+      "name": "link_to_account_import_account",
+      "value": "계정 불러오기"
+    },
+    {
+      "name": "link_to_account_scan_qr_code",
+      "value": "준비되면 QR 코드를 스캔하세요."
+    },
+    {
+      "name": "link_to_account_share_message",
+      "value": "코드: %s"
+    },
+    {
+      "name": "link_to_account_show_pin_code",
+      "value": "인증 코드"
+    },
+    {
+      "name": "link_to_account_show_qr_code",
+      "value": "QR 코드"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_label",
+      "value": "관리 서버 URL 입력"
+    },
+    {
+      "name": "link_to_account_manager_account_manager_placeholder",
+      "value": "관리 서버 URL"
+    },
+    {
+      "name": "link_to_account_manager_enter_credentials",
+      "value": "관리 서버 자격 증명을 입력하세요"
+    },
+    {
+      "name": "link_to_account_manager_jams_explanation",
+      "value": "관리 서버 URL 입력"
+    },
+    {
+      "name": "link_to_account_manager_sign_in",
+      "value": "로그인"
+    },
+    {
+      "name": "link_to_account_manager_title",
+      "value": "서버 계정 관리"
+    },
+    {
+      "name": "log_view_description",
+      "value": "진단 로그 열 설정"
+    },
+    {
+      "name": "log_view_save_error",
+      "value": "파일을 저장하는 중 오류가 발생했습니다."
+    },
+    {
+      "name": "log_view_share_error",
+      "value": "파일 공유 중 오류가 발생했습니다."
+    },
+    {
+      "name": "log_view_start_logging",
+      "value": "로그 기록 시작"
+    },
+    {
+      "name": "log_view_stop_logging",
+      "value": "나무를 끊어라"
+    },
+    {
+      "name": "log_view_title",
+      "value": "진단"
+    },
+    {
+      "name": "migrate_account_error",
+      "value": "계정을 마이그레이션하는 중 오류가 발생했습니다. 다시 시도하거나 계정을 삭제하세요."
+    },
+    {
+      "name": "migrate_account_explanation",
+      "value": "계정 마이그레이션이 필요합니다."
+    },
+    {
+      "name": "migrate_account_migrate_another",
+      "value": "다른 계정 을 마이그레이션"
+    },
+    {
+      "name": "migrate_account_migrate_button",
+      "value": "마이그레이션 계좌"
+    },
+    {
+      "name": "migrate_account_migrating",
+      "value": "마이그레이션 중…"
+    },
+    {
+      "name": "migrate_account_password_explanation",
+      "value": "계정 마이그레이션을 계속하려면 계정 비밀번호를 입력하세요."
+    },
+    {
+      "name": "migrate_account_title",
+      "value": "계정 마이그레이션"
+    },
+    {
+      "name": "notifications_location_sharing_started",
+      "value": "입국 위치 공유가 시작되었습니다"
+    },
+    {
+      "name": "notifications_location_sharing_stopped",
+      "value": "유입 위치 공유가 중단"
+    },
+    {
+      "name": "notifications_missed_call",
+      "value": "전화가 빠진 것"
+    },
+    {
+      "name": "notifications_new_file",
+      "value": "새로운 파일"
+    },
+    {
+      "name": "peer_services_done",
+      "value": "완료"
+    },
+    {
+      "name": "peer_services_empty",
+      "value": "사용 가능한 공유 서비스가 없습니다"
+    },
+    {
+      "name": "peer_services_error_offline",
+      "value": "연락처가 오프라인입니다"
+    },
+    {
+      "name": "peer_services_error_timeout",
+      "value": "요청 시간이 초과되었습니다"
+    },
+    {
+      "name": "peer_services_error_unknown",
+      "value": "서비스를 가져올 수 없습니다"
+    },
+    {
+      "name": "peer_services_error_unreachable",
+      "value": "연락처에 연결할 수 없습니다"
+    },
+    {
+      "name": "peer_services_not_supported",
+      "value": "지원되지 않음"
+    },
+    {
+      "name": "peer_services_open",
+      "value": "열리"
+    },
+    {
+      "name": "peer_services_refresh",
+      "value": "서비스 새로 고침"
+    },
+    {
+      "name": "peer_services_title",
+      "value": "공유 서비스"
+    },
+    {
+      "name": "photo_capture_retake",
+      "value": "다시 찍기"
+    },
+    {
+      "name": "photo_capture_use_photo",
+      "value": "사진 사용"
+    },
+    {
+      "name": "profile_editor_change_picture",
+      "value": "사진 변경"
+    },
+    {
+      "name": "profile_editor_change_picture_hint",
+      "value": "Choose a new picture from the camera or photo library"
+    },
+    {
+      "name": "profile_editor_contact_name_placeholder",
+      "value": "Enter a name"
+    },
+    {
+      "name": "profile_editor_description",
+      "value": "설명"
+    },
+    {
+      "name": "profile_editor_description_placeholder",
+      "value": "Enter a description"
+    },
+    {
+      "name": "profile_editor_discard",
+      "value": "취소"
+    },
+    {
+      "name": "profile_editor_discard_message",
+      "value": "Your unsaved changes will be lost."
+    },
+    {
+      "name": "profile_editor_discard_title",
+      "value": "Discard changes?"
+    },
+    {
+      "name": "profile_editor_edit_contact",
+      "value": "Edit contact"
+    },
+    {
+      "name": "profile_editor_edit_contact_hint",
+      "value": "Opens the contact editor"
+    },
+    {
+      "name": "profile_editor_edit_group",
+      "value": "Edit group"
+    },
+    {
+      "name": "profile_editor_edit_group_hint",
+      "value": "Opens the group editor"
+    },
+    {
+      "name": "profile_editor_group_name_placeholder",
+      "value": "Enter a group name"
+    },
+    {
+      "name": "profile_editor_local_changes_footer",
+      "value": "This name and picture are visible only on this device."
+    },
+    {
+      "name": "profile_editor_name",
+      "value": "이름"
+    },
+    {
+      "name": "profile_editor_no_picture",
+      "value": "No picture"
+    },
+    {
+      "name": "profile_editor_picture_selected",
+      "value": "Picture selected"
+    },
+    {
+      "name": "profile_editor_remove_picture",
+      "value": "Remove picture"
+    },
+    {
+      "name": "profile_editor_reset_original",
+      "value": "Use original name and picture"
+    },
+    {
+      "name": "profile_editor_reset_original_hint",
+      "value": "Restores the name and picture this contact set for themselves"
+    },
+    {
+      "name": "profile_editor_reset_picture",
+      "value": "Use original picture"
+    },
+    {
+      "name": "profile_editor_save_error",
+      "value": "The changes could not be saved. Please try again."
+    },
+    {
+      "name": "scan_bad_qr_code",
+      "value": "나쁜 QR 코드"
+    },
+    {
+      "name": "share_extension_accessibility_select_account",
+      "value": "두 번 탭하여 이 계정을 선택하세요"
+    },
+    {
+      "name": "share_extension_accessibility_select_conversation",
+      "value": "더블 탭하여 이 대화 선택"
+    },
+    {
+      "name": "share_extension_accessibility_selected_account",
+      "value": "선택한 계정: %s. 두 번 탭하여 계정을 변경하세요."
+    },
+    {
+      "name": "share_extension_accessibility_send_button",
+      "value": "두 번 탭하여 선택한 대화로 보내세요"
+    },
+    {
+      "name": "share_extension_no_account_description",
+      "value": "계속하려면 메인 애플리케이션에서 계정을 만드세요."
+    },
+    {
+      "name": "share_extension_no_account_title",
+      "value": "계정을 찾을 수 없음"
+    },
+    {
+      "name": "share_extension_no_search_results",
+      "value": "검색과 일치하는 대화가 없습니다"
+    },
+    {
+      "name": "share_extension_search_conversations",
+      "value": "대화 검색"
+    },
+    {
+      "name": "share_extension_select_account_title",
+      "value": "계정 선택"
+    },
+    {
+      "name": "share_extension_send_to_conversation",
+      "value": "%d개 대화로 보내기"
+    },
+    {
+      "name": "share_extension_send_to_conversations_plural",
+      "value": "%d개 대화로 보내기"
+    },
+    {
+      "name": "share_extension_sending",
+      "value": "전송 중..."
+    },
+    {
+      "name": "share_extension_try_different_filter",
+      "value": "다른 필터를 시도하세요"
+    },
+    {
+      "name": "share_extension_unsupported_type_description",
+      "value": "선택한 콘텐츠 공유는 현재 지원되지 않습니다."
+    },
+    {
+      "name": "share_extension_unsupported_type_title",
+      "value": "지원되지 않는 콘텐츠"
+    },
+    {
+      "name": "smartlist_about_jami",
+      "value": "자미 에 관한 것"
+    },
+    {
+      "name": "smartlist_accounts",
+      "value": "회계"
+    },
+    {
+      "name": "smartlist_accounts_title",
+      "value": "회계"
+    },
+    {
+      "name": "smartlist_add_account_button",
+      "value": "+ 계정 추가"
+    },
+    {
+      "name": "smartlist_cellular_access",
+      "value": "설정에서 셀룰러 접근이 허용되어 있는지 확인하세요."
+    },
+    {
+      "name": "smartlist_conversations",
+      "value": "대화"
+    },
+    {
+      "name": "smartlist_conversations_search_hint",
+      "value": "You don't have any conversations yet."
+    },
+    {
+      "name": "smartlist_dialpad",
+      "value": "Keypad"
+    },
+    {
+      "name": "smartlist_disable_donation",
+      "value": "나중에"
+    },
+    {
+      "name": "smartlist_donation_explanation",
+      "value": "Jami를 잘 사용 중이고 우리의 사명을 응원한다면 후원해 주시겠습니까?"
+    },
+    {
+      "name": "smartlist_in_synchronization",
+      "value": "동기화 중…"
+    },
+    {
+      "name": "smartlist_invitation_received",
+      "value": "초대 받음"
+    },
+    {
+      "name": "smartlist_invitations",
+      "value": "초대"
+    },
+    {
+      "name": "smartlist_invite_friends",
+      "value": "친구 초대"
+    },
+    {
+      "name": "smartlist_jams_directory_hint",
+      "value": "People in your organization outside your contacts."
+    },
+    {
+      "name": "smartlist_jams_results",
+      "value": "Organization directory"
+    },
+    {
+      "name": "smartlist_new_contact",
+      "value": "새 연락처"
+    },
+    {
+      "name": "smartlist_new_group",
+      "value": "새 모임"
+    },
+    {
+      "name": "smartlist_no_conversation",
+      "value": "대화가 없다"
+    },
+    {
+      "name": "smartlist_no_conversations_found",
+      "value": "검색과 일치하는 대화가 없습니다."
+    },
+    {
+      "name": "smartlist_no_network_connectivity",
+      "value": "네트워크 연결이 없습니다"
+    },
+    {
+      "name": "smartlist_no_number",
+      "value": "선택된 연락처는 번호가 없습니다"
+    },
+    {
+      "name": "smartlist_no_results",
+      "value": "결과도 없습니다"
+    },
+    {
+      "name": "smartlist_public_directory_hint",
+      "value": "People on Jami outside your contacts."
+    },
+    {
+      "name": "smartlist_results",
+      "value": "공공 디렉토리"
+    },
+    {
+      "name": "smartlist_search_bar",
+      "value": "검색"
+    },
+    {
+      "name": "smartlist_search_bar_placeholder",
+      "value": "이름 입력..."
+    },
+    {
+      "name": "smartlist_select_one_number",
+      "value": "숫자들 중 하나를 선택"
+    },
+    {
+      "name": "smartlist_yesterday",
+      "value": "어제"
+    },
+    {
+      "name": "swarm_leave",
+      "value": "떠나"
+    },
+    {
+      "name": "swarm_accessibility_color_picker",
+      "value": "대화 색상 선택기"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code",
+      "value": "연락처 QR 코드 표시"
+    },
+    {
+      "name": "swarm_accessibility_contact_qr_code_hint",
+      "value": "연락처의 QR 코드 화면을 엽니다"
+    },
+    {
+      "name": "swarm_accessibility_contact_share_hint",
+      "value": "연락처 정보 공유 옵션을 엽니다"
+    },
+    {
+      "name": "swarm_admin",
+      "value": "관리자"
+    },
+    {
+      "name": "swarm_admin_invites_only",
+      "value": "개인 그룹 (제한 초청)"
+    },
+    {
+      "name": "swarm_blocked",
+      "value": "차단됨"
+    },
+    {
+      "name": "swarm_change_picture",
+      "value": "모임 사진 변경"
+    },
+    {
+      "name": "swarm_choose_color",
+      "value": "대화 색상"
+    },
+    {
+      "name": "swarm_confirm_leave_conversation",
+      "value": "대화를 나가시겠습니까?"
+    },
+    {
+      "name": "swarm_contact_header",
+      "value": "연락처"
+    },
+    {
+      "name": "swarm_conversation_ended",
+      "value": "대화 종료됨"
+    },
+    {
+      "name": "swarm_conversation_header",
+      "value": "대화"
+    },
+    {
+      "name": "swarm_conversation_id",
+      "value": "대화 ID"
+    },
+    {
+      "name": "swarm_customize",
+      "value": "모임 사용자 지정"
+    },
+    {
+      "name": "swarm_customize_profile",
+      "value": "그룹 프로필 사용자 지정"
+    },
+    {
+      "name": "swarm_explanation_text",
+      "value": "그룹이 생성된 후 언제든지 구성원을 초대할 수 있습니다."
+    },
+    {
+      "name": "swarm_identifier",
+      "value": "식별자"
+    },
+    {
+      "name": "swarm_invite",
+      "value": "Invite"
+    },
+    {
+      "name": "swarm_invite_members",
+      "value": "구성원 초대"
+    },
+    {
+      "name": "swarm_invite_members_not_selected",
+      "value": "선택 안됨"
+    },
+    {
+      "name": "swarm_invite_members_selected",
+      "value": "선택됨"
+    },
+    {
+      "name": "swarm_invite_selected_members",
+      "value": "선택된 연락처 초대"
+    },
+    {
+      "name": "swarm_invited",
+      "value": "초대받았어"
+    },
+    {
+      "name": "swarm_invites_only",
+      "value": "개인 그룹"
+    },
+    {
+      "name": "swarm_leave_conversation",
+      "value": "대화는 그만둬"
+    },
+    {
+      "name": "swarm_left",
+      "value": "남음"
+    },
+    {
+      "name": "swarm_member",
+      "value": "회원"
+    },
+    {
+      "name": "swarm_members",
+      "value": "의원"
+    },
+    {
+      "name": "swarm_mute_conversation",
+      "value": "침묵의 대화"
+    },
+    {
+      "name": "swarm_name_placeholder",
+      "value": "모임 이름"
+    },
+    {
+      "name": "swarm_new_group",
+      "value": "새 그룹 만들기"
+    },
+    {
+      "name": "swarm_one_to_one",
+      "value": "개인"
+    },
+    {
+      "name": "swarm_others",
+      "value": "다른"
+    },
+    {
+      "name": "swarm_public_chat",
+      "value": "공공 그룹"
+    },
+    {
+      "name": "swarm_remove_contact",
+      "value": "접촉을 제거"
+    },
+    {
+      "name": "swarm_remove_conversation",
+      "value": "대화 를 삭제"
+    },
+    {
+      "name": "swarm_restart_conversation",
+      "value": "대화 재시작"
+    },
+    {
+      "name": "swarm_select_contacts",
+      "value": "연락처를 선택"
+    },
+    {
+      "name": "swarm_settings",
+      "value": "설정"
+    },
+    {
+      "name": "swarm_share_contact_info",
+      "value": "연락처 정보 공유"
+    },
+    {
+      "name": "swarm_share_contact_message",
+      "value": "Jami 분산 통신 플랫폼에서 이 연락처 %1$s님을 추가할 수 있습니다: https://jami.net"
+    },
+    {
+      "name": "swarm_show_contact_qr_code",
+      "value": "연락처 QR 코드 표시"
+    },
+    {
+      "name": "swarm_type_of_swarm",
+      "value": "대화 유형"
+    },
+    {
+      "name": "swarm_unknown",
+      "value": "알 수 없는"
+    },
+    {
+      "name": "swarm_colors_amber",
+      "value": "황갈색"
+    },
+    {
+      "name": "swarm_colors_bright_orange",
+      "value": "밝은 주황색"
+    },
+    {
+      "name": "swarm_colors_brown",
+      "value": "갈색"
+    },
+    {
+      "name": "swarm_colors_cyan",
+      "value": "청록"
+    },
+    {
+      "name": "swarm_colors_green",
+      "value": "초록"
+    },
+    {
+      "name": "swarm_colors_indigo_blue",
+      "value": "남색"
+    },
+    {
+      "name": "swarm_colors_lime_green",
+      "value": "라임색"
+    },
+    {
+      "name": "swarm_colors_medium_gray",
+      "value": "중간 회색"
+    },
+    {
+      "name": "swarm_colors_purple",
+      "value": "보라"
+    },
+    {
+      "name": "swarm_colors_sky_blue",
+      "value": "하늘색"
+    },
+    {
+      "name": "swarm_colors_steel_blue",
+      "value": "강철 파란색"
+    },
+    {
+      "name": "swarm_colors_teal",
+      "value": "진청록색"
+    },
+    {
+      "name": "swarm_colors_vibrant_pink",
+      "value": "선명한 분홍색"
+    },
+    {
+      "name": "swarm_colors_violet",
+      "value": "남보라"
+    },
+    {
+      "name": "swarm_colors_yellow_green",
+      "value": "연두"
+    },
+    {
+      "name": "swarmcreation_add_description",
+      "value": "설명 추가"
+    },
+    {
+      "name": "swarmcreation_search_bar",
+      "value": "연락처 검색…"
+    },
+    {
+      "name": "welcome_connect_to_jams",
+      "value": "관리 서버에 연결"
+    },
+    {
+      "name": "welcome_create_account",
+      "value": "Jami 계정을 생성"
+    },
+    {
+      "name": "welcome_have_account",
+      "value": "이미 계좌가 있어요"
+    },
+    {
+      "name": "welcome_link_backup",
+      "value": "파일 백업에서 가져온"
+    },
+    {
+      "name": "welcome_link_device",
+      "value": "다른 장치에서 수입"
+    },
+    {
+      "name": "welcome_text",
+      "value": "자미는 무료 및 보편적인 통신 플랫폼으로 이용자의 개인 정보와 자유를 보호합니다."
+    },
+    {
+      "name": "welcome_title",
+      "value": "Jami로 자유롭고 비공개로 공유하세요"
+    },
+    {
+      "name": "media_preview_date_time",
+      "value": "%1$s, %2$s"
+    },
+    {
+      "name": "media_preview_react",
+      "value": "React"
+    },
+    {
+      "name": "media_preview_more_actions",
+      "value": "더 많은"
+    },
+    {
+      "name": "media_preview_more_emoji",
+      "value": "More emoji"
+    },
+    {
+      "name": "accessibility_audio_player_mute",
+      "value": "무음"
+    },
+    {
+      "name": "accessibility_audio_player_unmute",
+      "value": "무명"
+    },
+    {
+      "name": "accessibility_message_reactions",
+      "value": "Reactions"
+    },
+    {
+      "name": "accessibility_remove_reaction",
+      "value": "Remove %s"
+    },
+    {
+      "name": "media_preview_live_text",
+      "value": "Live Text"
+    }
+  ]
+}

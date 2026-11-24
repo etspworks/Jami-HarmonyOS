@@ -1,0 +1,14 @@
+# libspeex pkg-config source file
+
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+
+Name: speex
+Description: Speex is an audio codec tuned for speech
+Version: 1.2.1
+Conflicts:
+Cflags: -I${includedir}
+Libs:  -L${libdir} -lspeex  -lm
+Requires:  

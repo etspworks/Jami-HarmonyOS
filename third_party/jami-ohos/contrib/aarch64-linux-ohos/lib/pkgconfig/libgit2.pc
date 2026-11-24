@@ -1,0 +1,10 @@
+prefix="/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos"
+libdir="/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib"
+includedir="/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include"
+
+Name: libgit2
+Description: The git library, take 2
+Version: 1.8.0
+Cflags: -I${includedir}
+Libs:  -L${libdir} -lgit2  -lrt -lpthread
+Requires:   zlib

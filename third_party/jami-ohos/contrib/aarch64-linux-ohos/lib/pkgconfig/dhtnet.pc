@@ -1,0 +1,10 @@
+prefix=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos
+exec_prefix=${prefix}
+libdir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/lib
+includedir=/Users/isra/Desktop/_jami/jami-daemon-ohos/contrib/aarch64-linux-ohos/include
+Name: dhtnet
+Description: Lightweight Peer-to-Peer Communication Library which manages peer discovery and connectivity establishment, including NAT traversal.
+Version: 0.1.0
+Cflags: -I${includedir}
+Libs:  -L${libdir} -ldhtnet 
+Requires:  opendht >= 2.6  libpjproject gnutls  libupnp natpmp
